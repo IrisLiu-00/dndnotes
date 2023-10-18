@@ -1,0 +1,85 @@
+  
+
+- 22.11.6 - Mazfroth's Mysteries, the smuggling trip
+    - motivation for taking the smuggling quest was iffy
+    - getting better at char voices, at least for silly faux-erudite affected voices
+    - dialogue for enemy NPCs can be better - they should have some quirks
+    - maintaining voice differentiation between NPCs continues to be a struggle
+    - they said they liked the chase mechanics, but I had trouble keeping track of all the steps
+    - PCs did not take advantage of environment / take creative actions as much as I wanted (though they did go for the goats)
+        - I did not have NPCs use environment as much either
+    - balancing and bookeeping HP was an issue - treating the kobolds as a semi swarm was tough
+    - heavy hitters (sleep, killing the goats) hindered the enemies from taking as many actions
+    - no payoff for creative choices on part of the players (their disguise as circus players)
+    - write up a bulleted game log of what happened
+- 22.11.13 - Mazfroth, Velouche battle
+    - denouement was scrambled, didn't resolve narrative threads clearly or with enough weight
+        - you're still bad at character dialogue
+        - put off by the fact that they tried to make away with all the money
+    - players are extremely gold focused - need to be careful about when you offer money, or build in motivations that are not money
+    - Velouche's voice did not come off as you practiced
+    - it's kind of boring to do a battle where parts are gatekeeped by ability checks - having to keep trying to climb the wall is annoying, slow
+    - gave them a talk to try and convince them to do more character work, RP
+        - players are currently mainly interested in fucking around and doing jokes
+    - more exposition from mid battle enemy dialogue
+- 23.1.21 - drunk dnd (The Blind Dragonet)
+    - Overall quite good!
+    - Players surprisingly liked the dice game, got competitive
+        - Getting table to roleplay goblins got a lot of laughs
+    - Players like making friends with animals, as usual - found Tootsie v cute
+    - Entirely skipped the draco rat fight via speak with animals
+        - Kallista’s persuasion/deception is getting very high - going to have to limit uses, create situations with higher DCs
+    - Could have more effectively pushed the mystery of “who is Vonnegut” to get players to investigate more
+    - Lost Evelyn’s shitty scottish accent halfway thru
+    - Could continue to be better at managing multiple ppl trying to do diff things
+    - Battles can be a slog
+        - too few enemies (actions) > need to up the hp > battles take a long ass time
+        - Use a map?
+- 23.3.20 - Strigoia Heist pt 1
+    - Theodore’s accent fell apart immediately - still need to rehearse
+    - Control both timbre and accent
+    - felt like a little bit too much expose at the start
+    - Not all players got to do cool stuff - it’s easier for the face (K) and sneaky (T)
+- 23.4.5 - Strigoia Heist pt 2
+    - Generally kind of bad, boring
+    - timing fell apart - got thru the prep scenes but didnt manage to have them form the actual plan. Not sure how we’ll handle next session
+    - Improv was still quite bad, compounded by the fact that the players are not confident at dialogue either
+    - They thought Shrewseer’s overdramatic personality was funny
+    - Fell flat on playing Vasilev, on populating the world with interesting details
+    - Succession of different scenes didn’t feel… very interesting? Seemed like the players were continually running up against walls, not having much fun. Too many scenarios with difficult, open ended challenges
+        - Give them something easy, hack and slash next?
+- 23.4.14 - Strigoia Heist pt 3
+    - Kallista got onboarded to servants (hints of Ornsgrym coming onto Sadie), the others come in as performers (get assigned chaperone Wally, did performance, Eletha got servants clothes from Kallista)
+    - Tentatively better than last time?
+    - Players enjoy dicking around as always (coming up with costumes, etc)
+    - need to get better at improvising results to failures - fail forward, mixed failures, mixed success
+    - little bit too much screen time for Kallista?
+    - challenges they’re going thru for the heist still seem kind of ill defined
+    - Figure out a way to keep up the mood, tension of a heist
+- 23.4.29 - Strigoia Heist pt 4
+    - Eletha confronted by Leanna, Kallista+Lumdas knock out Ornsgrym and get the treasure, Theodore dies, mythal activates
+    - Still not enough sense of tension, drama, stakes
+        - Most exciting part - when they knock out Ornsgrym. Player choice, breaking the rules
+    - Still not great at dialogue, giving characters unique personalities + voices, clumsy at descriptions
+    - Should have asked how players were feeling, Eletha esp
+    - Toby + Bluemoon didn’t really get to do cool things
+    - Overall PC actions haven’t really driven plot movement - you plan events (Theodore death, mythal) and the PCs get pulled along
+        - Allow them to make more significant choices
+        - Should I have let them negotiate with the strigoi?
+- 23.9.18 - Strigoia Heist pt 5
+    - Fight was kind of anticlimactic - should not have penned in strigoi w ally NPCs
+        - could have broken out the dread knights earlier
+        - could have pushed harder on NPCs hunting down the culprits
+        - could have pushed harder on secondary battle goals (taking down mythal)
+    - Railroaded the PCs into working w Vasilev - they could have tried to trick her abt leaving the painting at mansion
+    - Could have had Vasilev just fight them + almost kill someone to extort others - instead of having long circuitous discussion
+    - Hard to maintain multiple diff chara voices
+- 23.10.8 - Bridgetown Brawl pt1
+    - Street battle went on for way too long for something that’s supposed to be an intro
+        - Map layout - way too big, takes rounds just to engage
+        - Naming of enemies between owlbear + harmlesskey needs to be consistent
+    - Confounded by fact that PCs were not particularly motivated to go fight
+        - Should give them a faster out next time
+    - Initial characterization of Luca was bad - not likeable enough
+        - came on too heavy on how he only cares about making money, lack of ethics
+        - we can salvage by having him return later in adventure, worried abt missing misurium

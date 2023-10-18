@@ -1,13 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: Milf Explorers Home
 ---
 
-Hellooo this is custom material 
-TODO update this with directory
+# Links
 
-https://jekyll-garden.github.io/index.html
+RULES: [One-Page Cheatsheet](https://docs.google.com/document/d/1Brv6HhHG5rJGyFuKkhbsNw1d3ZSDftvj3ScmWTWV7Pw/edit?usp=sharing)
+
+TABLETOP: [https://www.owlbear.app/room/-xx9g-L9pOws/TheScantCrew](https://www.owlbear.app/room/-xx9g-L9pOws/TheScantCrew)
+
+INITIATIVE: [https://harmlesskey.com/user/aJ8tJ2qmJQeVZKv0W96fg540OKD3](https://harmlesskey.com/user/aJ8tJ2qmJQeVZKv0W96fg540OKD3)
+
+# Handouts
+
+[[Ass Play Work Orders]]
+
+
+
+
+*Sourced from the [Jekyll Garden](https://jekyll-garden.github.io/index.html) theme*

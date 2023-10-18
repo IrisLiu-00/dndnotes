@@ -107,7 +107,7 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - _notes/Private
+  - _notes/Campaign
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
