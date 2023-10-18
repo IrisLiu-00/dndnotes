@@ -39,10 +39,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 
 # NPCs
 
-- [ ] Review [[NPCs]]
+- [ ] Review NPCs
 
-- NPC link. _Use the @ symbol to internally link to an NPC page._
-- [[Lhaak]]
 
 # Monsters
 

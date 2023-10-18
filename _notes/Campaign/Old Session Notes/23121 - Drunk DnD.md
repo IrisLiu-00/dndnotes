@@ -127,9 +127,6 @@ Denouement
 - Raine thanks Kallista
 
 # NPCs
-
-- [ ] Review [[NPCs]]
-
 - [[Ringley]]
 - [[Luthenior Quine]]
 - [[Vonnegut]]

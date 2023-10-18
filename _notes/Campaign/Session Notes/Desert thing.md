@@ -82,7 +82,6 @@ informant/questgiver working for the opposition (elves) - Vasilev killed them, p
 
 # NPCs
 
-- [ ] Review [[NPCs]]
 
 - [[Ringley]]
 - [[Luthenior Quine]]

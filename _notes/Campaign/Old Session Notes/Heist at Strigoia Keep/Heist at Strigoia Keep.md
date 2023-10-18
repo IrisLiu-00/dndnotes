@@ -343,7 +343,6 @@ Potential complications
 
 # NPCs
 
-- [ ] Review [[NPCs]]
 
 - Theodore: satyr
     - pitched, gentle, slight cockney accent

@@ -171,8 +171,6 @@ Go to Feldspar (where? his nice apt? workplace?)
 
 # NPCs
 
-- [ ] Review [[NPCs]]
-
 - [[Duke Venka Vasilev]]
 - Ersatz: unofficial ringleader of the bridgetown gangs. Unashamed conman. Effeminate, socialite, british, lisp
     - young human in a silk dressing gown (PJs), a floof of light blond hair. Tattoo of a half opened door on one shoulder.
