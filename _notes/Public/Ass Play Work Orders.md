@@ -1,3 +1,6 @@
+---
+title: Ass Play Work Orders
+---
 # Available Orders
 
 - **Interior Decor**. 1000g. Gain a +2 bonus to Intimidate and Persuasion rolls to any guests at the house.
