@@ -4,12 +4,10 @@ _Here's a blank D&D session note page ready for you to use outlined according to
 
 - [ ] Review the characters
 
-#### Characters
-
 ```dataview
-table p-pcpt, languages  from "Campaign/Players"
+table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Languages"  from "Campaign/Players"
 ```
-# Strong Start
+
 
 # Scenes
 

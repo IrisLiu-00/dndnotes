@@ -1,6 +1,5 @@
 # World
 
-Innistere: sea between two continents. crater created by cataclysm explosion
 
 Sutherlands: collection of lands south of Kevara-Arda
 
@@ -26,66 +25,6 @@ Guard wear half hawk masks; lower public servants wear half sparrow masks
 - Patron god: the birds (collective whole seen as mouthpiece of a force)
 - big sport - bird fighter kites
 
-## Kevara-Arda: World’s Gate
-
-A huge, old city state that has seen many different rulers and ages. Most trade goes through here. Layers upon layers of different architectural styles, religions.
-
-Kevara is the larger, western peninsula, situated near river delta. Arda is the slightly smaller eastern peninsula
-
-- Statues: frame the strait, founders Kevar and Arda. Locals navigate by the angle of the shadow - eg. at the 9 o’clock shadow
-- other unique features TODOOO
-- Trade comes up the muddy river thru Kevara
-
-Districts:
-
-- Bridgetown: a series of covered bridges thru the river, technically extralegal territory. Where people go to flee the law.
-    - Bridge names: Shoewater, Grimslet, Bongdrop, Widdle-Over-Shine
-    - Vasilev + PCs based nearby on Shades Lane
-    - Treaty of the Six Cups: when merrow first started settling in the river, the patrician a few hundred years ago tried to threaten them to leave, met with a representative of the merrow. Drank five cups of poisoned wine - representative withheld antidote in the sixth cup until patrician agreed to the treaty. Allow merchant boats up river at set limits + schedules, not exceeding a certain depth. Allow merrow to live in river. Stated anyone living on river territory was not under city jurisdiction; excluded houseboats but forgot bridges.
-    - Bridges were originally for covered shops, but were forcefully taken over
-- The Docks + Merchants’ Row: wealthy core of the trade business.
-- Little Gardha: originally a dwarvish neighborhood, now home to many races of small folk. Can be hard to navigate for tallmen
-- Catacombs, Temple District, Patrician’s Hill
-
-Factions
-
-- Established government: Patrician Bacrust + Dukes. Mostly incompetent, work to protect own investments in trade and property. Dukes are hereditary, Patrician is elected.
-- Merchants: rich trading companies with strong lobbying power. Financially back most politicians
-    - Giltstern: one of the most powerful companies, led by Isaiah Giltstern
-    - Tend to exploit working class: long hours/low wages for dock workers, sell vital goods to city at high prices
-- The Technic: new entrepreneur technocracy led by Konrad Luca. Threat to Merchants and Dukes.
-    - Aggressively growth oriented, work to acquire / displace multiple economic sectors (education, various guilds, governance) by using automata
-    - Somehow polluting the river
-- Crime: those pushed to the margins. Gang power is relatively weak in the city. Theft, mercenaries, extortion. Sometimes allied w Merrow
-- Merrow: generally antagonistic towards landfolk, for dumping garbage in water and bringing very deep trade ships up river
-    - Descended from outcasted ocean merrow
-- Guilds: crafts/artisan groups. Bards, jewelers, etc. Often buy/sell things from merchants.
-- Religion: fragmented and diverse
-- The automata council: competing with Luca
-
-Conflicts/Threats
-
-- Upcoming election
-    - Current Patrician Nutterwoll is old, somewhat incompetent. Probably die/assassinated soon
-    - Next election is in 2 years, scheming has begun
-    - Only those with a valid citizenship card can vote
-    - Invalidating of ballots, voting multiple times, bribery + coercion
-    - Konrad Luca will try to vote
-- Elven encroachment: Moonflower and Shrewseer estates are both separately trying to weaken Kevara. Would like direct trade access to East + South.
-    - Largely acting covertly, have spies within upper classes
-    - May work to sway the election
-
-#### Campaign Database
-
-|Name|Tags|
-|---|---|
-|[[Strigoia Keep]]|Location|
-|[[Duke Venka Vasilev]]|NPC|
-|[[Ass(embly) Pla(ce)]]|Location|
-|[[Clockwork]]|NPC|
-
-  
-  
 
 ## The Mirwood
 
@@ -139,6 +78,7 @@ History + Culture
 - Empire began in a political wedding between the orc + human leaders of the area > current half orc royal bloodline
 - Once a sprawling empire that controlled most of the map - has declined in the past 100 years, now mostly in the highlands. Coastline remains fragmented in city states in the wake.
 - some sort of worship tied to the whales idk, circle of life
+	- sky whales: lightweight transparent ochre marbled bones, like amber. a valued substance, esp in architecture
 
 ## Candlekeep
 
@@ -222,15 +162,11 @@ Character stuff
     - hang ups regarding Qrystynne (ex), cheater nobleman
         - Qrystynne now serves on the Court of Birds
     - Mother, half elf aunt who taught magic, guildspeople,
-
 Toby
-
 - guilt from killing village + mother
 - find father to explain his powers / hold accountable
     - maybe Vasilev has connections that would help him search
 - volatile personality + powers
-
 Lumdas
-
 - hang ups with his family, dead friend
 - search for divinity

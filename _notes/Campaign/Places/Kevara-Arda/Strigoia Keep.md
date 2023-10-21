@@ -3,7 +3,6 @@ tags:
   - Location
 Location:
   - Kevara-Arda
-Last Edited: 2023-09-09T17:41
 ---
 art pieces in the keep have been perverted to mimics
 
