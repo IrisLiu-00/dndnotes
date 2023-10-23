@@ -58,15 +58,13 @@ other marauding adventurers are a threat
   
 
 Nidalia: woke up alone in the desert 5 years ago, taken in by Amberdunes
-
 - lower body - an all black panther
 - created by Freyot using a kitten from one of Fistandia’s cats
 - Freyot was imprisoned by the mage council because they thought he was getting too close to the secret of the labyrinth
 - she has to follow a cryptic set of rules imposed by freyot
 - some sort of post resurrection nerf lets her and amberdunes get captured
 
-Freyot
-
+Freyot / fistandia
 - interested in automata as a novelty - started talking to the council and got close to finding out about Piranesi’s work - council started tailing him - Freyot realized sth was up and went into hiding
 - Found the location of Piranesi’s Island - encoded somehow so he didn’t know what was on it
     - info about how the labyrinth is hidden (some sort of riddle/puzzle) - pieces they need to get to the labyrinth or free the automata

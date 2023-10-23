@@ -85,7 +85,10 @@ Giselle’s
 Ersatz the Crook
 - Residency is a top floor on a building. Where the war council meets, so to speak. Close quarters, cluttered with knickknacks. Window overlooking the river, other bridges in distance.
 - Offers finest imported coffee (hot brown water with bits of sticks), any of his specialty wares
-    - tin + glass jewelry (20gp), heavy jade stone dice that always roll double ones (5gp), slippers of luck (30gp)
+    - tin + glass jewelry (20gp), heavy jade stone dice that always roll double ones (5gp),  legendary cursed mask of anksara, 
+    - one of the PC's aura is haunted, offers an exorcism
+- Asks where the misurium shipment is, would like it back
+	- open to negotiating - can sell the ores for them, for a 50% cut (300gp)
 - Gangs have suffered a chain of recent blows, suspect a rat - a Duke’s secretary they bought out has been caught, planned burglaries encountered guards, black market dealers they buy from have been taken out
 - Ersatz believes the room has to be secure, but that one of his close associates may have betrayed him. There’s information that has only been discussed in this room that has been leaked.
 - He only talks to a few people that regularly: his guard Basta, the goblin Merriwink, the lady Giselle
@@ -109,34 +112,46 @@ The Bent Knuckle
 ### The Merrow
 
 Something else breaks bad, conflict with/pulls in merrow
-- Fight aboard punts on the rivers, merrow and river beasts try to pull them in
-- Basta manning the boat?
-- Probably have some land based antagonists too
-- Feldspar told some merrow to capture Cinnabar, that he is the one selling info to the merchers - Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
-    - Merrow know Cinnabar works for Vasilev, assumes V has betrayed them
+- Fight aboard punts on the rivers, merrow try to pull them in
+- Shallowpriest: nerf to 60hp, 1 lvl3 slot
+	- Starts w concentration on hold person on Cinnabar - starts drowning at start of battle
+	- First round cast mirror image
+- Merrow: new yorker accents. try to pull the PCs into the water
+- Basta manning the boat, make DC15 str/dex checks each round to direct boat / not get pulled downriver (to crocodiles?)
 - [Underwater Combat](https://www.reddit.com/r/rpg/comments/38d5st/drowning_checks_in_5e/)
     - Disadv + resistance for non piercing melee. Ranged weapons do not work except crossbow.
     - Swim check each round to not get swept 5ft downriver + sink 5ft
     - If fighting, survive CON score / 2 rounds before drop to 0hp
     - Verbal spellcasting takes 2 * spell lvl + 1 rounds of breath
 
+Post Battle
+- Go to a grotto the mermaids use - actually a disused sewage tunnel leading into the river
+- Feldspar told some merrow to capture Cinnabar, that he is the one selling info to a rival mercher Greentides
+	- obviously doesn't check out - the misurium shipment was trapped, so Giltstern also knew abt the Bridgers' plans. this means Feldspar is likely involved in the spying himself, was trying to misdirect the Bridgers
+- Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
+    - Merrow know Cinnabar works for Vasilev, assumes V has betrayed them
+
 ### Finding Feldspar
 
+Encounter that: ties in the Fray, also includes Konrad + clockwork
+
 Fray-front moves in
-- TODO: they need something from/near the docks
+- Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
+	- time limited encounters  - do a clock, lose time with each failure?
+	- if they don't find him, Luca or Clockwork have info
+	- 
 - Magic nets get winched up from the statues, seawalls go up - hard to get places
 - Encounters past the walls: magic gets unreliable, a weak wraith
 	- TODO: what else??
 - Ships hurry up to ship out or pull in after the announcement - dockworkers being pushed to load up a galleon and get it out ahead of the Fray coming in
-	- maybe Feldspar is leaving on this ship?
+	- 
 
 Another encounter w Konrad Luca - need to rehab his image
 - potentially visit his factory - give them a hook?
 - Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
-	- TODO: need legit consequences
 	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
 	- Would have taken on bluemoon as assistant, but they're about to lose their budget
-	- 
+	- Telling lab tech Saranna (female dark skinned elf) they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
 - Warn them that Giltstern has repurposed the automata they bought from him into combat automata
 	- entirely against his original wishes - they're using science to inflict violence
 
@@ -211,19 +226,9 @@ Go to Feldspar (where? his nice apt? workplace?)
 - [[Clockwork]]
     - Merchants take an interest in him as potential trade deal w/ Apostasy, want to force him to tell them how to reach Apostasy and its jewels - he’s being followed by a pair of guards “for his safety”
     - Basically just mooching off of merchant hospitality while he’s looking for info
-- Indira: runaway warlock attorney of Apostasy
-
-# Secrets and Clues
-
-_Check off when revealed._
-- [ ]
-
-# Fantastic Locations
-
-- Build Fantastic [[Locations]]
-
-# Monsters
+- Indira: runaway warlock attorney of Apostasy 
 
 # Appendix
 
 ### Session Notes
+- investors will find out that Konrad's automata can be used for martial purposes and get excited - Konrad will be upset

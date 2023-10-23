@@ -9,8 +9,6 @@ tags:
 
 # The Fray
 
-^9a0418
-
 - Supernatural phenomenon at the center of the sea
 - An arcane vacuum / a hole in the Weave created by the Cataclysm
 	- No magic under its influence
