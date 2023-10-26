@@ -1,6 +1,10 @@
 TODOS
 - interesting cultural features
+	- parkour
+	- graffiti - magic, come alive
+	- dream dimension
 - interesting landmarks
+	- the city is alive, the streets move and statues speak - status mechanics for how much city likes you
 - name for river
 # The World's Gate
 
@@ -14,7 +18,9 @@ TODOS
 - Poorest, most crime ridden part of Kevara
 - Primarily Vasilev's territory
 - Most upriver, edge of town
-- Underground arts scene?
+- Underground arts scene - graffiti, musicians clubs
+- Gangs use enchanted graffiti to spy + set markers around town
+	- Clairvoyance, figures that move between paintings to report things
 #### Bridgetown
 - a series of covered bridges thru the river, technically extralegal territory. Where people go to flee the law.
 - Bridge names: Shoewater, Grimslet, Bongdrop, Widdle-Over-Shine
@@ -30,22 +36,25 @@ TODOS
 - Merchants' trading houses set further back, behind the veils
 - Statues: frame the strait, founders Kevar and Arda. Locals navigate by the angle of the shadow - eg. at the 9 o’clock shadow
 	- Veils (arcane nets) winched to the statues protect the inner city from the Fray
+	- Statues move of their own volition - point to the sea when a Fray tide is coming
 #### Description
 - Leviathan sea monsters with their crews surfacing at port
 ## VILLARONTE
 - Patrician's hill, center of government
 - Wealthiest neighborhoods, landed gentry
 - Expensive jewelers' shops
-## Cultural center (Kevara)
+## city center
 __ end, crossings
 - temples' row, markets, artisans
 - some working class neighborhoods
 ## ARDA-SUR-MER
 - smaller sibling of Kevara portside, merchants don't tend to be headquartered here
-## VAUXBOURG
+## HEAPSIDE
+- Central Arda
 - Little Gardha: originally a dwarvish neighborhood, now home to many races of small folk. Can be hard to navigate for tallmen
 ## CATACOMBS
 -  hidden secrets about kevar and arda's past
+- sewers hold giant crocodiles, partially tamed by merrow
 
 # Factions
 

@@ -72,6 +72,7 @@ Vasilev gives mission to find a spy amongst Bridgetown gangs and deliver to the 
 Setting: Shoewater
 - Shady part of the city, narrow roads and tightly crammed apartments. River turns wide and sluggish, greasy brown-green. Smell of briny algae with an undercurrent of sewage.
 - The banks all along the river are built up high, so that trading galleons can fit under the bridges
+- Peeling walls are graffitied with slogans, signatures, a few actually artistic pieces - you catch a drawing of a two headed turtle on a crumbling stone wall
 - The largest of the extralegal bridges, and the first. Wide stone bridge with terracotta roofed buildings on either side. Smaller shacks + tents take up space in the central concourse. Puffs of greasy cooking smoke. Random things strung up between buildings: laundry, shards of colored glass, rusted helmets. Some houses have boats strung on the outside railing of the bridge
 - Urchins running on the street, stray dogs. People cooking in the street on coal stoves. A forlorn ministrel tooting at a pan flute. Tough looking men and women sharpening weapons.
 - How do you go about finding Ersatz? Leave space for PC’s criminal contacts
@@ -85,7 +86,7 @@ Giselle’s
 Ersatz the Crook
 - Residency is a top floor on a building. Where the war council meets, so to speak. Close quarters, cluttered with knickknacks. Window overlooking the river, other bridges in distance.
 - Offers finest imported coffee (hot brown water with bits of sticks), any of his specialty wares
-    - tin + glass jewelry (20gp), heavy jade stone dice that always roll double ones (5gp),  legendary cursed mask of anksara, 
+    - tin + glass jewelry (20gp), heavy jade stone dice that always roll double ones (5gp),  legendary cursed mask of anksara, paintings
     - one of the PC's aura is haunted, offers an exorcism
 - Asks where the misurium shipment is, would like it back
 	- open to negotiating - can sell the ores for them, for a 50% cut (300gp)
@@ -135,11 +136,12 @@ Post Battle
 
 Encounter that: ties in the Fray, also includes Konrad + clockwork
 
-Fray-front moves in
+
+Fray-tide moves in
 - Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
 	- time limited encounters  - do a clock, lose time with each failure?
 	- if they don't find him, Luca or Clockwork have info
-	- 
+- Statues switch from standing w hand raised to pointing out to sea, then to winching up the nets
 - Magic nets get winched up from the statues, seawalls go up - hard to get places
 - Encounters past the walls: magic gets unreliable, a weak wraith
 	- TODO: what else??
@@ -148,6 +150,7 @@ Fray-front moves in
 
 Another encounter w Konrad Luca - need to rehab his image
 - potentially visit his factory - give them a hook?
+- can give them an in with Feldspar - calling card to his business runestone / ask for appointment under Konrad's name
 - Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
 	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
 	- Would have taken on bluemoon as assistant, but they're about to lose their budget
@@ -163,6 +166,7 @@ Go to Feldspar (where? his nice apt? workplace?)
 - Feldspar is taking tea with Luca?
 - Feldspar is hosting Clockwork in his apt > confronts them, potential fight
 - Merchants are confused why a tiefling with the seals of the Iron Magistrates have arrived in Kevara, but they don’t want to turn down an opportunity to plunder the treasures of Apostasy
+- Mushika complaining that Feldspar's bosses won't pay him enough to rent a room - he's getting cold from sleeping in the gutters. Feldspar says they can't have him risking a trail
 - Show Feldspar to be genuinely vicious
     - friendly, smiling, playboy
     - reveals that Clockwork is going after Indira (Kallista)?
@@ -206,8 +210,7 @@ Go to Feldspar (where? his nice apt? workplace?)
         
 - Merriwink: Top thief. 13 yr old goblin
     - Unabashedly greedy. Want the merrow to let the goblins dredge the river bottom for treasure, keeps asking Cinnabar to make them a big net or rake.
-        
-        STR -1 DEX 4 CON 1 INT 1 WIS 0 CHA 0 | sleight 8 dec 2
+    - Master thief stats
         
 - Cinnabar: red dragonborn handyman / engineer
     - voice: gravelly, new yorker

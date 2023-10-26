@@ -57,3 +57,6 @@ Battle tactics
     - artificial intelligences, labyrinths + minotaur (Borges)
 - exploring the corpse of a sky whale
 - Anime con with Rulla
+- the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway
+	- elven riders hunting a runaway worker?
+	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike

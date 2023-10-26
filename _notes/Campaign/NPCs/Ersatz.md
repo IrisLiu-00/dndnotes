@@ -20,10 +20,10 @@ Unofficial ringleader of the bridgetown gangs. Unashamed conman
 Cons (see [wikipedia](https://en.wikipedia.org/wiki/List_of_confidence_tricks))
 - Noorseekee: fake buyers/sellers to inflate the price of a useless good
 - Bogus dry cleaning bill: duplicate a minor dry cleaning receipt + send to thousands of restaurants/hotels around the city. Set return address as a PO drop box
-- Fake goods
+- Fake goods, fake art
 - False cleric blessings/curses
 
 ```
 STR 0 DEX 1 CON 1 INT 2 WIS 2 CHA 3 | dec 7 sleight 5
-calm emotions, prayer of healing, incite greed
+calm emotions, prayer of healing, incite greed, clairvoyance
 ```

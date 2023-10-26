@@ -16,6 +16,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 Lots of craft, artificing, artisans. Some really good magical institutions
 
 owl (religion), gyrfalcon (guard/navy), raven (law enforcement), vulture, macaw, kingfisher (commerce), osprey, crane, hummingbird,
+masks arose bc of a plague in the past
 
 Guard wear half hawk masks; lower public servants wear half sparrow masks
 - Would like to steal trade from Kevara-Arda, resents their naval prominence
