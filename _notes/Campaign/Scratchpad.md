@@ -18,10 +18,6 @@ Todos - story
 - Vasilev's political agenda - appearances vs actuality
 
 
-Patrician Bacrust not seen in public for 3 weeks - has he finally been replaced by the lizardfolk???
-
-
-tie the court of birds to plague doctors - a plague in the country's history?
 think about other forms of government/society besides european
 real estate investment, gentrification
 
@@ -71,17 +67,6 @@ Battle tactics
 
 
 ### Potential adventures
-- desert tomb raiding, helping Nidalia find out abt her creation
-    - give the party a reason to find nidalia / ask her stuff > hook into this adventure
-    - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?
-    - designing dungeons with cool mechanics (see resources)
-- Kallista gets recaptured by the tieflings, do a court trial encounter
-- Something brings them to the Mirwood, do class revolution
-- Court intrigue at the court of birds
-- Labyrinth crawl, find the treasure guarded by the automata
-    - artificial intelligences, labyrinths + minotaur (Borges)
-- exploring the corpse of a sky whale
-- Anime con with Rulla
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway
 	- elven riders hunting a runaway worker?
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
@@ -89,3 +74,17 @@ Battle tactics
 - go graverobbing for Vasilev
 	- under Kallista's alma mater?
 	- there's a competing adventuring party (sponsored by the council?) also there
+- attend a fancy theater show
+- catch an escaped criminal
+- desert tomb raiding, helping Nidalia find out abt her creation
+    - give the party a reason to find nidalia / ask her stuff > hook into this adventure
+    - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?
+    - designing dungeons with cool mechanics (see resources)
+- Kallista gets recaptured by the tieflings, do a court trial encounter
+- Something brings them to the Mirwood, do class revolution
+- exploring the corpse of a sky whale
+- Anime con with Rulla
+- Court intrigue at the court of birds
+- Labyrinth crawl, find the treasure guarded by the automata
+    - artificial intelligences, labyrinths + minotaur (Borges)
+

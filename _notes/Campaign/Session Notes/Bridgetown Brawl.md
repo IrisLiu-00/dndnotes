@@ -10,7 +10,6 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 # Background
 
 ==TODOS
-- ersatz arrives after fight to do some healing, show their teeth (threaten the merfolk?)
 - they HAVE to go to luca to show the robots incapacitating ability. maybe he calls them over?
 - probably give a long rest after battle
 
@@ -139,20 +138,34 @@ Post Battle
 	- obviously doesn't check out - the misurium shipment was trapped, so Giltstern also knew abt the Bridgers' plans. this means Feldspar is likely involved in the spying himself, was trying to misdirect the Bridgers
 - Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
     - Merrow know Cinnabar works for Vasilev, assumes V has betrayed them
+- Ersatz shows up
+	- heals some ppl 
+	- threaten Ezra - the bridges are not under Kevaran rule, but they are not under merrow rule either. 
+- Long rest maybe?
+	- Ersatz: the world's not going to blow up overnight, take it easy
+	- they can chill at tavern first
+
+### The Inventor
+
+- Next day: Konrad Luca gets in contact with them (how?) tells them to go to his lab for something important
+	- call them if they got his number
+	- "you guys seem helpful in a pinch - I'm new in town and didn't know who else to call, but I know that the city guard is in the pockets of the merchers. You said you would recover the misurium shipments, but something much more urgent has come up, something that might be a very immediate danger to the city's population"
+
+Luca Industries, Incorporated
+- When they arrive: shirtsleeves rolled up, leaning over a ledger book, talking to a female dark skinned elf 
+	- telling lab tech Saranna they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
+	- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
+	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
+	- Would have taken on bluemoon as assistant, but they're about to lose their budget
+- Giltstern just made an order of his Type alpha prototypes from him, they got shipped out early this morning
+	- Just heard from Feldspar that theyre going to be "modified" by a guest consultant with Luca Industries - for battle
+	- entirely against his original wishes - they're using science to inflict violence
+	- this is not going to be good for the image of Luca Industries
+- what does he want the pcs to actually do?
 
 ### Finding Feldspar
 
 Encounter that: ties in the Fray, also includes Konrad + clockwork
-
-Another encounter w Konrad Luca - need to rehab his image
-- potentially visit his factory - give them a hook?
-- can give them an in with Feldspar - calling card to his business runestone / ask for appointment under Konrad's name
-- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
-	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
-	- Would have taken on bluemoon as assistant, but they're about to lose their budget
-	- Telling lab tech Saranna (female dark skinned elf) they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
-- Warn them that Giltstern has repurposed the automata they bought from him into combat automata
-	- entirely against his original wishes - they're using science to inflict violence
 
 Fray-tide moves in
 - Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
@@ -187,6 +200,7 @@ Go to Feldspar (where? his nice apt? workplace?)
     - Mines are Clockwork’s invention
     - give him a bomb also?
 - Fight across the bridge to chase Mushika, who holds the detonator
+	- either X rounds until detonation, or until Mushika gets to the other side
 - Automata contracted from Luca Industries hold the bridge, have pinned down all the Bridgefolk
     - Have already used up their Shockwave attk
 
