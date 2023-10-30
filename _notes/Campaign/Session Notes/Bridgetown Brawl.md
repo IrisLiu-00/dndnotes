@@ -9,6 +9,11 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 
 # Background
 
+==TODOS
+- ersatz arrives after fight to do some healing, show their teeth (threaten the merfolk?)
+- they HAVE to go to luca to show the robots incapacitating ability. maybe he calls them over?
+- probably give a long rest after battle
+
 Spy is wererat Mushika (Two-Penny), new in town after the unrest in Baldur’s Gate
 - has been spying on Vaughn and other criminals as a rat crawling in the walls
 

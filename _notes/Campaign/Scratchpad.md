@@ -1,6 +1,5 @@
 
 ANNOUNCEMENTS
-- 11/12 session datetime?
 - recap
 
 Todos - immediate
@@ -13,7 +12,6 @@ Todos - story
 - Fallout from strigoia?
 	- Shrewseer believes Eletha is working for parents
 	- Duke O humiliated, launch active investigation into events?
-- figure out the ocean and tie this into immediate next adv
 - forge painting - this can be a sidequest or integrated into a bigger adventure
 	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
 	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
@@ -35,9 +33,6 @@ Reminders
 - A player can give their DM inspiration to someone else
 - Spend all the battle slots: Move, Action, Bonus action, Reaction (once per round, opp attk)
 - Can cast spell as reaction, can cast cantrip + levelled if one is bonus
-
-RP Notes
-- They have 3 cats
 
 Kallista
 - Bardic insp is a bonus action

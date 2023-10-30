@@ -86,4 +86,7 @@
 - 23.10.29 - Bridgetown Brawl pt 2
 	- characterization for most NPCs was pretty uninteresting (Ersatz, Sophia, Basta) - seems like you need to think abt them more ahead of time
 		- Ersatz is too dumb / lackadaisical, they should have some cunning - we can salvage this as them showing a front. Gotta give them a cool moment later
+	- is hard to maintain distinct char voices
 	- Bridgetown investigation phase was pretty uninteresting because you didn't have that much planned in depth - because the answer was never in Bridgetown
+		- chars didn't have much to say
+	- NPCs should ask questions to PCs, have one on one convos for character development
