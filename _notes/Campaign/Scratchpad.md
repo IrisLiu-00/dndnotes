@@ -1,5 +1,33 @@
-### Notes
 
+ANNOUNCEMENTS
+- 11/12 session datetime?
+- recap
+
+Todos - immediate
+- Voices, stat block review
+- maps: bridge
+- stat blocks: 
+- prep battle in harmlesskey, owlbear, 5etools
+
+Todos - story
+- Fallout from strigoia?
+	- Shrewseer believes Eletha is working for parents
+	- Duke O humiliated, launch active investigation into events?
+- figure out the ocean and tie this into immediate next adv
+- forge painting - this can be a sidequest or integrated into a bigger adventure
+	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
+	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
+- Vasilev's political agenda - appearances vs actuality
+
+
+Patrician Bacrust not seen in public for 3 weeks - has he finally been replaced by the lizardfolk???
+
+
+tie the court of birds to plague doctors - a plague in the country's history?
+think about other forms of government/society besides european
+real estate investment, gentrification
+
+### Notes
 Reminders
 - Randomly call on people and ask what they wanna do - they can pass action off to someone else
 - Concentration for spells!
@@ -13,12 +41,13 @@ RP Notes
 
 Kallista
 - Bardic insp is a bonus action
-- Use a bardic to subtract from dice roll
+- Cutting words: use a bardic to subtract from dice roll
 - extra healing during short rest
 
 Eletha
 - Reaction to deflect missiles
-- Impose effects on flurry of blows hit
+- Flurry of blows can imose: fall prone, get pushed, no reaction
+- Slow fall
 
 Lumdas
 - Can only single hand the warhammer bc he has shield
@@ -31,6 +60,7 @@ Bluemoon
 - Roll d20 for any levelled spell, up the threshold by 1 each time a surge does not happen
     - Roll surge immediately after using tides of chaos
 - Sorcery points to create spell slots, double spell, reroll attk
+- Cast spell for opp attk
 
 Toby
 - Sneak attack only lands if you hit the main attk
@@ -60,3 +90,7 @@ Battle tactics
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway
 	- elven riders hunting a runaway worker?
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
+- Do a job for Konrad
+- go graverobbing for Vasilev
+	- under Kallista's alma mater?
+	- there's a competing adventuring party (sponsored by the council?) also there

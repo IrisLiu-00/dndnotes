@@ -16,9 +16,9 @@ Languages:
 Background: Guild Artisan
 ---
 Abilities
-
 - Roll wild magic for any levelled spell
 - Water breathing
 - Tides of chaos - adv per long rest or wild magic surge
 - Wild magic table for any leveled spell
 - Sorcery points - convert spell slot
+- War caster: cast spell as opportunity attk

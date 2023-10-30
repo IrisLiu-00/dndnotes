@@ -61,7 +61,7 @@ Vasilev gives mission to find a spy amongst Bridgetown gangs and deliver to the 
 - Caution: Bridgetown is extralegal. PCs will not have protection from the law or Duke V
 - Potential background about: gangs, relation w landed elite, bridgetown, treaty of the six cups
     - Gangs loot trade barges coming up river (w help from merrow), have been persistent annoyance to merchants
-- Part of an alliance made with the gangs - they will supply Vasilev money for upcoming election
+- Part of an alliance made with the gangs - they will supply Vasilev money for future plans (upcoming election)
 - They can start at Shoewater bridge and meet Ersatz
 - Pay: 600gp
 - What are they doing about Basta? still tied up in apartment (awake by now)
@@ -70,9 +70,8 @@ Vasilev gives mission to find a spy amongst Bridgetown gangs and deliver to the 
 ### Investigation in Bridgetown
 
 Setting: Shoewater
-- Shady part of the city, narrow roads and tightly crammed apartments. River turns wide and sluggish, greasy brown-green. Smell of briny algae with an undercurrent of sewage.
+- Shady part of the city, narrow roads and tightly crammed apartments. River is wide and sluggish, greasy brown-green. Smell of briny algae with an undercurrent of sewage.
 - The banks all along the river are built up high, so that trading galleons can fit under the bridges
-- Peeling walls are graffitied with slogans, signatures, a few actually artistic pieces - you catch a drawing of a two headed turtle on a crumbling stone wall
 - The largest of the extralegal bridges, and the first. Wide stone bridge with terracotta roofed buildings on either side. Smaller shacks + tents take up space in the central concourse. Puffs of greasy cooking smoke. Random things strung up between buildings: laundry, shards of colored glass, rusted helmets. Some houses have boats strung on the outside railing of the bridge
 - Urchins running on the street, stray dogs. People cooking in the street on coal stoves. A forlorn ministrel tooting at a pan flute. Tough looking men and women sharpening weapons.
 - How do you go about finding Ersatz? Leave space for PC’s criminal contacts
@@ -101,24 +100,28 @@ Ersatz the Crook
 
 The Bent Knuckle
 - Group of goblins playing [King and his Men](https://www.reddit.com/r/DnDBehindTheScreen/comments/srt477/the_king_and_his_men_another_mini_game_for_your/)
-- Cinnabar is there
+- Cinnabar is there - talking about taking employment from merchers
 - Clockwork waltzes in. Orders orange juice + milk.
     - Friendly conversation, special interest in Kallista, ask if they ever see any other tieflings in Kevara
     - Abrasive, make fun of some people
     - The Bridgetowners are all going under sooner than they think - Cinnabar is smart to try and get out early
     - Leaves when his guards find him (tho the Bridgers will be upset abt merchers being there)
 
-  
-
 ### The Merrow
+Sophia
+- Initially friendly, then very suspicious if they say they know Vasilev or Cinnabar
+- Thinks they're just going to interrogate Cinnabar, but the other merrow are less friendly
+- Little bit of an outsider amongst other merrow
 
 Something else breaks bad, conflict with/pulls in merrow
 - Fight aboard punts on the rivers, merrow try to pull them in
 - Shallowpriest: nerf to 60hp, 1 lvl3 slot
 	- Starts w concentration on hold person on Cinnabar - starts drowning at start of battle
 	- First round cast mirror image
+	- Old crone Ezra also wanted to capture Cinnabar to force him to redo her sitting room
 - Merrow: new yorker accents. try to pull the PCs into the water
-- Basta manning the boat, make DC15 str/dex checks each round to direct boat / not get pulled downriver (to crocodiles?)
+	- if talked to Sophia > she's reluctant to fight, but gets ordered by mother in law Ezra
+- Basta manning the boat, make DC13 str/dex checks each round to direct boat / not get pulled downriver (move 10ft + rotate)
 - [Underwater Combat](https://www.reddit.com/r/rpg/comments/38d5st/drowning_checks_in_5e/)
     - Disadv + resistance for non piercing melee. Ranged weapons do not work except crossbow.
     - Swim check each round to not get swept 5ft downriver + sink 5ft
@@ -136,6 +139,15 @@ Post Battle
 
 Encounter that: ties in the Fray, also includes Konrad + clockwork
 
+Another encounter w Konrad Luca - need to rehab his image
+- potentially visit his factory - give them a hook?
+- can give them an in with Feldspar - calling card to his business runestone / ask for appointment under Konrad's name
+- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
+	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
+	- Would have taken on bluemoon as assistant, but they're about to lose their budget
+	- Telling lab tech Saranna (female dark skinned elf) they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
+- Warn them that Giltstern has repurposed the automata they bought from him into combat automata
+	- entirely against his original wishes - they're using science to inflict violence
 
 Fray-tide moves in
 - Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
@@ -147,16 +159,6 @@ Fray-tide moves in
 	- TODO: what else??
 - Ships hurry up to ship out or pull in after the announcement - dockworkers being pushed to load up a galleon and get it out ahead of the Fray coming in
 	- 
-
-Another encounter w Konrad Luca - need to rehab his image
-- potentially visit his factory - give them a hook?
-- can give them an in with Feldspar - calling card to his business runestone / ask for appointment under Konrad's name
-- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
-	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
-	- Would have taken on bluemoon as assistant, but they're about to lose their budget
-	- Telling lab tech Saranna (female dark skinned elf) they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
-- Warn them that Giltstern has repurposed the automata they bought from him into combat automata
-	- entirely against his original wishes - they're using science to inflict violence
 
 Go to Feldspar (where? his nice apt? workplace?)
 - Need to do a task in order to gain audience (or power force thru)
@@ -188,7 +190,7 @@ Go to Feldspar (where? his nice apt? workplace?)
 # NPCs
 
 - [[Duke Venka Vasilev]]
-- Ersatz: unofficial ringleader of the bridgetown gangs. Unashamed conman. Effeminate, socialite, british, lisp
+- [[Ersatz]]: unofficial ringleader of the bridgetown gangs. Unashamed conman. Effeminate, socialite, british, lisp
     - young human in a silk dressing gown (PJs), a floof of light blond hair. Tattoo of a half opened door on one shoulder.
     - cleric (lvl 5) of Yshava (small god of doors, liminal spaces, bridges)
     - Willing to work with Vasilev as far as it benefits the gangs
@@ -214,11 +216,12 @@ Go to Feldspar (where? his nice apt? workplace?)
         
 - Cinnabar: red dragonborn handyman / engineer
     - voice: gravelly, new yorker
-    - reluctantly working for Vasilev
+    - reluctantly working for Vasilev, used to be a gang hitman
         
-        STR 2 DEX 0 CON 2 INT 2 WIS -1 CHA 0
+        STR 3 DEX 0 CON 2 INT 2 WIS -1 CHA 0 | 15ft cone fire (DEX save) | AC14 HP
         
 - Sophia: merrow. NJ/NYC accent
+	- Updo, waterproof mascara, trash bag croptop
 - Feldspar: relatively high ranking accountant at Giltstern
     - Paying Mushika to spy on Bridgetown
     - Hosting Clockwork

@@ -25,25 +25,19 @@ protection from energy?, dispel magic, summon construct
   
 
 ---
-
 > Clockwork
-> 
 > _7th-level Medium Humanoid, chaotic neutral_
-> 
 > ---
-> 
 > - **Armor Class** 13
 > - **Hit Points** 120
 > - **Speed** 30 ft.
-> 
-> ---
-> 
-> |   |   |   |   |   |   |
-> |---|---|---|---|---|---|
-> |STR|DEX|CON|INT|WIS|CHA|
-> |12 (+1)|16 (+3)|14 (+2)|10 (+0)|8 (-1)|14 (+2)|
-> 
-> ---
+---
+
+ | STR     | DEX     | CON     | INT     | WIS    | CHA     |
+ | ------- | ------- | ------- | ------- | ------ | ------- |
+ | 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 8 (-1) | 14 (+2) |
+
+---
 > 
 > - **Saving Throws** Con +5, Cha +5
 > - **Skills** Athletics +4, Deception +5
@@ -52,7 +46,6 @@ protection from energy?, dispel magic, summon construct
 > - **Languages** —
 > - **Challenge** 0 (10 XP)
 > - **Proficiency Bonus** +2
-> 
 > ---
 > 
 > _**Spellcasting.**_ Attack +5, Save DC 13

@@ -6,6 +6,7 @@ TODOS
 - interesting landmarks
 	- the city is alive, the streets move and statues speak - status mechanics for how much city likes you
 - name for river
+- magic mechanics of the city election, patrician authority
 # The World's Gate
 
 - A huge, old city state that has seen many different rulers and ages. Layers upon layers of different cultures, architectural styles, religions

@@ -110,7 +110,6 @@ Character stuff
         - Past criminal activity, college in Kevara
 - Eletha
     - parents are still doing bad things
-    - parents have adopted someone else to replace her, but they might try to bring her back bc she knows too much about the estate
     - ties to the monastery, private tutors
 - Bluemoon
     - legacy from father sacrificing himself in battle

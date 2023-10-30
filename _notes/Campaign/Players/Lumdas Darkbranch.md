@@ -20,7 +20,7 @@ Abilities
 
 - Requires spell prep
 - Channel divinity - turn undead
-- Channel divinity - distribute 10hp
+- Channel divinity - distribute hp
 - Double proficiency on skill checks about stone
 - Can only single hand the warhammer bc he has shield
 - Prompt him to use bless (buff) abilities

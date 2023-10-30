@@ -21,4 +21,5 @@ Abilities
 
 - Sneak attack only lands if main attk lands
 - Cunning action - bonus dash, disengage, hide
+- Fast hands - use bonus action to make sleight of hand, take Use Object action
 - Can hold breath forever

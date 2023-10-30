@@ -22,3 +22,6 @@ Abilities
 
 - Attacking with unarmed strike / monk weapon gives an extra unarmed strike bonus action
 - Ki - flurry of blows, bonus dodge/disengage/dash
+	- flurry of blows can imose: fall prone, get pushed, no reaction
+- Deflect missiles
+- Slow fall reaction

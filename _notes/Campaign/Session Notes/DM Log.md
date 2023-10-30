@@ -83,3 +83,7 @@
     - Initial characterization of Luca was bad - not likeable enough
         - came on too heavy on how he only cares about making money, lack of ethics
         - we can salvage by having him return later in adventure, worried abt missing misurium
+- 23.10.29 - Bridgetown Brawl pt 2
+	- characterization for most NPCs was pretty uninteresting (Ersatz, Sophia, Basta) - seems like you need to think abt them more ahead of time
+		- Ersatz is too dumb / lackadaisical, they should have some cunning - we can salvage this as them showing a front. Gotta give them a cool moment later
+	- Bridgetown investigation phase was pretty uninteresting because you didn't have that much planned in depth - because the answer was never in Bridgetown
