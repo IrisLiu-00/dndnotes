@@ -11,7 +11,6 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 
 ==TODOS
 - they HAVE to go to luca to show the robots incapacitating ability. maybe he calls them over?
-- probably give a long rest after battle
 
 Spy is wererat Mushika (Two-Penny), new in town after the unrest in Baldur’s Gate
 - has been spying on Vaughn and other criminals as a rat crawling in the walls
@@ -118,9 +117,11 @@ Sophia
 - Little bit of an outsider amongst other merrow
 
 Something else breaks bad, conflict with/pulls in merrow
+- Read aloud
+	- You have just watched your ally, Toby, get pierced through the shoulder by a harpoon and pulled into the water; he's floating motionless a few inches below the water. His blood rises dark and inky to the surface and you know that he is in very serious danger. Your boat rocks violently from the aftershock as merfolk circle you from the water. Cinnabar, the red dragonborn, has been pushed under the oily slick of the river surface as the merrow shallowpriest mutters arcane sigils. 
 - Fight aboard punts on the rivers, merrow try to pull them in
 - Shallowpriest: nerf to 60hp, 1 lvl3 slot
-	- Starts w concentration on hold person on Cinnabar - starts drowning at start of battle
+	- Starts w concentration on hold person on Cinnabar - can hold breath for 7 rounds
 	- First round cast mirror image
 	- Old crone Ezra also wanted to capture Cinnabar to force him to redo her sitting room
 - Merrow: new yorker accents. try to pull the PCs into the water
@@ -152,7 +153,9 @@ Post Battle
 	- "you guys seem helpful in a pinch - I'm new in town and didn't know who else to call, but I know that the city guard is in the pockets of the merchers. You said you would recover the misurium shipments, but something much more urgent has come up, something that might be a very immediate danger to the city's population"
 
 Luca Industries, Incorporated
-- When they arrive: shirtsleeves rolled up, leaning over a ledger book, talking to a female dark skinned elf 
+- read aloud
+	- An old brick factory building in the working class neighborhood of Kerrigan's End. A warehouse door on one end is open; you see two figures standing inside. 
+- When they arrive: shirtsleeves rolled up, leaning over a ledger book, talking to a female dark skinned elf with round glasses, wearing a lab coat
 	- telling lab tech Saranna they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
 	- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
 	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
@@ -161,13 +164,18 @@ Luca Industries, Incorporated
 	- Just heard from Feldspar that theyre going to be "modified" by a guest consultant with Luca Industries - for battle
 	- entirely against his original wishes - they're using science to inflict violence
 	- this is not going to be good for the image of Luca Industries
-- what does he want the pcs to actually do?
+- Konrad can't do anything legally to stop them, because Giltstern already owns the goods. Wants the PCs to do damage control - figure out what the automata are being used for, try to stop anything really bad from happening
+	- doesn't have much money to pay them back with - offer to owe them a favor
+- Maybe ask them why they're in the city - there's better employ for adventurers out in the wild
+	- warn them about Vasilev
+- what do they do from here? go where? clockwork is at the docks, or feldspar's apt
+	- would like some sort of skill challenge thing. go to the docks then race back to bridgetown
 
 ### Finding Feldspar
 
-Encounter that: ties in the Fray, also includes Konrad + clockwork
+Encounter that: ties in the Fray, also includes clockwork
 
-Fray-tide moves in
+Fray-tide moves in ==this definitely deserves some description
 - Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
 	- time limited encounters  - do a clock, lose time with each failure?
 	- if they don't find him, Luca or Clockwork have info
@@ -183,7 +191,6 @@ Go to Feldspar (where? his nice apt? workplace?)
 	- get something from clockwork or luca
 	- supervise the ship being loaded ahead of the fray - guard against unrest
 	- Feldspar sends them on a wild goose chase, only to buy time to set bombs on the bridge
-- Feldspar is taking tea with Luca?
 - Feldspar is hosting Clockwork in his apt > confronts them, potential fight
 - Merchants are confused why a tiefling with the seals of the Iron Magistrates have arrived in Kevara, but they don’t want to turn down an opportunity to plunder the treasures of Apostasy
 - Mushika complaining that Feldspar's bosses won't pay him enough to rent a room - he's getting cold from sleeping in the gutters. Feldspar says they can't have him risking a trail

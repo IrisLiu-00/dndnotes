@@ -20,8 +20,6 @@ TODOS
 - Primarily Vasilev's territory
 - Most upriver, edge of town
 - Underground arts scene - graffiti, musicians clubs
-- Gangs use enchanted graffiti to spy + set markers around town
-	- Clairvoyance, figures that move between paintings to report things
 #### Bridgetown
 - a series of covered bridges thru the river, technically extralegal territory. Where people go to flee the law.
 - Bridge names: Shoewater, Grimslet, Bongdrop, Widdle-Over-Shine
@@ -44,15 +42,16 @@ TODOS
 - Patrician's hill, center of government
 - Wealthiest neighborhoods, landed gentry
 - Expensive jewelers' shops
-## city center
+## KERRIGAN'S END
 __ end, crossings
 - temples' row, markets, artisans
-- some working class neighborhoods
+- some working class neighborhoods - heapside, kerrigan's end, 
 ## ARDA-SUR-MER
 - smaller sibling of Kevara portside, merchants don't tend to be headquartered here
-## HEAPSIDE
-- Central Arda
 - Little Gardha: originally a dwarvish neighborhood, now home to many races of small folk. Can be hard to navigate for tallmen
+## KAHAMTIDE
+- Central Arda
+- Langksaran occupied
 ## CATACOMBS
 -  hidden secrets about kevar and arda's past
 - sewers hold giant crocodiles, partially tamed by merrow

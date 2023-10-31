@@ -90,3 +90,4 @@
 	- Bridgetown investigation phase was pretty uninteresting because you didn't have that much planned in depth - because the answer was never in Bridgetown
 		- chars didn't have much to say
 	- NPCs should ask questions to PCs, have one on one convos for character development
+	- they liked the descriptive prose bits
