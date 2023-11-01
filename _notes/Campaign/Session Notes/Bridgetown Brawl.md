@@ -137,6 +137,8 @@ Post Battle
 - Go to a grotto the mermaids use - actually a disused sewage tunnel leading into the river
 - Feldspar told some merrow to capture Cinnabar, that he is the one selling info to a rival mercher Greentides
 	- obviously doesn't check out - the misurium shipment was trapped, so Giltstern also knew abt the Bridgers' plans. this means Feldspar is likely involved in the spying himself, was trying to misdirect the Bridgers
+	- give them a lead to the docks! draw all the bridgetowners out of the bridges to investigate something, get trapped behind the fray shroud, then strike
+	- Feldspar said he had to go meet someone important at the docks (the tide towers?) / the call came from the warehouse / 
 - Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
     - Merrow know Cinnabar works for Vasilev, assumes V has betrayed them
 - Ersatz shows up
@@ -166,14 +168,18 @@ Luca Industries, Incorporated
 	- this is not going to be good for the image of Luca Industries
 - Konrad can't do anything legally to stop them, because Giltstern already owns the goods. Wants the PCs to do damage control - figure out what the automata are being used for, try to stop anything really bad from happening
 	- doesn't have much money to pay them back with - offer to owe them a favor
+	- Give them something to resist the electric surges? a capacitor
 - Maybe ask them why they're in the city - there's better employ for adventurers out in the wild
 	- warn them about Vasilev
 - what do they do from here? go where? clockwork is at the docks, or feldspar's apt
 	- would like some sort of skill challenge thing. go to the docks then race back to bridgetown
+- Automata were ordered to a dockside warehouse, where Clockwork made the modifications
+	- challenges: the electric surges, unrest at the docks, shrouds going up
 
 ### Finding Feldspar
 
-Encounter that: ties in the Fray, also includes clockwork
+a warehouse, boat, 
+a half submerged warehouse - get help from the merfolk?
 
 Fray-tide moves in ==this definitely deserves some description
 - Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
