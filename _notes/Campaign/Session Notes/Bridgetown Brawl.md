@@ -139,6 +139,10 @@ Post Battle
 	- obviously doesn't check out - the misurium shipment was trapped, so Giltstern also knew abt the Bridgers' plans. this means Feldspar is likely involved in the spying himself, was trying to misdirect the Bridgers
 	- give them a lead to the docks! draw all the bridgetowners out of the bridges to investigate something, get trapped behind the fray shroud, then strike
 	- Feldspar said he had to go meet someone important at the docks (the tide towers?) / the call came from the warehouse / 
+- Sophia: first got in contact with a blue dragonborn along the coast
+	- was standing on the deck of that old, half sunken trading ship
+	- seemed startled to be found, then gave contact info and said he had important info for merrow
+	- but why was he at the shipwreck?
 - Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
     - Merrow know Cinnabar works for Vasilev, assumes V has betrayed them
 - Ersatz shows up
@@ -176,27 +180,42 @@ Luca Industries, Incorporated
 - Automata were ordered to a dockside warehouse, where Clockwork made the modifications
 	- challenges: the electric surges, unrest at the docks, shrouds going up
 
-### Finding Feldspar
+### The Shipwreck
+
+Going to investigate
+- Ersatz, Merriwink, Basta 2 other Bridgers (bandit stats) come with 
+
+Fray-tide moves in 
+- sirens wailing over the spires
+
+The old trading galleon
+- DESCRIPTION
+- Multiple entrances, have them split up - below water, deck, 
+- Search for a battle map to track dungeon rooms
+
+Ship's Deck
+- One mast has fallen down and bisected the deck
+- Deck is steeply slanted to the back of the ship, where the whole back quarter of the ship is submerged
+- Standing at the high point on the prow, you can see further off the coast. The water is a deep blue until about a mile out, where it suddenly transitions into a blank, milky whiteness. Thick white mist is continually evaporating from its surface, rising high into the air like a stormfront. The fog has already drifted low over land, hanging in a low layer that obscures the tops of the ship's masts. 
+
+Cargo deck / brig
+
+Captain's Cabin
+- Feldspar and Clockwork are here. Feldspar telling Clockwork not to leave the ship
+
+
 
 a warehouse, boat, 
 a half submerged warehouse - get help from the merfolk?
 
 Fray-tide moves in ==this definitely deserves some description
-- Feldspar is leaving on one of the giltstern trading galleons - need to get to him before it leaves
-	- time limited encounters  - do a clock, lose time with each failure?
-	- if they don't find him, Luca or Clockwork have info
 - Statues switch from standing w hand raised to pointing out to sea, then to winching up the nets
 - Magic nets get winched up from the statues, seawalls go up - hard to get places
 - Encounters past the walls: magic gets unreliable, a weak wraith
 	- TODO: what else??
 - Ships hurry up to ship out or pull in after the announcement - dockworkers being pushed to load up a galleon and get it out ahead of the Fray coming in
-	- 
 
 Go to Feldspar (where? his nice apt? workplace?)
-- Need to do a task in order to gain audience (or power force thru)
-	- get something from clockwork or luca
-	- supervise the ship being loaded ahead of the fray - guard against unrest
-	- Feldspar sends them on a wild goose chase, only to buy time to set bombs on the bridge
 - Feldspar is hosting Clockwork in his apt > confronts them, potential fight
 - Merchants are confused why a tiefling with the seals of the Iron Magistrates have arrived in Kevara, but they don’t want to turn down an opportunity to plunder the treasures of Apostasy
 - Mushika complaining that Feldspar's bosses won't pay him enough to rent a room - he's getting cold from sleeping in the gutters. Feldspar says they can't have him risking a trail
