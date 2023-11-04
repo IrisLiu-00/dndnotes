@@ -19,3 +19,5 @@ tags:
 - Breathing in fog is bad (what effects?)
 	- memory loss, auto cannibalism?
 - Circular waterfall at center (a mouth) - goddess in the center
+- Fray exposure:
+	- 

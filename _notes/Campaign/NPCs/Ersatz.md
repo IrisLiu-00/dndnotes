@@ -15,6 +15,7 @@ Unofficial ringleader of the bridgetown gangs. Unashamed conman
 - Willing to work with Vasilev as far as it benefits the gangs
 - Power as a dealbroker, the only cleric available to gangs
 - Fingers in gambling houses, smuggling rings, street thief gangs
+- A coward - only leading the gangs to prevent further bloodshed, because they think they can help. kind of a pacifist
 - Yet another ex of Ringley’s - R was always up at 5am composing new lyrics, one time set their kitchen on fire. Ersatz let him down easy.
 
 Cons (see [wikipedia](https://en.wikipedia.org/wiki/List_of_confidence_tricks))

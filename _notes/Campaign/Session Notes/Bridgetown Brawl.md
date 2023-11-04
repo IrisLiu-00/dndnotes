@@ -139,7 +139,7 @@ Post Battle
 	- obviously doesn't check out - the misurium shipment was trapped, so Giltstern also knew abt the Bridgers' plans. this means Feldspar is likely involved in the spying himself, was trying to misdirect the Bridgers
 	- give them a lead to the docks! draw all the bridgetowners out of the bridges to investigate something, get trapped behind the fray shroud, then strike
 	- Feldspar said he had to go meet someone important at the docks (the tide towers?) / the call came from the warehouse / 
-- Sophia: first got in contact with a blue dragonborn along the coast
+- Sophia: first got in contact with a blue dragonborn along the coast - north side of town, past the warehouses
 	- was standing on the deck of that old, half sunken trading ship
 	- seemed startled to be found, then gave contact info and said he had important info for merrow
 	- but why was he at the shipwreck?
@@ -175,53 +175,76 @@ Luca Industries, Incorporated
 	- Give them something to resist the electric surges? a capacitor
 - Maybe ask them why they're in the city - there's better employ for adventurers out in the wild
 	- warn them about Vasilev
-- what do they do from here? go where? clockwork is at the docks, or feldspar's apt
-	- would like some sort of skill challenge thing. go to the docks then race back to bridgetown
-- Automata were ordered to a dockside warehouse, where Clockwork made the modifications
-	- challenges: the electric surges, unrest at the docks, shrouds going up
+- Automata were ordered to the northside docks, where Clockwork made the modifications
+
 
 ### The Shipwreck
 
 Going to investigate
 - Ersatz, Merriwink, Basta 2 other Bridgers (bandit stats) come with 
-
-Fray-tide moves in 
-- sirens wailing over the spires
+- Basta and Merriwink snipe at each other - Ersatz reminds Basta what they said about threatening children
+- How do they get to the docks?
+- A siren starts wailing, its sound cast high over the spires. The statue moves, pointing NNE out to sea. A Fray-tide is coming in.
+- Foreman rushing dockworkers to load up the ships, set out before the Tide gets in. Panicky dockworkers carrying goods to the ship, one of them crashes into another and falls painfully - she doesn't say anything and picks back up
+- Past the warehouses - low slung, utilitarian buildings. Some of these used to be plague houses back in the day.
 
 The old trading galleon
-- DESCRIPTION
-- Multiple entrances, have them split up - below water, deck, 
-- Search for a battle map to track dungeon rooms
+- An old wreck of a ship, half-moored against the stone pier. Wooden planks gray and splintered, jutting into the air like old bones. The ship lists sharply towards its back, partially sunken. Sound of water lapping on wood.
+- Hole in the side of the hull, abt 10 ft down - goes to Cargo Deck
+- Ersatz, some other bandits offer to keep watch - others will split out into a diff route
 
 Ship's Deck
-- One mast has fallen down and bisected the deck
+- One mast has fallen down and bisected the deck, falling on top of the forecastle - the normal entrance to below decks is crushed in
 - Deck is steeply slanted to the back of the ship, where the whole back quarter of the ship is submerged
 - Standing at the high point on the prow, you can see further off the coast. The water is a deep blue until about a mile out, where it suddenly transitions into a blank, milky whiteness. Thick white mist is continually evaporating from its surface, rising high into the air like a stormfront. The fog has already drifted low over land, hanging in a low layer that obscures the tops of the ship's masts. 
-
+- Stairs on the prow side goes to Galley
+Galley
+- Picked over by animals, a number of smaller interconnected rooms
+- Muffled bang and a curse below
+- Door below stairs set with a a large clock, wires going off of it connecting out of the room and to a lever nearby. Hands of the watch are set to 12
+	- The moment they touch the doorknob something clicks, the walls start rumbling, there's a horrible grinding sound and the sloshing of water. The hands start ticking downwards, from 60 seconds down...
+	- Hitting the lever resets it
+	- Letting it count to 0 unlocks the door, a puff of confetti sproings out of the clock face
+Gun Deck
+- Where Clockwork modified the automata
+- Cavernous space, rows of cannons lining the two sides. The soft drip of water. Several cannons have been opened up and emptied of gunpowder
+- Gutted remains of a few automata - shockback effect if they approach
+- Springs, clockwork mechanisms - these look like they were made by a different hand, diff materials
+- Heavy door at the back end with a lock in the center. The officers of this ship were afraid of their underlings
 Cargo deck / brig
-
+- Dark, rotting ropes and hammocks. Sailors' belongings + clothes strewn about, abandoned in a hurry
+- A clunk - the sound of a footstep somewhere above
+- Stairs upwards are submerged, there's a water elemental trying to get back out to sea (???)
 Captain's Cabin
-- Feldspar and Clockwork are here. Feldspar telling Clockwork not to leave the ship
-
-
-
-a warehouse, boat, 
-a half submerged warehouse - get help from the merfolk?
-
-Fray-tide moves in ==this definitely deserves some description
-- Statues switch from standing w hand raised to pointing out to sea, then to winching up the nets
-- Magic nets get winched up from the statues, seawalls go up - hard to get places
-- Encounters past the walls: magic gets unreliable, a weak wraith
-	- TODO: what else??
-- Ships hurry up to ship out or pull in after the announcement - dockworkers being pushed to load up a galleon and get it out ahead of the Fray coming in
-
-Go to Feldspar (where? his nice apt? workplace?)
-- Feldspar is hosting Clockwork in his apt > confronts them, potential fight
+- Spacious cabin with a large desk, recessed bed. Curtains around the bed have been torn down, the curtain rod is slanting towards the ground. Clockwork is sprawled across the top of the desk, Feldspar is standing in front
+- Windows boarded up, this room is on the back end of the ship + entirely underwater
+- Feldspar: telling Clockwork to stay put. He's already been enough of a headache for Feldspar's masters, given how much they're humoring him. And really, won't it be counterproductive to his goals once it gets out that there's a fugitive tiefling running around Kevara?
+	- Clockwork: not a fugitive, I told you. And what's the point in going on vacation if you can't sightsee?
+	- Feldspar: they're running me raw doing all this babysitting... first the rat, and now you?
+	- Clockwork: did you like my housewarming additions upstairs? I was getting so bored of just opening boring normal doors...
 - Merchants are confused why a tiefling with the seals of the Iron Magistrates have arrived in Kevara, but they don’t want to turn down an opportunity to plunder the treasures of Apostasy
 - Mushika complaining that Feldspar's bosses won't pay him enough to rent a room - he's getting cold from sleeping in the gutters. Feldspar says they can't have him risking a trail
+- Feldspar reveals that Mushika + automata have already gone to Bridgetown to blow up the bridges
+	- Who would notice? After all, those bridges are already teeming with vermin - oh, and also a lot of rats
+	- It's a surprise that no one else has gone and done it already, really. It's high time we cleaned up some of the filth in this city. 
 - Show Feldspar to be genuinely vicious
     - friendly, smiling, playboy
     - reveals that Clockwork is going after Indira (Kallista)?
+- Sirens suddenly pick up again, this time changing rhythm and tenor - Feldspar laughs they had better get going
+	- Feldspar + clockwork click on masks
+
+Back to the Bridge
+- The fog has gotten much closer, you can see it rolling in across the sea with alarming speed. White water of the Fray ebbs and swirls like milk poured into coffee
+- The statue of Kevar's arm has changed again - it's lowered, but slowly rising. A shimmering golden net is trailing from its wrist, and you realize the net stretches all the way across the docks. What you thought was a drainage groove 200 feet in front of you has opened up, the net being slowly drawn out from it. 
+- The fog rolls in - it swallows up the shipwreck instantly, and you can't see it at all
+- Skill challenge: 3 successes to make it in time, 3 failures and the bandits sacrifice themselves to push the players over the net
+	- Running with the fog 20 feet behind your heels, something shrieks within it - a wraith reaches out (specter stats)
+	- Breathing in the fog, your chest seizes up + magic abilities fail
+	- Back towards the warehouses - a crane swinging out of the way of the net, panicked horses pulling crates, crowd of remaining dockworkers running for shelter, foreman screaming at them
+	- Climb over the rising net
+- Past the net - with a jerk, it springs up the rest of the way as the statue brings its arm level with its shoulder. The shroud now stretches 500 feet into the air, it's weave made of some sort of dense metallic fiber. The fog surges in, crashing into the net with a force that actually makes it bulge inwards and strain - but it holds. 
+- How do they try to get across the city back to the bridges?
+- If any bandits made it with them, have another phalanx of automata come out to engage them
 
 
 ### Battle on the Bridge
