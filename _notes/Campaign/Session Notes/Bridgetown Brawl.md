@@ -9,9 +9,6 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 
 # Background
 
-==TODOS
-- they HAVE to go to luca to show the robots incapacitating ability. maybe he calls them over?
-
 Spy is wererat Mushika (Two-Penny), new in town after the unrest in Baldur’s Gate
 - has been spying on Vaughn and other criminals as a rat crawling in the walls
 
@@ -118,15 +115,16 @@ Sophia
 
 Something else breaks bad, conflict with/pulls in merrow
 - Read aloud
-	- You have just watched your ally, Toby, get pierced through the shoulder by a harpoon and pulled into the water; he's floating motionless a few inches below the water. His blood rises dark and inky to the surface and you know that he is in very serious danger. Your boat rocks violently from the aftershock as merfolk circle you from the water. Cinnabar, the red dragonborn, has been pushed under the oily slick of the river surface as the merrow shallowpriest mutters arcane sigils. 
+	- You have just watched your ally, Toby, get pierced through the shoulder by a harpoon and pulled into the water; he's floating motionless a few inches below the water. Your boat rocks violently from the aftershock as merfolk circle. Toby's blood rises dark and inky to the surface - he is in very serious danger.  Cinnabar, the red dragonborn, has been pushed under the oily slick of the river surface as the merrow shallowpriest mutters arcane sigils. 
 - Fight aboard punts on the rivers, merrow try to pull them in
-- Shallowpriest: nerf to 60hp, 1 lvl3 slot
+- Shallowpriest: old lady named Ezra. nerf to 60hp, 1 lvl3 slot
 	- Starts w concentration on hold person on Cinnabar - can hold breath for 7 rounds
 	- First round cast mirror image
-	- Old crone Ezra also wanted to capture Cinnabar to force him to redo her sitting room
 - Merrow: new yorker accents. try to pull the PCs into the water
 	- if talked to Sophia > she's reluctant to fight, but gets ordered by mother in law Ezra
-- Basta manning the boat, make DC13 str/dex checks each round to direct boat / not get pulled downriver (move 10ft + rotate)
+	- PCs managed to persuade Sophia to leave fight
+- Basta manning the boat, make DC13 str/dex checks each round to direct boat / not get pulled downriver (move 30ft + rotate)
+	- Players can use action to row and add 10ft 
 - [Underwater Combat](https://www.reddit.com/r/rpg/comments/38d5st/drowning_checks_in_5e/)
     - Disadv + resistance for non piercing melee. Ranged weapons do not work except crossbow.
     - Swim check each round to not get swept 5ft downriver + sink 5ft
@@ -138,13 +136,13 @@ Post Battle
 - Feldspar told some merrow to capture Cinnabar, that he is the one selling info to a rival mercher Greentides
 	- obviously doesn't check out - the misurium shipment was trapped, so Giltstern also knew abt the Bridgers' plans. this means Feldspar is likely involved in the spying himself, was trying to misdirect the Bridgers
 	- give them a lead to the docks! draw all the bridgetowners out of the bridges to investigate something, get trapped behind the fray shroud, then strike
-	- Feldspar said he had to go meet someone important at the docks (the tide towers?) / the call came from the warehouse / 
 - Sophia: first got in contact with a blue dragonborn along the coast - north side of town, past the warehouses
 	- was standing on the deck of that old, half sunken trading ship
 	- seemed startled to be found, then gave contact info and said he had important info for merrow
 	- but why was he at the shipwreck?
-- Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
+- Ezra: Cinnabar is not a real Bridgetowner because he has a real business in the city, has been promised work contracts w merchers to dredge + re-engineer the river for commerce
     - Merrow know Cinnabar works for Vasilev, assumes V has betrayed them
+    - Wanted to capture Cinnabar to force him to redo her sitting room
 - Ersatz shows up
 	- heals some ppl 
 	- threaten Ezra - the bridges are not under Kevaran rule, but they are not under merrow rule either. 
@@ -166,13 +164,14 @@ Luca Industries, Incorporated
 	- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
 	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
 	- Would have taken on bluemoon as assistant, but they're about to lose their budget
+- Shockback triggers when Saranna goes to fiddle with an automata some more
 - Giltstern just made an order of his Type alpha prototypes from him, they got shipped out early this morning
 	- Just heard from Feldspar that theyre going to be "modified" by a guest consultant with Luca Industries - for battle
 	- entirely against his original wishes - they're using science to inflict violence
 	- this is not going to be good for the image of Luca Industries
 - Konrad can't do anything legally to stop them, because Giltstern already owns the goods. Wants the PCs to do damage control - figure out what the automata are being used for, try to stop anything really bad from happening
 	- doesn't have much money to pay them back with - offer to owe them a favor
-	- Give them something to resist the electric surges? a capacitor
+	- Give them something to resist the electric surges? a capacitor to prevent the stun effects
 - Maybe ask them why they're in the city - there's better employ for adventurers out in the wild
 	- warn them about Vasilev
 - Automata were ordered to the northside docks, where Clockwork made the modifications
@@ -201,7 +200,7 @@ Ship's Deck
 Galley
 - Picked over by animals, a number of smaller interconnected rooms
 - Muffled bang and a curse below
-- Door below stairs set with a a large clock, wires going off of it connecting out of the room and to a lever nearby. Hands of the watch are set to 12
+- Door below stairs set with a a large clock, wires going off of it connecting out of the room and to a lever nearby. Hands of the watch are set to 60
 	- The moment they touch the doorknob something clicks, the walls start rumbling, there's a horrible grinding sound and the sloshing of water. The hands start ticking downwards, from 60 seconds down...
 	- Hitting the lever resets it
 	- Letting it count to 0 unlocks the door, a puff of confetti sproings out of the clock face
@@ -215,6 +214,7 @@ Cargo deck / brig
 - Dark, rotting ropes and hammocks. Sailors' belongings + clothes strewn about, abandoned in a hurry
 - A clunk - the sound of a footstep somewhere above
 - Stairs upwards are submerged, there's a water elemental trying to get back out to sea (???)
+	- spits out the key
 Captain's Cabin
 - Spacious cabin with a large desk, recessed bed. Curtains around the bed have been torn down, the curtain rod is slanting towards the ground. Clockwork is sprawled across the top of the desk, Feldspar is standing in front
 - Windows boarded up, this room is on the back end of the ship + entirely underwater
@@ -235,7 +235,7 @@ Captain's Cabin
 
 Back to the Bridge
 - The fog has gotten much closer, you can see it rolling in across the sea with alarming speed. White water of the Fray ebbs and swirls like milk poured into coffee
-- The statue of Kevar's arm has changed again - it's lowered, but slowly rising. A shimmering golden net is trailing from its wrist, and you realize the net stretches all the way across the docks. What you thought was a drainage groove 200 feet in front of you has opened up, the net being slowly drawn out from it. 
+- The statue of Kevar has changed again - it's bent down, both arms dragging something up. A shimmering golden net is trailing from its hands, and you realize the net stretches all the way across the docks. What you thought was a drainage groove 200 feet in front of you has opened up, the net being slowly drawn out from it. 
 - The fog rolls in - it swallows up the shipwreck instantly, and you can't see it at all
 - Skill challenge: 3 successes to make it in time, 3 failures and the bandits sacrifice themselves to push the players over the net
 	- Running with the fog 20 feet behind your heels, something shrieks within it - a wraith reaches out (specter stats)
@@ -292,7 +292,7 @@ Back to the Bridge
     - voice: gravelly, new yorker
     - reluctantly working for Vasilev, used to be a gang hitman
         
-        STR 3 DEX 0 CON 2 INT 2 WIS -1 CHA 0 | 15ft cone fire (DEX save) | AC14 HP
+        STR 3 DEX 0 CON 2 INT 2 WIS -1 CHA 0 | 15ft cone fire (DEX save 13) | AC14 HP
         
 - Sophia: merrow. NJ/NYC accent
 	- Updo, waterproof mascara, trash bag croptop

@@ -30,6 +30,7 @@ Reminders
 - Spend all the battle slots: Move, Action, Bonus action, Reaction (once per round, opp attk)
 - Can cast spell as reaction, can cast cantrip + levelled if one is bonus
 
+
 Kallista
 - Bardic insp is a bonus action
 - Cutting words: use a bardic to subtract from dice roll
@@ -37,7 +38,7 @@ Kallista
 
 Eletha
 - Reaction to deflect missiles
-- Flurry of blows can imose: fall prone, get pushed, no reaction
+- Flurry of blows can impose: fall prone, get pushed, no reaction
 - Slow fall
 
 Lumdas

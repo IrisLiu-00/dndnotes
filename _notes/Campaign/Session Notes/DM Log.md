@@ -91,3 +91,8 @@
 		- chars didn't have much to say
 	- NPCs should ask questions to PCs, have one on one convos for character development
 	- they liked the descriptive prose bits
+- 23.11.5 - Bridgetown Brawl pt 3
+	- Finished fighting merrow, went to tavern and met Clockwork + Merriwink. Toby wants to apprentice under Merriwink or sth. Kallista has fully disguised herself to avoid notice from clockwork. They might want to try and bait the thief with false information. 
+	- They thought Ezra's real motivation was extremely funny
+	- The thinness of the "investigation" phase shows through - very little info gotten from interrogation
+	- Merrow battle was WAY too unbalanced, too difficult, had to cut everyone's HP
