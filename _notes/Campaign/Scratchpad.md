@@ -1,6 +1,7 @@
 
 ANNOUNCEMENTS
 - recap
+- (start of next adv) aiming for greater player agency
 
 Todos - immediate
 - Voices, stat block review
@@ -9,17 +10,19 @@ Todos - immediate
 - prep battle in harmlesskey, owlbear, 5etools
 
 Todos - story
+- Next adventure
+	- next miniboss (cult)
+	- the Kevara engine piece
 - Fallout from strigoia?
 	- Shrewseer believes Eletha is working for parents
 	- Duke O humiliated, launch active investigation into events?
+- the elves' plan
 - forge painting - this can be a sidequest or integrated into a bigger adventure
 	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
 	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
 - Vasilev's political agenda - appearances vs actuality
 
 
-think about other forms of government/society besides european
-real estate investment, gentrification
 
 ### Notes
 Reminders
@@ -72,11 +75,11 @@ Battle tactics
 	- elven riders hunting a runaway worker?
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
 - Do a job for Konrad
-- go graverobbing for Vasilev
-	- under Kallista's alma mater?
-	- there's a competing adventuring party (sponsored by the council?) also there
+- Merriwink gives Toby a challenge to allow him to join the thieves guild
+	- reward: toby's first magic weapon? assassin's creed hidden knife glove, they never fit Merriwink anyways
+- Avizallo - the bad guys should lead here by the end of the Kevara introduction arc
 - attend a fancy theater show
-- catch an escaped criminal
+- catch an escaped criminal (Coriolis?)
 - desert tomb raiding, helping Nidalia find out abt her creation
     - give the party a reason to find nidalia / ask her stuff > hook into this adventure
     - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?

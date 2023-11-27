@@ -1,0 +1,6 @@
+- [[Cataclysm]] fragmented engine, sent 3 of its pieces scattering into the world
+- Arcane condenser: pulls ambient arcane energy, the power source
+	- Used by [[Apostasy]]
+- some sort of weapon
+	- Used by Kevar + Arda to found [[Kevara-Arda]], now hidden in the catacombs
+- 

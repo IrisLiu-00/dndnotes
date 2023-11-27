@@ -46,10 +46,12 @@ TODOS
 __ end, crossings
 - temples' row, markets, artisans
 - some working class neighborhoods - heapside, kerrigan's end, 
+- Kerrigan's lane: where the wizard Eliss Kerrigan got her ass kicked so hard that space folded upon itself
+	- Mosaic tiled street, stepping on the diff colors transport you to a mirror version of the lane (rooftop? pocket dimension?)
 ## ARDA-SUR-MER
 - smaller sibling of Kevara portside, merchants don't tend to be headquartered here
 - Little Gardha: originally a dwarvish neighborhood, now home to many races of small folk. Can be hard to navigate for tallmen
-## KAHAMTIDE
+## KHAMGARD
 - Central Arda
 - Langksaran occupied
 ## CATACOMBS

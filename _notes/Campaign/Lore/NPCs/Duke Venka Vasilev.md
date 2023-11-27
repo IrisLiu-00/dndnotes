@@ -31,17 +31,17 @@ Cantrips:
 - Message
 - Chill touch: ranged attack, 2d8 necrotic
 
-Level 1: 4/4 slots
+Level 1: 4 slots
 - Disguise Self
 - Witch Bolt: ranged attack, 1d12 lightning per lvl, deal dmg again as action
 
-Level 2: 3/3 slots
+Level 2: 3 slots
 - Tasha’s Mind Whip: INT save, 3d5 psychic (add target for higher lvl), next turn can only do one thing
 - Suggestion
 - Misty Step: bonus action teleport 30ft
 - Darkness
 
-Level 3: 2/2 slots
+Level 3: 2 slots
 
 # Notes
 - Duke of several outlying districts of Kevara
@@ -52,8 +52,12 @@ Level 3: 2/2 slots
     - Divert city funding to public health + infrastructure - much if it is currently hemorrhaged via corruption, lobbyists (dock warehouse overseers, gentrification)
     - Allies with organized crime to try to curb their activity
         - Crime doesn’t happen because people just decide to stab pedestrians for fun; crime happens when people feel that they don’t have the power to affect change within the bounds of society. In that case, the existence of crime reflects a failure of society, not of morality.
+### Backstory
 - Publicly presents as male, transed her gender ~teen years?
 - Old Duke Vasilev adopted a drow son (Victoro) for the status, Venka came along as a page / playmate / scullery boy
     - Venka assassinated the old duke, sent Victoro back to Underdark > took Victoro’s identity as heir
 - Deeply ashamed of past - abuse, low origins, old weakness
 - Common rumor that Venka assassinated adopted father
+### Positioning
+- Holds the decryption key to Giltstern communications 
+- Getting grave relics to spoof election votes

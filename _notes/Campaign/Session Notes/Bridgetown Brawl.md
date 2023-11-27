@@ -150,6 +150,11 @@ Post Battle
 	- Ersatz: the world's not going to blow up overnight, take it easy
 	- they can chill at tavern first
 
+Baiting the rat?
+- will be hard for them to know it is Mushika unless someone gets lucky and sees the rat
+- manage to catch mushika > giltstern freaks out, decides to bomb the bridge
+	- but need a different target to chase at the bridge battle
+
 ### The Inventor
 
 - Next day: Konrad Luca gets in contact with them (how?) tells them to go to his lab for something important

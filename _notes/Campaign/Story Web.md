@@ -1,7 +1,14 @@
 Open questions
-- ==motivations of the Council to replace Fate
+- ==motivations of the Council to replace Fate, would be nice for the fate eater to tie into the central tension
 	- how is the Council escaping its past - something bad happened bc of fate and the leader is unwilling to face up to it. related to elemental surges? trying to rewrite fate to cover up past mistake?
 	- maybe the bad guy is a reincarnation/sth of someone from the cataclysm? forcing the world to face its past
+- what are the pieces of the engine - need to thematically relate to each location
+	- source of power (done), computational unit, I/O device, lens to divine potential possibilities, something to force a possibility, dice tower?, 
+	- something that scans and draws out potential possibilities - divination, a gear of fortune?
+	- something that augments your will, allows it to change reality
+	- compass / navigational device to move between possibilities
+	- a subtle knife - cuts things from their original fate
+	- players might use the engine pieces to repair Felicia's engine instead
 - how to tie elemental magic into the web - remnants of the before?
 - cosmology of apostasy wrt the cataclysm, Fate
 
@@ -18,13 +25,15 @@ Central tensions
 		- reason for current inequality in the city?
 		- acts as a bank - where did that seed money come from? invading/looting along the coast. Kevar+Arda were the first warlords
 			- caused instability in Langska, led to rise of first emperor
+- the forces of fate - what can/can't be controlled. what meaning do you make in a world that is inherently random, uncaring. 
 
   
 
 Kallista
 - Apostasy
-    - ==cosmology? worship law/order as prevention against the second cataclysm
-    - rumors of great treasure and wealth are actually a macguffin of some sort
+	- ==philosophy? why are they focused on law, justice
+		- not necessarily about law - moreso judgement, punishment, justice?
+	- probably there is a bad guy associated w the council here, trying to get hold of the condenser
 - Dead friend
 - Criminal background + connections, assassinations + thefts
     - **in Kevara
@@ -53,7 +62,7 @@ Bluemoon
 Lumdas
 - ==Mangurum - home village
     - was threatened by the thing from ocean?
-    - sacrifice to appease goddess of fate?
+    - sacrifice was actually to Onkeioros? ask Michael what biome the village is. edge of Mirwood? 
 - Family + elders
 - Earl Sweatshirt
 - Goddess of Fate
@@ -61,16 +70,17 @@ Lumdas
 
 Toby
 - ==Coriolis (”Cory”) - Djinn father - deadbeat dad
-    - did experiments on self to make bloodline super volatile?
-    - Made a deal with a devil for power, but havent paid back > ended up captured by apostasy
-    - has something to do with the engine piece in apostasy? he's using it somehow
+	- used arcane condenser in apostasy to split his soul, put the pieces of his soul in his children as a backup against death (is this too evil?) - this is why Toby had volatile power
+	- broke his deal with a devil, ends up captured in apostasy again
+	- has passed thru Kevara in the past - leave a trail to Apostasy?
 - Mother
 - Mysterious burst of wind power during childhood
 
 Eletha
 - Moonflower family + “philanthropy”
     - Ores mined are sold to Council, Luca Industries
-- ==Engine piece in mirwood? or was once in mirwood, now in Langksa
+- something in Mirwood points the way to the labyrinth, or to the last engine piece in langska
+	- Onkeioros used the engine piece to do something before losing it - became corrupted?
 - Shrewseer friend
 - Monastery
     - part of the mirwood resistance
@@ -81,7 +91,7 @@ The fate of Kevara-Arda - political struggle, natural/arcane threats
 The Cursed Ocean
 Konrad Luca - capitalist
 - puppet of the council
-- 
+- Retro computing aesthetics: [dana siberia](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
 Council - cultists, megalomaniacs
 - want to kill the goddess of fate, create a new engine to run the universe upon - the rules and constraints of the universe, destiny
 - they know abt the first engine, do they know abt the cataclysm?
@@ -94,17 +104,24 @@ Council - cultists, megalomaniacs
 - experimenting on fray-tides because they know it's related to the first engine
 - steps to power
 	- find ancient artificer's lab on how to create advanced automata
-	- find pieces of the last fate engine: in apostasy, under Kevara Arda (was used by founders somehow), in mirwood related to green man/eaten by sky whale(?)
-ancient Artificer
+	- find pieces of the old fate engine: arcane condenser (apostasy), under Kevara Arda (founders weapon), in mirwood related to green man/eaten by sky whale(?)
+- leader is someone who eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
+	- what does it mean to lose your fate? 
+	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
+	- high level lieutenants of the fate eater are those whose fates were doomed, not actually a person anymore
+The Big Bad
+Ancient Artificer
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
 Felichias: goddess of fate
-- Controls the things that happen by chance - the flip of a coin, the tumbling of a particle of air
+- people think that fate is some omniscient force moving the paths of men - but it's really just senseless randomness
     - she’s not the DM, she’s the DICE
     - Bluemoon’s magic surges, Kallista’s accidental murder, Earl getting picked by lottery, Alexa missing the carriage out of her estate and deciding to go visit the orphanage,
 - Intent, desires? force of nature or willful human?
-- Manages the engine (abacus? comptroller?) of fate - old style computer, ticker tape. dice tower?
+- Manages the engine of fate - old style computer, ticker tape. dice tower?
+	- the engine would have let you view + change the fate of an entity or an event. the BBEG would use that to change the fate of the world so it gets eaten
 - the lone remaining human from before the cataclysm (Felicia Brown)
+
 
 latest fad in the city is eating the memories of the dead
 - can be a narcotic, forgetting your own past by living in the past of others
