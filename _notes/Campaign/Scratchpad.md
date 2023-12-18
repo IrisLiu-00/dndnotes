@@ -26,6 +26,7 @@ Todos - story
 
 ### Notes
 Reminders
+- Notes on each battle should include relevant PC abilities - to remind them
 - Randomly call on people and ask what they wanna do - they can pass action off to someone else
 - Concentration for spells!
 - Take a break midway thru

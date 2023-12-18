@@ -13,6 +13,8 @@ TODOS
 - Highly influential via trade: goods go around the [[Leuchroic Sea]] and upriver inland
 - Kevara is the larger, western peninsula, situated near river delta. Arda is the slightly smaller eastern peninsula
 - Arda is technically still under Langska governance
+- Depends on saltwood from [[Avizallo]] to build their ships
+	- merchants would like to gain domination over Avizallo to buy cheaper wood
 
 # Districts
 ## THE DOWNS 

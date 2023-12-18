@@ -33,8 +33,9 @@ Kallista
 - Apostasy
 	- ==philosophy? why are they focused on law, justice
 		- not necessarily about law - moreso judgement, punishment, justice?
-	- probably there is a bad guy associated w the council here, trying to get hold of the condenser
+	- probably there is a bad guy associated w the council here, trying to get hold of the condenser - the opposing lawyer? (karuma)
 - Dead friend
+	- murder was orchestrate by someone working for BBEG, want Kallista convicted to cover up the trail
 - Criminal background + connections, assassinations + thefts
     - **in Kevara
     - took jobs from the Council
@@ -60,7 +61,7 @@ Bluemoon
 - Ring
 
 Lumdas
-- ==Mangurum - home village
+- Mangurum - home village
     - was threatened by the thing from ocean?
     - sacrifice was actually to Onkeioros? ask Michael what biome the village is. edge of Mirwood? 
 - Family + elders
@@ -71,10 +72,13 @@ Lumdas
 Toby
 - ==Coriolis (”Cory”) - Djinn father - deadbeat dad
 	- used arcane condenser in apostasy to split his soul, put the pieces of his soul in his children as a backup against death (is this too evil?) - this is why Toby had volatile power
+	- preached a false religion in apostasy, trying to just steal the condenser? was used by the bad lawyer as a pawn?
 	- broke his deal with a devil, ends up captured in apostasy again
-	- has passed thru Kevara in the past - leave a trail to Apostasy?
+	- rockstar, adventurer, false prophet, pyramid scheme boss
 - Mother
-- Mysterious burst of wind power during childhood
+- ==Mysterious burst of wind power during childhood
+	- the Fray causes weird loci in the Weave? loss of the dragons?
+	- actually also has mixed bloodline
 
 Eletha
 - Moonflower family + “philanthropy”
@@ -98,21 +102,27 @@ Council - cultists, megalomaniacs
 - powerful men who control society, but want to control more. they think they're doing it for the good of everyone
 	- order vs freedom
 	- automata as perfectly predictable + controlled systems. Both the perfect citizen and the tool to control (surveil) citizens
-- Based in Kevara (where?)
 - hold positions in Avizallo court, Langksa, trying to use Luca to gain Kevara-Arda
 - sponsoring grave robbers to find fate engine piece in Kevara, also the Felechian cult?
 - experimenting on fray-tides because they know it's related to the first engine
 - steps to power
 	- find ancient artificer's lab on how to create advanced automata
-	- find pieces of the old fate engine: arcane condenser (apostasy), under Kevara Arda (founders weapon), in mirwood related to green man/eaten by sky whale(?)
-- leader is someone who eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
+	- find pieces of the old fate engine
+Gilead, the dragon king - The Big Bad
+- based in Avizallo or Kevara? was banished from city limits when killed?
+- eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
+	- dragon hoard is ppl's fates
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
 	- high level lieutenants of the fate eater are those whose fates were doomed, not actually a person anymore
-The Big Bad
 Ancient Artificer
+- based in Avizallo
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
+- someplace off the coast of Avizallo, further into the sea
+Elves
+Onkeioros
+Langksa + sky whales (volaceta)
 Felichias: goddess of fate
 - people think that fate is some omniscient force moving the paths of men - but it's really just senseless randomness
     - she’s not the DM, she’s the DICE
@@ -127,3 +137,8 @@ latest fad in the city is eating the memories of the dead
 - can be a narcotic, forgetting your own past by living in the past of others
 - graverobbers loot all the historical sites
 - Vasilev is amassing a personal collection of dead pieces to resurrect as ghosts for voting
+
+kevar + arda slayed the last dragon (gilead)
+- they used its hair + heartstrings to weave the fray net, other body parts to found the city
+- now is undead, trapped in a mirror?
+- broken mirror motif, fates trapped within the mirror

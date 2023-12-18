@@ -12,5 +12,11 @@ Guard wear half hawk masks; lower public servants wear half sparrow masks
 - Patron god: the birds (collective whole seen as mouthpiece of a force)
 - big sport - bird fighter kites
 
+- First settled by ppl fleeing the empire, plague
+- Strong economy of Saltwood export, but heavily dependent on Kevara for food + goods import. Prevents Avizallo from having the money to build their own ships and gain power
+	- Trees that grow along the column, their roots wrapping around the glass. Birds live in the trees. Drink ocean water and weep the excess salt out of their bark. Gray-white wood.
+	- Required to make prows for boats that can navigate the Fray
+- floating sea grass flats at base of column for food (more lower class)
+
 
 [[Bluemoon]]'s hometown

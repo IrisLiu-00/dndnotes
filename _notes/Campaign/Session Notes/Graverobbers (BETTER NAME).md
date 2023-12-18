@@ -9,7 +9,11 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 
 # Scenes
 
-- Fallout from strigoia - either the duke or the elves
+- seems like should follow up on Luca, Clockwork
+	- wealthy ppl, companies suddenly very interested in using Luca's automata as weapons - possibly disastrous results, the bots only have the one setting to kill everything
+	- clockwork definitely knows from Feldspar that Kallista actually looks different - going to be chasing her
+
+- Someone is trying to figure out V (either a Kevara noble or Leanna)
 - go graverobbing for Vasilev - work w a graverobbing operation and steal the bones from them
 - fancy opera show or something - learn abt the eating bones thing, get contacts for a graverobbing party
 	- Vasilev wants souls to spoof votes in upcoming election
@@ -20,7 +24,8 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 	- Infuse corpse remains into tinctures, sold by the droplet
 	- consuming enough gives abilities / knowledge the dead had
 - dungeon/catacombs under Kallista's school
-- competing adventuring party
+	- Lyell + Ringley turn up again? to do what 
+	- Coriolis was guest lecturing there
 - lead up to a miniboss - a cult actually working for the council trying to get engine piece
 	- cultists r elves - funded by one of the mirwood espirae?
 	- Cult leader - necrichor, remnant cultist, drow mage?
@@ -34,7 +39,7 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 		- get ppl addicted? resurrect ghosts to attack? take over the church? resurrect the plague? use soul fragments to brainwash ppl?
 		- subvert the church + gain political power
 		- plague - like the kettling. spreads thru bio matter (blood, but also bone)
-	- dressed as a widow. 8 ft tall, black mourning dress, full veil over head. flips hair, eyes like chips of ice, curled lip. hates eletha for her power
+	- dressed as a widow. 8 ft tall, black mourning dress, full veil over head. flips hair, eyes like chips of ice, curled lip. hates eletha for her status
 	- stats - druid + necro stuff?
 
 Goals
