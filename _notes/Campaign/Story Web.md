@@ -75,6 +75,7 @@ Toby
 	- preached a false religion in apostasy, trying to just steal the condenser? was used by the bad lawyer as a pawn?
 	- broke his deal with a devil, ends up captured in apostasy again
 	- rockstar, adventurer, false prophet, pyramid scheme boss
+		- apostasy big bad is an ex of his, baited him into trying to steal the artifact
 - Mother
 - ==Mysterious burst of wind power during childhood
 	- the Fray causes weird loci in the Weave? loss of the dragons?
