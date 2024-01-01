@@ -61,3 +61,4 @@ Level 3: 2 slots
 ### Positioning
 - Holds the decryption key to Giltstern communications 
 - Getting grave relics to spoof election votes
+- Always drinks from a flask to avoid the dragon curse - so she can eventually poison the Patrician

@@ -7,6 +7,7 @@ TODOS
 	- the city is alive, the streets move and statues speak - status mechanics for how much city likes you
 - name for river
 - magic mechanics of the city election, patrician authority
+- built on the corpse of a dragon? buildings and ships part by the patrician's will (too similar to nexida). there is a beating dragon's heart below the city
 # The World's Gate
 
 - A huge, old city state that has seen many different rulers and ages. Layers upon layers of different cultures, architectural styles, religions
@@ -15,6 +16,18 @@ TODOS
 - Arda is technically still under Langska governance
 - Depends on saltwood from [[Avizallo]] to build their ships
 	- merchants would like to gain domination over Avizallo to buy cheaper wood
+
+Patrician
+- cannot be killed by anyone with Kevaran water in their body
+	- the aqueducts + fountains are enchanted (lined with dragonscale?)
+	- anyone who acts to harm the patrician has their blood boil / turn to dragonflame
+
+Election..
+- 
+
+Kevar + Arda
+- slayed the dragon king [[Gilead]] using [[Fate Engine Pieces]], claimed the land of Kevara-Arda
+- founded a sort of democracy after destroying king
 
 # Districts
 ## THE DOWNS 
@@ -44,12 +57,12 @@ TODOS
 - Patrician's hill, center of government
 - Wealthiest neighborhoods, landed gentry
 - Expensive jewelers' shops
-## KERRIGAN'S END
-__ end, crossings
+## KINGS' END
 - temples' row, markets, artisans
 - some working class neighborhoods - heapside, kerrigan's end, 
 - Kerrigan's lane: where the wizard Eliss Kerrigan got her ass kicked so hard that space folded upon itself
 	- Mosaic tiled street, stepping on the diff colors transport you to a mirror version of the lane (rooftop? pocket dimension?)
+- Sixpoints intersection
 ## ARDA-SUR-MER
 - smaller sibling of Kevara portside, merchants don't tend to be headquartered here
 - Little Gardha: originally a dwarvish neighborhood, now home to many races of small folk. Can be hard to navigate for tallmen

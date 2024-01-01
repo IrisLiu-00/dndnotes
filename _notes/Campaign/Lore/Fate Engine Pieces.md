@@ -2,6 +2,6 @@
 - Arcane condenser: pulls ambient arcane energy, the power source
 	- Used by [[Apostasy]]
 - Potentiality splitter / Lance of Kevar
-	- Used by Kevar + Arda to found [[Kevara-Arda]], now hidden in the catacombs
+	- Used by Kevar + Arda to kill [[Gilead]], now hidden in the catacombs
 - Memory bank
 	- Held (was held?) by [[Onkeioros]]

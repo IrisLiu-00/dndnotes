@@ -5,11 +5,17 @@ Old god - the green man, Onkeioros, cancerous overflowing growth. One of the fir
 Interests:
 - conflicts with non elf coastal settlements (Kevara-Arda) over deforestation
 - would like to see other city states populated with elven / elven sympathetic governments - build a protective sphere around mirwood
+	- increased social stratification over non-elves gathers espirae
 
 Moonflower Estate:
 - One of the most prominent, Eletha’s old home
 - Shelters for orphans / underserved residents are actually labor camps to mine precious ores deep within the forest
 - The Moonflower espirans sell ore (elf’s tears, misurium) to other elven estates (including the Shrewseers, family of Eletha’s childhood friend) - the lucrative business deal gets them a lot of espirae, as does their exploitation of the orphans
+- Secretly working for [[Onkeioros]]
+- Look down on Shrewseers
+
+Shrewseer Estate
+- new money, don't know about Onkeioros
 
 About elves:
 - Lifespan varies by social class: 150 yrs for lower class up to 1000 for highest class

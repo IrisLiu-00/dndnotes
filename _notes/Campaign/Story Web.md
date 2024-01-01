@@ -76,7 +76,10 @@ Toby
 	- broke his deal with a devil, ends up captured in apostasy again
 	- rockstar, adventurer, false prophet, pyramid scheme boss
 		- apostasy big bad is an ex of his, baited him into trying to steal the artifact
-- Mother
+- Mother - Annalise?
+	- Toby's powers actually came from her - passed her powers onto toby to protect him (from what), losing her mind in the process
+	- related/necessary to find Nexida, or to the council - she worked for them?
+	- wants / motives ? was a whirlwind adventurer or thief?
 - ==Mysterious burst of wind power during childhood
 	- the Fray causes weird loci in the Weave? loss of the dragons?
 	- actually also has mixed bloodline
@@ -99,20 +102,14 @@ Konrad Luca - capitalist
 - Retro computing aesthetics: [dana siberia](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
 Council - cultists, megalomaniacs
 - want to kill the goddess of fate, create a new engine to run the universe upon - the rules and constraints of the universe, destiny
-- they know abt the first engine, do they know abt the cataclysm?
-- powerful men who control society, but want to control more. they think they're doing it for the good of everyone
-	- order vs freedom
-	- automata as perfectly predictable + controlled systems. Both the perfect citizen and the tool to control (surveil) citizens
 - hold positions in Avizallo court, Langksa, trying to use Luca to gain Kevara-Arda
-- sponsoring grave robbers to find fate engine piece in Kevara, also the Felechian cult?
 - experimenting on fray-tides because they know it's related to the first engine
 - steps to power
 	- find ancient artificer's lab on how to create advanced automata
 	- find pieces of the old fate engine
 Gilead, the dragon king - The Big Bad
-- based in Avizallo or Kevara? was banished from city limits when killed?
+- steps to regaining physical form?
 - eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
-	- dragon hoard is ppl's fates
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
 	- high level lieutenants of the fate eater are those whose fates were doomed, not actually a person anymore
@@ -121,6 +118,11 @@ Ancient Artificer
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
 - someplace off the coast of Avizallo, further into the sea
+- find his writings, maps, labs. need a special boat to get there? how to navigate thru Fray
+- connection to djinn or genasi? enslaved air elementals to protect lab?? made a wish on Coriolis? so annalise was trying to get the location from coriolis?
+	- you get a wish from a djinn by having them owe you a favor - or by trapping/tricking them
+	- should it be a floating island
+	- Bad guys might capture coriolis, or find some other way to find island
 Elves
 Onkeioros
 Langksa + sky whales (volaceta)
