@@ -35,7 +35,7 @@ Guard wear half hawk masks; lower public servants wear half sparrow masks
 	- highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
 - Raven - working to investigate the murder, trying to keep peace(? don't think shes that pessimistic)
 	- she does think the case is more complicated than it seems
-- Necromancer dude - trying to uncover location of Nexida
+- Necromancer dude (owl? someone else?) - trying to uncover location of Nexida
 	- infiltrate / take out the water source - why?
 	- Murder related to him - why and how? the victim was connected to the artificer
 		- what are the steps to finding nexida, how is it hidden

@@ -68,25 +68,29 @@ Info the PCs need to find the dungeon
 	-  Vasilev wants souls to spoof votes in upcoming election
 - musical play by the Sirenian players, lore vehicle abt KA + dragon
 - assassination attempt (on who? one of the young lords smoking? Ornsgrym?)
+- Duke Filroy's young nephew (crunch moon vibes)
 - things they can find out
 	- the necromancer supplying the smokes - she's not directly involved in their manufacture, but most of the young lords have been purchasing from Ornsgrym. Ornsgrym will be public at the send off of a Kevara diplomat tmr, most likely will also be selling. 
 	- the assassin - has just smoked. Only talks about the composition or is catatonic. Removing possession leaves them with no memory of events
 
-### bone smoke stuff
-- mechanics for effects + possession
-- corpse eating - corse-mange / scyro / soulsmoke / soulsweal
-	- latest fad among the wealthy is consuming the memories of the dead
-	- souls leave an imprint on bodily remains - use a ritual to amplify them
-	- smoke via a long skinny opium pipe
-	- consuming enough gives abilities / knowledge the dead had
-	- drug mechanics for PC consumption - force a save against possession
+### Elysian Fog
+- Nacreous, shimmering, thick smoke, taken by a long pipe (like opium pipe)
+- Taking a drag fills you with a heady, floaty feeling, and you start to see faces and scenery in the smoke surrounding you. The release of being anyone but yourself. It smokes clean, there's no low after effects wear off. 
+	- similar to possession, but not technically true possession because the original soul is not there
+- Souls leave an imprint on bodily remains, process via ritual into flammable substance
+- Possession: DC10 WIS save against possession, increases by 2 for every usage of the smoke
 
-## A Diplomat's Send Off
+1hr 1d4 bonus to some sort of check
+price scales based on how desirable / rare the figure was
+adventurers, nobles, kerrigan the mage, performers?, the great leviathan captain Azolar Avila buried with his first mate and all his deckhands in the ribcage of his leviathan, criminals?, a retainer in the old Duke Vasilev court?, warrior (during empire invasion), a religious figure?
+
+## The Brightides Festival
 - festival for the start of the trading season - when the trade winds turn
 - priests provide readings of the signs for the city and individuals
 - Sixpoints plaza in Kings' End - cordoned off, have the PCs figure out how to get in (challenges against? the automata, guards)
 - ==this is a weak concept! Semireligious ceremony for safe travels? get some city magic in there
 - A diplomat is being sent off to Avizallo to discuss the coming year's saltwood trade - Kevara has not built new ships in nearly a decade
+	- make this the murder victim - gyrfalcon?
 - A sparrow-masked Avizallo diplomat is also there
 - Ornsgrym has hired lots of automata for safety, Giltstern + other merchants r there
 - Patrician is there, mostly useless. Speech about the Fray
@@ -98,6 +102,10 @@ Info the PCs need to find the dungeon
 ## Clockwork's Trap
 - either usurps Merriwink's thieves or Kallista school
 - Merriwink says she has a tip about the graverobbers - in return for some sort of fetch quest?
+- do the Kerrigan fight here?
+
+## The Kevara-Arda Archaeological Society
+- Lyell and ringley are here as consultants, trying to make some money - they're maybe researching gilead? city founding?
 
 ## The Dungeon
 ### The School

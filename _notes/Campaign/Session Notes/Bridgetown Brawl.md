@@ -10,9 +10,10 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 # Background
 
 Spy is wererat Mushika (Two-Penny), new in town after the unrest in Baldur’s Gate
-- has been spying on Vaughn and other criminals as a rat crawling in the walls
+- has been spying as a rat crawling in the walls
 
-hint at what’s goin on w the elves?
+hint at: cult, elysian fog, avizallo trade
+make it a problem that kallista is lying to party - sow conflict
 
 # Scenes
 
@@ -150,10 +151,6 @@ Post Battle
 	- Ersatz: the world's not going to blow up overnight, take it easy
 	- they can chill at tavern first
 
-Baiting the rat?
-- will be hard for them to know it is Mushika unless someone gets lucky and sees the rat
-- manage to catch mushika > giltstern freaks out, decides to bomb the bridge
-	- but need a different target to chase at the bridge battle
 
 ### The Inventor
 
@@ -163,13 +160,15 @@ Baiting the rat?
 
 Luca Industries, Incorporated
 - read aloud
-	- An old brick factory building in the working class neighborhood of Kerrigan's End. A warehouse door on one end is open; you see two figures standing inside. 
-- When they arrive: shirtsleeves rolled up, leaning over a ledger book, talking to a female dark skinned elf with round glasses, wearing a lab coat
-	- telling lab tech Saranna they might soon be pressed for money, he might have to let her go - has two months of savings that he can send her off with
-	- Worried that investors will pull the plug after losing last shipment of misurium - production will be halted for several months
+	- An old brick factory building in the working class neighborhood of Kerrigan's End. A warehouse door on one end is open; there is a very well appointed carriage in orange and blue livery parked in front
+	- gleaming chrome and brass machinery, a small engine hums with a faint blue glow. A top of the line crystal arcanographer
+- When they arrive: Konrad Luca is speaking to a mustachioed lord (Duke Filroy)
+	- Duke: unfortunate, i say, really unfortunate that you lost that last shipment! Had hoped better from you, my boy, when I put my faith and money in you - you say that will set you back for how long?
+	- Konrad: Two months sir, and I do apologize, but if I were to have just enough gold to make up for the lost raw materials, then I could have production of the prototypes back on schedule with only a small delay -
+	- Duke: nonsense my boy! Whatever happened some good old elbow grease and pulling yourself up by your bootstraps? 
 	- Put all of his savings into this - on closer inspection, his jacket is fraying and patched
-	- Would have taken on bluemoon as assistant, but they're about to lose their budget
-- Shockback triggers when Saranna goes to fiddle with an automata some more
+	- Might have to tell his lab tech she'll be out of work for a while. Would have taken on bluemoon as assistant, but they're about to lose their budget
+- Shockback triggers when he goes to fiddle with an automata some more
 - Giltstern just made an order of his Type alpha prototypes from him, they got shipped out early this morning
 	- Just heard from Feldspar that theyre going to be "modified" by a guest consultant with Luca Industries - for battle
 	- entirely against his original wishes - they're using science to inflict violence
@@ -258,11 +257,27 @@ Back to the Bridge
 - All bridgefolk are stunned from automata shockwave
 - Mushika (as rat) has planted mines on the underside of bridge
     - Mines are Clockwork’s invention
-    - give him a bomb also?
 - Fight across the bridge to chase Mushika, who holds the detonator
-	- either X rounds until detonation, or until Mushika gets to the other side
+	- mushika takes dash as long as no one is in melee. Disengage if caught?
+	- automata chase + block, range + melee. Some on roofs (half move to jump down)
+	- what do automata do when mushika dies?
 - Automata contracted from Luca Industries hold the bridge, have pinned down all the Bridgefolk
     - Have already used up their Shockwave attk
+- Make it clear that mushika will detonate when he gets to other side of bridge. The goal in combat is not always to straight up kill all the opponents
+	- explosion is 4d6 dmg - DEX / STR save to jump off the side of the bridge for half dmg or fall dmg
+- Notes for players
+	- Eletha - step of the wind lets you take a 3rd movement
+- lycanthropy risk - if infected?
+	- make that first night a full moon
+	- periodic WIS save to lose control and transform, always loses control on full moon > control goes to DM
+	- immunities only while transformed
+	- while transformed - no casting, lose proficiency on attacks
+	- find someone to cast remove curse
+
+Fail State (bridge blows up)
+- roll to see if important npcs die
+- Vasilev loses ground - Luca or dukes start digging into her background. Try to take away her council seat, take away her ownership (player's ownership) of the house. 
+- Luca gains power - merchers, nobles buy into his company. Luca may start offering adventurers jobs instead. Vasilev may be pissed if players agree and she finds out. 
 
   
 

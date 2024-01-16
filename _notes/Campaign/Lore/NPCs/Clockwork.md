@@ -21,6 +21,7 @@ protection from energy?, dispel magic, summon construct
 - Was an excellent watchmaker who turned to explosives + murder
 - Has a younger sister
 
+- add a time bomb ability to clockwork
   
 
   
