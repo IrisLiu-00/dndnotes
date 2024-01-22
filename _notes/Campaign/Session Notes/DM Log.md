@@ -96,3 +96,14 @@
 	- They thought Ezra's real motivation was extremely funny
 	- The thinness of the "investigation" phase shows through - very little info gotten from interrogation
 	- Merrow battle was WAY too unbalanced, too difficult, had to cut everyone's HP
+- 24.1.21 - Bridgetown Brawl pt 4
+	- skill challenge - need to look up the rules for how to actually do this
+		- figure out appropriate DCs based on level - I think you should have made them 15
+		- Did have some cool/exciting moments - Justine thinking to swing the rope to vault over the net
+			- have to get better at dramatic narration
+	- the shipwreck "dungeon" was kind of a drag - most rooms were pointless
+	- gotta refresh on character voices before the session - you forgot both Sophie + Vasilev
+	- description of the fray coming in was not sufficiently dramatic
+	- information exposition is unclear - you gotta go into a scene knowing what info the players need to be told
+	- clockwork characterization not wacky enough
+	- 

@@ -151,6 +151,11 @@ Post Battle
 	- Ersatz: the world's not going to blow up overnight, take it easy
 	- they can chill at tavern first
 
+Recap
+- heroes in the gutters of the city - exploring the lawless, extralegal bridge town of the city Kevara Arda
+- have a job from the duke Vasilev to find a rat - a spy among the criminal gangs of the city, sent there by the merchants 
+- upon the bridge Shoewater you met Ersatz, the con man / ringleader of bridgetown; their right hand man Basta; the queen of thieves, the goblin Merriwink; and re-encountered your friend Cinnabar, the dragonborn handyman, but only after saving him from a near kidnapping by the river merrow. But despite all your efforts, it seems that you are still not much closer to finding your target - except for a passing remark from your merrow friend Sophia, who said that the merrow were contacted by the dragonborn Feldspar, accountant working for Giltstern trading enterprises, at a strange abandoned shipwreck on the outskirts of town....
+
 
 ### The Inventor
 
@@ -175,7 +180,8 @@ Luca Industries, Incorporated
 	- this is not going to be good for the image of Luca Industries
 - Konrad can't do anything legally to stop them, because Giltstern already owns the goods. Wants the PCs to do damage control - figure out what the automata are being used for, try to stop anything really bad from happening
 	- doesn't have much money to pay them back with - offer to owe them a favor
-	- Give them something to resist the electric surges? a capacitor to prevent the stun effects
+- If they take the job, give each PC a capacitor
+	- Advantage on saves against lightning dmg / shock effects, until the first failure, where it negates the effect then loses potency
 - Maybe ask them why they're in the city - there's better employ for adventurers out in the wild
 	- warn them about Vasilev
 - Automata were ordered to the northside docks, where Clockwork made the modifications
@@ -192,7 +198,7 @@ Going to investigate
 - Past the warehouses - low slung, utilitarian buildings. Some of these used to be plague houses back in the day.
 
 The old trading galleon
-- An old wreck of a ship, half-moored against the stone pier. Wooden planks gray and splintered, jutting into the air like old bones. The ship lists sharply towards its back, partially sunken. Sound of water lapping on wood.
+- An old wreck of a ship, half-moored against the stone pier. Wooden planks gray and splintered, jutting into the air like old bones. The keel has been entirely stripped away (for the saltwood). The ship lists sharply towards its back, partially sunken. Sound of water lapping on wood.
 - Hole in the side of the hull, abt 10 ft down - goes to Cargo Deck
 - Ersatz, some other bandits offer to keep watch - others will split out into a diff route
 
@@ -208,12 +214,13 @@ Galley
 	- The moment they touch the doorknob something clicks, the walls start rumbling, there's a horrible grinding sound and the sloshing of water. The hands start ticking downwards, from 60 seconds down...
 	- Hitting the lever resets it
 	- Letting it count to 0 unlocks the door, a puff of confetti sproings out of the clock face
+	- Goes to Gun Deck?
 Gun Deck
 - Where Clockwork modified the automata
 - Cavernous space, rows of cannons lining the two sides. The soft drip of water. Several cannons have been opened up and emptied of gunpowder
 - Gutted remains of a few automata - shockback effect if they approach
 - Springs, clockwork mechanisms - these look like they were made by a different hand, diff materials
-- Heavy door at the back end with a lock in the center. The officers of this ship were afraid of their underlings
+- Heavy door at the back end with a lock in the center. The officers of this ship were afraid of their underlings. Goes to Captains Cabin
 Cargo deck / brig
 - Dark, rotting ropes and hammocks. Sailors' belongings + clothes strewn about, abandoned in a hurry
 - A clunk - the sound of a footstep somewhere above
@@ -226,6 +233,7 @@ Captain's Cabin
 	- Clockwork: not a fugitive, I told you. And what's the point in going on vacation if you can't sightsee?
 	- Feldspar: they're running me raw doing all this babysitting... first the rat, and now you?
 	- Clockwork: did you like my housewarming additions upstairs? I was getting so bored of just opening boring normal doors...
+	- Felspar recognizes Kallista, doesn't she usually have skin a different color?
 - Merchants are confused why a tiefling with the seals of the Iron Magistrates have arrived in Kevara, but they don’t want to turn down an opportunity to plunder the treasures of Apostasy
 - Mushika complaining that Feldspar's bosses won't pay him enough to rent a room - he's getting cold from sleeping in the gutters. Feldspar says they can't have him risking a trail
 - Feldspar reveals that Mushika + automata have already gone to Bridgetown to blow up the bridges
@@ -239,19 +247,39 @@ Captain's Cabin
 
 Back to the Bridge
 - The fog has gotten much closer, you can see it rolling in across the sea with alarming speed. White water of the Fray ebbs and swirls like milk poured into coffee
-- The statue of Kevar has changed again - it's bent down, both arms dragging something up. A shimmering golden net is trailing from its hands, and you realize the net stretches all the way across the docks. What you thought was a drainage groove 200 feet in front of you has opened up, the net being slowly drawn out from it. 
+- The statue of Kevar has changed again - it's bent down, both arms dragging something up. A shimmering golden net is trailing from its hands, and you realize the net stretches all the way across the docks. What you thought was a drainage gutter 200 feet in front of you has opened up, the net being slowly drawn out from it. 
 - The fog rolls in - it swallows up the shipwreck instantly, and you can't see it at all
-- Skill challenge: 3 successes to make it in time, 3 failures and the bandits sacrifice themselves to push the players over the net
+- Skill challenge: 3 successes to make it in time, 3 failures and the bandits sacrifice themselves to push the players over the net. Tell me what you're trying to do, and we'll figure out the skill check or spell to achieve it. 
 	- Running with the fog 20 feet behind your heels, something shrieks within it - a wraith reaches out (specter stats)
 	- Breathing in the fog, your chest seizes up + magic abilities fail
 	- Back towards the warehouses - a crane swinging out of the way of the net, panicked horses pulling crates, crowd of remaining dockworkers running for shelter, foreman screaming at them
 	- Climb over the rising net
-- Past the net - with a jerk, it springs up the rest of the way as the statue brings its arm level with its shoulder. The shroud now stretches 500 feet into the air, it's weave made of some sort of dense metallic fiber. The fog surges in, crashing into the net with a force that actually makes it bulge inwards and strain - but it holds. 
+- Past the net - with a jerk, it springs up the rest of the way as the statue brings its arm level with its shoulder. The shroud now stretches 500 feet into the air, it's weave made of some sort of dense metallic fiber which instantly alights in a pale red-gold flame. The fog surges in, crashing into the net with a force that actually makes it bulge inwards and strain - but it holds. You see that as the fog comes up against the fire, it steams and sputters, rising and dissolving into the air
 - How do they try to get across the city back to the bridges?
 - If any bandits made it with them, have another phalanx of automata come out to engage them
 
+- 
+- whats kallista doing while she gets back first? how does the battle play out
+	- just give her more automata to fight? let her save/evac some people?
+	- what does she get for calling Vasilev for help? 2 guards? what can they do?
+	- there's multiple bridges - let her free one of the bridges?
+	- do you just let her fight them and die?
 
 ### Battle on the Bridge
+
+- make sure everyone had a long rest before this
+
+Rest of the Party stuff
+- row of 10 automata, bandits will try to hold them off
+- they need some sort of check get past the automata?
+Kallista's stuff
+- it's still going to take time to get to Bridge from Ass Place, just a faster time
+- cinnabar contracted by giltstern to do construction (road work?) around the bridges - to block traffic in/out
+- area around the bridge is all blocked off by  - a shipment? automata?
+- it should be difficult for her, she's only one person
+- have the automata use shockwave to take out guards
+- let her have a chance of achieving something - what?? part of a defuser?
+
 
 - merchants plan to take out the Bridgers once and for all by blowing up the bridges
 - All bridgefolk are stunned from automata shockwave
@@ -259,7 +287,7 @@ Back to the Bridge
     - Mines are Clockwork’s invention
 - Fight across the bridge to chase Mushika, who holds the detonator
 	- mushika takes dash as long as no one is in melee. Disengage if caught?
-	- automata chase + block, range + melee. Some on roofs (half move to jump down)
+	- automata chase + block, range + melee. Some on roofs (ATHL check to jump down)
 	- what do automata do when mushika dies?
 - Automata contracted from Luca Industries hold the bridge, have pinned down all the Bridgefolk
     - Have already used up their Shockwave attk
