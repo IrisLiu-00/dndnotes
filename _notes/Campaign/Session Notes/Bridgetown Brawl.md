@@ -271,16 +271,24 @@ Back to the Bridge
 
 Rest of the Party stuff
 - row of 10 automata, bandits will try to hold them off
-- they need some sort of check get past the automata?
+- they need some sort of check get past the automata? don't want to run an actual combat
+	- athl/acr check or take dmg? 
+	- what are the consequences of failing check - lose hp, lose time
 Kallista's stuff
+- teleported back to the bathroom of Ass play
 - it's still going to take time to get to Bridge from Ass Place, just a faster time
-- cinnabar contracted by giltstern to do construction (road work?) around the bridges - to block traffic in/out
-- area around the bridge is all blocked off by  - a shipment? automata?
-- it should be difficult for her, she's only one person
-- have the automata use shockwave to take out guards
-- let her have a chance of achieving something - what?? part of a defuser?
+- meet up with 2 of Vasilev's guards on her way out - they will follow her
+- exit alleyway going to the riverside - blocked off by Cinnabar's construction, about 500ft from the first of the bridges (widdle over shine)
+	- Cinnabar talking to a pedestrian - road's closed, take a detour
+	- scaffolding, carts loaded with cement and stone, wooden ramps - tearing up the section of the road in front of the bridges. automata are moving things around
+	- Cinnabar has finally gotten his big break - contracted by one of the mercher companies to redo some of the roads, and given a free workforce to do it!
+		- will get angry at ppl suggesting his work is bad?
+- 2 automata - will block entry despite whatever cinnabar says
+	- use shockwave, take out guards, cinnabar
+	- are they going to chase kallista if they don't get taken out/distracted?
+- sophia appears - has been keeping an eye on things, can point her to the bridge where she's seen the most activity
 
-
+At Shoewater
 - merchants plan to take out the Bridgers once and for all by blowing up the bridges
 - All bridgefolk are stunned from automata shockwave
 - Mushika (as rat) has planted mines on the underside of bridge
