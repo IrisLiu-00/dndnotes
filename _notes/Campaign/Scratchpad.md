@@ -1,11 +1,11 @@
 
 ANNOUNCEMENTS
 - recap
-- (start of next adv) aiming for greater player agency
+- lvl up?
 
 Todos - immediate
 - Voices, stat block review
-- maps: bridge
+- maps: 
 - stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
 
@@ -79,6 +79,8 @@ Battle tactics
 - Merriwink gives Toby a challenge to allow him to join the thieves guild
 	- reward: toby's first magic weapon? assassin's creed hidden knife glove, they never fit Merriwink anyways
 - Avizallo - the bad guys should lead here by the end of the Kevara introduction arc
+	- should clearly establish what Nexida is 
+	- should establish Coriolis
 - attend a fancy theater show
 - catch an escaped criminal (Coriolis?)
 - desert tomb raiding, helping Nidalia find out abt her creation

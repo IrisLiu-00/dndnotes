@@ -1,16 +1,11 @@
 Open questions
-- ==motivations of the Council to replace Fate, would be nice for the fate eater to tie into the central tension
-	- how is the Council escaping its past - something bad happened bc of fate and the leader is unwilling to face up to it. related to elemental surges? trying to rewrite fate to cover up past mistake?
-	- maybe the bad guy is a reincarnation/sth of someone from the cataclysm? forcing the world to face its past
-- what are the pieces of the engine - need to thematically relate to each location
-	- source of power (done), computational unit, I/O device, lens to divine potential possibilities, something to force a possibility, dice tower?, 
-	- something that scans and draws out potential possibilities - divination, a gear of fortune?
-	- something that augments your will, allows it to change reality
-	- compass / navigational device to move between possibilities
-	- a subtle knife - cuts things from their original fate
-	- players might use the engine pieces to repair Felicia's engine instead
-- how to tie elemental magic into the web - remnants of the before?
+- Steps for finding Nexida
 - cosmology of apostasy wrt the cataclysm, Fate
+Need to set up
+- Lore around Kevar, Arda, Gilead
+- Role of Felichian religion, the goddess
+- Coriolis's exploits
+- Legends about dragons? 
 
 
 Central tensions
@@ -35,7 +30,7 @@ Kallista
 		- not necessarily about law - moreso judgement, punishment, justice?
 	- probably there is a bad guy associated w the council here, trying to get hold of the condenser - the opposing lawyer? (karuma)
 - Dead friend
-	- murder was orchestrate by someone working for BBEG, want Kallista convicted to cover up the trail
+	- murder was orchestrated by someone working for BBEG, wants Kallista convicted to cover up the trail
 - Criminal background + connections, assassinations + thefts
     - **in Kevara
     - took jobs from the Council
@@ -57,7 +52,7 @@ Bluemoon
     - multiclass into artificer? or he learns from Luca?
 - Kristynne (ex lover)
     - Married a nobleman of Avizallo to gain power
-    - Working against the council's plans
+    - Working against the bad guy in Avizallo
 - Ring
 
 Lumdas
@@ -68,21 +63,33 @@ Lumdas
 - Earl Sweatshirt
 - Goddess of Fate
 	- a sect of the religion starts advocating a new world order - tied to the Council
+	- give this guy some prophetic dreams or whatever
 
 Toby
 - ==Coriolis (”Cory”) - Djinn father - deadbeat dad
-	- used arcane condenser in apostasy to split his soul, put the pieces of his soul in his children as a backup against death (is this too evil?) - this is why Toby had volatile power
-	- preached a false religion in apostasy, trying to just steal the condenser? was used by the bad lawyer as a pawn?
-	- broke his deal with a devil, ends up captured in apostasy again
+	- ~~used arcane condenser in apostasy to split his soul, put the pieces of his soul in his children as a backup against death (is this too evil?) - this is why Toby had volatile power
 	- rockstar, adventurer, false prophet, pyramid scheme boss
 		- apostasy big bad is an ex of his, baited him into trying to steal the artifact
-- Mother - Annalise?
+	- was captured by the Artificer in Avizallo - artificer made a wish to create his labryinth in the sky
+	- now captured in apostasy - bad guy made a wish to transfer his powers away somehow?
+		- was getting used by bad guy in apostasy to steal the condenser?
+		- broke a deal with a devil?
+	- relation to Indira Ashoor? 
+		- Coriolis's daughter?!?! would have to be a year younger than Toby - she's being pursued bc Apostasy thinks she has Coriolis' power now
+		- was conceived as a vessel for elemental powers, unlike toby
+		- doesn't explain why Apostasy wants his powers - to also get to Nexida?
+- Mother (Annalise)
 	- Toby's powers actually came from her - passed her powers onto toby to protect him (from what), losing her mind in the process
 	- related/necessary to find Nexida, or to the council - she worked for them?
 	- wants / motives ? was a whirlwind adventurer or thief?
-- ==Mysterious burst of wind power during childhood
+	- Named after Annalise's friend Tobias? who is part of the Mirwood resistance
+- ==Mysterious burst of wind power at 14yrs (2y ago)
 	- the Fray causes weird loci in the Weave? loss of the dragons?
 	- actually also has mixed bloodline
+	- Apostasy caught Coriolis and punished him, stripping him of power into a regular human. Coriolis's power tried to jump to next closest link (Toby), but it burst out of him in a destructive gust
+		- Apostasy was trying to extract the power from Coriolis, but it went somewhere else
+		- Coriolis has lost most of his memory, inept, deadbeat - need to build him up in order to pay off the disappointment
+		- would need to establish the power transferral mechanic - maybe apostasy already uses it on fire elementals
 
 Eletha
 - Moonflower family + “philanthropy”
@@ -96,7 +103,7 @@ Eletha
   
 
 The fate of Kevara-Arda - political struggle, natural/arcane threats
-The Cursed Ocean
+The Fray
 Konrad Luca - capitalist
 - puppet of the council
 - Retro computing aesthetics: [dana siberia](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)

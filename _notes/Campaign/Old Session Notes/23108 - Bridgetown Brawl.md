@@ -267,8 +267,6 @@ Back to the Bridge
 
 ### Battle on the Bridge
 
-- make sure everyone had a long rest before this
-
 Rest of the Party stuff
 - row of 10 automata, bandits will try to hold them off
 - they need some sort of check get past the automata? don't want to run an actual combat
@@ -287,23 +285,29 @@ Kallista's stuff
 	- use shockwave, take out guards, cinnabar
 	- are they going to chase kallista if they don't get taken out/distracted?
 - sophia appears - has been keeping an eye on things, can point her to the bridge where she's seen the most activity
+	- can help distract merrow if kallista lures them close to side of road
 
 At Shoewater
 - merchants plan to take out the Bridgers once and for all by blowing up the bridges
 - All bridgefolk are stunned from automata shockwave
 - Mushika (as rat) has planted mines on the underside of bridge
-    - Mines are Clockwork’s invention
+    - craftwork of the mines, modified automata matches Clockwork's engineering from the shipwreck
+    - automata have been reengineered - fingers of one arm stripped way to expose a crackling electric prong, other arm mounted with a crossbow
+- ==PRE BATTLE
+	- move mushika - 3 past auto2
+	- make sure players can login to harmless key, check if they can apply statuses
+	- Kallista can pick which end of the bridge she wants to appear on?
 - Fight across the bridge to chase Mushika, who holds the detonator
 	- mushika takes dash as long as no one is in melee. Disengage if caught?
-	- automata chase + block, range + melee. Some on roofs (ATHL check to jump down)
-	- what do automata do when mushika dies?
+	- automata chase + block, range + melee.
+	- what do automata do when mushika dies? keep fighting? see how the PCs look
 - Automata contracted from Luca Industries hold the bridge, have pinned down all the Bridgefolk
     - Have already used up their Shockwave attk
 - Make it clear that mushika will detonate when he gets to other side of bridge. The goal in combat is not always to straight up kill all the opponents
 	- explosion is 4d6 dmg - DEX / STR save to jump off the side of the bridge for half dmg or fall dmg
 - Notes for players
 	- Eletha - step of the wind lets you take a 3rd movement
-- lycanthropy risk - if infected?
+- lycanthropy risk - if infected? TOBY
 	- make that first night a full moon
 	- periodic WIS save to lose control and transform, always loses control on full moon > control goes to DM
 	- immunities only while transformed
@@ -311,7 +315,7 @@ At Shoewater
 	- find someone to cast remove curse
 
 Fail State (bridge blows up)
-- roll to see if important npcs die
+- roll to see if important npcs die (Ersatz, Sophia, who else?)
 - Vasilev loses ground - Luca or dukes start digging into her background. Try to take away her council seat, take away her ownership (player's ownership) of the house. 
 - Luca gains power - merchers, nobles buy into his company. Luca may start offering adventurers jobs instead. Vasilev may be pissed if players agree and she finds out. 
 
@@ -368,3 +372,4 @@ Fail State (bridge blows up)
 
 ### Session Notes
 - investors will find out that Konrad's automata can be used for martial purposes and get excited - Konrad will be upset
+- They got mushika as a follower

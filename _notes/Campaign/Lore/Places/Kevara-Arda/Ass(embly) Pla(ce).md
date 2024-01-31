@@ -23,7 +23,7 @@ Surrounds
 
 Future Work Orders
 - Upgrades to improve effects of past Work Orders
-- Forge for bluemoon
+- Forge for bluemoon - for artificing stuff
 - **Training Room.**
 - **Armory.**
 - Refurbish attic / basement - unlocks some secret, provide quest hook
@@ -34,3 +34,4 @@ Future Work Orders
 - Security system
 - Workshop/lab
 - Mechanical benefits from the cats?
+- Something to let PCs train up familiars?

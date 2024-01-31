@@ -31,12 +31,13 @@ Guard wear half hawk masks; lower public servants wear half sparrow masks
 
 - One of the birds has been murdered, seemingly by a Kevaran (merchant or lord?)
 	- disco elysium babey. what plot points can we copy from it. a fake hanging, actually sniped
+	- riots at the saltwood groves, the automata were involved as security
 - Qristynne (bluemoon ex) married a powerful man here and has become Kingfisher or Crane
 	- highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
 - Raven - working to investigate the murder, trying to keep peace(? don't think shes that pessimistic)
 	- she does think the case is more complicated than it seems
 - Necromancer dude (owl? someone else?) - trying to uncover location of Nexida
-	- infiltrate / take out the water source - why?
+	- infiltrate / take out the water source - the cisterns are connected to some of the artificer's old labs 
 	- Murder related to him - why and how? the victim was connected to the artificer
 		- what are the steps to finding nexida, how is it hidden
 - Council working under necro guy, tracing the artificer

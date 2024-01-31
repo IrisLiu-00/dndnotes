@@ -106,4 +106,9 @@
 	- description of the fray coming in was not sufficiently dramatic
 	- information exposition is unclear - you gotta go into a scene knowing what info the players need to be told
 	- clockwork characterization not wacky enough
-	- 
+- 24.1.28 - Bridgetown Brawl pt 5
+	- honestly rly good - battle was challenging, the secondary objective (catch mushika) was exciting, toby pulled cool stunts
+	- initial surprise round thing w kallista was not the most thought out
+	- PCs rly enjoyed getting to recruit mushika
+	- gotta get better at cool dialogue during fights
+	- stop making your character voices so high pitched and grating

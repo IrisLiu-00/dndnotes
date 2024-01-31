@@ -4,6 +4,7 @@ tags:
 ---
 - Central sea formed by the [[Cataclysm]]
 - Trade goes around the inner circle, avoiding the Fray
+- Ships that make long hauls in the sea must be built with saltwood hulls
 
 
 # The Fray
@@ -19,6 +20,7 @@ tags:
 - Circular waterfall at center (a mouth) - goddess in the center
 ### Fray Exposure
 - Most living creatures are not adapted to an environment that is cut off from the Weave; prolonged inhalation of the mists, or consuming its waters will cause adverse effects. 
+- Ppl who have prolonged exposure become bleached and worn looking - premature age lines, whitened hair tips
 - Make a WIS saving throw at the end of each day that you spend in the Fray. The DC starts at 12, and increases by 1 for each successive day spent in the Fray. On a failed save, you gain one level of exposure. Exposure effects do stack.
 - Some wraith attacks can force a Fray Exposure save
 
@@ -34,6 +36,7 @@ tags:
 - Magic abilities include: spells, ki, bardic inspiration, etc
 
 Secondary effects (sprinkle in for flavor):
+- A sickly coldness in the pit of your stomach, like a heavy weight. Your extremities feel numb
 - You feel cold all the time. Your pulse slows
 - You find yourself randomly forgetting why you're here, or what you were doing just before
 - Your eyes and hair bleach white

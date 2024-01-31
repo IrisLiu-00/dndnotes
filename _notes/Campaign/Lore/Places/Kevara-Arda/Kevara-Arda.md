@@ -28,6 +28,8 @@ Election..
 Kevar + Arda
 - slayed the dragon king [[Gilead]] using [[Fate Engine Pieces]], claimed the land of Kevara-Arda
 - founded a sort of democracy after destroying king
+- Kevar: supposedly a paladin of Felichias (was he actually? Felichias tried to stop him from slaying Gilead, revoked her power from him)
+- Arda: a mage (of what sort?)
 
 # Districts
 ## THE DOWNS 
