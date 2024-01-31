@@ -25,14 +25,12 @@ Scene with Merriwink testing Toby?
 
 
 
-- seems like should follow up on Luca, Clockwork
-	- wealthy ppl, companies suddenly very interested in using Luca's automata as weapons - possibly disastrous results, the bots only have the one setting to kill everything. appear towards endgame of adv, near breakdown of order
-	- clockwork definitely knows from Feldspar that Kallista actually looks different - going to be chasing her
-		- clockwork tries to cut a deal with vasilev?
 - kind of a culmination of the initial kevara arc, before we go onto avizallo
 	- end with power shift - towards Vasilev or Luca?
 	- declaration of martial law?
 	- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
+	- clockwork tries to cut a deal w vasilev?
+	- they're trying to manipulate positioning for the Avizallo diplomacy trip
 
 
 Goals
@@ -48,12 +46,6 @@ Big Picture
 
 
 
-Location/NPCs for contacting the graverobbers
-- for if the PCs try to pursue the necro at the show
-- where do they get information about where to go
-- an archaeologists/graverobbers' guild - prolly a front for the cult
-	- location: a museum? coffeehouse? something cool. Kerrigan's lane?
-	- possibly sponsored by a lord? by lord Ornsgrym to collect art?
 - what do all the factions think: V, lords, Patrician, merchers, bridgers, merrow, avizallo
 	- V - focused on getting grave goods for the election
 	- lords move to outlaw drugs, but ppl who have used in the past are still possessed
@@ -76,7 +68,6 @@ Info the PCs need to find the dungeon
 - smoke is supplied by Ornsgrym, who gets it from the archaeological society?
 - the archaeological society is a front for the cult
 - the archaeologists are planning a dig under the school / the cult is based there
-	- specific passcode or sth to get in?
 
 ## The Show
 
@@ -99,37 +90,57 @@ Info the PCs need to find the dungeon
 - Carolus Filroy: Duke Filroy's young nephew. Ringleader of the bunch. Self absorbed, superior, superficial. Riding on the power of his uncle. 
 	- voice: crunch moon jones. Lots of "like". Kind of rhotic, west coast voice
 	- appearance: flop of light blond hair, unbuttoned doublet, very nice pantaloons
+	- stats: noble
 	- only cares for others as far as they can entertain or do something for him
 	- Lord Filroy has increased his investments in some young upstart inventor, expect he will be very grateful to our generosity
 - Damien: nasal, nasty, jealous of others' closeness to Carolus. Family is high up in Isidor enterprises
+	- smoking heavily
 - Suletta: shamelessly flirting with either Carolus or Damien. (is this...sexist....) bubbly personality.
-- Torek: old woman, dwarf. Woman of few words. Gruff. 
+- Torek: old woman, dwarf necromancer. Woman of few words. Gruff. 
 	- thick glasses, lots of shawls and beads. Holding a case containing stuff for Elysian Fog
 	- Was a practicing necromancer, started working with the historical society, got possessed + became a cultist.
 	- Doesn't really want to talk abt the graverobbers / the historical society for fear of revealing things
 	- Not directly involved in extracting grave goods, just does the postprocessing
 	- Most young lords have been purchasing from Ornsgrym. Ornsgrym will be public at the send off of a Kevara diplomat tmr, most likely will also be selling. 
+	- Can speak on the nature of elysian fog - origins, how it's made
 - Play concludes, a Felichian priest speaks
 	- Curtain falls, leader of the company comes on stage. Thanks to the Felichian church for sponsoring this season's performances
 	- Felichian priestess - the tale of Kevar and Arda and their conquest of the darkness is as pertinent today as it was five hundred years ago. Just as their paths were guided by Felichias those many millennia ago, so too can we trust the gods to guide our fates today. ==do some dramatic irony, the attacks happen
-- assassination attempt
+- Assassination attempt
+	- if PCs don't notice (Pcpt DC18), Damien gets a surprise round, then roll initiative
+	- Damien pulls out a knife to slit Carolus's throat - trying to cut out his vocal cords
+	- what's Damien say
+- If they subdue Damien
+	- 
 - things they can find out
 	- the assassin - has just smoked. Only talks about the composition or is catatonic. Removing possession leaves them with no memory of events
 	- specific things they can find out from each npc
-- there's an opposing spy against V? or what's v doing while all they is going down, are they conspiring on sth
+- ==there's an opposing spy against V? or what's v doing while all they is going down, are they conspiring on sth
 
 
 ### Elysian Fog
-- Small ceramic jars, each labelled + filled w ash. Torek takes a very small pinch and packs into the end of a long pipe. Snaps her gnarled fingers above the bowl of the pipe, a small spark falls into it. 
+- Small ceramic jars, each labelled + filled w ash. Torek takes a very small pinch and packs into the end of a long pipe. Mutters some words over it, snaps her gnarled fingers above the bowl of the pipe, a small spark falls into it. 
 - Nacreous, shimmering, thick smoke, taken by a long pipe (like opium pipe)
 - Taking a drag fills you with a heady, floaty feeling, and you start to see faces and scenery in the smoke surrounding you. The release of being anyone but yourself. It smokes clean, there's no low after effects wear off. 
 	- similar to possession, but not technically true possession because the original soul is not there
 - Souls leave an imprint on bodily remains, process via ritual into flammable substance
+	- necromantic ritual to select + amplify bits of memory
+Mechanics ==refine these
+- Seacaptain (50gp)
+	- the great leviathan captain Azolar Avila buried with his first mate and all his deckhands in the ribcage of his leviathan
+	- 1d4 to DEX checks+saves for 1hr
+- Warrior (30gp)
+	- during empire invasion
+	- 1d4 to strength checks for 1hr
+- Courtesan (25gp)
+	- 1d4 to insight checks for 1hr
+- Mage (40gp)
+	- kerrigan the mage? but she was evicerated? an apprentice of
+	- 1d4 to INT checks+saves for 1hr
 - Possession: DC10 WIS save against possession, increases by 2 for every usage of the smoke
+- 
 
-1hr 1d4 bonus to some sort of check
-price scales based on how desirable / rare the figure was
-adventurers, nobles, kerrigan the mage, performers?, the great leviathan captain Azolar Avila buried with his first mate and all his deckhands in the ribcage of his leviathan, criminals?, a retainer in the old Duke Vasilev court?, warrior (during empire invasion), a religious figure?
+adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasilev court?, a religious figure?
 
 ### The Sirenian Players
 - make up some npcs?
@@ -148,6 +159,7 @@ adventurers, nobles, kerrigan the mage, performers?, the great leviathan captain
 	- trying to kick her out of the lord's table?
 - should there be a combat encounter here? depending on if PCs try to stop assassins
 	- challenge - if PCs try to prevent assassins while also staying undercover
+- may lead to martial law, automata patrolling the streets
 
 ## Clockwork's Trap
 - either usurps Merriwink's thieves or Kallista school
@@ -155,15 +167,20 @@ adventurers, nobles, kerrigan the mage, performers?, the great leviathan captain
 - do the Kerrigan fight here?
 
 ## The Kevara-Arda Archaeological Society
+- basically a bunch of graverobbers - used to be a ragtag association of ppl trying to steal and sell treasure, recently ballooned due to demand for Elysian fog
 - Lyell and ringley are here as consultants, trying to make some money - they're maybe researching gilead? city founding?
 - fight some cultists, reward w info
+	- specific passcode or sth to get in the dungeon?
+- location: a museum? coffeehouse? something cool. Kerrigan's lane?
+- 
 
 ## The Dungeon
 ### The School
 - Arda-side bard school
 ### Background
 - ==a solid theme!!
-- disused basement ? performing rooms
+- disused basement ? performing rooms? luthier's workshop?
+- some disaster caused it to become abandoned - the butcher was storing bodies here or soemthing?
 
 ### The Cult of Song
 - Leanna is the cult leader
@@ -176,6 +193,7 @@ adventurers, nobles, kerrigan the mage, performers?, the great leviathan captain
 - Assassins say something like: the songs of the dead are the most beautiful of all / may your dying screams join the eternal chorus / for the final composition
 ==Council Contact - who?
 - Gave Leanna necromantic powers in return for her searching for the Lance of Kevar in the catacombs
+	- or taught leanna the ritual, she plundered fog to get more powers?
 	- TODO: clues for this
 
 ### The Butcher Balladeer
