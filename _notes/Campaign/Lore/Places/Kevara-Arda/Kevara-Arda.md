@@ -5,13 +5,13 @@ TODOS
 	- dream dimension
 - interesting landmarks
 	- the city is alive, the streets move and statues speak - status mechanics for how much city likes you
-- name for river
 - magic mechanics of the city election, patrician authority
+	- patrician gains some dragon magic? power to command? something abt the hoard? hard to lie to (liar's revelation, gold dragon)
 - built on the corpse of a dragon? buildings and ships part by the patrician's will (too similar to nexida). there is a beating dragon's heart below the city
 # The World's Gate
 
 - A huge, old city state that has seen many different rulers and ages. Layers upon layers of different cultures, architectural styles, religions
-- Highly influential via trade: goods go around the [[Leuchroic Sea]] and upriver inland
+- Highly influential via trade: goods go around the [[Leuchroic Sea]] and up the Volya river inland
 - Kevara is the larger, western peninsula, situated near river delta. Arda is the slightly smaller eastern peninsula
 - Arda is technically still under Langska governance
 - Depends on saltwood from [[Avizallo]] to build their ships
@@ -105,7 +105,7 @@ Kevar + Arda
 # Conflicts/Threats
 - The Fray: incursions seem to be growing more frequent, more aggressive
 - Upcoming election
-    - Current Patrician Nutterwoll is old, somewhat incompetent. Probably die/assassinated soon
+    - Current Patrician Natterwoll is old, somewhat incompetent. Probably die/assassinated soon
     - Next election is in 2 years, scheming has begun
     - Only those with a valid citizenship card can vote
     - Invalidating of ballots, voting multiple times, bribery + coercion

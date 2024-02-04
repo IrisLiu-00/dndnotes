@@ -1,28 +1,12 @@
 
 ANNOUNCEMENTS
 - recap
-- lvl up?
 
 Todos - immediate
 - Voices, stat block review
 - maps: 
 - stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
-
-Todos - story
-- Next adventure
-	- next miniboss (cult)
-	- the Kevara engine piece
-- Fallout from strigoia?
-	- Shrewseer believes Eletha is working for parents
-	- Duke O humiliated, launch active investigation into events?
-- the elves' plan
-- forge painting - this can be a sidequest or integrated into a bigger adventure
-	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
-	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
-- Vasilev's political agenda - appearances vs actuality
-
-
 
 ### Notes
 Reminders
@@ -43,24 +27,30 @@ Kallista
 Eletha
 - Reaction to deflect missiles
 - Flurry of blows can impose: fall prone, get pushed, no reaction
-- Slow fall
+- Slow fall reaction
+- Stunning strike for a ki point
+- 2 attacks
 
 Lumdas
 - Can only single hand the warhammer bc he has shield
 - Prompt him to use bless (buff) abilities
 - Healing word is a bonus action
-- Channel divinity to do mass heal, turn undead
-- Prep WIS + lvl spells
+- Channel divinity to do mass heal, turn/destroy undead
+- Prep WIS + lvl spells per long rest
 
 Bluemoon
 - Roll d20 for any levelled spell, up the threshold by 1 each time a surge does not happen
     - Roll surge immediately after using tides of chaos
 - Sorcery points to create spell slots, double spell, reroll attk
-- Cast spell for opp attk
+- Cast spell for opportunity attk
+- Magical tinkering to apply an effect to a Tiny object
+- Can change prepared artificer spells on long rest
+- Cannot do two handed weapons if he has one hand for spellcasting
 
 Toby
 - Sneak attack only lands if you hit the main attk
 - Bonus action allows doing something dextrous with hands
+- Uncanny dodge reaction to halve dmg
 - Climbing does not cost extra movement
 - double proficiency w thieves tools
 
@@ -70,6 +60,35 @@ Battle tactics
 - work together, help action to stronger combatants
 - attack from low visibility zones
 
+
+Todos - story
+- Next adventure
+	- next miniboss (cult)
+	- the Kevara engine piece
+- Fallout from strigoia?
+	- Shrewseer believes Eletha is working for parents
+	- Duke O humiliated, launch active investigation into events?
+- the elves' plan
+- forge painting - this can be a sidequest or integrated into a bigger adventure
+	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
+	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
+- Vasilev's political agenda - appearances vs actuality
+- Get the PCs to care abt Vasilev - help setup later power struggle conflict
+	- to get them to care, need to force them to either side with or against
+	- side with
+		- other forces (Luca/nobles) come for V
+			- come for things PCs care abt (house) > force them to side w V
+	- side against
+		- V harms (seems to harm) the PCs - selfish/personal motivator
+			- put them in danger / sacrifice them
+			- sell them out (to apostasy, expose toby's past?)
+			- is keeping important info from them
+		- V seems to harm other ppl - moral motivator
+			- but the PCs don't have the full picture? or V decides the end justifies the means
+			- forced takeover of some organization/institution
+			- tell the PCs to do something that seems wrong
+			- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
+			- appears to be working with the BBEG - connections to Owl
 
 ### Potential adventures
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway
@@ -94,4 +113,6 @@ Battle tactics
 - Court intrigue at the court of birds
 - Labyrinth crawl, find the treasure guarded by the automata
     - artificial intelligences, labyrinths + minotaur (Borges)
+
+- language barriers for lumdas to use tongues
 

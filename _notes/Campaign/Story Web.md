@@ -120,7 +120,7 @@ Gilead, the dragon king - The Big Bad
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
 	- high level lieutenants of the fate eater are those whose fates were doomed, not actually a person anymore
-Ancient Artificer
+Lukwa Piranes the Artificer
 - based in Avizallo
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos

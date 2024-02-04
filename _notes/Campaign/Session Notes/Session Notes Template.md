@@ -5,7 +5,7 @@ _Here's a blank D&D session note page ready for you to use outlined according to
 - [ ] Review the characters
 
 ```dataview
-table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Languages"  from "Campaign/Players"
+table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp as "HP", str-save as "STR save", dex-save as "DEX save", con-save as "CON save", int-save as "INT save", wis-save as "WIS save", cha-save as "CHA save" from "Campaign/Players"
 ```
 
 

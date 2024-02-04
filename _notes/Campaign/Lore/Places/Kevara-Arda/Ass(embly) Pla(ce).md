@@ -23,6 +23,7 @@ Surrounds
 
 Future Work Orders
 - Upgrades to improve effects of past Work Orders
+	- doorknob of many goings (to make the door of many ways): upgrade door of many comings to lead to a set of predetermined locations (basically howl's moving castle)
 - Forge for bluemoon - for artificing stuff
 - **Training Room.**
 - **Armory.**

@@ -4,15 +4,23 @@ Trained Skills:
   - Perception
   - Persuasion
   - Stealth
-P. Pcpt: 13
+P. Pcpt: 14
 P. Inv: 11
-P. Ins: 13
+P. Ins: 14
 Link: https://ddb.ac/characters/80458712/z5ZKML
 Player: Pablo
 Languages:
   - Common
   - Elvish
   - Primordial
+STR save: 0
+DEX save: 1
+CON save: 5
+INT save: 1
+WIS save: 1
+CHA save: 5
+AC: 11
+Max HP: 35
 Background: Guild Artisan
 ---
 Abilities

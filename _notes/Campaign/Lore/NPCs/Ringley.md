@@ -12,3 +12,4 @@ Last Edited: 2022-11-17T22:30
 - Voice - deep, booming
 - Good friends with the party
 - Eternally gets no bitches
+- Went to state school uni 

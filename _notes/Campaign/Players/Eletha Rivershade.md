@@ -17,6 +17,14 @@ Languages:
   - Elvish
   - Infernal
 Background: Noble
+STR save: 5
+DEX save: 6
+CON save: 0
+INT save: 1
+WIS save: 2
+CHA save: 0
+Max HP: 28
+AC: 15
 ---
 Abilities
 

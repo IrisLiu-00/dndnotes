@@ -1,36 +1,10 @@
 # Characters
 
-- [ ] Review the characters
+- [x] Review the characters
 
 ```dataview
-table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Languages"  from "Campaign/Players"
+table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp as "HP", str-save as "STR save", dex-save as "DEX save", con-save as "CON save", int-save as "INT save", wis-save as "WIS save", cha-save as "CHA save" from "Campaign/Players"
 ```
-
-
-# Scenes
-
-## Downtime
-
-Level up
-Shopping - PCs have abt 1800gp
-- Mik's Marketplace
-- Ass Play Work Orders
-- essentials / healing potions?
-Ask everyone what they're doing in downtime
-- Describe the Fray
-- Headlines on the next issue of the Kevara Word?
-Scene with bluemoon learning artificing?
-- seed investors coming to buy automata for combat/security
-Scene with Merriwink testing Toby?
-
-
-
-- kind of a culmination of the initial kevara arc, before we go onto avizallo
-	- end with power shift - towards Vasilev or Luca?
-	- declaration of martial law?
-	- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
-	- clockwork tries to cut a deal w vasilev?
-	- they're trying to manipulate positioning for the Avizallo diplomacy trip
 
 
 Goals
@@ -44,8 +18,10 @@ Big Picture
 - give a chance to learn about Vasilev's backstory
 - plant seeds for Vasilev's election gambit
 
-
-
+- they're trying to manipulate positioning for the Avizallo diplomacy trip
+	- V is trying to put bridgers on the party to go to Avizallo (as mercs?)
+	- V is trying to manipulate Ornsgrym out of the diplomat's party - but Giltstern steps in and sends luca as a proxy instead? or Giltstern/Feldspar goes?
+	- idk the point of this if it doesn't directly affect players or give them agency
 - what do all the factions think: V, lords, Patrician, merchers, bridgers, merrow, avizallo
 	- V - focused on getting grave goods for the election
 	- lords move to outlaw drugs, but ppl who have used in the past are still possessed
@@ -69,13 +45,55 @@ Info the PCs need to find the dungeon
 - the archaeological society is a front for the cult
 - the archaeologists are planning a dig under the school / the cult is based there
 
+# Scenes
+
+## Downtime
+
+
+Shopping - PCs have abt 1800gp
+- Mik's Marketplace -  All items are unique unless otherwise specified. 
+	- Potion of Healing: 50gp, 2 in stock. 
+	- All or Nothing Coin: 80gp. This duplicitous coin can spell fortune or ruin for its owner. When making an attack roll, ability check, or saving throw, you can flip a coin in place of rolling a d20. Heads is treated as a 20, while tails is treated as a 1. The coin cannot be used again until the next dawn.
+	- Mockingbird Gum: 140gp. These green and blue speckled minty sticks of chewing gum come in a pack of 5 sticks. As an action, you can eat one stick of gum and gain the ability to imitate another creature’s voice for 1 hour. A creature that hears you can tell that the voice is an imitation by making a DC 20 Wisdom (Insight) check.
+	- Immovable Rod: 230gp. This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.
+	- Band of Projected Thought: 250gp. While wearing this headband, you can telepathically communicate with any creature that speaks at least one language within 30 feet.
+- Ass Play Work Orders
+- Other items
+	- armor, poisons?
+Ask everyone what they're doing in downtime
+- Fray tide looms over the city for the next few weeks, an ever present cloud bank at the city's eastern port. Sailors mutter bad omens, mages curse lapsing spells, and the common folk stay inside. Despite the city's protections that have stood against the Fray for millennia, no resident of the Leuchroic coast has ever made it long without learning a healthy fear of the sea. 
+- Headlines on the next issue of the Kevara Word?
+	- events of last adventure. tie into Vasilev's plans if you have them
+Scene with bluemoon learning artificing
+- Luca's workshop: gleaming chrome and brass, dials, puffs of whistling steam. Drawers and bins of parts - gears, wires of different gauges, crystal shards. Slightly disarrayed, except for one workbench kept very neat order, but Luca approaches his own bench.
+- Pass thru assembly floor - bustling with machinists assembling rows of automata
+	- Suddenly a lot of demand for work - word really got out from that bridge debacle. Any publicity is good publicity
+	- Nobles + merchants ordering for private security - would have really preferred a less militaristic approach, but they're working on better safety guards
+- Misurium crystal engraving and reading of data
+	- silvery, transparent crystals with a liquid sheen
+	- old wizards and artificers used them to store research and spells so that laypeople could not read them
+	- the great artificer Piranes discovered that multiple misurium crystals lined up in sequence could be used to read and write data, or make decisions based on it
+- convo
+	- Adventurers don't tend to hang out in big cities, do they? what keeps you all here
+	- suspicious of Vasilev
+	- insp - it's about being the best
+- What gadgets is bluemoon working on?
+Scene with Merriwink testing Toby?
+- Merriwink's trainee tries to pickpocket Toby
+	- Goliath named Jacky just tries to straight up threaten/shake loose toby's money
+	- Merriwink comes out to stop him - they've been having a deficit of proper apprentices lately
+- Becoming an inductee of the Thieves' Guild (Society of Economic Liberation) requires passing certain trials
+	- first one is to steal 200gp worth of gold and contribute it to the Society
+
+
+
 ## The Show
 
 - Read aloud
 	- The curtain rises on a dimmed stage; in the background a painted set of a crumbling castle. With a thrum the violins spring to life, the glint of rosin and wood from the pit. A chorus onstage begins singing in wordless notes. There's a roll of sheet metal to mimic thunder, and an enormous monster winds onto stage - golden scales, leathery wings, spouting illusory flame - a dragon! As the dragon turns to menace the chorus, who break and scatter as the music swells, two new figures run onto stage. A woman holding a staff and dagger, and a man in a helm holding a long lance. 
 	- The man shouts - 'tis too late, Arda! We have dallied, and the end is near.' The woman replies - 'You speak false, Kevar! With your lance and my sorcery, we shall see our fates are just.' And the man says, 'Verily. Today, this scourge - this evil - shall dieee~!; They break into song. With a clash of cymbals and the roll of drums, the heroes leap into mock-battle. 
 	- You all are sitting comfortably in a very nice private box, viewing this performance of *The Ballad of Kevar and Arda*, presented by the Sirenian Players. To your left is the Duke Vasilev, who brought you all to this performance tonight and secured your seats. He is sipping a glass of wine and idly watching the show - how have you all been finding the performance?
-- Slight commotion in nearby box - a number of young, well dressed ppl shuffle around their seats as someone enters their box, looks like a dwarf woman. This dwarf enters, trailing a wreath of smoke that smells like old paper, or maybe like ripe peaches, or maybe like ocean air. That dwarf, you've been told, is a graverobber. The smoke she is holding in a long pipe is what you are here for. 
+- Slight commotion in nearby box - a number of young, well dressed ppl shuffle around their seats as someone enters their box, looks like a dwarf woman. This dwarf enters, trailing a wreath of smoke that smells like old paper, or maybe like ripe peaches, or maybe like ocean air. That dwarf, you've been told, is a graverobber. The case she's holding is what you are here for. 
 - That dwarf has information you are seeking; how do you get to her?
 - Vasilev brought them here to find an in with the graverobbers
 	- Vasilev wants souls to spoof votes in upcoming election
@@ -87,35 +105,39 @@ Info the PCs need to find the dungeon
 - Lordlings will be initially distrustful/supercilious of PCs, do not recognize them and want them to leave. 
 - Carolus - wreathed in pearly smoke, holding a long pipe. Whoa, dudes, I think I was like, a really cool mysterious pirate in that one. 
 	- Damien - that's nothing, three weeks ago I got one of the imperial conquerors. Nothing like tearing through the countryside with a soulsforge axe, just cutting through swathes of enemies
+	- Show the smokers getting ability bonuses
 - Carolus Filroy: Duke Filroy's young nephew. Ringleader of the bunch. Self absorbed, superior, superficial. Riding on the power of his uncle. 
-	- voice: crunch moon jones. Lots of "like". Kind of rhotic, west coast voice
+	- voice: crunch moon jones. Lots of "like", "dude". Open mouth, back of the mouth, rhotic, californian
 	- appearance: flop of light blond hair, unbuttoned doublet, very nice pantaloons
 	- stats: noble
 	- only cares for others as far as they can entertain or do something for him
 	- Lord Filroy has increased his investments in some young upstart inventor, expect he will be very grateful to our generosity
 - Damien: nasal, nasty, jealous of others' closeness to Carolus. Family is high up in Isidor enterprises
 	- smoking heavily
-- Suletta: shamelessly flirting with either Carolus or Damien. (is this...sexist....) bubbly personality.
+	- Does not like the show - saw much better last spring
+- Lauswa: young orc woman. Bored at having to associate with these Kevarans
+	- voice: broad, long vowels. Dentalised THs
+	- Daughter of a commanding Langksaran officer in occupied Khamgard
 - Torek: old woman, dwarf necromancer. Woman of few words. Gruff. 
 	- thick glasses, lots of shawls and beads. Holding a case containing stuff for Elysian Fog
-	- Was a practicing necromancer, started working with the historical society, got possessed + became a cultist.
+	- "newly excavated, newly ritualized. very good. these prices, you see them nowhere else."
+	- Was a practicing necromancer, started working with the historical society - not possessed, but willing to cover for the cultists for the sake of money
 	- Doesn't really want to talk abt the graverobbers / the historical society for fear of revealing things
 	- Not directly involved in extracting grave goods, just does the postprocessing
 	- Most young lords have been purchasing from Ornsgrym. Ornsgrym will be public at the send off of a Kevara diplomat tmr, most likely will also be selling. 
 	- Can speak on the nature of elysian fog - origins, how it's made
+- Perception check for what's going on V
+	- speaking with Ornsgrym? hands him a glass of wine
 - Play concludes, a Felichian priest speaks
 	- Curtain falls, leader of the company comes on stage. Thanks to the Felichian church for sponsoring this season's performances
 	- Felichian priestess - the tale of Kevar and Arda and their conquest of the darkness is as pertinent today as it was five hundred years ago. Just as their paths were guided by Felichias those many millennia ago, so too can we trust the gods to guide our fates today. ==do some dramatic irony, the attacks happen
 - Assassination attempt
 	- if PCs don't notice (Pcpt DC18), Damien gets a surprise round, then roll initiative
 	- Damien pulls out a knife to slit Carolus's throat - trying to cut out his vocal cords
-	- what's Damien say
+	- "enough of this derivative dribble- let's make something interesting"
 - If they subdue Damien
-	- 
-- things they can find out
-	- the assassin - has just smoked. Only talks about the composition or is catatonic. Removing possession leaves them with no memory of events
-	- specific things they can find out from each npc
-- ==there's an opposing spy against V? or what's v doing while all they is going down, are they conspiring on sth
+	- "for the Composition!"
+	- Only talks about the composition or is catatonic. Removing possession leaves them with no memory of events
 
 
 ### Elysian Fog
@@ -125,31 +147,35 @@ Info the PCs need to find the dungeon
 	- similar to possession, but not technically true possession because the original soul is not there
 - Souls leave an imprint on bodily remains, process via ritual into flammable substance
 	- necromantic ritual to select + amplify bits of memory
-Mechanics ==refine these
-- Seacaptain (50gp)
-	- the great leviathan captain Azolar Avila buried with his first mate and all his deckhands in the ribcage of his leviathan
+Mechanics 
+- let them make a check to see which benefits each smoke gives
+- Seacaptain (80gp) - the great leviathan captain Azolar Avila buried with his first mate and all his deckhands in the ribcage of his leviathan
+	- feet planted on the rolling back of a sea monster, hobnailed boots digging into its hide. A burst of cold sea air on your face. Laughing and quaffing ale with your sailors as you break into chests of treasure. Swinging from a rope across the spiny sail. The flash of rapiers dancing across the deck of a burning ship. The cool darkness of ocean depths, looking out of your breathing bubble at shadows of sea life.
 	- 1d4 to DEX checks+saves for 1hr
-- Warrior (30gp)
-	- during empire invasion
+- Warrior (60gp) - an orcish soldier during the Langksaran conquest
+	- Looking out across a plain as four tusked war oliphants march. Searing pain as a broadsword slices into your side. Your first glimpse of the monumental statues framing the port of Kevara Arda, your breath caught in your throat. Roars and cheers following the palanquin of your emperor. Flame and triumph as you broach the gates of the Patrician's hill in Kevara. 
 	- 1d4 to strength checks for 1hr
-- Courtesan (25gp)
+- Courtesan (55gp) - some well to do minor noble of the old Duke V's court
+	- Silks and satin and human skin. Spiraling lights in a ballroom, the clink of crystal. Laughs and sideways glances and words unsaid. A shadow upon a dais - a human man in a black and silver trimmed robe, closely followed by a drow boy in black. 
 	- 1d4 to insight checks for 1hr
-- Mage (40gp)
-	- kerrigan the mage? but she was evicerated? an apprentice of
+- Mage (70gp) - kerrigan the mage? unconfirmed, possibly an apprentice
+	- Lightning striking a high, lonely tower. Books with crackling pages written in languages only you can understand. The knowledge that space and mass are but shadows cast upon the mortal world. Rippling the fabric of reality with your hands. 
 	- 1d4 to INT checks+saves for 1hr
 - Possession: DC10 WIS save against possession, increases by 2 for every usage of the smoke
-- 
 
-adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasilev court?, a religious figure?
 
 ### The Sirenian Players
-- make up some npcs?
+- 
+- Alara: human woman, playing Arda
+- Garthik: half orc man, playing Kevar
+- Elijah: small, dark, lively halfling. Troupe leader
+- potentially can speak about the school?
+- do these guys have involvements w the fog? the church? the nobles?
 
 ## The Brightides Festival
-- festival for the start of the trading season - when the trade winds turn
-- priests provide readings of the signs for the city and individuals
+- Festival for the start of the trading season - first Sixthday after the trade winds turn
+- priests provide readings of the signs for the city and individuals, nobles toss coins to the commoners
 - Sixpoints plaza in Kings' End - cordoned off, have the PCs figure out how to get in (challenges against? the automata, guards)
-- ==this is a weak concept! Semireligious ceremony for safe travels? get some city magic in there
 - A diplomat is being sent off to Avizallo to discuss the coming year's saltwood trade - Kevara has not built new ships in nearly a decade
 	- make this the murder victim - gyrfalcon?
 - Ornsgrym has hired lots of automata for safety, Giltstern + other merchants r there
@@ -166,6 +192,15 @@ adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasil
 - Merriwink says she has a tip about the graverobbers - in return for some sort of fetch quest?
 - do the Kerrigan fight here?
 
+## (Re)possession!
+- Soldiers come to start taking property for eminent domain
+- inheritance shenanigans so it Ornsgrym has a claim
+- Ornsgrym/filroy trying to take away V's assets - starting with ass play (specific challenges this causes for PCs - soldiers come at random points to take their shit)
+	- can't take his council seat bc he's inherited it
+	- how does this get solved?
+	- the B plot - at random points soldiers come to ransack
+	- meanwhile V is trying to blackmail/poison/turn Ornsgrym - using the bridgers?
+
 ## The Kevara-Arda Archaeological Society
 - basically a bunch of graverobbers - used to be a ragtag association of ppl trying to steal and sell treasure, recently ballooned due to demand for Elysian fog
 - Lyell and ringley are here as consultants, trying to make some money - they're maybe researching gilead? city founding?
@@ -178,9 +213,10 @@ adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasil
 ### The School
 - Arda-side bard school
 ### Background
-- ==a solid theme!!
-- disused basement ? performing rooms? luthier's workshop?
-- some disaster caused it to become abandoned - the butcher was storing bodies here or soemthing?
+- Basements of the collapsed ISEC (Instrumental Soundcraft and Elocution Center)
+- Built ~80 years ago when the school tried to revitalize its image, rapidly abandoned when a mysterious accident collapsed the whole building
+	- The Butcher nearly completed his shriek metal black grunge composition - his first rehearsal brought the building down, killing a lot of students/teachers who were in it
+- Basement is still intact and is connected to an unexplored section of the catacombs
 
 ### The Cult of Song
 - Leanna is the cult leader
@@ -188,9 +224,12 @@ adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasil
 	- Hates Eletha for being born into status
 	- Dressed as a widow. 8 ft tall, black mourning dress, full veil over head. flips hair, eyes like chips of ice, curled lip
 	- stats: necrichor, remnant cultist, drow mage?
-- Possessing cultists to carry out assassinations against prominent Kevarans
-- Grave goods are doped with bone from the slasher, so that smokers get possessed
-- Assassins say something like: the songs of the dead are the most beautiful of all / may your dying screams join the eternal chorus / for the final composition
+- Possessing elysian fog users to carry out assassinations against prominent Kevarans
+- Grave goods are doped with bone from the Butcher, so that smokers get possessed
+- Cultist/assassins profess to be composing for the eternal melody
+	- the songs of the dead are the most beautiful of all / may your dying screams join the eternal chorus / for the final composition
+- they're trying to complete a ritual? give some urgency. but what is the ritual for?
+	- a kidnapping, or finding the lance, 
 ==Council Contact - who?
 - Gave Leanna necromantic powers in return for her searching for the Lance of Kevar in the catacombs
 	- or taught leanna the ritual, she plundered fog to get more powers?
@@ -200,11 +239,12 @@ adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasil
 - student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Coriolis
 	- the troupe decided to downsize their classical music budget in favor of appealing to the youths - went for rock opera instead
 - started murdering teachers + students, discovered the screams of the dead were a musical inspiration
-- french, pretentious art student vibes - critique screams for being of key
+- super emo, goth kid, screamo music
 - plays the shrieks of the dead on their violin - reskinned banshee
+- Balladeer's violin - +1 casting focus with a shriek ability. Strung using the vocal cords of victims? goffick
 ### Layout
-- 3 levels, 3 areas in each level
-- find the artificer's code
+- 3 levels, 3 areas in each level - 3 mid battles, 1 boss battle? add more as needed
+- find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
 - Final face off: Leanna + ghost in lair
 - reduced threat ghosts as prior monsters in the dungeon - victims of the slasher
 - patrol outside - see if players notice
@@ -213,6 +253,12 @@ adventurers, nobles, performers?, , criminals?, a retainer in the old Duke Vasil
 - resting -> chance of a random encounter?
 - have the cultists take a captive to rescue?
 - secret treasure room behind a riddle
+- wraparound mirror room battle - in a dance studio, each ghoul is a diff dance style
+	- make each section of the dungeon abt a diff bard discipline
+- find the grave of the butcher, which has been partially ransacked (some bones removed)
+- plant lore - nature of the accident, the butcher's murders, the composition
+- puzzle: [dance of doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) (read aloud the riddle as a song)
+	- use suggestion in comments
 Dungeon design
 - each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
 - https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html

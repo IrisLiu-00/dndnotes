@@ -15,6 +15,14 @@ Languages:
   - Dwarvish
   - Primordial
 Background: Haunted One
+STR save: 1
+DEX save: 1
+CON save: 0
+INT save: 1
+WIS save: 5
+CHA save: 5
+AC: 14
+Max HP: 28
 ---
 Abilities
 
