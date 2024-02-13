@@ -112,3 +112,11 @@
 	- PCs rly enjoyed getting to recruit mushika
 	- gotta get better at cool dialogue during fights
 	- stop making your character voices so high pitched and grating
+- 24.2.4 - Wrath of the Butcher Balladeer pt 1
+	- sloppy overall
+	- went far too long on downtime - preplanned scenes need to happen first, don't let the PCs just muck around with animals for too long or you get fatigue
+	- interrogation around Elysian Fog was messy - they just don't ask the questions you expect them to, so you dont have answers?
+		- how could you have done this better.
+	- assassination was messy! figure out the dramatic beats and handle it better
+		- just dont play when you're tired
+	- better exposition flashing back to / explaining the mission objectives from the hot start

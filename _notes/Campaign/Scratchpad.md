@@ -4,7 +4,7 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-- maps: 
+- maps: ironworks, festival (sixpoints)
 - stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
 
@@ -62,12 +62,7 @@ Battle tactics
 
 
 Todos - story
-- Next adventure
-	- next miniboss (cult)
-	- the Kevara engine piece
-- Fallout from strigoia?
-	- Shrewseer believes Eletha is working for parents
-	- Duke O humiliated, launch active investigation into events?
+- tie mushika into it
 - the elves' plan
 - forge painting - this can be a sidequest or integrated into a bigger adventure
 	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)

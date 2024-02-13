@@ -17,10 +17,14 @@ TODOS
 - Depends on saltwood from [[Avizallo]] to build their ships
 	- merchants would like to gain domination over Avizallo to buy cheaper wood
 
+Flavor
+- Scalecobbles: pave the streets of Arda-Sur-Mer, Villaronte, Kings End. Round, bronze colored flagstones - the scales of Gilead
+
 Patrician
-- cannot be killed by anyone with Kevaran water in their body
+- Cannot be killed by anyone with Kevaran water in their body
 	- the aqueducts + fountains are enchanted (lined with dragonscale?)
 	- anyone who acts to harm the patrician has their blood boil / turn to dragonflame
+- Can sense some of the goings on in the city through the scalecobbles
 
 Election..
 - 
@@ -51,7 +55,7 @@ Kevar + Arda
 - Shipyards and warehouses directly against the water
 - Merchants' trading houses set further back, behind the veils
 - Statues: frame the strait, founders Kevar and Arda. Locals navigate by the angle of the shadow - eg. at the 9 o’clock shadow
-	- Veils (arcane nets) winched to the statues protect the inner city from the Fray
+	- Veils (arcane nets) winched to the statues protect the inner city from the Fray - created from dragon hair + heartstrings, lights with dragon fire
 	- Statues move of their own volition - point to the sea when a Fray tide is coming
 #### Description
 - Leviathan sea monsters with their crews surfacing at port
@@ -80,6 +84,11 @@ Kevar + Arda
 ## Government
 - Patrician Bacrust + Dukes. Mostly incompetent, work to protect own investments in trade and property. Dukes are hereditary, Patrician is elected.
 - Often paid off by the Merchers
+- Duke house colors: 
+	- Patrician: gold + blue
+	- Vasilev: silver + black
+	- Filroy: orange + green
+	- Ornsgrym: burgundy + brown
 ## Merchers
 - rich trading companies with strong lobbying power. Financially back most politicians
 - Giltstern: one of the most powerful companies, led by Isaiah Giltstern

@@ -1,26 +1,12 @@
 Open questions
 - Steps for finding Nexida
+	- "in the shadow of the wind"
 - cosmology of apostasy wrt the cataclysm, Fate
 Need to set up
 - Lore around Kevar, Arda, Gilead
 - Role of Felichian religion, the goddess
 - Coriolis's exploits
 - Legends about dragons? 
-
-
-Central tensions
-- running from the past
-	- basically everyone's backstory
-	- the world's reckoning with the past Cataclysm
-	- the Council's disregard for the Cataclysm
-	- the Council
-	- Vasilev and her past
-	- Kevara-Arda was founded on a great wrong - something that Kevar/Arda did 
-		- stolen land? from the culture now in avizallo
-		- reason for current inequality in the city?
-		- acts as a bank - where did that seed money come from? invading/looting along the coast. Kevar+Arda were the first warlords
-			- caused instability in Langska, led to rise of first emperor
-- the forces of fate - what can/can't be controlled. what meaning do you make in a world that is inherently random, uncaring. 
 
   
 
@@ -115,7 +101,7 @@ Council - cultists, megalomaniacs
 	- find ancient artificer's lab on how to create advanced automata
 	- find pieces of the old fate engine
 Gilead, the dragon king - The Big Bad
-- steps to regaining physical form?
+- figure out the motif/aesthetic
 - eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
@@ -142,13 +128,3 @@ Felichias: goddess of fate
 	- the engine would have let you view + change the fate of an entity or an event. the BBEG would use that to change the fate of the world so it gets eaten
 - the lone remaining human from before the cataclysm (Felicia Brown)
 
-
-latest fad in the city is eating the memories of the dead
-- can be a narcotic, forgetting your own past by living in the past of others
-- graverobbers loot all the historical sites
-- Vasilev is amassing a personal collection of dead pieces to resurrect as ghosts for voting
-
-kevar + arda slayed the last dragon (gilead)
-- they used its hair + heartstrings to weave the fray net, other body parts to found the city
-- now is undead, trapped in a mirror?
-- broken mirror motif, fates trapped within the mirror

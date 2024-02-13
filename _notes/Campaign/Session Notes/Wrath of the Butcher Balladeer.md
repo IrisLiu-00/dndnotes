@@ -48,8 +48,6 @@ Info the PCs need to find the dungeon
 # Scenes
 
 ## Downtime
-
-
 Shopping - PCs have abt 1800gp
 - Mik's Marketplace -  All items are unique unless otherwise specified. 
 	- Potion of Healing: 50gp, 2 in stock. 
@@ -62,7 +60,7 @@ Shopping - PCs have abt 1800gp
 	- armor, poisons?
 Ask everyone what they're doing in downtime
 - Fray tide looms over the city for the next few weeks, an ever present cloud bank at the city's eastern port. Sailors mutter bad omens, mages curse lapsing spells, and the common folk stay inside. Despite the city's protections that have stood against the Fray for millennia, no resident of the Leuchroic coast has ever made it long without learning a healthy fear of the sea. 
-- Headlines on the next issue of the Kevara Word?
+- Headlines on the next issue of the Gisney Times
 	- events of last adventure. tie into Vasilev's plans if you have them
 Scene with bluemoon learning artificing
 - Luca's workshop: gleaming chrome and brass, dials, puffs of whistling steam. Drawers and bins of parts - gears, wires of different gauges, crystal shards. Slightly disarrayed, except for one workbench kept very neat order, but Luca approaches his own bench.
@@ -97,7 +95,7 @@ Scene with Merriwink testing Toby?
 - That dwarf has information you are seeking; how do you get to her?
 - Vasilev brought them here to find an in with the graverobbers
 	- Vasilev wants souls to spoof votes in upcoming election
-	- 600gp for the job
+	- 800gp for the job
 - The play has stuff abt divine intervention etc
 
 ### Filroy and Friends
@@ -130,7 +128,7 @@ Scene with Merriwink testing Toby?
 	- speaking with Ornsgrym? hands him a glass of wine
 - Play concludes, a Felichian priest speaks
 	- Curtain falls, leader of the company comes on stage. Thanks to the Felichian church for sponsoring this season's performances
-	- Felichian priestess - the tale of Kevar and Arda and their conquest of the darkness is as pertinent today as it was five hundred years ago. Just as their paths were guided by Felichias those many millennia ago, so too can we trust the gods to guide our fates today. ==do some dramatic irony, the attacks happen
+	- Felichian priestess - the tale of Kevar and Arda and their conquest of the darkness is as pertinent today as it was five hundred years ago. Just as their paths were guided by Felichias those many millennia ago, so too can we trust the gods to guide our fates today. 
 - Assassination attempt
 	- if PCs don't notice (Pcpt DC18), Damien gets a surprise round, then roll initiative
 	- Damien pulls out a knife to slit Carolus's throat - trying to cut out his vocal cords
@@ -138,6 +136,10 @@ Scene with Merriwink testing Toby?
 - If they subdue Damien
 	- "for the Composition!"
 	- Only talks about the composition or is catatonic. Removing possession leaves them with no memory of events
+
+- Damien fainted... is pinned under the Rod
+- Leads to get the PCs to the festival
+- are you doing anything with V vs the other nobles
 
 
 ### Elysian Fog
@@ -165,7 +167,6 @@ Mechanics
 
 
 ### The Sirenian Players
-- 
 - Alara: human woman, playing Arda
 - Garthik: half orc man, playing Kevar
 - Elijah: small, dark, lively halfling. Troupe leader
@@ -173,36 +174,116 @@ Mechanics
 - do these guys have involvements w the fog? the church? the nobles?
 
 ## The Brightides Festival
-- Festival for the start of the trading season - first Sixthday after the trade winds turn
-- priests provide readings of the signs for the city and individuals, nobles toss coins to the commoners
-- Sixpoints plaza in Kings' End - cordoned off, have the PCs figure out how to get in (challenges against? the automata, guards)
+
+About
+- The Fray clears! The sky is blue again, musical rattling sound as the statues lower the Fray nets
+- Festival for the start of the trading season - early autumn, marks when the trade winds turn
+	- Kevara-Arda is an engine that runs on trade, and they mark time by it. 
+	- The great shipping boats will soon start making their circuit around the interior of the Leuchroic sea - laden with grains from the fertile Laamveldt, they'll sail east past the gates of Kevara-Arda to the coasts of the inland empire, Langksa. Along the way they'll pick up spices and textiles from the Sutherlands, as the lively clipper ships of the southern poet kings stream their way through the strait. The trading companies will make their way north to the frost-bitten mountains for dwarven craftwork and ores, then down past the misty coast of the Mirwood, until they return at the end of spring, hulls sitting low in the water with exotic goods and gold, to weather out the rainy season until the cycle starts again. 
+- Sixpoints plaza in Kings' End - six streets leading to a star shaped plaza
+	- clustered with people, densely packed stalls, games, performances. Priests weave between, swinging smoking censers to give blessings, nobles processions in palanquins
+	- colorful wind socks flapping in the air, decorated like dolphins and whales and leviathans
+	- scalecobbles (large, round flagstones) burnished to a bright bronze
+Bazaar
+- Food
+	- Griddled hotcakes drizzled with honey and cinnamon and clotted cream
+	- Small grilled fish on skewers
+	- Spiced shredded meat in a skinny flour wrap, dip in yogurt sauce
+	- Lacru - sweet-salty milk based drink, hot or cold
+- Might meet Ringley and Lyell - Ringley is probably drinking. 
+- A shifty wizard selling magic wands - quickly captured and carted away by city guard
+	- wand of disintegrate - disintegrates when used
+- Authentic small-batch micro brewed organic non-MMO(magically modified organisms) poisons - run by a blind gnome
+	- https://roll20.net/compendium/dnd5e/Poisons#content
+- Drow selling spider silk rope - the ideal dungeoneering rope
+- Lost? why not buy a homing badger! Guaranteed to find their way home (they do, an hour after purchase)
+- Guaranteed dragon bones
+- Maps store? let them buy a map of the sea
+- A palanquin in burgundy + brown livery passes - Duke Ornsgrym sitting atop, tossing handfuls of copper coins
+- [ ] Toby gets contacted by Merriwink
+	- things have changed - he can pass the first trial of initiation if he steals a branch of the felichian sacred flame. Also grab me one of those hotcakes while you're at it. 
+	- bring it to the the old ironworks on Seer's Street
+Games / Performances
+- Staff dancing - a kind of combat/performance
+	- 10gp to enter, 50gp for a win
+	- 4(?) contestants, standard combat/initiative. Hits do no damage, 3 hits and you're out. 
+	- Gyrfalcon can be one of the contestants
+	- ==some sort of acrobatics/performance element? make the players narrate their moves
+- Bobbing for eels - grab the largest eel
+	- DC 15 nature/perception to identify, DC18 sleight of hand to grab
+	- win a stuffed leviathan plushie
+- Sprites and pixies giving a magic performance
+- [ ] Petting zoo - dancing owlbear, griffon rides
+- [ ] The sirenian players are missing their female lead (Alara)
+	- Elijah pacing around frantically, stopping people and asking if they've seen a human woman with red hair. The show's on in 10 minutes!
+	- Alara came to Sixpoints early yesterday to set up the stage, was noticed by cultists
+		- Told them she met an old friend (was charmed?) working for an Archaeological society - friend was a schoolmate at Bridgewater, convinced her to go back to visit 
+	- Performance is a lot of traditional folk songs, skits from the Kevara-Ardan Cycle
+	- Perf check to see how much money they get, and if they get noticed by a cultist
+Sixpoints Plaza
+- Priests of Felichias giving readings of the signs
+	- Open air area around a wide metal brazier. Two guards around the perimeter, several priests clustered around the fire. 
+	- ask a question, they toss bones onto a flame and read the cracks
+	- things to foreshadow 
+		- travel to the heart of the whiteness
+		- sth abt Toby and his father
+	- Father Thrain - shaggy, smiling minotaur priest. Jokester.
+	- If Lumdas comes - priests recognize him, interrogate his faith. He never comes to temple, never does anything
+- Smoker's tent
+	- Damien, Carolus smoking again
+	- Torek offers the same smokes, plus new varieties - players can make up their own
+	- Ornsgrym speaking to Torek about latest purchases from the Kevara-Arda Archaeological society
+- Dais with Bacrust, Dukes, Gyrfalcon, ringed by a number of guards
+	- Ornsgrym is followed by Stevian
+	- Filroy has brought private guard of automatas
+- Bacrust begins speech about trade, the fray, etc
+	- someone whispers, old Bacrust should just die and let us elect a new patrician already
+	-  coughing fit > a guard moves aside to let a attendant bring him some water 
+- Pcpt check. Attendant pulls a knife, lunges suddenly at Bacrust until they fall to knees. Start bleeding profusely thru nose, alight with pale gold flame. 
+	- ==and hopefully the shit goes down with Clockwork at the same time
+	- Stevian tries to attack Ornsgrym
+	- Damien tries to attack Carolus Filroy
+	- Filroy screams for automata to do something, stop people from coming
+- One of the automata lets loose a stray shot, bursts the locks on Owlbear, Griffon. chaos ensues
+- May lead to martial law, automata patrolling the streets?
+
+==need to plant: gyrfalcon, stevian
+try to come up with a cool centerpiece/ceremony
+
 - A diplomat is being sent off to Avizallo to discuss the coming year's saltwood trade - Kevara has not built new ships in nearly a decade
-	- make this the murder victim - gyrfalcon?
-- Ornsgrym has hired lots of automata for safety, Giltstern + other merchants r there
-- Patrician is there, mostly useless. Speech about the Fray
-- Assassination on Ornsgrym, some merchants, Patrician (unsuccessful)
-- Lord Fitzroy tries to hire the PCs to investigate Vasilev - noticeably absent from the event
-	- trying to kick her out of the lord's table?
-- should there be a combat encounter here? depending on if PCs try to stop assassins
-	- challenge - if PCs try to prevent assassins while also staying undercover
-- may lead to martial law, automata patrolling the streets
+
+hooks
+- Ersatz running the Noorseekee con - helping V con Orngrym or Filroy?
+	- Noorseekees: cast off fishing lures pulled from the Volya river, small shiny gold bubbles
+	- Ersatz posing as an overseas buyer from Langksa, negotiating with Stevian/Giltstern??
+		- successfully con Giltstern - they lose clout, are forced to bring government oversight to Avizallo
+	- Basta as the salesperson, recruit PCs as other purchasers from inland
+	- or they're trying to get in on trading fake elysian fog
+- main thrust of the fog/cult?
+	- they will want to talk to Ornsgrym
+	- Ornsgrym is a big investor in Giltstern, is trying to wrangle a deal out of Gyrfalcon?
+	- link to the archaeological society
+	- let them notice/investigate things throughout? give them someone to find? stevian
+- Filroy tries to hire PCs to investigate V?
+- 
 
 ## Clockwork's Trap
-- either usurps Merriwink's thieves or Kallista school
-- Merriwink says she has a tip about the graverobbers - in return for some sort of fetch quest?
-- do the Kerrigan fight here?
-
-## (Re)possession!
-- Soldiers come to start taking property for eminent domain
-- inheritance shenanigans so it Ornsgrym has a claim
-- Ornsgrym/filroy trying to take away V's assets - starting with ass play (specific challenges this causes for PCs - soldiers come at random points to take their shit)
-	- can't take his council seat bc he's inherited it
-	- how does this get solved?
-	- the B plot - at random points soldiers come to ransack
-	- meanwhile V is trying to blackmail/poison/turn Ornsgrym - using the bridgers?
+- or merriwink says she has info on the grave robbers?
+- Old ironworks - brick building, dusty windows. Wide open floor w vats they used to melt ore
+- Steel mesh catwalk stretches above - a hint of movement
+	- Merriwink may call out to Toby if hesitant
+- Clockwork on the platform at the end of the catwalk, Merriwink tied up behind him
+	- Extort for information about Kallista - where did she come from, who has she talked to
+	- Get into a fight - call her here alone and I'll let you go
+	- ==what is Toby thinking or feeling as this happens?
+	- Timed explosion can blow out the stairs - it's a fifty foot drop to the bottom
+	- anything to prevent him running away?
+- Clockwork can backflip out a window once it goes bad for him
 
 ## The Kevara-Arda Archaeological Society
 - basically a bunch of graverobbers - used to be a ragtag association of ppl trying to steal and sell treasure, recently ballooned due to demand for Elysian fog
+- Offices on Arda side
+	- they can take a ferry to cross
 - Lyell and ringley are here as consultants, trying to make some money - they're maybe researching gilead? city founding?
 - fight some cultists, reward w info
 	- specific passcode or sth to get in the dungeon?
@@ -228,8 +309,7 @@ Mechanics
 - Grave goods are doped with bone from the Butcher, so that smokers get possessed
 - Cultist/assassins profess to be composing for the eternal melody
 	- the songs of the dead are the most beautiful of all / may your dying screams join the eternal chorus / for the final composition
-- they're trying to complete a ritual? give some urgency. but what is the ritual for?
-	- a kidnapping, or finding the lance, 
+- Butcher has captured Alara as a sacrifice for his final composition - the cultists are gonna do a ritual
 ==Council Contact - who?
 - Gave Leanna necromantic powers in return for her searching for the Lance of Kevar in the catacombs
 	- or taught leanna the ritual, she plundered fog to get more powers?
