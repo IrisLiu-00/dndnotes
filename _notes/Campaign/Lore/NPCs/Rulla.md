@@ -2,7 +2,7 @@
 tags:
   - NPC
 Location:
-  - Baldur's Gate
+  - Korunda Pass
 Last Edited: 2022-11-17T22:49
 ---
 - Tabaxi teen

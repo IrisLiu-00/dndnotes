@@ -7,7 +7,7 @@ Anyone who might come in useful as a returning character
 
   
 
-### Baldur’s Gate
+### Korunda Pass
 
 - Lipswitch: gnome, smooth talking smuggler who got them the graystone job. Velouche is a client
 - Cheapshot Dibbler: pixie who runs a pyramid scheme selling Whingzgammers. They stole his hat

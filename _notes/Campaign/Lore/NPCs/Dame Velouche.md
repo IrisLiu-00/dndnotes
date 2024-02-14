@@ -2,7 +2,7 @@
 tags:
   - NPC
 Location:
-  - Baldur's Gate
+  - Korunda Pass
 Last Edited: 2022-11-17T23:02
 ---
 - Silver tabaxi warlock
@@ -12,7 +12,7 @@ Last Edited: 2022-11-17T23:02
 - Personality - Rich, snobby, loves her granddaughter
 - Voice - decadent, british, speak thru the front of the mouth, witch of the waste
 - Bankrolled by Dariax Pietrossun
-- Has since been imprisoned by Baldur’s Gate guards
+- Has since been imprisoned by Korunda Pass guards
 
   
 

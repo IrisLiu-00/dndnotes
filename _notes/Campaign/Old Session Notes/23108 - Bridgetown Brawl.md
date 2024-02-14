@@ -9,7 +9,7 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", languages as "Lang
 
 # Background
 
-Spy is wererat Mushika (Two-Penny), new in town after the unrest in Baldur’s Gate
+Spy is wererat Mushika (Two-Penny), new in town after the unrest in Korunda Pass
 - has been spying as a rat crawling in the walls
 
 hint at: cult, elysian fog, avizallo trade

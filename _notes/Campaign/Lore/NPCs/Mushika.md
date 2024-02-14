@@ -2,7 +2,7 @@
 tags:
   - NPC
 Location:
-  - Baldur's Gate
+  - Kevara-Arda
 Last Edited: 2022-11-17T22:33
 ---
 - Wererat street criminal

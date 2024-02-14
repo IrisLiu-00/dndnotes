@@ -5,9 +5,9 @@ Collection of lands south of Kevara-Arda, mostly smallish islands
 Pirates, ruled by poet-kings
 Sun elves
 
-## Baldur’s Gate & the desert
+## Korunda Pass & the desert
 
-Baldur’s Gate: big trading city on the edge of the desert. Start of the overland trade route from the ocean (via Kevara river) towards the westerlands.
+Korunda Pass: big trading city on the edge of the desert, located in a canyon of a mesa. Start of the overland trade route from the ocean (via Kevara river) towards the westerlands.
 
 Desert is the site of an ancient catastrophe (thousands of years ago). Parts of the desert are still crystallized glass from whatever blasted the landscape.
 
