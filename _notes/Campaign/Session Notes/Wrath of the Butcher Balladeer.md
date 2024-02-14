@@ -249,6 +249,7 @@ Sixpoints Plaza
 
 ==need to plant: gyrfalcon, stevian
 try to come up with a cool centerpiece/ceremony
+- about wind, trade, fortunetelling
 
 - A diplomat is being sent off to Avizallo to discuss the coming year's saltwood trade - Kevara has not built new ships in nearly a decade
 
@@ -292,12 +293,42 @@ hooks
 
 ## The Dungeon
 ### The School
-- Arda-side bard school
+- Bridgewater U: Arda-side university
+- Near the border of the Khamgaard occupation
+- Yu - changeling prof for performance arts
+- evidence of Alara's passage thru
 ### Background
 - Basements of the collapsed ISEC (Instrumental Soundcraft and Elocution Center)
 - Built ~80 years ago when the school tried to revitalize its image, rapidly abandoned when a mysterious accident collapsed the whole building
 	- The Butcher nearly completed his shriek metal black grunge composition - his first rehearsal brought the building down, killing a lot of students/teachers who were in it
 - Basement is still intact and is connected to an unexplored section of the catacombs
+
+Getting into dungeon - sth to make the archaeological society worth
+- knowledge of where the entrance is
+- some passphrase to get in
+- warding seal on the basements only lets two souls in - the butcher or leanna
+	- PCs would have to capture a cultist or subject themselves to possession
+### Layout
+- 3 levels, 3 areas in each level - 3 mid battles, 1 boss battle? add more as needed
+- find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
+- Final face off: Leanna + ghost in lair
+- reduced threat ghosts as prior monsters in the dungeon - victims of the slasher
+- patrol outside - see if players notice
+- have cultists run away to alert others (retreat on round 2, alert on round 3)
+- bad guys target the light armored ones first
+- resting -> chance of a random encounter?
+- have the cultists take a captive to rescue?
+- secret treasure room behind a riddle
+- wraparound mirror room battle - in a dance studio, each ghoul is a diff dance style
+	- make each section of the dungeon abt a diff bard discipline
+- find the grave of the butcher, which has been partially ransacked (some bones removed)
+- plant lore - nature of the accident, the butcher's murders, the composition
+- puzzle: [dance of doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) (read aloud the riddle as a song)
+	- use suggestion in comments
+Dungeon design
+- each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
+- https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html
+- https://theangrygm.com/babys-first-dungeon-1/
 
 ### The Cult of Song
 - Leanna is the cult leader
@@ -322,27 +353,6 @@ hooks
 - super emo, goth kid, screamo music
 - plays the shrieks of the dead on their violin - reskinned banshee
 - Balladeer's violin - +1 casting focus with a shriek ability. Strung using the vocal cords of victims? goffick
-### Layout
-- 3 levels, 3 areas in each level - 3 mid battles, 1 boss battle? add more as needed
-- find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
-- Final face off: Leanna + ghost in lair
-- reduced threat ghosts as prior monsters in the dungeon - victims of the slasher
-- patrol outside - see if players notice
-- have cultists run away to alert others (retreat on round 2, alert on round 3)
-- bad guys target the light armored ones first
-- resting -> chance of a random encounter?
-- have the cultists take a captive to rescue?
-- secret treasure room behind a riddle
-- wraparound mirror room battle - in a dance studio, each ghoul is a diff dance style
-	- make each section of the dungeon abt a diff bard discipline
-- find the grave of the butcher, which has been partially ransacked (some bones removed)
-- plant lore - nature of the accident, the butcher's murders, the composition
-- puzzle: [dance of doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) (read aloud the riddle as a song)
-	- use suggestion in comments
-Dungeon design
-- each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
-- https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html
-- https://theangrygm.com/babys-first-dungeon-1/
 
 
 # Secret and Clues
