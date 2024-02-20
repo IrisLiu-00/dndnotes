@@ -5,7 +5,7 @@ ANNOUNCEMENTS
 Todos - immediate
 - Voices, stat block review
 - maps: ironworks, festival (sixpoints)
-- stat blocks: 
+- stat blocks: cultist, owlbear, griffon, nobles, automata, 
 - prep battle in harmlesskey, owlbear, 5etools
 
 ### Notes
@@ -101,6 +101,7 @@ Todos - story
     - give the party a reason to find nidalia / ask her stuff > hook into this adventure
     - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?
     - designing dungeons with cool mechanics (see resources)
+- desert dragon tomb / grave / temple thing for dungeon crawl - use on the way to apostasy
 - Kallista gets recaptured by the tieflings, do a court trial encounter
 - Something brings them to the Mirwood, do class revolution
 - exploring the corpse of a sky whale

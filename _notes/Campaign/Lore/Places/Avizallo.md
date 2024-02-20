@@ -4,6 +4,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 	- Height generally protects from incursions of the fray, with a few prominent exceptions (what killed Bluemoon’s dad)
 - Modern religious belief says that all the birds living on the columns are collectively their god (collective whole seen as mouthpiece of a force)
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
+	- they don't run at night bc no one is working the fountains?
 - Strong economy of Saltwood export, but heavily dependent on Kevara for food + goods import. Prevents Avizallo from having the money to build their own ships and gain power
 	- Trees that grow along the column, their roots wrapping around the glass. Birds live in the trees. Drink ocean water and weep the excess salt out of their bark. Gray-white wood.
 	- Required to make prows for boats that can navigate the Fray
@@ -15,7 +16,8 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 
 Members
 - Owl (religion): she. Haltingly soft spoken.
-	- Identity: Warlock serving Gilead, not a cleric at all. (give a few bard lvls for healing spells?)
+	- Identity: Warlock serving the synod, not a cleric at all. (give a few bard lvls for healing spells?)
+		- directly serving Gilead or serving the puppet head?
 	- Heads all religious functions, manages clerical rituals for aquifers
 	- Corresponds w Vasilev, presents as an ally to her
 - Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
@@ -49,6 +51,8 @@ Other stuff
 
 - [[Bluemoon]]'s hometown
 
+- another fray tide on the way to avizallo - the work of the synod's experiments
+
 - unrest about Kevara shortchanging the saltwood order while raising prices on imports
 - One of the birds has been murdered, seemingly by a Kevaran soldier
 	- disco elysium babey. what plot points can we copy from it. a fake hanging, actually sniped
@@ -64,7 +68,9 @@ Other stuff
 	- infiltrate / take out the water source - the cisterns are connected to some of the artificer's old labs 
 	- Murder related to him - why and how? the victim was connected to the artificer
 		- what are the steps to finding nexida, how is it hidden
-- Council working under necro guy, tracing the artificer
+- Synod presence here is also trying to experiment on the fray here?
 - Coriolis 
 
 - what is going to be the mode of gameplay. court intrigue, comedy of manners, whodunit
+
+- gilead can potentially deus ex and eat Owl's fate to save her > recurring villain

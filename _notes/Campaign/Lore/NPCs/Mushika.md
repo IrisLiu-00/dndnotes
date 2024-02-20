@@ -10,3 +10,5 @@ Last Edited: 2022-11-17T22:33
 - Appearance - scrawny, pasty faced
 - Now the PC's loyal servant!
 	- maid uniform, lives in attic
+
+- trying to "wax the floors" - just melting hot candlewax onto the hardwood

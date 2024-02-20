@@ -7,8 +7,10 @@ Need to set up
 - Role of Felichian religion, the goddess
 - Coriolis's exploits
 - Legends about dragons? 
+- Patrician can't be killed - needs reminding beat
+- the cataclysm
 
-  
+  Central tensions: what do we owe the past vs the future. presence or lack of control.
 
 Kallista
 - Apostasy
@@ -91,21 +93,23 @@ Eletha
 The fate of Kevara-Arda - political struggle, natural/arcane threats
 The Fray
 Konrad Luca - capitalist
-- puppet of the council
+- puppet of the synod
 - Retro computing aesthetics: [dana siberia](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
-Council - cultists, megalomaniacs
-- want to kill the goddess of fate, create a new engine to run the universe upon - the rules and constraints of the universe, destiny
-- hold positions in Avizallo court, Langksa, trying to use Luca to gain Kevara-Arda
-- experimenting on fray-tides because they know it's related to the first engine
+Order (synod?) -  secret order of megalomaniac scholars (artificers, mages, etc)
+- Learned of the legends of the last engine of fate and want to replicate it (don't know it will destroy the world)
+- Led/controlled by Gilead, a lot of them are fate-stolen
+- Owl, apostasy lawyer, also have some puppet leader whos an old man?
+	- puppet head is close to home - the patrician, one of the dukes?
+- experimenting on fray-tides because they know it's related to the first engine - also in avizallo
 - steps to power
 	- find ancient artificer's lab on how to create advanced automata
 	- find pieces of the old fate engine
 Gilead, the dragon king - The Big Bad
 - figure out the motif/aesthetic
+- gotta be cooler/sexier, gotta fall a little in love with your bad guy
 - eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
-	- high level lieutenants of the fate eater are those whose fates were doomed, not actually a person anymore
 Lukwa Piranes the Artificer
 - based in Avizallo
 Labyrinth (nexida)
