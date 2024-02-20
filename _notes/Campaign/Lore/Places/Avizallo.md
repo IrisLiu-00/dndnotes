@@ -43,10 +43,6 @@ Other stuff
 - 
 
 
-
-
-
-
 ## Story Stuff
 
 - [[Bluemoon]]'s hometown
@@ -71,6 +67,5 @@ Other stuff
 - Synod presence here is also trying to experiment on the fray here?
 - Coriolis 
 
-- what is going to be the mode of gameplay. court intrigue, comedy of manners, whodunit
 
 - gilead can potentially deus ex and eat Owl's fate to save her > recurring villain
