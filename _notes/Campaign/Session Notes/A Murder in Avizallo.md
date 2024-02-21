@@ -19,39 +19,70 @@ Journey to Avizallo
 - probably just link another mini adventure
 - PCs need to figure out a way to separately get to the isle
 - a few choices for how to get there - leviathan, ship
-- another fray tide, possibly pirate attack?
+- another fray tide (work of the synod/dragon), possibly pirate attack?
 Arrival in the Isle
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
 - introduce a few major players of the council
 Riot and Murder
 - some sort of riot happens at the saltwood docks (with automata?) gyrfalcon gets killed 
+- riots against the Avizallo grove owners, or Giltstern itself?
+- blame kevarans for the murder, councillors demand reparations from Kevara? imminent war
 Raven starts tailing the PCs out of suspicion
 Danger in the Reservoirs
-- how do they get hooked into this
+- gyrfalcon was investigating this
+- kill/take out all the clerics responsible for purification - to what end?
+	- disable the cisterns so they need to import water from Kevara or import felichian priests from Kevara
+- cisterns are connected to Piranes' old workshop
+The Artificer's workshop
+- plant the code again
+The Kite Fighters
+- relation to the main conflict?
+- do research on the sport
+Ramping conflict at the docks 
+- Kevarans try to harvest saltwood by force? what's stopping them
+- Macaw's corruption
+
+
+show the poverty/lack of autonomy in Avizallo (economics section)
+roles of each bird
+
+cohesive faction for the bad guys? they need minions somehow
+- celestials resentful of the worship of the Birds
+- how does the council hire ppl to work for them
+run exploration as a pointcrawl
+Potential encounters:
+- rope bridge battle where the bridge is in danger of getting cut
+- precipice of a narrow column where ppl could get knocked off
+- within the cisterns, water is rising with the tide
+- against the assassin
+- the boss battle
+
+# Background
+
+how the murder happened, the assassin's location
+- motive?
+- somehow remove gyrfalcon's mask, shot thru the mouth (close range or sniper?)
+	- figured out their identity and shot them while off service. potentially incapacitate (poison, alcohol) first
+- somehow incite the riot
+- faked lividity by beating up the body, then plant the body at the site of riot
+The Councillors
+- owl: the mastermind
+	- if owl asks the PCs to help investigate, why?
+- raven: parallel investigating
+- macaw: unknowing accomplice (how), corrupt but anti kevara
+- vulture: red tape, potential red herring? total sellout to kevara
+- kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
 
 # Secret and Clues
 
 _Check off when revealed._
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] akds
 
 # Fantastic Locations
 
-- Build Fantastic [[Locations]]
-
-_Link to fantastic locations. Use the @ symbol to internally link to a Location page._
-
-- Link to location
-- Link to location
+Locations they may go to but are not required
+- Center of government/religion (theocracy)
+- 
 
 # NPCs
 
@@ -70,19 +101,6 @@ _Calculate the deadly encounter benchmark by adding together all character level
 
 ## Scratchpad
 
-_Jot down notes during your game. Use it for a text-based combat tracker or anything else. Copy and paste from here into Discord for example. Here's more on_ _[playing D&D and Discord](https://slyflourish.com/playing_dnd_over_discord.html)_ _and a_ _[Markdown-based battle map](https://slyflourish.com/text-based_battle_maps.html)__._
-
-```
-**Location**
-_Character_
-_Character_
-_Character_
-_Character_
-_Character_
-Monster
-Monster
-Monster
-```
 
 ### Session Notes
 

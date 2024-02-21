@@ -4,19 +4,35 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 	- Height generally protects from incursions of the fray, with a few prominent exceptions (what killed Bluemoon’s dad)
 - Modern religious belief says that all the birds living on the columns are collectively their god (collective whole seen as mouthpiece of a force)
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
-	- they don't run at night bc no one is working the fountains?
-- Strong economy of Saltwood export, but heavily dependent on Kevara for food + goods import. Prevents Avizallo from having the money to build their own ships and gain power
-	- Trees that grow along the column, their roots wrapping around the glass. Birds live in the trees. Drink ocean water and weep the excess salt out of their bark. Gray-white wood.
+	- they don't run at night bc no one is working the fountains
+- big sport - bird fighter kites
+
+# Economics
+
+Primary Industries
+- Saltwood: trees that grow along the columns, their roots wrapping around the glass. Birds live in the trees. Drink ocean water and weep the excess salt out of their bark. Gray-white wood.
 	- Required to make prows for boats that can navigate the Fray
 	- Druids cultivate the trees to have them grow faster, meet supply
 - floating sea grass flats at base of column for food (more lower class)
-- big sport - bird fighter kites
+- fishing
+
+Kevaran Influence
+- Was more independent 100 yrs ago, but Council got scared during the last expansion of the Langksaran empire > signed deals with Kevara for naval protection in return for contracts to access saltwood groves
+	- Langksaran empire has receded but Kevaran influence remains
+- Avizallo groves are required to sell saltwood to Kevaran merchants at set prices - laborers get underpaid
+	- Laborers are mostly low lvl druids spamming Druidcraft cantrip to get trees to grow faster
+	- Some higher class Avizallans make a profit by working for Kevarans to manage the groves
+- Heavily dependent on Kevaran imports for grains/food, textiles, building materials (metal, stone)
+	- Avizallo has very few saltwood ships of its own, cannot do its own trade
+	- Extremely dependent on Kevara continuing to buy saltwood, only so it can buy back the goods it is not able to purchase overseas itself
+- Less of food supply is now home grown (fishing/sea grass) both bc of Kevaran imports + environmental disruption from saltwood harvesting
+
 
 ## The Council of Birds
 
 Members
 - Owl (religion): she. Haltingly soft spoken.
-	- Identity: Warlock serving the synod, not a cleric at all. (give a few bard lvls for healing spells?)
+	- Identity: Warlock serving the synod, not a cleric at all. (give a few bard lvls for healing spells?) a monstrosity summoned by the council?
 		- directly serving Gilead or serving the puppet head?
 	- Heads all religious functions, manages clerical rituals for aquifers
 	- Corresponds w Vasilev, presents as an ally to her
@@ -35,9 +51,15 @@ Members
 - Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
 	- Identity: Qrystrin Avernant. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
 		- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
+	- The most versed in Avizallo's economic situation
+	- Was close with Gyrfalcon
+	- Highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
+		- Working with Macaw on this?
 Masks
 - Masks guard their identities - origins in avoiding the plague, or for the sake of impartiality
 - Masks cannot be unwillingly removed except DC30 str check, but they do fall off in death
+	- or they only come off under the hand of other council members?
+- Immune to mind control magic that would make someone remove their mask
 Other stuff
 - Guard wear half hawk masks; lower public servants wear half sparrow masks
 - 
@@ -47,20 +69,19 @@ Other stuff
 
 - [[Bluemoon]]'s hometown
 
-- another fray tide on the way to avizallo - the work of the synod's experiments
 
-- unrest about Kevara shortchanging the saltwood order while raising prices on imports
+- giltstern is working with owl to make Avizallo a colony?
+- conflict of interest - Vasilev doesnt care abt anything besides her rise to power in Kevara
+	- give the players an objective that conflicts with what's good/right?
+	- tell them not to get too attached to what's on the ground
 - One of the birds has been murdered, seemingly by a Kevaran soldier
 	- disco elysium babey. what plot points can we copy from it. a fake hanging, actually sniped
 	- riots at the saltwood groves, the automata were involved as security (or just make it mercs)
 	- actually shot thru the mouth by magic missile (?), then beat up to fake lividity - how did assailant remove the mask? 
 		- via mind control? but mind control could just force suicide
-- Qristynne (bluemoon ex) married a powerful man here and has become Kingfisher or Crane
-	- highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
 - Raven - working to investigate the murder, trying to keep peace(? don't think shes that pessimistic)
 	- she does think the case is more complicated than it seems
 - Necromancer dude (owl? someone else?) - trying to uncover location of Nexida
-	- owl looks like a cleric, actually a warlock?
 	- infiltrate / take out the water source - the cisterns are connected to some of the artificer's old labs 
 	- Murder related to him - why and how? the victim was connected to the artificer
 		- what are the steps to finding nexida, how is it hidden

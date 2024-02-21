@@ -17,6 +17,7 @@ Kallista
 	- ==philosophy? why are they focused on law, justice
 		- not necessarily about law - moreso judgement, punishment, justice?
 	- probably there is a bad guy associated w the council here, trying to get hold of the condenser - the opposing lawyer? (karuma)
+	- bad guy faction: celestials trying to destroy apostasy? separatist devils who want to close off from material plane / merge + invade the material plane?
 - Dead friend
 	- murder was orchestrated by someone working for BBEG, wants Kallista convicted to cover up the trail
 - Criminal background + connections, assassinations + thefts
@@ -99,14 +100,14 @@ Order (synod?) -  secret order of megalomaniac scholars (artificers, mages, etc)
 - Learned of the legends of the last engine of fate and want to replicate it (don't know it will destroy the world)
 - Led/controlled by Gilead, a lot of them are fate-stolen
 - Owl, apostasy lawyer, also have some puppet leader whos an old man?
-	- puppet head is close to home - the patrician, one of the dukes?
-- experimenting on fray-tides because they know it's related to the first engine - also in avizallo
+	- puppet head is close to home - the patrician, one of the dukes, Giltstern?
 - steps to power
 	- find ancient artificer's lab on how to create advanced automata
 	- find pieces of the old fate engine
 Gilead, the dragon king - The Big Bad
 - figure out the motif/aesthetic
 - gotta be cooler/sexier, gotta fall a little in love with your bad guy
+- the fray tides are getting worse bc of Gilead's return
 - eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
