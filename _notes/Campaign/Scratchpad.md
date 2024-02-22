@@ -4,9 +4,12 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-- maps: ironworks, festival (sixpoints)
+- maps: 
 - stat blocks: cultist, owlbear, griffon, nobles, automata, 
 - prep battle in harmlesskey, owlbear, 5etools
+- figure out
+	- assassination attmpt on V?
+	- how to get in the dungeon
 
 ### Notes
 Reminders

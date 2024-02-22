@@ -189,7 +189,6 @@ Mechanics
 	- streets cleaned - scalecobbles (large, round flagstones) burnished to a bright bronze
 	- clustered with people, densely packed stalls, games, performances. Priests weave between, swinging smoking censers to give blessings, nobles processions in palanquins
 	- colorful wind socks flapping in the air, decorated like dolphins and whales and leviathans
-- Vasilev asks the PCs to get whatever info abt Gyrfalcon they can? maybe not, too unrelated.
 - Ornsgrym has been buying and selling the Elysian fog to other nobles, but Stevian has the actual contacts with the manufacturers.
 	- Stevian is missing - went to get poison and distribute to assassins.
 - Gyrfalcon mistrusts the Kevarans, believes they're making an unfair deal for the saltwood
@@ -201,23 +200,25 @@ Mechanics
 	- Small grilled fish on skewers
 	- Spiced shredded meat in a skinny flour wrap, dip in yogurt sauce
 	- Lacru - sweet-salty milk based drink, hot or cold
+- A palanquin in burgundy + brown livery passes - Duke Ornsgrym sitting atop, tossing handfuls of copper coins
 - Random stores
 	- [ ] Authentic small-batch micro brewed organic non-MMO(magically modified organisms) poisons - run by a blind gnome
 		- https://roll20.net/compendium/dnd5e/Poisons#content
-		- Stevian passed thru here to buy Assassin's Blood (stats=Burnt Othur)
+		- Stevian passed thru here to buy Assassin's Blood (stats=Burnt Othur), then went towards Melia Square
 	- Drow selling spider silk rope - the ideal dungeoneering rope
 	- Lost? why not buy a homing badger! Guaranteed to find their way home (they do, an hour after purchase)
 	- Guaranteed dragon bones
 - Ersatz selling false Elysian Fog?
 	- Saw Stevian - browsed the false fog, then went to the poisoner's stall
 - Might meet Ringley and Lyell - Ringley is probably drinking. 
-- Stevian is speaking to one of the Patrician's guard? where? feels like this should be more of a reward
-	- stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching or them
-	- On his body - a long narrow pipe, a receipt for an Elysian Fog order, with an address in Arda
-- A palanquin in burgundy + brown livery passes - Duke Ornsgrym sitting atop, tossing handfuls of copper coins
+	- Also saw Stevian
 - [ ] Toby gets contacted by Merriwink
 	- things have changed - he can pass the first trial of initiation if he steals a branch of the felichian sacred flame. Also grab me one of those hotcakes while you're at it. 
 	- bring it to the the old ironworks on Seer's Street
+- [ ] Stevian fainted behind a gambling house in Melia Square
+	- A few other ppl leaving the building - a guardsman, some commoners
+	- stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching or them
+	- On his body - wooden flute, a long narrow pipe, a receipt for an Elysian Fog order with an address in Arda
 ### Games / Performances
 - Staff dancing - a kind of combat/performance
 	- 10gp to enter, 50gp for a win + get your fortune told by the priests
@@ -229,7 +230,7 @@ Mechanics
 - Sprites and pixies giving a magic performance
 - [ ] Petting zoo - dancing owlbear, griffon rides
 - [ ] The sirenian players are missing their female lead (Alara)
-	- Elind pacing around frantically, stopping people and asking if they've seen a human woman with red hair. The show's on in 10 minutes! Also has anyone seen Zircon's violin??
+	- Elind pacing around frantically, stopping people and asking if they've seen a human woman with red hair. The show's on in 10 minutes! Also has anyone seen Zircon's flute??
 	- Alara came to Sixpoints early yesterday to set up the stage, was noticed by cultists
 		- Met people working for one of the Dukes (Stevian) to organize permits for the stage
 		- Told them she met an old friend (was charmed?) working for an Archaeological society - friend was a schoolmate at Bridgewater, convinced her to go back to visit 
@@ -271,7 +272,6 @@ try to come up with a cool centerpiece/ceremony
 
 
 ## Clockwork's Trap
-- or merriwink says she has info on the grave robbers?
 - Old ironworks - brick building, dusty windows. Wide open floor w vats they used to melt ore
 - Steel mesh catwalk stretches above - a hint of movement
 	- Merriwink may call out to Toby if hesitant
@@ -294,6 +294,7 @@ First Floor
 	- Front entrance goes to a reception desk to buy an entry ticket (2gp), manned by Quercus
 	- Back entrance is for adventurers bringing in loot - goes to a cargo elevator to the second floor
 - Quercus: gnome cultist, crotchety old man with round glasses, hair growing out nostrils. Quivery old man voice. 
+	- humming a tune idly
 	- Overbearing, tells ppl not to touch anything. 
 	- Flute stored under desk, but originally does not know music
 - Tiny, dusty little museum, flickering lighting, moldering artifacts behind glass cases, paper labels with spidery, faded ink
@@ -317,6 +318,7 @@ Second Floor
 
 Fight
 - Quercus plays his flute and animates the museum exhibits to start dancing
+- Potentially have the oliphaunt blow out the floor, drop the PCs - dex save for fall dmg
 - Monsters
 	- Quercus (cultist), oliphaunt (dino skeleton), suit of armor (dread warrior), swarm of pottery shards? (hoard scarabs) use minion rules?
 	- Ringley, Lyell (scholarly agent)??
