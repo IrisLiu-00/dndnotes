@@ -309,6 +309,7 @@ Second Floor
 - Much more bustling. Rows of desks, shelves on all four sides with lots of labelled compartments holding artifacts + samples (mostly inorganic)
 	- A few older men and women inspecting artifacts under magnifying glasses, flipping thru old texts
 	- One half of the room is cleared out, with a large magic circle drawn on the floor. Traces of bone dust. Ritual knife, etc. Where they get the necromancers to process Elysian Fog. 
+	- One jar of bone dust near the magic circle, labeled with "Catacombs X37, Arda, Bridgewater ruins" ==add a scratched out name==
 - Lyell and Ringley working behind one desk - Lyell examining old parchments with a pair of gloves, muttering under his breath. Ringley trying to balance a parchment airplane on his nose. 
 	- Here as consultants to make some money - archaeologists want them to find potential dig sites from the age of Kevar and Arda, but that seems really unlikely. Mention Kevar's lance?
 	- Saw Alara come here on the day of the festival with Stevian - they said they were going to visit their alma mater later
@@ -324,6 +325,8 @@ Fight
 	- Ringley, Lyell (scholarly agent)??
 - fight some cultists, reward w info
 	- evidence of capturing Alara
+	- location of the dungeon - on campus, which building
+		- show that the Bridgewater catacombs r important to the cult
 	- specific passcode or sth to get in the dungeon?
 - 
 
