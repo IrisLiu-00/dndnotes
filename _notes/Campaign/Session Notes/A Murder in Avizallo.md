@@ -1,5 +1,3 @@
-_Here's a blank D&D session note page ready for you to use outlined according to_ _[Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/index.html)__. Duplicate, date, and title the copy page for your new session._
-
 # Characters
 
 - [ ] Review the characters

@@ -53,6 +53,7 @@ Lumdas
 - Goddess of Fate
 	- a sect of the religion starts advocating a new world order - tied to the Council
 	- give this guy some prophetic dreams or whatever
+	- prophecy: will i ever find the truth about Felichias? 'go into the heart of the whiteness'
 
 Toby
 - ==Coriolis (”Cory”) - Djinn father - deadbeat dad
@@ -67,6 +68,7 @@ Toby
 		- Coriolis's daughter?!?! would have to be a year younger than Toby - she's being pursued bc Apostasy thinks she has Coriolis' power now
 		- was conceived as a vessel for elemental powers, unlike toby
 		- doesn't explain why Apostasy wants his powers - to also get to Nexida?
+	- Prophecy: you will find him in the place of fire
 - Mother (Annalise)
 	- Toby's powers actually came from her - passed her powers onto toby to protect him (from what), losing her mind in the process
 	- related/necessary to find Nexida, or to the council - she worked for them?

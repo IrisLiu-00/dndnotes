@@ -120,3 +120,11 @@
 	- assassination was messy! figure out the dramatic beats and handle it better
 		- just dont play when you're tired
 	- better exposition flashing back to / explaining the mission objectives from the hot start
+- 24.2.25 - Wrath of the Butcher Balladeer pt 2
+	- players rly enjoyed Clockwork's performance
+	- momentum unclear - because goals unclear?
+		- you gave them a lead to find Ornsgrym but it doesn't seem like anyone rly made an effort ? was it unclear? should have more clearly shown where Ornsgrym is?
+		- bc they weren't bent on finding Ornsgrym, skipped the main challenge of the festival (finding Stevian)
+		- seemed like there were a lot of stretches where players did nothing, you just yanked them to the next thing
+	- should have let the players pick which section of the fair they went to first, then just put the other section after it
+	- performance as Bagcrust was shoddy

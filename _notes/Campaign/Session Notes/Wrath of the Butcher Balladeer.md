@@ -143,6 +143,7 @@ Pick up here
 	- Damien comes to in a bit, confused about what happened. Just felt like the opera singing was really annoying, got pissed. 
 	- Carolus: Damien has always had asthma, is prone to fits - will ask attendants to keep a closer eye on him
 - Torek: anyone who wants to buy Elysian fog should go thru Ornsgrym, she does not handle sales
+	- she tries to sneak out? roll against pass pcpt
 - another assassination attempt against V - 2 is coincidence, 3 is a pattern
 	- Lauswa is assailant?
 
@@ -245,11 +246,11 @@ Mechanics
 		- sth abt Toby and his father
 	- Father Thrain - shaggy, smiling minotaur priest. Jokester.
 	- If Lumdas comes - priests recognize him, interrogate his faith. He never comes to temple, never does anything
-- Dais with Bacrust, Dukes, Gyrfalcon, ringed by a number of guards
+- Dais with Bagcrust, Dukes, Gyrfalcon, ringed by a number of guards
 	- Ornsgrym is followed by Stevian
 	- Filroy has brought private guard of automatas
 	- Damien, Carolus in the crowd
-- Bacrust begins speech about trade, the fray, etc
+- Bagcrust begins speech about trade, the fray, saltwood deal w avizallo, 
 	- someone whispers, old Bacrust should just die and let us elect a new patrician already
 	- halfway thru the griffon starts screeching and someone chuckles
 	- Coughing fit > a guard moves aside to let a attendant bring him some water 
@@ -259,16 +260,12 @@ Mechanics
 	- Stevian uses cacophony with violin, cultist guard tries to attack Ornsgrym
 	- Damien tries to attack Carolus Filroy
 	- Filroy screams for automata to do something, stop people from coming
+	- filroy died
+	- next time start initiative: Kallista 6, Bluemoon 17, Eletha 7, Lumdas 17
 - One of the automata lets loose a stray shot, bursts the locks on Owlbear, Griffon. chaos ensues
 	- what does each party do? Beasts attack automata, cultists try to run?
 	- fire spreads somehow
 - if they don't get enough info, Filroy asks them to investigate Vasilev > do another assassination, let them capture Stevian or whatever
-
-try to come up with a cool centerpiece/ceremony
-- about wind, trade, fate, fire
-- a ritual to try to direct fate, prevent the fray
-- burning of the old, anointing of the new - everyone has to give up something of theirs to burn
-- running of the bulls - summon dragons from fire
 
 
 ## Clockwork's Trap

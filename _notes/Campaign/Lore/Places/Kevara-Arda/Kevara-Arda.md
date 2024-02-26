@@ -82,7 +82,7 @@ Kevar + Arda
 # Factions
 
 ## Government
-- Patrician Bacrust + Dukes. Mostly incompetent, work to protect own investments in trade and property. Dukes are hereditary, Patrician is elected.
+- Patrician Bagcrust + Dukes. Mostly incompetent, work to protect own investments in trade and property. Dukes are hereditary, Patrician is elected.
 - Often paid off by the Merchers
 - Duke house colors: 
 	- Patrician: gold + blue

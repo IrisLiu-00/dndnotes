@@ -4,12 +4,13 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-- maps: 
+- maps: archaeological society
 - stat blocks: cultist, owlbear, griffon, nobles, automata, 
 - prep battle in harmlesskey, owlbear, 5etools
+	- sixpoints + archaeological society
 - figure out
-	- assassination attmpt on V?
 	- how to get in the dungeon
+
 
 ### Notes
 Reminders
@@ -65,8 +66,9 @@ Battle tactics
 
 
 Todos - story
+- lumdas wants to go to get the primus doctrine, talk to the head priestess abt 'go into the heart of the whiteness'
+	- REWARD FOR SHOWING INITIATIVE!!!
 - tie mushika into it
-- the elves' plan
 - forge painting - this can be a sidequest or integrated into a bigger adventure
 	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
 	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 

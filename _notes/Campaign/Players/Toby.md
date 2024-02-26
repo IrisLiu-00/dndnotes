@@ -31,3 +31,21 @@ Abilities
 - Cunning action - bonus dash, disengage, hide
 - Fast hands - use bonus action to make sleight of hand, take Use Object action
 - Can hold breath forever
+
+Thieves Guild initiation - 3 trials
+- steal 200gp and tithe to the thieves guild (supplanted)
+- steal the best kite in Avizallo for merriwink
+- steal an artifact from merriwink
+	- reward: thief's gloves
+
+# Item
+
+Thief's gloves (Annalise's gloves): fingerless gloves/arm braces with a concealed dagger in the right wrist
+- Merriwink inherited from Toby's mom; they were too big for her
+lvl1
+- +1 dagger, 1d6 dmg
+- +3 bonus to pick any lock
+lvl2 (don't scale up until others have magic items too)
+- dagger of venom stats?
+lvl3
+- turn invisible? (blade of broken mirrors, exalted)
