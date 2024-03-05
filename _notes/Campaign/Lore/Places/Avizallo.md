@@ -28,7 +28,7 @@ Kevaran Influence
 - Less of food supply is now home grown (fishing/sea grass) both bc of Kevaran imports + environmental disruption from saltwood harvesting
 
 
-## The Council of Birds
+## The Court of Birds
 
 Members
 - Owl (religion): she. Haltingly soft spoken.

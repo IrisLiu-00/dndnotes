@@ -254,17 +254,19 @@ Mechanics
 	- someone whispers, old Bacrust should just die and let us elect a new patrician already
 	- halfway thru the griffon starts screeching and someone chuckles
 	- Coughing fit > a guard moves aside to let a attendant bring him some water 
-- Pcpt check. Attendant pulls a knife, lunges suddenly at Bacrust until they fall to knees. Start bleeding profusely thru nose, alight with pale gold flame. 
+- Pcpt check. Attendant pulls a knife, lunges suddenly at Bagcrust until they fall to knees. Start bleeding profusely thru nose, alight with pale gold flame. 
 	- ==and hopefully the shit goes down with Clockwork at the same time
 	- all the assassins have poisoned knives (single use dosage)
 	- Stevian uses cacophony with violin, cultist guard tries to attack Ornsgrym
 	- Damien tries to attack Carolus Filroy
-	- Filroy screams for automata to do something, stop people from coming
-	- filroy died
-	- next time start initiative: Kallista 6, Bluemoon 17, Eletha 7, Lumdas 17
-- One of the automata lets loose a stray shot, bursts the locks on Owlbear, Griffon. chaos ensues
-	- what does each party do? Beasts attack automata, cultists try to run?
-	- fire spreads somehow
+	- Filroy died
+- One of the automata lets loose a stray shot, bursts the locks on Owlbear, Griffon
+	- Ornsgrym panics, shouts at automata and guards to not let anyone leave the square - they close in
+	- 2 guards close behind the griffon > veers the other way, straight thru crowd in plaza, slams an automata thru bonfire > fire begins spreading, lighting the hay and refuse scattered on the ground
+		- Automata goes on fire (1d4 dmg per turn)
+	- all automata start with shockwave effect
+	- Initiative 0 fire spreads
+	- automata will fire at any sus activity, animals turn violent, assassins try to kill their targets then flee
 - if they don't get enough info, Filroy asks them to investigate Vasilev > do another assassination, let them capture Stevian or whatever
 
 
@@ -278,7 +280,7 @@ Mechanics
 	- Get into a fight - call her here alone and I'll let you go
 	- ==what is Toby thinking or feeling as this happens?
 	- Rolls up his sleeves, exposing manacled wrists, connected to a chain. One end of the chain goes to his pocket watch in his hand. The other end he draws outwards from his duster, the links clinking as they move. He swings it with a slow, indolent menace, and you see that at that other end is an ornate, curlicued metal point - the sharpened hand of an enormous clock. 
-	- Timed explosion can blow out the stairs - it's a fifty foot drop to the bottom
+	- Timed explosion can blow out the stairs - it's a 30 foot drop to the bottom
 	- anything to prevent him running away?
 - Clockwork can backflip out a window once it goes bad for him
 
@@ -291,7 +293,7 @@ First Floor
 	- Front entrance goes to a reception desk to buy an entry ticket (2gp), manned by Quercus
 	- Back entrance is for adventurers bringing in loot - goes to a cargo elevator to the second floor
 - Quercus: gnome cultist, crotchety old man with round glasses, hair growing out nostrils. Quivery old man voice. 
-	- humming a tune idly
+	- humming a tune absently - no, it's C then A then G sharp
 	- Overbearing, tells ppl not to touch anything. 
 	- Flute stored under desk, but originally does not know music
 - Tiny, dusty little museum, flickering lighting, moldering artifacts behind glass cases, paper labels with spidery, faded ink
@@ -301,30 +303,31 @@ First Floor
 	- Pottery shards + such
 	- Any organic remains have already been removed - a mummy
 - Narrow staircase to the side goes upstairs, cordoned off w a velvet rope. Receptionist will try to stop visitors from passing thru
+	- see another elderly archaeologist come in thru back entrance + go up the steps
 
 Second Floor
 - Much more bustling. Rows of desks, shelves on all four sides with lots of labelled compartments holding artifacts + samples (mostly inorganic)
 	- A few older men and women inspecting artifacts under magnifying glasses, flipping thru old texts
 	- One half of the room is cleared out, with a large magic circle drawn on the floor. Traces of bone dust. Ritual knife, etc. Where they get the necromancers to process Elysian Fog. 
-	- One jar of bone dust near the magic circle, labeled with "Catacombs X37, Arda, Bridgewater ruins" ==add a scratched out name==
+	- One jar of bone dust near the magic circle, labeled with "Catacombs X37, Arda, Bridgewater underground" scratched out name "Brayden Blackwood"
 - Lyell and Ringley working behind one desk - Lyell examining old parchments with a pair of gloves, muttering under his breath. Ringley trying to balance a parchment airplane on his nose. 
 	- Here as consultants to make some money - archaeologists want them to find potential dig sites from the age of Kevar and Arda, but that seems really unlikely. Mention Kevar's lance?
-	- Saw Alara come here on the day of the festival with Stevian - they said they were going to visit their alma mater later
+	- Saw Alara come here on the day of the festival with Stevian - they said they were going to visit their alma mater Bridgewater later
+	- Lyell can explain the nature of the fog - possession
 - Woman's handbag set atop one of the desks (Alara's) - some money, lines for the Ballad of Kevar/Arda, cosmetics
-- Should other scholars ignore or stop players?
-- Trigger fight once the ?
+- Maps on the walls - plotted out locations of catacomb entrances. Numerous locations Xed out, already plundered. One at Bridgewater seems heavily annotated. One under Ass Play?
+- Other scholars will try to stop players if they notice them, call Quercus and start fight
 
 Fight
 - Quercus plays his flute and animates the museum exhibits to start dancing
+	- "you're too late to come find me - by tomorrow night, she will be dead and the composition complete"
 - Potentially have the oliphaunt blow out the floor, drop the PCs - dex save for fall dmg
 - Monsters
 	- Quercus (cultist), oliphaunt (dino skeleton), suit of armor (dread warrior), swarm of pottery shards? (hoard scarabs) use minion rules?
 	- Ringley, Lyell (scholarly agent)??
 - fight some cultists, reward w info
-	- evidence of capturing Alara
-	- location of the dungeon - on campus, which building
-		- show that the Bridgewater catacombs r important to the cult
-	- specific passcode or sth to get in the dungeon?
+	- either Quercus or some other cultist has a Bridgewater campus map, with the location of ISEC circled
+	- Quercus has jotted some sheet music - short tune, password to the dungeon
 - 
 
 ## The Dungeon
@@ -390,7 +393,7 @@ Playing a cultist
 - 
 
 ### The Butcher Balladeer
-- student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Coriolis
+- Brayden Blackwood: student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Coriolis
 	- the troupe decided to downsize their classical music budget in favor of appealing to the youths - went for rock opera instead
 - started murdering teachers + students, discovered the screams of the dead were a musical inspiration
 - super emo, goth kid, screamo music

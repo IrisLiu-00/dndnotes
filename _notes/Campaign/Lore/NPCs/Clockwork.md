@@ -21,47 +21,122 @@ protection from energy?, dispel magic, summon construct
 - Was an excellent watchmaker who turned to explosives + murder
 - Has a younger sister
 
-- add a time bomb ability to clockwork
+- probably increase dmg the next time they meet him, inc ac?
   
-
-  
-
----
-> Clockwork
-> _7th-level Medium Humanoid, chaotic neutral_
-> ---
-> - **Armor Class** 13
-> - **Hit Points** 120
-> - **Speed** 30 ft.
----
-
- | STR     | DEX     | CON     | INT     | WIS    | CHA     |
- | ------- | ------- | ------- | ------- | ------ | ------- |
- | 12 (+1) | 16 (+3) | 14 (+2) | 10 (+0) | 8 (-1) | 14 (+2) |
-
----
-> 
-> - **Saving Throws** Con +5, Cha +5
-> - **Skills** Athletics +4, Deception +5
-> - **Damage Resistances** fire
-> - **Senses** darkvision 30 ft., passive Perception 9
-> - **Languages** —
-> - **Challenge** 0 (10 XP)
-> - **Proficiency Bonus** +2
-> ---
-> 
-> _**Spellcasting.**_ Attack +5, Save DC 13
-> 
-> 3rd level (3 slots): _dispel magic_
-> 
-> 4th level (1 slot): _summon construct_
-> 
-> ### Actions
-> 
-> _**Chain.**_ 2 attacks with chain. _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 9) slashing damage.
-> 
-> _**Stasis Charge.**_ (3/day) Throw a bomb with 20ft radius, center within 30ft of you. All targets within must make a WIS save DC 13 or be frozen in time (paralyzed) for one round.
-> 
-> ### Reactions
-> 
-> _**Chronal Shift.**_ (2/day) After you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll.
+```
+{
+	"name": "Clockwork (Bounty Hunter)",
+	"size": [
+		"M"
+	],
+	"type": "humanoid",
+	"source": "Huskies",
+	"alignment": [
+		"C",
+		"N"
+	],
+	"ac": [
+		{
+			"ac": 14,
+			"from": [
+				"Leather armor"
+			]
+		}
+	],
+	"hp": {
+		"special": "120"
+	},
+	"speed": {
+		"walk": 30
+	},
+	"str": 12,
+	"dex": 16,
+	"con": 14,
+	"int": 10,
+	"wis": 8,
+	"cha": 14,
+	"passive": 9,
+	"cr": "4",
+	"level": 7,
+	"save": {
+		"dex": "+6",
+		"cha": "+5"
+	},
+	"skill": {
+		"deception": "+5",
+		"athletics": "+4"
+	},
+	"resist": [
+		"fire"
+	],
+	"senses": [
+		"darkvision 30 ft."
+	],
+	"senseTags": [
+		"D"
+	],
+	"spellcasting": [
+		{
+			"name": "Spellcasting",
+			"headerEntries": [
+				"Attack +5, Save {@dc 13}"
+			],
+			"spells": {
+				"3": {
+					"spells": [
+						"{@spell dispel magic}"
+					],
+					"slots": 3
+				},
+				"4": {
+					"spells": [
+						"{@spell summon construct|TCE}"
+					],
+					"slots": 1
+				}
+			},
+			"type": "spellcasting"
+		}
+	],
+	"spellcastingTags": [
+		"O"
+	],
+	"action": [
+		{
+			"name": "Chain",
+			"entries": [
+				"2 attacks with chain. {@atk mw} {@hit 6} to hit, reach 10 ft., one target. {@h}15 ({@damage 2d6 + 9}) slashing damage. Bonus action STR contest to be pulled 20ft. "
+			]
+		},
+		{
+			"name": "Stasis Charge",
+			"entries": [
+				"(3/day) Throw a bomb with 20ft radius, center within 30ft of you. All targets within must make a WIS save {@dc 13} or be frozen in time ({@condition paralyzed}) until the end of Clockwork's next turn. "
+			]
+		}
+	],
+	"miscTags": [
+		"MW",
+		"RCH"
+	],
+	"reaction": [
+		{
+			"name": "Chronal Shift",
+			"entries": [
+				"(2/day) After you or a creature you can see within 30 feet of you makes an attack roll, an ability check, or a saving throw, you can force the creature to reroll. You make this decision after you see whether the roll succeeds or fails. The target must use the result of the second roll."
+			]
+		}
+	],
+	"bonus": [
+		{
+			"name": "Time Bomb",
+			"entries": [
+				"(4/day) Throw a detonator with range 30ft, radius 10ft. At the end of Clockwork's next turn, the bomb goes off for {@dice 2d6} fire dmg (DEX save 13 for half)."
+			]
+		}
+	],
+	"damageTags": [
+		"S"
+	]
+}
+```

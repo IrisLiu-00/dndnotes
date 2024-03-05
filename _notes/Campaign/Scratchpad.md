@@ -1,5 +1,6 @@
 
 ANNOUNCEMENTS
+- cancelling Mar 10/17
 - recap
 
 Todos - immediate
@@ -19,7 +20,6 @@ Reminders
 - Concentration for spells!
 - Take a break midway thru
 - A player can give their DM inspiration to someone else
-- Spend all the battle slots: Move, Action, Bonus action, Reaction (once per round, opp attk)
 - Can cast spell as reaction, can cast cantrip + levelled if one is bonus
 
 
@@ -96,24 +96,21 @@ Todos - story
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
 - Do a job for Konrad
 - Merriwink gives Toby a challenge to allow him to join the thieves guild
-	- reward: toby's first magic weapon? assassin's creed hidden knife glove, they never fit Merriwink anyways
 - Avizallo - the bad guys should lead here by the end of the Kevara introduction arc
 	- should clearly establish what Nexida is 
 	- should establish Coriolis
-- attend a fancy theater show
 - catch an escaped criminal (Coriolis?)
-- desert tomb raiding, helping Nidalia find out abt her creation
-    - give the party a reason to find nidalia / ask her stuff > hook into this adventure
-    - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?
-    - designing dungeons with cool mechanics (see resources)
 - desert dragon tomb / grave / temple thing for dungeon crawl - use on the way to apostasy
 - Kallista gets recaptured by the tieflings, do a court trial encounter
 - Something brings them to the Mirwood, do class revolution
 - exploring the corpse of a sky whale
 - Anime con with Rulla
-- Court intrigue at the court of birds
 - Labyrinth crawl, find the treasure guarded by the automata
     - artificial intelligences, labyrinths + minotaur (Borges)
 
 - language barriers for lumdas to use tongues
+- desert tomb raiding, helping Nidalia find out abt her creation
+    - give the party a reason to find nidalia / ask her stuff > hook into this adventure
+    - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?
+    - designing dungeons with cool mechanics (see resources)
 

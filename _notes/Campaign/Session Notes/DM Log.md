@@ -128,3 +128,6 @@
 		- seemed like there were a lot of stretches where players did nothing, you just yanked them to the next thing
 	- should have let the players pick which section of the fair they went to first, then just put the other section after it
 	- performance as Bagcrust was shoddy
+- 24.3.3 - Wrath of the Butcher Balladeer pt 3
+	- gotta get better at dialogue during battles - forgot to have all the cultists speak
+	- felt bad leaving Toby out of a whole major battle - maybe should have ordered events diff?

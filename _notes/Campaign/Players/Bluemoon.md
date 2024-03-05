@@ -20,7 +20,7 @@ INT save: 1
 WIS save: 1
 CHA save: 5
 AC: 11
-Max HP: 35
+Max HP: 33
 Background: Guild Artisan
 ---
 Abilities
