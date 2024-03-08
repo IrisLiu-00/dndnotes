@@ -369,6 +369,7 @@ Entrance
 Band rehearsal hall
 - Cultist + 3 skeleton musicians
 - Treasure: defeated skeletons can be harvested
+Recording studio (outer/inner)
 #### Level 2 - The Butcher's Lair
 wraparound mirror room battle - in a dance studio, each ghoul is a diff dance style
 - collapsed room from lvl 1? give a shortcut
@@ -389,10 +390,9 @@ Final face off: Leanna + ghost in lair, cultists
 - plant lore - nature of the accident, the butcher's murders, the composition
 	- student graffiti on the walls
 - something to experiment with, interesting terrain
-- treasure: 2 magic items, some gold, the artificer's code
-	- related to music, students/studying?
-	- deck of illusions
-	- 
+- zones of silence for recording studio - prevents verbal spellcasting
+	- from a recording studio
+	- song seals to prevent dead from rising / approaching somewhere? - stop them from making sound
 - traps and hazards
 Dungeon design
 - each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
@@ -428,23 +428,12 @@ Playing a cultist
 	- discovered entrance into catacombs, started using the area for his dark deeds
 - super emo, goth kid, screamo music
 - plays the shrieks of the dead on their violin - reskinned banshee
-- Balladeer's violin - +1 casting focus with a shriek ability. Strung using the vocal cords of victims? goffick
-	- pipes of haunting - inflict fear effect?
 
 
 # Secret and Clues
 
 _Check off when revealed._
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
 - [ ]
 
 
@@ -454,8 +443,16 @@ _Check off when revealed._
 
 
 # Treasure
-
+related to music, students/studying? undead things?
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
+- Balladeer's Violin: +1 casting focus with a shriek ability. Strung using the vocal cords of victims? goffick
+	- pipes of haunting - inflict fear effect?
+- 2 magic items, some gold, the artificer's code
+- deck of illusions (put this in the secret hoard, plus gold)
+- ring/cloak of protection? make more interesting
+- something for memorizing lines - photographic memory
+	- store one document, you always have access to it in ur memory
+	- 20 pages of text or 1 hr of events? or just the text/images
 
 # Session Notes
 
