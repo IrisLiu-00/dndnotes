@@ -218,8 +218,6 @@ Mechanics
 	- bring it to the the old ironworks on Seer's Street
 - [ ] Stevian fainted behind a gambling house in Melia Square
 	- A few other ppl leaving the building - a guardsman, some commoners
-	- stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching or them
-	- On his body - wooden flute, a long narrow pipe, a receipt for an Elysian Fog order with an address in Arda
 ### Games / Performances
 - Staff dancing - a kind of combat/performance
 	- 10gp to enter, 50gp for a win + get your fortune told by the priests
@@ -269,6 +267,12 @@ Mechanics
 	- automata will fire at any sus activity, animals turn violent, assassins try to kill their targets then flee
 - if they don't get enough info, Filroy asks them to investigate Vasilev > do another assassination, let them capture Stevian or whatever
 
+Interrogating Stevian
+- Stevian has been taken to a city watch post near Sixpoints - is in a jail cell
+- stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching or them
+- On his body - violin, a long narrow pipe, a receipt for an Elysian Fog order with an address in Arda
+	- Violin stamped with The Sirenian Players, initials A.L.
+
 
 ## Clockwork's Trap
 - Old ironworks - brick building, dusty windows. Wide open floor w vats they used to melt ore
@@ -306,7 +310,7 @@ First Floor
 	- see another elderly archaeologist come in thru back entrance + go up the steps
 
 Second Floor
-- Much more bustling. Rows of desks, shelves on all four sides with lots of labelled compartments holding artifacts + samples (mostly inorganic)
+- Rows of desks, shelves on all four sides with lots of labelled compartments holding artifacts + samples (cloth fragments, pottery shards)
 	- A few older men and women inspecting artifacts under magnifying glasses, flipping thru old texts
 	- One half of the room is cleared out, with a large magic circle drawn on the floor. Traces of bone dust. Ritual knife, etc. Where they get the necromancers to process Elysian Fog. 
 	- One jar of bone dust near the magic circle, labeled with "Catacombs X37, Arda, Bridgewater underground" scratched out name "Brayden Blackwood"
@@ -314,8 +318,11 @@ Second Floor
 	- Here as consultants to make some money - archaeologists want them to find potential dig sites from the age of Kevar and Arda, but that seems really unlikely. Mention Kevar's lance?
 	- Saw Alara come here on the day of the festival with Stevian - they said they were going to visit their alma mater Bridgewater later
 	- Lyell can explain the nature of the fog - possession
-- Woman's handbag set atop one of the desks (Alara's) - some money, lines for the Ballad of Kevar/Arda, cosmetics
+- Woman's handbag, empty violin case (Alara Lightfoot's) - some money, lines for the Ballad of Kevar/Arda, cosmetics
 - Maps on the walls - plotted out locations of catacomb entrances. Numerous locations Xed out, already plundered. One at Bridgewater seems heavily annotated. One under Ass Play?
+	- Bridgewater dig site was marked out two months ago - university building that collapsed in an unspecified accident, but possibly exposed tunnels to the catacombs
+- Scrolls with research materials - large pile about Arda side urban legends that was abandoned a while ago
+	- Balladeer Butcher - a slasher about 80 yrs ago who killed a number of musicians + music students, often removing their vocal cords
 - Other scholars will try to stop players if they notice them, call Quercus and start fight
 
 Fight
@@ -341,6 +348,7 @@ Fight
 - Built ~80 years ago when the school tried to revitalize its image, rapidly abandoned when a mysterious accident collapsed the whole building
 	- The Butcher nearly completed his shriek metal black grunge composition - his first rehearsal brought the building down, killing a lot of students/teachers who were in it
 - Basement is still intact and is connected to an unexplored section of the catacombs
+- All the undead are victims of the slasher, bound into service
 
 Getting into dungeon - sth to make the archaeological society worth
 - need to perform a tune to expose the entrance
@@ -350,21 +358,42 @@ Getting into dungeon - sth to make the archaeological society worth
 	- PCs would have to capture a cultist or subject themselves to possession
 ### Layout
 - 3 levels, 3 areas in each level - 3 mid battles, 1 boss battle? add more as needed
-- find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
-- Final face off: Leanna + ghost in lair
-- reduced threat ghosts as prior monsters in the dungeon - victims of the slasher
+#### Level 1 - ISEC Basement
+Entrance
+- Once an imposing building of dark onyx stone, built in a modernistic style (geometric abstract shapes). Now a collapsed wreck, a lot of the valuable facade decoration picked off by scavengers, the remaining ruin jutting into the air like broken teeth
+- figure out the entrance mechanics more
+- add an optional/secret entrance? from Yu?
 - patrol outside - see if players notice
+	- if patrol is alerted, they run in and join reinforcements (check matt colville again)
+- No light inside the dungeon
+Band rehearsal hall
+- Cultist + 3 skeleton musicians
+- Treasure: defeated skeletons can be harvested
+#### Level 2 - The Butcher's Lair
+wraparound mirror room battle - in a dance studio, each ghoul is a diff dance style
+- collapsed room from lvl 1? give a shortcut
+secret treasure room behind a riddle
+#### Level 3 - The Deep Catacombs
+singing ghosts in a labyrinth (reduced threat ghosts)
+find the grave of the butcher, which has been partially ransacked (some bones removed)
+puzzle: [dance of doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) (read aloud the riddle as a song)
+	- use suggestion in comments
+Final face off: Leanna + ghost in lair, cultists
+
+- make each section of the dungeon abt a diff bard discipline
+- find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
 - have cultists run away to alert others (retreat on round 2, alert on round 3)
 - bad guys target the light armored ones first
 - resting -> chance of a random encounter?
 - have the cultists take a captive to rescue?
-- secret treasure room behind a riddle
-- wraparound mirror room battle - in a dance studio, each ghoul is a diff dance style
-	- make each section of the dungeon abt a diff bard discipline
-- find the grave of the butcher, which has been partially ransacked (some bones removed)
 - plant lore - nature of the accident, the butcher's murders, the composition
-- puzzle: [dance of doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) (read aloud the riddle as a song)
-	- use suggestion in comments
+	- student graffiti on the walls
+- something to experiment with, interesting terrain
+- treasure: 2 magic items, some gold, the artificer's code
+	- related to music, students/studying?
+	- deck of illusions
+	- 
+- traps and hazards
 Dungeon design
 - each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
 - https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html
@@ -396,9 +425,11 @@ Playing a cultist
 - Brayden Blackwood: student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Coriolis
 	- the troupe decided to downsize their classical music budget in favor of appealing to the youths - went for rock opera instead
 - started murdering teachers + students, discovered the screams of the dead were a musical inspiration
+	- discovered entrance into catacombs, started using the area for his dark deeds
 - super emo, goth kid, screamo music
 - plays the shrieks of the dead on their violin - reskinned banshee
 - Balladeer's violin - +1 casting focus with a shriek ability. Strung using the vocal cords of victims? goffick
+	- pipes of haunting - inflict fear effect?
 
 
 # Secret and Clues

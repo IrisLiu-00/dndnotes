@@ -1,6 +1,5 @@
 
 ANNOUNCEMENTS
-- cancelling Mar 10/17
 - recap
 
 Todos - immediate
