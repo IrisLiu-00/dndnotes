@@ -44,3 +44,13 @@ Bridgewater U
 - party school
 - Yu: changeling professor of performance arts, influential to Kallista
 - Nightfall (Peanut): angsty rogue fairy dude. Kallista helped dye his wings/hair black
+
+# Item
+
+Balladeer's Violin: an ebony violin set with inlaid bone. Mildly haunted.
+lvl 1
+- +1 spellcasting focus
+- Shriek: 1/day, produce an earsplitting sound composed of the screams of the dead. All creatures within 30 feet of the player that can hear the violin must make a DC 13 Constitution saving throw, taking 4d8 psychic damage on a failure or half as much on a success. 
+lvl 2+
+- increase spellcasting bonus?
+- 3 charges; expend 1 charge to use an action to play a haunting tune. DC 15 Wisdom save within 30 feet or become frightened for one minute (reference Pipes of Haunting for more details)
