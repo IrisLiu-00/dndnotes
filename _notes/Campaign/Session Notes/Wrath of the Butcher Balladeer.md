@@ -363,6 +363,7 @@ Getting into dungeon - sth to make the archaeological society worth
 	- PCs would have to capture a cultist or subject themselves to possession
 ### Layout
 - Resting -> chance of random encounter
+- secret entrance from Yu? some cool way to get in
 #### Level 1 - ISEC Basement
 Entrance
 - Once an imposing building of dark onyx stone, built in a modernistic style (geometric abstract shapes). Now a collapsed wreck, a lot of the valuable facade decoration picked off by scavengers, the remaining ruin jutting into the air like broken teeth
@@ -413,6 +414,7 @@ Labyrinth
 - Every ~20 paces, a desecrated clerical seal. Was used to prevent dead from rising, destroyed by Leanna (wizardly, not bardic magic).
 - singing ghosts in a labyrinth (reduced threat ghosts)
 - find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
+- double scale on owlbear
 - periodically hear the butcher singing/shredding?
 [Dance of Doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) puzzle
 - 7 flat stone doors, each identical except their knobs. From left to right:
@@ -467,6 +469,7 @@ The Butcher's Tomb
 	- where the butcher killed artists + used them to make composition (studio/living space)
 - portcullis splits party, enemies attack
 - something to experiment with, interesting terrain
+- reconstruct the tune of the ghost ward thru scattered fragments - playing it allows getting thru labyrinth shortcut, some sort of env interaction (activate 4 seals?) to deal extra dmg to butcher
 - zones of silence for recording studio - prevents verbal spellcasting
 	- from a recording studio
 	- song seals to prevent dead from rising / approaching somewhere? - stop them from making sound
