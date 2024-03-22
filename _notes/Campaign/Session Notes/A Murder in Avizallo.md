@@ -59,6 +59,9 @@ Potential encounters:
 
 how the murder happened, the assassin's location
 - motive?
+- owl finds out gyrfalcon's true identity
+	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence that gyrfalcon's civilian identity wrote
+	- correspondence related to the motive for murder (nexida)
 - somehow remove gyrfalcon's mask, shot thru the mouth (close range or sniper?)
 	- figured out their identity and shot them while off service. potentially incapacitate (poison, alcohol) first
 - somehow incite the riot

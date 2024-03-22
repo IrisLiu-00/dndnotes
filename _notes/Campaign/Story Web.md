@@ -113,7 +113,7 @@ Gilead, the dragon king - The Big Bad
 - eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
-Lukwa Piranes the Artificer
+Luga Tensorat the Artificer (Luga Tenso?)
 - based in Avizallo
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos

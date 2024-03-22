@@ -56,10 +56,12 @@ Members
 	- Highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
 		- Working with Macaw on this?
 Masks
-- Masks guard their identities - origins in avoiding the plague, or for the sake of impartiality
+- Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
 - Masks cannot be unwillingly removed except DC30 str check, but they do fall off in death
 	- or they only come off under the hand of other council members?
+- Cannot be worn by anyone who is not the owner - inflicts damage
 - Immune to mind control magic that would make someone remove their mask
+- After death of a Bird, a civil service exam happens - highest scorer becomes successor. The other birds never find out the new one's identity. 
 Other stuff
 - Guard wear half hawk masks; lower public servants wear half sparrow masks
 - 

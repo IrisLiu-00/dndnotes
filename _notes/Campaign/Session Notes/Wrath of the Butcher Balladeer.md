@@ -287,7 +287,7 @@ Interrogating Stevian
 	- anything to prevent him running away?
 
 Pick up here
-- what's going on in Kallista's mind?
+- what's going on in Kallista's mind, as her friends unexpectedly swing in for her?
 - Clockwork can backflip out a window once it goes bad for him
 
 ## The Kevara-Arda Archaeological Society
@@ -344,9 +344,11 @@ Fight
 ## The Dungeon
 ### The School
 - Bridgewater U: Arda-side university
+- Motely collection of brownstone + granite buildings, in the shadow of a bridge-like aqueduct cutting thru city
 - Near the border of the Khamgaard occupation
-- Yu - changeling prof for performance arts ==involve her more?==
-- evidence of Alara's passage thru
+- Yu - changeling prof for performance arts
+	- gracile woman with pale skin, dark hair
+	- met Alara briefly the other day, said she was going to come back to catch up but did not reappear
 ### Background
 - Basements of the collapsed ISEC (Instrumental Soundcraft and Elocution Center)
 - Built ~80 years ago when the school tried to revitalize its image, rapidly abandoned when a mysterious accident collapsed the whole building
@@ -354,32 +356,29 @@ Fight
 - Basement is still intact and is connected to an unexplored section of the catacombs
 - Supposedly very haunted
 - All the undead are victims of the slasher, bound into service
-
-Getting into dungeon - sth to make the archaeological society worth
-- need to perform a tune to expose the entrance - relate to the wards?
-- knowledge of where the entrance is
-- some passphrase to get in
-- warding seal on the basements only lets two souls in - the butcher or leanna
-	- PCs would have to capture a cultist or subject themselves to possession
 ### Layout
 - Resting -> chance of random encounter
 - secret entrance from Yu? some cool way to get in
 #### Level 1 - ISEC Basement
 Entrance
-- Once an imposing building of dark onyx stone, built in a modernistic style (geometric abstract shapes). Now a collapsed wreck, a lot of the valuable facade decoration picked off by scavengers, the remaining ruin jutting into the air like broken teeth
-- figure out the entrance mechanics more
-- add an optional/secret entrance? from Yu?
-- Patrol with 2 cultists around the entrance (where? add details) - perception on both sides to see who notices
-	- either sneak past or get into combat - second cultist will escape inwards to the first encounter
-- No light inside the dungeon
+- Edge of campus, not frequented by ppl. Once an imposing building of dark onyx stone, built in a modernistic style (geometric abstract shapes). Now a collapsed wreck, a lot of the valuable facade decoration picked off by scavengers, the remaining ruin jutting into the air like broken teeth
+- Patrol with 2 cultists in bushes around entrance  - perception on both sides to see who notices
+	- either sneak past or get into combat
+	- If combat, second cultist will escape inwards to the first encounter > ambush on second lvl
+- Entrance: part of the rubble forms a triangular shaped doorway, leading into intact staircase down
+- Secret entrance: ? from yu?
+Atrium
+- tiled floor, burnt out fluorescent lights. Darkness. Doorway on left (to band hall) and on right (recording studio).
 Band rehearsal hall
 - Skeletones: seven skeletons, each with a strange glyph on their shield (Do, Re, Mi, Fa, Sol, La, Ti). Resurrect themselves unless killed in correct order
+	- make the onomatopoeia for their note when the skeleton is hit
 - Treasure: defeated skeletons can be harvested
-- Skeletones manhandled Alara + forced her into the tombs - fragment of silk on a rusty music stand
-- Closet > staircase > L2 Butcher's studio (cellar)
-Staircase down to L2
+- Skeletones manhandled Alara + forced her into the tombs - fragment of bright blue silk on a rusty music stand next to closet door
+- Tensorat's crystal here - one of the skeletons picked it up
+	- was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
+- Closet: knocked down pile of bricks exposes staircase to L2 Atrium
 Destroyed recording studio
-- Medium size room, bisected by a wall with a large glass window. Glass window has been shattered, shards flung outward + embedded in the wall. Outer room has some strange machinery - a bank of dials + buttons stands against the dividing wall, totally fried. Inner room blackened + disintegrating - punctured, rubble collapsing in from ground floor, bottom of this room fallen thru.
+- Medium size room, bisected by a wall with a large glass window. Glass window has been shattered, shards flung outward + embedded in the wall. Outer room has some strange machinery - a bank of dials + buttons stands against the dividing wall, totally fried. Inner room blackened + disintegrating - punctured, rubble collapsing in from ground floor, bottom of this room fallen thru. Through the gaps in rubble, can barely see dark stone corridors of a lower layer. 
 - 2 ritual magics happened here - an old one (traces written in common), a recent one (traces written in elvish)
 	- old blood, candles, drawn runes
 	- where the Butcher tried to record his song, collapsing the whole building + where Leana resurrected
@@ -387,6 +386,11 @@ Destroyed recording studio
 - Treasure: Rehearser's Ring, fell off the Butcher's hand when he climbed out
 - Athletics check to climb down to L2, take some dmg if fail?
 #### Level 2 - The Butcher's Lair
+Atrium
+- If patrol was alerted, 4 cultists attack here (from each doorway?), one more posted at studio stairs down?
+	- or combine into another encounter so it's not too much? command the skeletons?
+- Pile of rubble leading up to recording studio
+- Doorways to butcher's studio, dance studio
 Dance studio
 - A room with high arched ceiling made of stone. More recently installed polished wooden floors, mirrored walls on 2 sides with mounted handrails. As you enter, a chain of runes glows at the edges of the mirrors, and their surfaces ripple like water.
 - Attacks and creatures can move thru mirrors to reappear on other side
@@ -399,22 +403,37 @@ Dance studio
 	- Malachite: Green dragonborn. Breakdance. Floppy beanie hat, cool sneakers.
 	- Suella: Human woman. Ballet. Tutu, ballet flats. 
 	- "and a 1, and a 2, and a 1-2-3-4 - let's groove!"
+- Mirrors disappear when the ghouls die, expose another ghost ward fragment
 secret treasure room behind a riddle
-- stepping on the right flagstones?
-- find something to help w later fights?
-- a rest/healing area?
+- stepping on the right flagstones- multicolored stones, do a dance. maybe make this good for the str/dex ppl? the original puzzle was broken from its function
+- curse them to speak in rhymes - the mute and the blind?
+- Songster's Absinthe - used by singers, gives the benefits of a full rest (check how low they are on hp). One dose for everyone
+- Another ghost ward fragment
+- Yu is hanging around here - has been alternatively posing as a cultist or some monster scaring the cultists. challenge the PCs to get the reward?
+	- ask them abt their employer - she used to know vasilev
+	- tell me a story, true or false
 The Butcher's Studio
 - Small stone cellar. Overflowing piles of old yellow parchment, scrawled with musical notation. Pile of rotting rags in the corner (a cot). Wood carvers and planers (luthier's tools), scraps of ebony wood, tweezers and scalpels, bone saw. Some human remains (fragment of a orbital rim, fingers + toes).
-- challenge?
-- cursed bardics from the dead stuff?
-- suggest that dead can be used to make music? shriek ability?
+- Once anyone steps inside: roll initiative. white and ebony instruments start playing an unearthly tune that makes you feel like your soul is being yanked out of body
+	- deal 1d4 continuous damage until stopped
+	- violin strung w human hair, lute with body made of skull, flute made of thigh bone, xylophone made of rib cage
+	- silence them, destroy instruments, comfort the souls (return bones to the corpses)
+- Desiccated corpses: mummified with tufts of missing hair, skeleton w/o rib cage, body w/o head, body w/o leg
+- Near entrance: etched runes (musical notation) that have been erased/covered up with some other dark putrefied liquid (runes of a different sort crawling over the wall)
+	- Ghost wards were created more recently than the stone of the catacombs itself, and they were destroyed even more recently
+	- Bards building the ISEC tried to sanctify the catacombs and install ghost wards - prevent dead from rising, prevent them from moving around (and coming into the school buildings)
+	- Magic that destroyed the wards is diff from the bardic craft in the rest of the room - it's wizardly necromantic magic
+- Healing potion within the stuff
+- Stairs down to L3 Labyrinth
 #### Level 3 - The Deep Catacombs
 Labyrinth
 - narrow stone corridors, dripping water, emptied burial niches. From the distance, high mournful singing.
-- Every ~20 paces, a desecrated clerical seal. Was used to prevent dead from rising, destroyed by Leanna (wizardly, not bardic magic).
-- singing ghosts in a labyrinth (reduced threat ghosts)
-- find the artificer's code - was here hunting for Coriolis ~90 years ago, left a datacrystal. Konrad can help decipher
-- double scale on owlbear
+- Singing ghosts in a labyrinth (reduced threat ghosts)
+- Shortcut exit: rusted portcullis, glimpse another ghost ward fragment on the opposing wall
+	- Piece together melody, performance dc 15 to prevent ghosts from entering area
+	- Portcullis AC, HP, dmg threshold
+- Primary exit: still-functional ghost ward locks the ghosts out. Goes to next room
+- map: double scale on owlbear
 - periodically hear the butcher singing/shredding?
 [Dance of Doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) puzzle
 - 7 flat stone doors, each identical except their knobs. From left to right:
@@ -425,7 +444,7 @@ Labyrinth
 	5. A paper-mache knob made to look like parchment crumpled into a ball
 	6. A reddish-brown wooden knob with paisley-like carvings
 	7. An oval sandstone knob, coarse and gritty
-- Voice boom, repeat in several languages (common, elvish, dwarvish // halfling, goblin, orcish) (stupid bard voice). Hourglass turns (15 minutes)
+- Voice boom, repeat in several languages (common, elvish, dwarvish // halfling, goblin, orcish) (stupid bard voice). Hourglass turns (15 minutes) until the ghosts break their way thru
 	```
 	The Dance of Doors, the Dance of Doors, a merry time for all!
 	Six are cruel and punishing, but one is your windfall!
@@ -456,29 +475,28 @@ Labyrinth
 	```
 - Turning the wrong knob: door does not open, 2d10 psychic damage, DC 12 WIS save for half
 The Butcher's Tomb
-- Cavern of mostly raw stone, carved niches, dripping water. 
+- Tall cavernous room, pillars, carved niches with open sarcophagi, dripping water. 
 - Large stone sarcophagus at far end. Partial corpse inside - a number of ribs are gone. Pale dessicated skin, limp black hair. Holding a ebony violin. ==but he didn't die here?==
+	- figure out how leanna and the ghost make their entrance
 - Butcher is retrying his ritual, somewhere more structurally sound!
+- 4 broken ghost wards - performance DC15 at each to restore them.
+	- Restoring all cuts off possession of cultists, does a chunk of dmg to butcher
 - where is alara captured?
-- figure out how leanna and the ghost make their entrance
 - cultists as infantry? remove cacophony ability
-- map: provide sources of cover
 
 - plant lore - nature of the accident(ritual), the butcher's murders, the composition, leanna trying to find kevar's lance
-	- student graffiti on the walls
-	- where the butcher killed artists + used them to make composition (studio/living space)
 - portcullis splits party, enemies attack
-- something to experiment with, interesting terrain
 - reconstruct the tune of the ghost ward thru scattered fragments - playing it allows getting thru labyrinth shortcut, some sort of env interaction (activate 4 seals?) to deal extra dmg to butcher
 - zones of silence for recording studio - prevents verbal spellcasting
-	- from a recording studio
-	- song seals to prevent dead from rising / approaching somewhere? - stop them from making sound
-	- need a person to manually play the music for it to work?
-- traps and hazards
 Dungeon design
 - each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
 - https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html
 - https://theangrygm.com/babys-first-dungeon-1/
+TODOS
+- puzzle for the room w healing
+- set up of the final lair more
+- artificer's text
+- map
 
 ### The Cult of Song
 - Leanna is the cult leader

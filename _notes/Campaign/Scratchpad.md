@@ -4,7 +4,7 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-- maps: archaeological society
+- maps: archaeological society, dungeon
 - stat blocks: cultist, owlbear, griffon, nobles, automata, 
 - prep battle in harmlesskey, owlbear, 5etools
 	- sixpoints + archaeological society
