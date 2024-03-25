@@ -2,7 +2,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 
 - First settled by ppl fleeing the fray, empire, plague - legends that they were led by migrating birds to the columns
 	- Height generally protects from incursions of the fray, with a few prominent exceptions (what killed Bluemoon’s dad)
-- Modern religious belief says that all the birds living on the columns are collectively their god (collective whole seen as mouthpiece of a force)
+- Modern religious belief says that all the birds living on the columns are collectively their god
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
 	- they don't run at night bc no one is working the fountains
 - big sport - bird fighter kites
@@ -28,7 +28,7 @@ Kevaran Influence
 - Less of food supply is now home grown (fishing/sea grass) both bc of Kevaran imports + environmental disruption from saltwood harvesting
 
 
-## The Court of Birds
+# The Court of Birds
 
 Members
 - Owl (religion): she. Haltingly soft spoken.
@@ -62,15 +62,31 @@ Masks
 - Cannot be worn by anyone who is not the owner - inflicts damage
 - Immune to mind control magic that would make someone remove their mask
 - After death of a Bird, a civil service exam happens - highest scorer becomes successor. The other birds never find out the new one's identity. 
+- Each represent aspects of the divine Birds, seen as a mouthpiece for their will
 Other stuff
 - Guard wear half hawk masks; lower public servants wear half sparrow masks
 - 
 
+# Religion
 
-## Story Stuff
+- All birds residing in the isle are sacred, and represent a sort of composite will / force
+- Interpret omens via bird formations
+- Show devotion by feeding and caring for the birds
+	- citizens generally expected to give offerings
+- Church of Avizallo headed by Owl
+- Birds are more of a spirit than a traditional god
+	- Not a religion with many moral/philosophical tenets, devotion is primarily shown thru making offerings
+	- National god - concerned specifically with wellbeing of avizallans
+	- being always under the watchful wing of the birds - their care and observation
+	- great acts/achievements may be recognized by the birds
+- Pray to different birds for different uses - types of birds are seen as aspects of the god
+	- Gull/albatross/osprey (seafaring/fishing), chicken/pigeon (hearth), falcon (war/protection from harm), parrots (agriculture), owl (wisdom/medicine), hummingbird (artisans), dove (love), vulture (peaceful death), swallows
+- Clerics gain power by making offerings and force of belief - the Birds don't rly care about your actions otherwise
+	- On some lvl clerics of the Birds also have power bc other devotees believe in them
+
+# Story Stuff
 
 - [[Bluemoon]]'s hometown
-
 
 - giltstern is working with owl to make Avizallo a colony?
 - conflict of interest - Vasilev doesnt care abt anything besides her rise to power in Kevara

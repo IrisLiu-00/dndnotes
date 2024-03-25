@@ -66,6 +66,8 @@ how the murder happened, the assassin's location
 	- figured out their identity and shot them while off service. potentially incapacitate (poison, alcohol) first
 - somehow incite the riot
 - faked lividity by beating up the body, then plant the body at the site of riot
+- assassin
+	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)?
 The Councillors
 - owl: the mastermind
 	- if owl asks the PCs to help investigate, why?

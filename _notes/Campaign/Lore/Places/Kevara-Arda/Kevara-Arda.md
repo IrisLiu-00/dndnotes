@@ -21,7 +21,7 @@ Flavor
 - Scalecobbles: pave the streets of Arda-Sur-Mer, Villaronte, Kings End. Round, bronze colored flagstones - the scales of Gilead
 
 Patrician
-- Cannot be killed by anyone with Kevaran water in their body
+- Patrician's Bane: cannot be killed on Kevara-Arda soil by anyone with Kevaran water in their body
 	- the aqueducts + fountains are enchanted (lined with dragonscale?)
 	- anyone who acts to harm the patrician has their blood boil / turn to dragonflame
 - Can sense some of the goings on in the city through the scalecobbles
@@ -114,7 +114,7 @@ Kevar + Arda
 # Conflicts/Threats
 - The Fray: incursions seem to be growing more frequent, more aggressive
 - Upcoming election
-    - Current Patrician Natterwoll is old, somewhat incompetent. Probably die/assassinated soon
+    - Current Patrician Bacrust is old, somewhat incompetent. Probably die/assassinated soon
     - Next election is in 2 years, scheming has begun
     - Only those with a valid citizenship card can vote
     - Invalidating of ballots, voting multiple times, bribery + coercion

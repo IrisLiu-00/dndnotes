@@ -4,12 +4,13 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-- maps: archaeological society, dungeon
-- stat blocks: cultist, owlbear, griffon, nobles, automata, 
+	- cultist, clockwork, skeleton
+- maps: 
+- stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
-	- sixpoints + archaeological society
+	- all the dungeon
 - figure out
-	- how to get in the dungeon
+	- Yu's role / challenge
 
 
 ### Notes
@@ -94,7 +95,6 @@ Todos - story
 	- elven riders hunting a runaway worker?
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
 - Do a job for Konrad
-- Merriwink gives Toby a challenge to allow him to join the thieves guild
 - Avizallo - the bad guys should lead here by the end of the Kevara introduction arc
 	- should clearly establish what Nexida is 
 	- should establish Coriolis

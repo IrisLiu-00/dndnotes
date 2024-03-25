@@ -268,9 +268,11 @@ Mechanics
 
 Interrogating Stevian
 - Stevian has been taken to a city watch post near Sixpoints - is in a jail cell
+- guards dragging in dead bodies, including immolated body of the patrician's assassin - thank Arda's tits for the Patrician's Bane. That was one stupid assassin, though
 - stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching or them
 - On his body - violin, a long narrow pipe, a receipt for an Elysian Fog order with an address in Arda
 	- Violin stamped with The Sirenian Players, initials A.L.
+- Elind filing a missing person request with the guard for Alara Lightheart
 
 
 ## Clockwork's Trap
@@ -284,11 +286,13 @@ Interrogating Stevian
 	- ==what is Toby thinking or feeling as this happens?
 	- Rolls up his sleeves, exposing manacled wrists, connected to a chain. One end of the chain goes to his pocket watch in his hand. The other end he draws outwards from his duster, the links clinking as they move. He swings it with a slow, indolent menace, and you see that at that other end is an ornate, curlicued metal point - the sharpened hand of an enormous clock. 
 	- Timed explosion can blow out the stairs - it's a 30 foot drop to the bottom
-	- anything to prevent him running away?
 
 Pick up here
 - what's going on in Kallista's mind, as her friends unexpectedly swing in for her?
 - Clockwork can backflip out a window once it goes bad for him
+- will Clockwork try to capture K or just toy with her? 
+	- reveal he is bounty hunter
+	- possibly takes X rounds for teleportation back to Apostasy to take effect
 
 ## The Kevara-Arda Archaeological Society
 - basically a bunch of graverobbers - used to be a ragtag association of ppl trying to steal and sell treasure, recently ballooned due to demand for Elysian fog
@@ -322,7 +326,7 @@ Second Floor
 	- Here as consultants to make some money - archaeologists want them to find potential dig sites from the age of Kevar and Arda, but that seems really unlikely. Mention Kevar's lance?
 	- Saw Alara come here on the day of the festival with Stevian - they said they were going to visit their alma mater Bridgewater later
 	- Lyell can explain the nature of the fog - possession
-- Woman's handbag, empty violin case (Alara Lightfoot's) - some money, lines for the Ballad of Kevar/Arda, cosmetics
+- Woman's handbag, empty violin case (Alara Lightheart's) - some money, lines for the Ballad of Kevar/Arda, cosmetics
 - Maps on the walls - plotted out locations of catacomb entrances. Numerous locations Xed out, already plundered. One at Bridgewater seems heavily annotated. One under Ass Play?
 	- Bridgewater dig site was marked out two months ago - university building that collapsed in an unspecified accident, but possibly exposed tunnels to the catacombs
 - Scrolls with research materials - large pile about Arda side urban legends that was abandoned a while ago
@@ -338,7 +342,6 @@ Fight
 	- Ringley, Lyell (scholarly agent)??
 - fight some cultists, reward w info
 	- either Quercus or some other cultist has a Bridgewater campus map, with the location of ISEC circled
-	- Quercus has jotted some sheet music - short tune, password to the dungeon
 - ==lowkey make this shorter. skip the fight?==
 
 ## The Dungeon
@@ -358,7 +361,6 @@ Fight
 - All the undead are victims of the slasher, bound into service
 ### Layout
 - Resting -> chance of random encounter
-- secret entrance from Yu? some cool way to get in
 #### Level 1 - ISEC Basement
 Entrance
 - Edge of campus, not frequented by ppl. Once an imposing building of dark onyx stone, built in a modernistic style (geometric abstract shapes). Now a collapsed wreck, a lot of the valuable facade decoration picked off by scavengers, the remaining ruin jutting into the air like broken teeth
@@ -384,12 +386,12 @@ Destroyed recording studio
 	- where the Butcher tried to record his song, collapsing the whole building + where Leana resurrected
 - Rubble + ash is positioned so that there is a clear spot where something once laid (butcher's body) - stuff has been pushed aside, the thing dragged or crawled out. A separate act of necromancy happened here.
 - Treasure: Rehearser's Ring, fell off the Butcher's hand when he climbed out
-- Athletics check to climb down to L2, take some dmg if fail?
+- Could climb down rubble to L2 Yu's room 
 #### Level 2 - The Butcher's Lair
 Atrium
 - If patrol was alerted, 4 cultists attack here (from each doorway?), one more posted at studio stairs down?
 	- or combine into another encounter so it's not too much? command the skeletons?
-- Pile of rubble leading up to recording studio
+- Staircase down from rehearsal hall
 - Doorways to butcher's studio, dance studio
 Dance studio
 - A room with high arched ceiling made of stone. More recently installed polished wooden floors, mirrored walls on 2 sides with mounted handrails. As you enter, a chain of runes glows at the edges of the mirrors, and their surfaces ripple like water.
@@ -404,7 +406,9 @@ Dance studio
 	- Suella: Human woman. Ballet. Tutu, ballet flats. 
 	- "and a 1, and a 2, and a 1-2-3-4 - let's groove!"
 - Mirrors disappear when the ghouls die, expose another ghost ward fragment
-secret treasure room behind a riddle
+- Doorways back to atrium, to Yu's room
+Yu's Room
+- Another low ceilinged, stone hewn room. Emptied burial niches. 
 - stepping on the right flagstones- multicolored stones, do a dance. maybe make this good for the str/dex ppl? the original puzzle was broken from its function
 - curse them to speak in rhymes - the mute and the blind?
 - Songster's Absinthe - used by singers, gives the benefits of a full rest (check how low they are on hp). One dose for everyone
@@ -432,7 +436,7 @@ Labyrinth
 - Shortcut exit: rusted portcullis, glimpse another ghost ward fragment on the opposing wall
 	- Piece together melody, performance dc 15 to prevent ghosts from entering area
 	- Portcullis AC, HP, dmg threshold
-- Primary exit: still-functional ghost ward locks the ghosts out. Goes to next room
+- Primary exit: partially-functional ghost ward locks the ghosts out. Goes to next room
 - map: double scale on owlbear
 - periodically hear the butcher singing/shredding?
 [Dance of Doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) puzzle

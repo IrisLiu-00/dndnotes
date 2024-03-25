@@ -1,7 +1,7 @@
 Open questions
 - Steps for finding Nexida
 	- "in the shadow of the wind"
-- cosmology of apostasy wrt the cataclysm, Fate
+- Kevara election mechanics
 Need to set up
 - Lore around Kevar, Arda, Gilead
 - Role of Felichian religion, the goddess
@@ -10,7 +10,7 @@ Need to set up
 - Patrician can't be killed - needs reminding beat
 - the cataclysm
 
-  Central tensions: what do we owe the past vs the future. presence or lack of control.
+Central tensions: what do we owe the past vs the future. presence or lack of control.
 
 Kallista
 - Apostasy
@@ -98,11 +98,15 @@ The Fray
 Konrad Luca - capitalist
 - puppet of the synod
 - Retro computing aesthetics: [dana siberia](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
-Order (synod?) -  secret order of megalomaniac scholars (artificers, mages, etc)
-- Learned of the legends of the last engine of fate and want to replicate it (don't know it will destroy the world)
+Disciples of Gilead - come up with a cool codename
+- Learned of the legends of the last engine of fate and want to replicate it
+	- some want power and don't know it will destroy the world, some fate-stolen
 - Led/controlled by Gilead, a lot of them are fate-stolen
-- Owl, apostasy lawyer, also have some puppet leader whos an old man?
-	- puppet head is close to home - the patrician, one of the dukes, Giltstern?
+	- maybe some of them were adventurers who got close to knowledge of the fate engine / gilead and were fate-stolen
+	- were trying to create Indira as a sorcerer member, but she was defective and ran?
+- Owl, apostasy lawyer, Giltstern?
+	- if Giltstern is a disciple then why have Luca run for office
+	- give each member a distinct role
 - steps to power
 	- find ancient artificer's lab on how to create advanced automata
 	- find pieces of the old fate engine
@@ -113,7 +117,7 @@ Gilead, the dragon king - The Big Bad
 - eats people's fate - control over the fate engine will let them eat the fate of everyone + the world itself
 	- what does it mean to lose your fate? 
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
-Luga Tensorat the Artificer (Luga Tenso?)
+Luga Tensorat the Artificer 
 - based in Avizallo
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
@@ -125,7 +129,6 @@ Labyrinth (nexida)
 	- Bad guys might capture coriolis, or find some other way to find island
 Elves
 Onkeioros
-Langksa + sky whales (volaceta)
 Felichias: goddess of fate
 - people think that fate is some omniscient force moving the paths of men - but it's really just senseless randomness
     - she’s not the DM, she’s the DICE
