@@ -32,24 +32,23 @@ Kevaran Influence
 
 Members
 - Owl (religion): she. Haltingly soft spoken.
-	- Identity: Warlock serving the synod, not a cleric at all. (give a few bard lvls for healing spells?) a monstrosity summoned by the council?
-		- directly serving Gilead or serving the puppet head?
+	- Identity: corrupt cleric serving Gilead, or not a cleric at all?
 	- Heads all religious functions, manages clerical rituals for aquifers
 	- Corresponds w Vasilev, presents as an ally to her
 - Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
-	- Identity: half elf?
+	- Identity: Oric Skymar, half elf
 	- Anti-Kevaran, would like to see Avizallo gain more self sufficiency
 - Raven (intelligence/spymaster): she. Reclusive, unknown.
-	- Identity: private eye failwoman. Still moonlights as a detective in order to gather intel. 
+	- Identity: Kit Courier. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
 	- Newest councilor after Kingfisher - joined only 5mo ago
 - Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
-	- Identity: Ezekiel Kline. 
+	- Identity: Ezekiel Ashridge. 
 - Macaw (agriculture/land use): he. Gregarious, comedic.
-	- Identity: 
+	- Identity: Gandras Dol. Prominent saltwood cultivator. 
 	- One of the more popular of the councilors, often makes public appearances.
 	- Corrupt?
 - Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
-	- Identity: Qrystrin Avernant. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
+	- Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
 		- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
 	- The most versed in Avizallo's economic situation
 	- Was close with Gyrfalcon
