@@ -537,7 +537,7 @@ related to music, students/studying? undead things?
 - 300 gp
 - Balladeer's Violin 
 - deck of illusions (put this in the secret hoard, plus gold)
-- ring/cloak of protection? make more interesting
+- ring of protection: +1 to AC, +4 to avoid dropping items or being disarmed
 - Rehearser's Ring: used by students to memorize lines or sheet music
 	- +2 to history checks
 	- store 20 pages of text or 1 hr of events - you have access to it as if it is a photographic memory

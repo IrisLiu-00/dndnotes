@@ -70,6 +70,7 @@ Toby
 		- doesn't explain why Apostasy wants his powers - to also get to Nexida?
 	- Prophecy: you will find him in the place of fire
 - Mother (Annalise)
+	- Once the Queen of Thieves in Kevara Arda
 	- Toby's powers actually came from her - passed her powers onto toby to protect him (from what), losing her mind in the process
 	- related/necessary to find Nexida, or to the council - she worked for them?
 	- wants / motives ? was a whirlwind adventurer or thief?
@@ -123,6 +124,7 @@ Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
 - someplace off the coast of Avizallo, further into the sea
 - find his writings, maps, labs. need a special boat to get there? how to navigate thru Fray
+- Tensorat made a wish using Coriolis to float his lab into the air, high above the Fray where none can reach
 - connection to djinn or genasi? enslaved air elementals to protect lab?? made a wish on Coriolis? so annalise was trying to get the location from coriolis?
 	- you get a wish from a djinn by having them owe you a favor - or by trapping/tricking them
 	- should it be a floating island

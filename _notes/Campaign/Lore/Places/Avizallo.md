@@ -21,7 +21,7 @@ Kevaran Influence
 	- Langksaran empire has receded but Kevaran influence remains
 - Avizallo groves are required to sell saltwood to Kevaran merchants at set prices - laborers get underpaid
 	- Laborers are mostly low lvl druids spamming Druidcraft cantrip to get trees to grow faster
-	- Some higher class Avizallans make a profit by working for Kevarans to manage the groves
+	- Some higher class Avizallans make a profit by working for Kevarans to manage the groves - Court sells contract work to manage saltwood
 - Heavily dependent on Kevaran imports for grains/food, textiles, building materials (metal, stone)
 	- Avizallo has very few saltwood ships of its own, cannot do its own trade
 	- Extremely dependent on Kevara continuing to buy saltwood, only so it can buy back the goods it is not able to purchase overseas itself
@@ -29,35 +29,48 @@ Kevaran Influence
 
 
 # The Court of Birds
+### Members
+Owl (religion): she. Haltingly soft spoken.
+- Identity: 
+	- Actually a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
+	- Made contact with a strange power when she was a young cleric
+- Heads all religious functions, manages clerical rituals for aquifers
+- Wants a war with Kevara that Avizallo will lose
+- Corresponds w Vasilev, presents as an ally to her
 
-Members
-- Owl (religion): she. Haltingly soft spoken.
-	- Identity: corrupt cleric serving Gilead, or not a cleric at all?
-	- Heads all religious functions, manages clerical rituals for aquifers
-	- Corresponds w Vasilev, presents as an ally to her
-- Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
-	- Identity: Oric Skymar, half elf
-	- Anti-Kevaran, would like to see Avizallo gain more self sufficiency
-- Raven (intelligence/spymaster): she. Reclusive, unknown.
-	- Identity: Kit Courier. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
-	- Newest councilor after Kingfisher - joined only 5mo ago
-- Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
-	- Identity: Ezekiel Ashridge. 
-- Macaw (agriculture/land use): he. Gregarious, comedic.
-	- Identity: Gandras Dol. Prominent saltwood cultivator. 
-	- One of the more popular of the councilors, often makes public appearances.
-	- Corrupt?
-- Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
-	- Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
-		- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
-	- The most versed in Avizallo's economic situation
-	- Was close with Gyrfalcon
-	- Highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
-		- Working with Macaw on this?
-Masks
+Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
+- Identity: Orin Skymak, half elf
+- Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
+
+Raven (intelligence/spymaster): she. Reclusive, unknown.
+- Identity: Zora Courier, mixed race. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
+- Newest councilor after Kingfisher - joined only 5mo ago
+- Trying to take down the Kevaran trade firms, supporting the strikers, guerilla tactics destroying company property
+- Mistrusts Kingfisher for her perceived closeness to the Kevaran elites
+
+Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
+- Identity: Ezekiel Ashridge. 
+- Hardline isolationist
+
+Macaw (agriculture/land use): he. Gregarious, comedic.
+- Identity: Gandras Dol. Prominent saltwood cultivator. 
+- One of the more popular of the councilors, often makes public appearances.
+- Softer/more optimistic on Kevara, sometimes called a sellout
+- Corrupt?
+
+Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
+- Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
+	- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
+	- Eledeia family was also a saltwood baron
+- The most versed in Avizallo's economic situation
+- Was close with Gyrfalcon
+- Social with the upper echelons of both Kevara and Avizallo
+- Highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
+	- Trying to get Kevaran nobles/firms to buy up faulty saltwood contracts, somehow trigger a financial crash (baru cormorant???)
+### Masks
 - Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
-- Masks cannot be unwillingly removed except DC30 str check, but they do fall off in death
-	- or they only come off under the hand of other council members?
+- Masks cannot be unwillingly removed except DC30 str check
+	- In death, can only be removed by consensus among the Court
 - Cannot be worn by anyone who is not the owner - inflicts damage
 - Immune to mind control magic that would make someone remove their mask
 - After death of a Bird, a civil service exam happens - highest scorer becomes successor. The other birds never find out the new one's identity. 
