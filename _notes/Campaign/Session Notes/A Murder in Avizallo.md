@@ -44,6 +44,7 @@ The Kite Fighters
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
 	- the spine / inner layering of the kite has some clue
 - do research on the sport
+- kite fighting minigame, stats for each type of kite
 Ramping conflict at the docks 
 - Kevarans try to harvest saltwood by force? what's stopping them
 - Macaw's corruption
@@ -52,9 +53,8 @@ Ramping conflict at the docks
 show the poverty/lack of autonomy in Avizallo (economics section)
 roles of each bird
 
-cohesive faction for the bad guys? they need minions somehow
-- celestials resentful of the worship of the Birds
-- how does the council hire ppl to work for them
+bad guys to fight?
+- Priests loyal to Owl (have been hoodwinked)
 run exploration as a pointcrawl
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
@@ -66,13 +66,14 @@ Potential encounters:
 # Background
 
 how the murder happened, the assassin's location
-- motive?
-	- Owl thinks shes's trying to provoke war and establish avizallo dominance - Gilead wants?
-	- 
-- owl finds out gyrfalcon's true identity
+- Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
+	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
+	- ==how did gyrfalcon find this out??
+- Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence that gyrfalcon's civilian identity wrote
 	- correspondence related to the motive for murder (nexida)
-- assassin sniped gyrfalcon while they were off service in their apt
+	- wrote to plead for sibling, who was suspiciously arrested while kite fighting?
+- Assassin sniped gyrfalcon while they were off service in their apt
 	- newly replaced window
 - somehow incite the riot
 - faked lividity by beating up the body, then plant the body at the site of riot

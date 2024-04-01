@@ -31,22 +31,26 @@ Kevaran Influence
 # The Court of Birds
 ### Members
 Owl (religion): she. Haltingly soft spoken.
-- Identity: 
+- Identity: Morgana, human Felichian priest
 	- Actually a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
-	- Made contact with a strange power when she was a young cleric
+	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
 - Heads all religious functions, manages clerical rituals for aquifers
 - Wants a war with Kevara that Avizallo will lose
 - Corresponds w Vasilev, presents as an ally to her
+- Worked with Leanna to find the lance of Kevar
+	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
 
 Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
-- Identity: Orin Skymak, half elf
+- Identity: Orin Skymark, half elf
 - Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
 
 Raven (intelligence/spymaster): she. Reclusive, unknown.
 - Identity: Zora Courier, mixed race. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
 - Newest councilor after Kingfisher - joined only 5mo ago
+- Anti Kevara but highly suspicious of current war mongering
 - Trying to take down the Kevaran trade firms, supporting the strikers, guerilla tactics destroying company property
 - Mistrusts Kingfisher for her perceived closeness to the Kevaran elites
+- Fairly religious
 
 Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
 - Identity: Ezekiel Ashridge. 
