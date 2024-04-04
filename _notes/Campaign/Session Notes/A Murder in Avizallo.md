@@ -24,10 +24,24 @@ Arrival in the Isle
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
 - introduce a few major players of the council
 Riot and Murder
-- some sort of riot happens at the saltwood docks (with automata?) gyrfalcon gets killed 
-- riots against the Avizallo grove owners, or Giltstern itself?
-- blame kevarans for the murder, councillors demand reparations from Kevara? imminent war
-- Court in disagreement, won't remove the mask (why?)
+- Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern intervened with automata, a number of saltwood growers killed
+- Gyrfalcon gets killed in the chaos
+	- gyrfalcon has electrocution, blunt force, lacerations
+- Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
+	- Kingfisher refuses to unmask while outsiders (PCs) are involved
+	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
+	- Raven might just withdraw her vote w no explanation (why tho)
+- Kingfisher blames Kevara, demands reparations from Giltstern
+- Vulture blames Kevara, takes it as more evidence that Avizallo should cut off connections
+- Owl subtly stokes the flames - the hearts of Avizallans know what is needed
+- Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
+- Raven stays silent
+- Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
+Kingfisher Sidequest
+- Unmask Macaw. She believes he's corrupt
+Vulture Sidequest?
+- Raven has dirt on him, if they can get her support
+Ramping tension at the docks / something related to V's directive?
 Raven starts tailing the PCs out of suspicion
 Danger in the Reservoirs
 - gyrfalcon was investigating this
@@ -39,6 +53,7 @@ The Artificer's workshop
 - suddenly disappeared 90 years ago
 The Kite Fighters
 - relation to the main conflict?
+- Raven is using the kites to signal the union stuff
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
@@ -51,11 +66,11 @@ Ramping conflict at the docks
 
 
 show the poverty/lack of autonomy in Avizallo (economics section)
-roles of each bird
 
 bad guys to fight?
 - Priests loyal to Owl (have been hoodwinked)
 run exploration as a pointcrawl
+do favors/sidequests for ppl to get their help
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
@@ -65,7 +80,7 @@ Potential encounters:
 
 # Background
 
-how the murder happened, the assassin's location
+## The Murder
 - Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
 	- ==how did gyrfalcon find this out??
@@ -77,16 +92,28 @@ how the murder happened, the assassin's location
 	- newly replaced window
 - somehow incite the riot
 - faked lividity by beating up the body, then plant the body at the site of riot
+	- Assassin casted Lightning Arrow to get electrocution burns
 - assassin
 	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? or with magic missile?
-The Councillors
-- owl: the mastermind
-	- if owl asks the PCs to help investigate, why?
-	- actually serving gilead, expose backstory?
-- raven: parallel investigating
-- macaw: unknowing accomplice (how), corrupt, soft/optimistic on kevara
-- vulture: red tape, potential red herring?
-- kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
+## The Councillors
+
+*all insight checks against the Court have disadvantage bc they're masked*
+
+Owl: the mastermind
+- if owl asks the PCs to help investigate, why?
+- how to expose that she's actually serving Gilead
+- Alibi: praying at the temple. corroborated by other priests, templegoers
+Raven: parallel investigating
+- Alibi: asleep (lie), probably doing some assassins creed shit 
+Macaw: unknowing accomplice (how), corrupt, soft/optimistic on kevara
+- Alibi: working late in the office (lie), can't say he was actually overseeing at the riots
+Vulture: 
+- Was the most vocally opposed to gyrfalcon - thought they were further entangling Avizallo with outside world, had upstart ideas about restructuring ownership of saltwood groves
+	- Was opposed to them starting from the grading of manuscripts (disliked political opinions in the essays) 
+- Alibi: 
+Kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
+- Has purchased a suite of automata for herself
+- Alibi: was at the site of the riot (conferring with Giltstern earlier). Lie and say she had left by the riot?
 
 # Secret and Clues
 

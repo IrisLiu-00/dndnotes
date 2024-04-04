@@ -13,8 +13,11 @@ Primary Industries
 - Saltwood: trees that grow along the columns, their roots wrapping around the glass. Birds live in the trees. Drink ocean water and weep the excess salt out of their bark. Gray-white wood.
 	- Required to make prows for boats that can navigate the Fray
 	- Druids cultivate the trees to have them grow faster, meet supply
-- floating sea grass flats at base of column for food (more lower class)
-- fishing
+- Floating sea grass flats at base of column for food (more lower class)
+- Fishing
+- Masons' Guild: manages all the building material available on the isles. Draconian accounting of each block of stone that exists (~45760 blocks?)
+	- stones are very rarely quarried and brought to avizallo from the mainland. One of the few resources that avizallo does not import via Kevara firms, because it would be prohibitively expensive (stone is heavy, and no one else buys it so economies of scale don't work out)
+	- ships that can sail back to the mainland need to be made of some percentage of saltwood - avizallo has a very limited quantity of them
 
 Kevaran Influence
 - Was more independent 100 yrs ago, but Council got scared during the last expansion of the Langksaran empire > signed deals with Kevara for naval protection in return for contracts to access saltwood groves
@@ -35,10 +38,11 @@ Owl (religion): she. Haltingly soft spoken.
 	- Actually a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
 	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
 - Heads all religious functions, manages clerical rituals for aquifers
-- Wants a war with Kevara that Avizallo will lose
+- Pretending for peace, wants a war with Kevara that Avizallo will lose
 - Corresponds w Vasilev, presents as an ally to her
 - Worked with Leanna to find the lance of Kevar
 	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
+- Working with Giltstern to destabilize Avizallo
 
 Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
 - Identity: Orin Skymark, half elf
@@ -54,7 +58,7 @@ Raven (intelligence/spymaster): she. Reclusive, unknown.
 
 Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
 - Identity: Ezekiel Ashridge. 
-- Hardline isolationist
+- Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher
 
 Macaw (agriculture/land use): he. Gregarious, comedic.
 - Identity: Gandras Dol. Prominent saltwood cultivator. 
@@ -104,22 +108,14 @@ Other stuff
 
 - [[Bluemoon]]'s hometown
 
-- giltstern is working with owl to make Avizallo a colony?
 - conflict of interest - Vasilev doesnt care abt anything besides her rise to power in Kevara
 	- give the players an objective that conflicts with what's good/right?
 	- tell them not to get too attached to what's on the ground
 - One of the birds has been murdered, seemingly by a Kevaran soldier
 	- disco elysium babey. what plot points can we copy from it. a fake hanging, actually sniped
 	- riots at the saltwood groves, the automata were involved as security (or just make it mercs)
-	- actually shot thru the mouth by magic missile (?), then beat up to fake lividity - how did assailant remove the mask? 
-		- via mind control? but mind control could just force suicide
 - Raven - working to investigate the murder, trying to keep peace(? don't think shes that pessimistic)
 	- she does think the case is more complicated than it seems
-- Necromancer dude (owl? someone else?) - trying to uncover location of Nexida
-	- infiltrate / take out the water source - the cisterns are connected to some of the artificer's old labs 
-	- Murder related to him - why and how? the victim was connected to the artificer
-		- what are the steps to finding nexida, how is it hidden
-- Synod presence here is also trying to experiment on the fray here?
 - Coriolis 
 
 
