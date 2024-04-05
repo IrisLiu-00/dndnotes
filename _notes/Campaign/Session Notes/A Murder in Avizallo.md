@@ -30,7 +30,6 @@ Riot and Murder
 - Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
 	- Kingfisher refuses to unmask while outsiders (PCs) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
-	- Raven might just withdraw her vote w no explanation (why tho)
 - Kingfisher blames Kevara, demands reparations from Giltstern
 - Vulture blames Kevara, takes it as more evidence that Avizallo should cut off connections
 - Owl subtly stokes the flames - the hearts of Avizallans know what is needed
@@ -42,9 +41,12 @@ Kingfisher Sidequest
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 Ramping tension at the docks / something related to V's directive?
+- Fray tide washes in at the saltwood groves - could fight some wraiths
+- Growers refuse to defend against fray tide
 Raven starts tailing the PCs out of suspicion
+- 
 Danger in the Reservoirs
-- gyrfalcon was investigating this
+- gyrfalcon was investigating this - had questions around reduce security at cistern entrances, their soldiers were called back without their order
 - kill/take out all the clerics responsible for purification - to what end?
 	- disable the cisterns so they need to import water from Kevara or import felichian priests from Kevara
 - cisterns are connected to Piranes' old workshop
@@ -69,6 +71,7 @@ show the poverty/lack of autonomy in Avizallo (economics section)
 
 bad guys to fight?
 - Priests loyal to Owl (have been hoodwinked)
+- Owl summons some monsters to take out the cisterns
 run exploration as a pointcrawl
 do favors/sidequests for ppl to get their help
 Potential encounters:
