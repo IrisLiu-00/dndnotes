@@ -6,6 +6,10 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
 	- they don't run at night bc no one is working the fountains
 - big sport - bird fighter kites
+# Locations
+
+Rookery: central government building
+Aviary: main temple
 
 # Economics
 
@@ -58,13 +62,16 @@ Raven (intelligence/spymaster): she. Reclusive, unknown.
 
 Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
 - Identity: Ezekiel Ashridge. 
-- Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher
+- Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher, Macaw
+	- Thinks Macaw needs to approve more seagrass flats instead of saltwood, more farming instead of construction
 
 Macaw (agriculture/land use): he. Gregarious, comedic.
 - Identity: Gandras Dol. Prominent saltwood cultivator. 
+	- Has been making precariously narrow margins
+	- Owes debt to Giltstern - father squandered much of family funds, took out a loan to buy back saltwood groves
 - One of the more popular of the councilors, often makes public appearances.
 - Softer/more optimistic on Kevara, sometimes called a sellout
-- Corrupt?
+- Corrupt. In charge of tax collection on agriculture, has been cutting taxes on his own groves
 
 Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
 - Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 

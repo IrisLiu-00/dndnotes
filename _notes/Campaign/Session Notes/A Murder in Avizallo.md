@@ -12,6 +12,7 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 Mission Assignment
 - PCs need to go to Avizallo to - what? monitor the diplomatic situation. spy on luca. what
 	- Owl has warned Vasilev abt possible danger
+	- how do the PCs get authority to investigate a murder
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
 - who is the diplomat being sent to avizallo - gildstern? luca? ornsgrym?
 Journey to Avizallo
@@ -27,6 +28,7 @@ Riot and Murder
 - Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern intervened with automata, a number of saltwood growers killed
 - Gyrfalcon gets killed in the chaos
 	- gyrfalcon has electrocution, blunt force, lacerations
+	- Body is interred in the Rookery, Owl has cast Gentle Repose so it won't decay
 - Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
 	- Kingfisher refuses to unmask while outsiders (PCs) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
@@ -35,14 +37,20 @@ Riot and Murder
 - Owl subtly stokes the flames - the hearts of Avizallans know what is needed
 - Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
 - Raven stays silent
-- Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
 Kingfisher Sidequest
 - Unmask Macaw. She believes he's corrupt
+- interview him: Macaw's governmental duties, political opinions
+- try to tail him
+	- lead to the saltwood groves
+- spy on his office
+- go investigate land use
+- Gandras Dol might take the PCs help to stop vandalism
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 Ramping tension at the docks / something related to V's directive?
 - Fray tide washes in at the saltwood groves - could fight some wraiths
 - Growers refuse to defend against fray tide
+- Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
 Raven starts tailing the PCs out of suspicion
 - 
 Danger in the Reservoirs
@@ -130,10 +138,20 @@ Locations they may go to but are not required
 - Center of government/religion (theocracy)
 - The Eledeia manor
 - Memorial for bluemoon's dad
+- like a cool cafe to chill out at?
 
 # NPCs
 
-- [ ] Review NPCs
+Major players
+- court 
+- giltstern
+- religious figures
+- saltwood workers
+- saltwood owners
+	- Gandras Dol
+	- Sabra Dol - gandras' daughter. 16 yrs. naradriel voice
+- seagrass farmers, fishers
+- masons guild
 
 
 # Monsters
