@@ -71,9 +71,8 @@ Toby
 	- Prophecy: you will find him in the place of fire
 - Mother (Annalise)
 	- Once the Queen of Thieves in Kevara Arda
-	- Toby's powers actually came from her - passed her powers onto toby to protect him (from what), losing her mind in the process
-	- related/necessary to find Nexida, or to the council - she worked for them?
-	- wants / motives ? was a whirlwind adventurer or thief?
+	- Hubris filled, worked for disciples of Gilead to steal Nexida
+	- why did she give up - she found Coriolis, found what Nexida was, fell in love?
 	- Named after Annalise's friend Tobias? who is part of the Mirwood resistance
 - ==Mysterious burst of wind power at 14yrs (2y ago)
 	- the Fray causes weird loci in the Weave? loss of the dragons?

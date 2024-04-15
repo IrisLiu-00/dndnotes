@@ -23,6 +23,7 @@ Journey to Avizallo
 - they encounter kevaran navy ships, patrolling around avizallo
 Arrival in the Isle
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
+- Avizallans blocking Felichian missionaries from entering - maybe Kingfisher lets them come in?
 - introduce a few major players of the council
 Riot and Murder
 - Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern intervened with automata, a number of saltwood growers killed
@@ -48,28 +49,50 @@ Kingfisher Sidequest
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 Ramping tension at the docks / something related to V's directive?
-- Fray tide washes in at the saltwood groves - could fight some wraiths
-- Growers refuse to defend against fray tide
+- Fray tide washes in at the saltwood groves - could fight some wraiths. Or sahuaguin attack, trying to get their captive back (or Owl ordered the attack)?
+- Growers refuse to defend against
 - Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
 Raven starts tailing the PCs out of suspicion
-- 
+- ==what do?==
+- encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
+- Raven thinks there's something sus abt the kites - sidequest?
+Gyrfalcon's apartment
+- Owl has set some trap here - something to fightttt
+	- plant mimics? but more difficult
+- newly replaced window
+- mailbox: correspondence with gandras dol
+- gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
+- point to the reservoirs
 Danger in the Reservoirs
-- gyrfalcon was investigating this - had questions around reduce security at cistern entrances, their soldiers were called back without their order
+- gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
 - kill/take out all the clerics responsible for purification - to what end?
 	- disable the cisterns so they need to import water from Kevara or import felichian priests from Kevara
 - cisterns are connected to Piranes' old workshop
 The Artificer's workshop
-- plant the code again - "None will find it except in the shadow of the wind"
-- suddenly disappeared 90 years ago
+- Owl/Gilead believes that Tensorat's treasure (Nexida) is hidden here - but really he teleported it all away 90 years ago (using Coriolis wish)
+- Tensorat was known to be active in Avizallo until 90 yrs ago - is believed that he disappeared into the caverns 
+- do a dungeon crawl thru the caverns to reach the vacated lab
+	- proper traps/environmental challenge where we roll initiative 
+- what is this location? show that it is long gone
+	- An empty cavern, the calling sign of the Queen of Thieves (stating that she has found the answer and is betraying them?)
+- plant clues
+	- the code - "None will find it except in the shadow of the wind"
+	- presence of air djinni/teleportation
 The Kite Fighters
-- relation to the main conflict?
-- Raven is using the kites to signal the union stuff
+- ==Owl is using the kites to leak info to Giltstern?
+	- to signal ppl to take out auxiliary water services? secretly, make it look like an accident. they're systematically taking out the diff reservoirs to find which one has Nexida
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
 	- the spine / inner layering of the kite has some clue
 - do research on the sport
+- Kite supplies shop run by a dwarf, daughter of stonecutters (aliya stonecutter? kingfisher's protege?)
 - kite fighting minigame, stats for each type of kite
+	- kite stats: strength, speed, maneuverability
+	- initiative is +speed, positioning is +maneuverability
+	- other moves? give some kites custom moves?
+	- gamble how high you fly it before the string snaps
+	- attack: attacker makes speed check against defender's strength save. on a fail, attacker makes strength save to avoid being cut themselves.
 Ramping conflict at the docks 
 - Kevarans try to harvest saltwood by force? what's stopping them
 - Macaw's corruption
@@ -77,11 +100,9 @@ Ramping conflict at the docks
 
 show the poverty/lack of autonomy in Avizallo (economics section)
 
-bad guys to fight?
-- Priests loyal to Owl (have been hoodwinked)
-- Owl summons some monsters to take out the cisterns
 run exploration as a pointcrawl
 do favors/sidequests for ppl to get their help
+clockwork's involvement? trying to extradite kallista?
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
@@ -94,21 +115,25 @@ Potential encounters:
 ## The Murder
 - Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
-	- ==how did gyrfalcon find this out??
+	- ==Gyrfalcon became suspicious bc:
+		- reduced guards in the reservoirs
+		- found mentions of the Queen of Thieves?
+		- 
 - Found out gyrfalcon's true identity
-	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence that gyrfalcon's civilian identity wrote
-	- correspondence related to the motive for murder (nexida)
-	- wrote to plead for sibling, who was suspiciously arrested while kite fighting?
+	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
+		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
+		- Find letter from Gandras in Orin's mailbox, or Owl produces Orin's letter to put PCs on Macaw's trail
 - Assassin sniped gyrfalcon while they were off service in their apt
-	- newly replaced window
 - somehow incite the riot
 - faked lividity by beating up the body, then plant the body at the site of riot
 	- Assassin casted Lightning Arrow to get electrocution burns
-- assassin
-	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? or with magic missile?
+- assassin - who is he? is he an avizallan? plant seeds to identity, someone who went missing
+	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
+	- gloomstalker + assassin rogue
 ## The Councillors
 
 *all insight checks against the Court have disadvantage bc they're masked*
+make kingfisher look sus - for the drama! to involve her more
 
 Owl: the mastermind
 - if owl asks the PCs to help investigate, why?
@@ -118,13 +143,17 @@ Raven: parallel investigating
 - Alibi: asleep (lie), probably doing some assassins creed shit 
 Macaw: unknowing accomplice (how), corrupt, soft/optimistic on kevara
 - Alibi: working late in the office (lie), can't say he was actually overseeing at the riots
+- Gandras saw Kingfisher at the riot, but Macaw can't say
 Vulture: 
 - Was the most vocally opposed to gyrfalcon - thought they were further entangling Avizallo with outside world, had upstart ideas about restructuring ownership of saltwood groves
 	- Was opposed to them starting from the grading of manuscripts (disliked political opinions in the essays) 
-- Alibi: 
+- Alibi: refuse to talk to outsiders? but he was working late in the office, did not see Macaw
 Kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
-- Has purchased a suite of automata for herself
 - Alibi: was at the site of the riot (conferring with Giltstern earlier). Lie and say she had left by the riot?
+- Has purchased a suite of automata for her personal protection
+- make her look involved with the conspiracy / any attacking monsters
+- Trying to insert her own choice as gyrfalcon's successor - possibly passing old/upcoming exam questions to her protege
+	- Sabra Dol? or a stonecutter?
 
 # Secret and Clues
 
@@ -136,9 +165,9 @@ _Check off when revealed._
 
 Locations they may go to but are not required
 - Center of government/religion (theocracy)
-- The Eledeia manor
+- The Eledeia residence
 - Memorial for bluemoon's dad
-- like a cool cafe to chill out at?
+- like a cool cafe to chill out at? a safe place
 
 # NPCs
 
@@ -151,11 +180,20 @@ Major players
 	- Gandras Dol
 	- Sabra Dol - gandras' daughter. 16 yrs. naradriel voice
 - seagrass farmers, fishers
+	- Samuel - neighbor who cares for Gyrfalcon's homestead
 - masons guild
+- mettlewise - what's their deal
 
 
 # Monsters
 - need monsters to fight
+- Priests loyal to Owl (have been hoodwinked)
+- Owl has made allies with some sahuagin? lets make them non-sentient
+	- has some artifact to charm them/ stole something of theirs to force them to work for her
+- Owl summons some monsters to take out the cisterns
+	- elementals? 
+	- undead? would fit with her teachings to leanna. undead sahuaguin? could be very cool..
+	- clues abt felichian nature - should be divine???
 
 # Treasure
 - Something for bluemoon

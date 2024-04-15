@@ -8,8 +8,25 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 - big sport - bird fighter kites
 # Locations
 
-Rookery: central government building
-Aviary: main temple
+La Centra: central pillar
+- Rookery: central government building
+- Kite shop, most central kite competitions
+- friendly cafe/inn
+La Norza: northermost pillar
+- Temple: main temple to birds
+- Mason's guild
+L'Esta: eastmost pillar
+- Eledeia residence
+- Memorial to Bluemoon's dad (Vapor)
+- Seagrass flats
+La Sul: southmost pillar
+- Docks for foreign ships, where visiting foreigners often reside
+- Sailors' bunkhouses - cheap public inn
+La Varza: westmost pillar
+- Gandras Dol's residence + saltwood groves
+- Orin Skymark's residence
+- location of riot, Orin's murder
+
 
 # Economics
 
@@ -20,6 +37,7 @@ Primary Industries
 - Floating sea grass flats at base of column for food (more lower class)
 - Fishing
 - Masons' Guild: manages all the building material available on the isles. Draconian accounting of each block of stone that exists (~45760 blocks?)
+	- Almost entirely managed by the stonecutter dwarf lineage
 	- stones are very rarely quarried and brought to avizallo from the mainland. One of the few resources that avizallo does not import via Kevara firms, because it would be prohibitively expensive (stone is heavy, and no one else buys it so economies of scale don't work out)
 	- ships that can sail back to the mainland need to be made of some percentage of saltwood - avizallo has a very limited quantity of them
 
@@ -38,18 +56,23 @@ Kevaran Influence
 # The Court of Birds
 ### Members
 Owl (religion): she. Haltingly soft spoken.
-- Identity: Morgana, human Felichian priest
+- Identity: Morgana Saire, human Felichian priest
 	- Actually a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
 	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
 - Heads all religious functions, manages clerical rituals for aquifers
 - Pretending for peace, wants a war with Kevara that Avizallo will lose
+	- Gilead told her there is a treasure within Avizallo (Nexida) that must be claimed for Felichias/Kevara
+	- Also to convert Avizallo to Felichias
 - Corresponds w Vasilev, presents as an ally to her
 - Worked with Leanna to find the lance of Kevar
 	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
-- Working with Giltstern to destabilize Avizallo
+- Working with Giltstern to destabilize Avizallo (using the kites to leak info?)
+- Trying to destroy the reservoirs to weaken Avizallo, and find Nexida
+	- Contract Giltstern/Felichian missionaries for water > allow Kevaran access to Tensorat's labs
 
 Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
-- Identity: Orin Skymark, half elf
+- Identity: Orin Skymark, half elf. Inherited a small seagrass farmstead
+	- hires other local farmers to help tend fields every few weeks
 - Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
 
 Raven (intelligence/spymaster): she. Reclusive, unknown.
@@ -72,6 +95,7 @@ Macaw (agriculture/land use): he. Gregarious, comedic.
 - One of the more popular of the councilors, often makes public appearances.
 - Softer/more optimistic on Kevara, sometimes called a sellout
 - Corrupt. In charge of tax collection on agriculture, has been cutting taxes on his own groves
+	- Faking tax breaks for funds used to "revitalize saltwood groves" - in reality has not been expanding groves much. Has been trying to buy out Orin Skymark's lands as part of supposed revitalization
 
 Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
 - Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
