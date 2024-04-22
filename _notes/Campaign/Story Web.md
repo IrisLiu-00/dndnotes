@@ -104,7 +104,7 @@ Disciples of Gilead - come up with a cool codename
 - Led/controlled by Gilead, a lot of them are fate-stolen
 	- maybe some of them were adventurers who got close to knowledge of the fate engine / gilead and were fate-stolen
 	- were trying to create Indira as a sorcerer member, but she was defective and ran?
-- Owl, apostasy lawyer, Giltstern?
+- Owl, apostasy lawyer, someone in mirwood?
 	- if Giltstern is a disciple then why have Luca run for office
 	- give each member a distinct role
 - steps to power

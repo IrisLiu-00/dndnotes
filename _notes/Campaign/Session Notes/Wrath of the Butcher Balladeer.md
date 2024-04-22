@@ -19,19 +19,6 @@ Big Picture
 - give a chance to learn about Vasilev's backstory
 - plant seeds for Vasilev's election gambit
 
-- they're trying to manipulate positioning for the Avizallo diplomacy trip
-	- V is trying to put bridgers on the party to go to Avizallo (as mercs?)
-	- V is trying to manipulate Ornsgrym out of the diplomat's party - but Giltstern steps in and sends luca as a proxy instead? or Giltstern/Feldspar goes?
-	- idk the point of this if it doesn't directly affect players or give them agency
-- what do all the factions think: V, lords, Patrician, merchers, bridgers, merrow, avizallo
-	- V - focused on getting grave goods for the election
-	- lords move to outlaw drugs, but ppl who have used in the past are still possessed
-	- rival lord offers a job to investigate V - thinks she is behind the assassinations. Then assassination attempt on V
-	- merchers
-	- bridgers try to get in on the drug trade, don't care much about assassinations
-	- avizallo
-	- 
-
 More assassination attempts - requires PCs to be in public situations
 - it shouldn't be immediately clear that the assassins are all smokers
 - PCs are called on as security detail? for liasons with elves or avizallo? guard a saltwood shipment?
@@ -268,10 +255,12 @@ Mechanics
 
 Interrogating Stevian
 - Stevian has been taken to a city watch post near Sixpoints - is in a jail cell
-- guards dragging in dead bodies, including immolated body of the patrician's assassin - thank Arda's tits for the Patrician's Bane. That was one stupid assassin, though
-- stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching or them
+- guards dragging in dead bodies, including immolated body of the patrician's assassin
+	- thank Arda's tits for the Patrician's Bane. That was one stupid assassin, though
+- stevian/ghost won't willingly tell ppl the location of the archaeologists, but the butcher will be prepared that ppl are searching for them
 - On his body - violin, a long narrow pipe, a receipt for an Elysian Fog order with an address in Arda
 	- Violin stamped with The Sirenian Players, initials A.L.
+	- Stevian has a nose ring and ear studs that you don't remember him having
 - Elind filing a missing person request with the guard for Alara Lightheart
 
 
@@ -293,19 +282,32 @@ Pick up here
 - will Clockwork try to capture K or just toy with her? 
 	- reveal he is bounty hunter
 	- possibly takes X rounds for teleportation back to Apostasy to take effect
+- Merriwink saved > pass Toby's first trial
 
 ## The Kevara-Arda Archaeological Society
 - basically a bunch of graverobbers - used to be a ragtag association of ppl trying to steal and sell treasure, recently ballooned due to demand for Elysian fog
+- Part of the Bridgewater campus's history dept
+	- bridgewater u has tolerated the elysian fog operation for a cut of the profits
 - Located Arda side - they can take a ferry to cross
-
-First Floor
+- Architecture has more late-imperial influence - white travertine arches with organic motifs
+#### The School
+- Bridgewater U: Arda-side university
+- Motely collection of squat brownstones, in the shadow of a bridge-like aqueduct cutting thru city
+- Near the border of the Khamgaard occupation district
+- Yu - changeling prof for performance arts
+	- gracile woman with pale skin, dark hair
+	- met Alara briefly the other day, said she was going to come back to catch up but did not reappear
+	- used to know Vasilev when they were both young, she had just arrived in the city
+#### First Floor
 - Front + back entrance
 	- Front entrance goes to a reception desk to buy an entry ticket (2gp), manned by Quercus
 	- Back entrance is for adventurers bringing in loot - goes to a cargo elevator to the second floor
 - Quercus: gnome cultist, crotchety old man with round glasses, hair growing out nostrils. Quivery old man voice. 
 	- humming a tune absently - no, it's C then A then G sharp
+	- Wearing a faded black robe, black leather wristbands under it
 	- Overbearing, tells ppl not to touch anything. 
 	- Flute stored under desk, but originally does not know music
+	- could try to charm players if he thinks they're a threat, or cast sleep and take them hostage
 - Tiny, dusty little museum, flickering lighting, moldering artifacts behind glass cases, paper labels with spidery, faded ink
 - Displaying most prominent findings from the catacombs
 	- Centerpiece - bones of a juvenile war oliphaunt from the Langksaran conquest, ~800 yrs ago
@@ -314,14 +316,15 @@ First Floor
 	- Any organic remains have already been removed - a mummy
 - Narrow staircase to the side goes upstairs, cordoned off w a velvet rope. Receptionist will try to stop visitors from passing thru
 	- see another elderly archaeologist come in thru back entrance + go up the steps
-
-Second Floor
+#### Second Floor
 - Rows of desks, shelves on all four sides with lots of labelled compartments holding artifacts + samples (cloth fragments, pottery shards)
 	- A few older men and women inspecting artifacts under magnifying glasses, flipping thru old texts
 	- One half of the room is cleared out, with a large magic circle drawn on the floor. Traces of bone dust. Ritual knife, etc. Where they get the necromancers to process Elysian Fog. 
-	- One jar of bone dust near the magic circle, labeled with "Catacombs X37, Arda, Bridgewater underground" scratched out name "Brayden Blackwood"
+	- One jar of bone dust near the magic circle, labeled with "Catacombs X37, Arda, Bridgewater catacombs" scratched out name "Brayden Blackwood"
 - Small stack of crates, filled with Elysian Fog packets to be shipped out
+	- Most labelled with serials for Bridgewater Catacombs
 	- powders have been doped with Butcher's ashes
+- Another non-cultist archaeologist is here?
 - Lyell and Ringley working behind one desk - Lyell examining old parchments with a pair of gloves, muttering under his breath. Ringley trying to balance a parchment airplane on his nose. 
 	- Here as consultants to make some money - archaeologists want them to find potential dig sites from the age of Kevar and Arda, but that seems really unlikely. Mention Kevar's lance?
 	- Saw Alara come here on the day of the festival with Stevian - they said they were going to visit their alma mater Bridgewater later
@@ -333,7 +336,7 @@ Second Floor
 	- Balladeer Butcher - a slasher about 80 yrs ago who killed a number of musicians + music students, often removing their vocal cords
 - Other scholars will try to stop players if they notice them, call Quercus and start fight
 
-Fight
+Fight - possibly skip 
 - Quercus plays his flute and animates the museum exhibits to start dancing
 	- "you're too late to come find me - by tomorrow night, she will be dead and the composition complete"
 - Potentially have the oliphaunt blow out the floor, drop the PCs - dex save for fall dmg
@@ -342,16 +345,8 @@ Fight
 	- Ringley, Lyell (scholarly agent)??
 - fight some cultists, reward w info
 	- either Quercus or some other cultist has a Bridgewater campus map, with the location of ISEC circled
-- ==lowkey make this shorter. skip the fight?==
 
 ## The Dungeon
-### The School
-- Bridgewater U: Arda-side university
-- Motely collection of brownstone + granite buildings, in the shadow of a bridge-like aqueduct cutting thru city
-- Near the border of the Khamgaard occupation
-- Yu - changeling prof for performance arts
-	- gracile woman with pale skin, dark hair
-	- met Alara briefly the other day, said she was going to come back to catch up but did not reappear
 ### Background
 - Basements of the collapsed ISEC (Instrumental Soundcraft and Elocution Center)
 - Built ~80 years ago when the school tried to revitalize its image, rapidly abandoned when a mysterious accident collapsed the whole building
@@ -365,14 +360,16 @@ Fight
 Entrance
 - Edge of campus, not frequented by ppl. Once an imposing building of dark onyx stone, built in a modernistic style (geometric abstract shapes). Now a collapsed wreck, a lot of the valuable facade decoration picked off by scavengers, the remaining ruin jutting into the air like broken teeth
 - Patrol with 2 cultists in bushes around entrance  - perception on both sides to see who notices
+	- A wizard (studded collar and chains), fighter (varsity jacket, dyed black hair, dark eye makeup)
 	- either sneak past or get into combat
 	- If combat, second cultist will escape inwards to the first encounter > ambush on second lvl
 - Entrance: part of the rubble forms a triangular shaped doorway, leading into intact staircase down
-- Secret entrance: ? from yu?
 Atrium
 - tiled floor, burnt out fluorescent lights. Darkness. Doorway on left (to band hall) and on right (recording studio).
+- history check to remember the basement is supposedly very haunted?
 Band rehearsal hall
 - Skeletones: seven skeletons, each with a strange glyph on their shield (Do, Re, Mi, Fa, Sol, La, Ti). Resurrect themselves unless killed in correct order
+	- if patrol was alerted, cultist joins them and leads them
 	- make the onomatopoeia for their note when the skeleton is hit
 - Treasure: defeated skeletons can be harvested
 - Skeletones manhandled Alara + forced her into the tombs - fragment of bright blue silk on a rusty music stand next to closet door
@@ -381,62 +378,58 @@ Band rehearsal hall
 - Closet: knocked down pile of bricks exposes staircase to L2 Atrium
 Destroyed recording studio
 - Medium size room, bisected by a wall with a large glass window. Glass window has been shattered, shards flung outward + embedded in the wall. Outer room has some strange machinery - a bank of dials + buttons stands against the dividing wall, totally fried. Inner room blackened + disintegrating - punctured, rubble collapsing in from ground floor, bottom of this room fallen thru. Through the gaps in rubble, can barely see dark stone corridors of a lower layer. 
-- 2 ritual magics happened here - an old one (traces written in common), a recent one (traces written in elvish)
-	- old blood, candles, drawn runes
+- 2 ritual magics happened here - an old one, a recent one
+	- Recording equipment, mics are completely fried - powerful bardic magic
+	- Recent magic: a large magic circle centered on the crater, elvish text. One side of the circle is smeared, like something dragged or crawled out from the center
+	- Fragments of desiccated organic material (hair, tooth)
 	- where the Butcher tried to record his song, collapsing the whole building + where Leana resurrected
-- Rubble + ash is positioned so that there is a clear spot where something once laid (butcher's body) - stuff has been pushed aside, the thing dragged or crawled out. A separate act of necromancy happened here.
-- Treasure: Rehearser's Ring, fell off the Butcher's hand when he climbed out
 - Could climb down rubble to L2 Yu's room 
 #### Level 2 - The Butcher's Lair
 Atrium
-- If patrol was alerted, 4 cultists attack here (from each doorway?), one more posted at studio stairs down?
-	- or combine into another encounter so it's not too much? command the skeletons?
+- Cold air, darkness, faint sound of dripping water. Bit of a breeze across your face. Musty scent with a faint undertone of something organic, rotting. 
 - Staircase down from rehearsal hall
 - Doorways to butcher's studio, dance studio
 Dance studio
-- A room with high arched ceiling made of stone. More recently installed polished wooden floors, mirrored walls on 2 sides with mounted handrails. As you enter, a chain of runes glows at the edges of the mirrors, and their surfaces ripple like water.
+- A room with high arched ceiling made of stone. More recently installed polished wooden floors, mirrored walls on 2 sides with mounted handrails. As you enter, a chain of runes glows at the edges of the mirrors, and their surfaces ripple like water. (ghouls appear out of the mirror)
 - Attacks and creatures can move thru mirrors to reappear on other side
-- ==mechanics - do cool stuff with the mirrors, give the ghouls dance based abilities?==
-- Dance ghouls 
+- Dance ghouls: "and a 1, and a 2, and a 1-2-3-4 - let's groove!"
 	- Were killed by the Butcher like the other undead, and recently bound into his service. Need to prevent intruders from entering. 
-	- high mobility, cast kinetic jaunt
 	- Glenda: halfling young woman, the leader. Disco. Rainbow leg warmers, little fluffy drop shoulder cardigan sweater. Skin on face decomposed, exposing teeth.
 	- Andrei: Drow male. Tap dance. Skin tight white tanktop, black tights, glossy patent leather shoes.
 	- Malachite: Green dragonborn. Breakdance. Floppy beanie hat, cool sneakers.
 	- Suella: Human woman. Ballet. Tutu, ballet flats. 
-	- "and a 1, and a 2, and a 1-2-3-4 - let's groove!"
-- Mirrors disappear when the ghouls die, expose another ghost ward fragment
+- Mirrors disappear when the ghouls die, expose another ghost ward(1) fragment
 - Doorways back to atrium, to Yu's room
 Yu's Room
 - Another low ceilinged, stone hewn room. Emptied burial niches. 
 - stepping on the right flagstones- multicolored stones, do a dance. maybe make this good for the str/dex ppl? the original puzzle was broken from its function
 - curse them to speak in rhymes - the mute and the blind?
 - Songster's Absinthe - used by singers, gives the benefits of a full rest (check how low they are on hp). One dose for everyone
-- Another ghost ward fragment
+- Another ghost ward(2) fragment
 - Yu is hanging around here - has been alternatively posing as a cultist or some monster scaring the cultists. challenge the PCs to get the reward?
 	- ask them abt their employer - she used to know vasilev
 	- tell me a story, true or false
 The Butcher's Studio
 - Small stone cellar. Overflowing piles of old yellow parchment, scrawled with musical notation. Pile of rotting rags in the corner (a cot). Wood carvers and planers (luthier's tools), scraps of ebony wood, tweezers and scalpels, bone saw. Some human remains (fragment of a orbital rim, fingers + toes).
-- Once anyone steps inside: roll initiative. white and ebony instruments start playing an unearthly tune that makes you feel like your soul is being yanked out of body
+- Once anyone steps inside: roll initiative. white and ebony instruments start playing an unearthly tune that makes you feel like your soul is being yanked out of body. Door locks?
 	- deal 1d4 continuous damage until stopped
 	- violin strung w human hair, lute with body made of skull, flute made of thigh bone, xylophone made of rib cage
 	- silence them, destroy instruments, comfort the souls (return bones to the corpses)
 - Desiccated corpses: mummified with tufts of missing hair, skeleton w/o rib cage, body w/o head, body w/o leg
-- Near entrance: etched runes (musical notation) that have been erased/covered up with some other dark putrefied liquid (runes of a different sort crawling over the wall)
+- Ghost ward(3) near entrance: etched runes (musical notation) that have been erased/covered up with some other dark putrefied liquid (runes of a different sort crawling over the wall)
 	- Ghost wards were created more recently than the stone of the catacombs itself, and they were destroyed even more recently
 	- Bards building the ISEC tried to sanctify the catacombs and install ghost wards - prevent dead from rising, prevent them from moving around (and coming into the school buildings)
 	- Magic that destroyed the wards is diff from the bardic craft in the rest of the room - it's wizardly necromantic magic
-- Healing potion within the stuff
+- Treasure: Rehearser's Ring
 - Stairs down to L3 Labyrinth
 #### Level 3 - The Deep Catacombs
 Labyrinth
 - narrow stone corridors, dripping water, emptied burial niches. From the distance, high mournful singing.
-- Singing ghosts in a labyrinth (reduced threat ghosts)
-- Shortcut exit: rusted portcullis, glimpse another ghost ward fragment on the opposing wall
+- Singing ghosts in a labyrinth (~4 reduced threat ghosts)
+- Shortcut exit: rusted portcullis, glimpse another ghost ward(4) fragment on the opposing wall
 	- Piece together melody, performance dc 15 to prevent ghosts from entering area
 	- Portcullis AC, HP, dmg threshold
-- Primary exit: partially-functional ghost ward locks the ghosts out. Goes to next room
+- Primary exit: partially-functional ghost ward(4) locks the ghosts out. Goes to next room
 - map: double scale on owlbear
 - periodically hear the butcher singing/shredding?
 [Dance of Doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) puzzle
@@ -480,18 +473,17 @@ Labyrinth
 - Turning the wrong knob: door does not open, 2d10 psychic damage, DC 12 WIS save for half
 The Butcher's Tomb
 - Tall cavernous room, pillars, carved niches with open sarcophagi, dripping water. 
-- Large stone sarcophagus at far end. Partial corpse inside - a number of ribs are gone. Pale dessicated skin, limp black hair. Holding a ebony violin. ==but he didn't die here?==
+- Large stone sarcophagus at far end. Partial corpse inside - a number of ribs are gone. Pale dessicated skin, limp black hair. Tuning a ebony violin. 
 	- figure out how leanna and the ghost make their entrance
 - Butcher is retrying his ritual, somewhere more structurally sound!
+	- Just need one more virtuoso bards - ideally virgins (leanna: why the fuck does that matter? butcher: it just seems like the thing to do when you're running a cult, yknow)
+	- target kallista
 - 4 broken ghost wards - performance DC15 at each to restore them.
 	- Restoring all cuts off possession of cultists, does a chunk of dmg to butcher
 - where is alara captured?
 - cultists as infantry? remove cacophony ability
 
-- plant lore - nature of the accident(ritual), the butcher's murders, the composition, leanna trying to find kevar's lance
-- portcullis splits party, enemies attack
-- reconstruct the tune of the ghost ward thru scattered fragments - playing it allows getting thru labyrinth shortcut, some sort of env interaction (activate 4 seals?) to deal extra dmg to butcher
-- zones of silence for recording studio - prevents verbal spellcasting
+
 Dungeon design
 - each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
 - https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html
@@ -500,7 +492,7 @@ TODOS
 - puzzle for the room w healing
 - set up of the final lair more
 - artificer's text
-- map
+- ==they all have incongruous goth accents, and rly emphasize the butcher's getup
 
 ### The Cult of Song
 - Leanna is the cult leader
@@ -511,8 +503,7 @@ TODOS
 - Possessing elysian fog users to carry out assassinations against prominent Kevarans
 - Grave goods are doped with bone from the Butcher, so that smokers get possessed
 - Butcher has captured Alara as a sacrifice for his final composition - the cultists are gonna do a ritual
-==Council Contact - who?
-- Gave Leanna necromantic powers in return for her searching for the Lance of Kevar in the catacombs
+- Morgana/Owl gave Leanna necromantic powers in return for her searching for the Lance of Kevar in the catacombs
 	- or taught leanna the ritual, she plundered fog to get more powers?
 	- TODO: clues for this
 	- hint at dragons, kevar's lance
@@ -530,14 +521,14 @@ Playing a cultist
 	- discovered entrance into catacombs, started using the area for his dark deeds
 - super emo, goth kid, screamo music
 - plays the shrieks of the dead on their violin - reskinned banshee
-- still need at least two more virtuoso bards - ideally virgins (leanna: why the fuck does that matter? butcher: it just seems like the thing to do when you're running a cult, yknow)
 # Treasure
-related to music, students/studying? undead things?
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
-- 300 gp
-- Balladeer's Violin 
-- deck of illusions (put this in the secret hoard, plus gold)
-- ring of protection: +1 to AC, +4 to avoid dropping items or being disarmed
+- Final battle cache
+	- 300 gp
+	- Balladeer's Violin 
+	- deck of illusions
+- gloves of protection: +1 to AC, +4 to avoid dropping items or being disarmed
+	- on leanna? lambskin, long gloves
 - Rehearser's Ring: used by students to memorize lines or sheet music
 	- +2 to history checks
 	- store 20 pages of text or 1 hr of events - you have access to it as if it is a photographic memory

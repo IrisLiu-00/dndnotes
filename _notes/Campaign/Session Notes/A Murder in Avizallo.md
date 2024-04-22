@@ -9,6 +9,7 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 
 # Scenes
 
+## Pre-Arrival
 Mission Assignment
 - PCs need to go to Avizallo to - what? monitor the diplomatic situation. spy on luca. what
 	- Owl has warned Vasilev abt possible danger
@@ -21,12 +22,14 @@ Journey to Avizallo
 - a few choices for how to get there - leviathan, ship
 - another fray tide (work of the synod/dragon), possibly pirate attack?
 - they encounter kevaran navy ships, patrolling around avizallo
+## Day 1
 Arrival in the Isle
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
 - Avizallans blocking Felichian missionaries from entering - maybe Kingfisher lets them come in?
 - introduce a few major players of the council
 Riot and Murder
 - Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern intervened with automata, a number of saltwood growers killed
+	- giltstern was docked at La Sul, unclear how automata got there (was it actually Kingfisher's automata?)
 - Gyrfalcon gets killed in the chaos
 	- gyrfalcon has electrocution, blunt force, lacerations
 	- Body is interred in the Rookery, Owl has cast Gentle Repose so it won't decay
@@ -56,13 +59,6 @@ Raven starts tailing the PCs out of suspicion
 - ==what do?==
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
 - Raven thinks there's something sus abt the kites - sidequest?
-Gyrfalcon's apartment
-- Owl has set some trap here - something to fightttt
-	- plant mimics? but more difficult
-- newly replaced window
-- mailbox: correspondence with gandras dol
-- gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
-- point to the reservoirs
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
 - kill/take out all the clerics responsible for purification - to what end?
@@ -79,7 +75,8 @@ The Artificer's workshop
 	- the code - "None will find it except in the shadow of the wind"
 	- presence of air djinni/teleportation
 The Kite Fighters
-- ==Owl is using the kites to leak info to Giltstern?
+- ==Owl is using the kites to signal stealth attacks on the reservoirs?
+	- using to broadcast arcane signals to control the automata? or the undead? 
 	- to signal ppl to take out auxiliary water services? secretly, make it look like an accident. they're systematically taking out the diff reservoirs to find which one has Nexida
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
@@ -98,11 +95,15 @@ Ramping conflict at the docks
 - Macaw's corruption
 
 
+Locations
+- where is Kingfisher building ships? also in the caverns???
+
 show the poverty/lack of autonomy in Avizallo (economics section)
 
 run exploration as a pointcrawl
 do favors/sidequests for ppl to get their help
 clockwork's involvement? trying to extradite kallista?
+coriolis presence?
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
@@ -118,24 +119,25 @@ Potential encounters:
 	- ==Gyrfalcon became suspicious bc:
 		- reduced guards in the reservoirs
 		- found mentions of the Queen of Thieves?
-		- 
+		- rocs for defense, trained using saltwood sap? owl leaking the secrets on how to overcome rocs to kevaran navy?
+			- let them shoot feathers/radiant damage
+			- rocs usually defend against wandering sea serpents and fray wraiths. notable exception was bluemoon's dad's death - this was also caused by owl. gyrfalcon investigated
 - Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
 		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
 		- Find letter from Gandras in Orin's mailbox, or Owl produces Orin's letter to put PCs on Macaw's trail
 - Assassin sniped gyrfalcon while they were off service in their apt
 - somehow incite the riot
+	- automata at the riot were actually Kingfisher's - Owl has some way to control the automata? related to the kites, getting automata to raid the reservoirs?
 - faked lividity by beating up the body, then plant the body at the site of riot
 	- Assassin casted Lightning Arrow to get electrocution burns
-- assassin - who is he? is he an avizallan? plant seeds to identity, someone who went missing
-	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
-	- gloomstalker + assassin rogue
+# NPCs
 ## The Councillors
 
 *all insight checks against the Court have disadvantage bc they're masked*
 make kingfisher look sus - for the drama! to involve her more
 
-Owl: the mastermind
+Owl: the mastermind (stats- essential npcs priest?)
 - if owl asks the PCs to help investigate, why?
 - how to expose that she's actually serving Gilead
 - Alibi: praying at the temple. corroborated by other priests, templegoers
@@ -153,43 +155,42 @@ Kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to 
 - Has purchased a suite of automata for her personal protection
 - make her look involved with the conspiracy / any attacking monsters
 - Trying to insert her own choice as gyrfalcon's successor - possibly passing old/upcoming exam questions to her protege
-	- Sabra Dol? or a stonecutter?
+## Other Guys
 
-# Secret and Clues
-
-_Check off when revealed._
-- [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
-- [ ] omens from the Birds that Owl is a false cleric (cowbirds)
-
-# Fantastic Locations
-
-Locations they may go to but are not required
-- Center of government/religion (theocracy)
-- The Eledeia residence
-- Memorial for bluemoon's dad
-- like a cool cafe to chill out at? a safe place
-
-# NPCs
-
-Major players
-- court 
-- giltstern
+- assassin - who is he? is he an avizallan? plant seeds to identity, someone who went missing
+	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
+	- gloomstalker + assassin rogue
+- giltstern - Isaiah giltstern, feldspar also?
+	- play as the rly suspicious, obvious suspect
+	- would in fact like kevara to get control of avizallo - how much is he working w owl?
+	- profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). also bad for trade. 
+- saltwood workers - a leader and secondary. firbolg?
+	- threaten to set fire to the saltwood
 - religious figures
-- saltwood workers
 - saltwood owners
 	- Gandras Dol
 	- Sabra Dol - gandras' daughter. 16 yrs. naradriel voice
 - seagrass farmers, fishers
 	- Samuel - neighbor who cares for Gyrfalcon's homestead
 - masons guild
-- mettlewise - what's their deal
+- mettlewise - 12 yr old. what's their deal
+	- star acolyte at the church?
+	- goody two shoes, working for owl just bc owl is an authority - supplying tampered kites
+	- or Kingfisher's protege?
 
+# Secret and Clues
+
+_Check off when revealed._
+- [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
+- [ ] omens from the Birds that Owl is a false cleric (cowbirds)
+- [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
+- [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up
 
 # Monsters
-- need monsters to fight
 - Priests loyal to Owl (have been hoodwinked)
 - Owl has made allies with some sahuagin? lets make them non-sentient
 	- has some artifact to charm them/ stole something of theirs to force them to work for her
+	- drowned zombie stat blocks - bluerot
 - Owl summons some monsters to take out the cisterns
 	- elementals? 
 	- undead? would fit with her teachings to leanna. undead sahuaguin? could be very cool..
@@ -197,8 +198,9 @@ Major players
 
 # Treasure
 - Something for bluemoon
+- loot dropped by owl and assassin
+- gifts from npcs
 
 ## Scratchpad
 
-### Session Notes
 - Write down notes as things progress during the game.

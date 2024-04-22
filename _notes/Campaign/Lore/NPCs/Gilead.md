@@ -16,6 +16,7 @@ Form and Appearance
 Plans
 - Use Luca as a pawn to become Patrician > eat Luca's fate and control him > use Luca to regain physical form from the pieces of him left in the city
 	- if V wins, he will try to somehow get Vasilev's fate - depending on what the PCs do
+	- But Luca has Kevaran water and is warded - so Gilead is trying to go for Vasilev instead?
 
 Philosophies
 - Gilead: it has to be this way. pinning it down and preserving it. eternal, untarnishing. overbearing protectiveness, mother dragon.

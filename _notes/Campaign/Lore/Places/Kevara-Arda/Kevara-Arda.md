@@ -24,6 +24,7 @@ Patrician
 - Patrician's Bane: cannot be killed on Kevara-Arda soil by anyone with Kevaran water in their body
 	- the aqueducts + fountains are enchanted (lined with dragonscale?)
 	- anyone who acts to harm the patrician has their blood boil / turn to dragonflame
+	- anyone with Kevaran water in their body also cannot be claimed by Gilead - sort of immunization, your body already recognizes the dragon?
 - Can sense some of the goings on in the city through the scalecobbles
 
 Election..

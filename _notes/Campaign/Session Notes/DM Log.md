@@ -131,3 +131,11 @@
 - 24.3.3 - Wrath of the Butcher Balladeer pt 3
 	- gotta get better at dialogue during battles - forgot to have all the cultists speak
 	- felt bad leaving Toby out of a whole major battle - maybe should have ordered events diff?
+- 24.4.21 - Wrath of the Butcher Balladeer pt 4
+	- Too railroady - players were trying to find multiple catacombs, go under ass play
+		- also relates to the problem if poor information telegraphing
+	- Not enough information signalling, failed to establish key lore/mystery elements
+		- Players were uninterested in exploring the archaelogical society - why? even though I explicitly called out a magic circle? there was no clear promise of a reward
+		- Could have established finding out about the cult as a specific goal - either have the cult directly threaten PCs or have Vasilev call in a job
+	- Should have had an assassin target them when they took the long rest! To remind them about the assassinations
+		- you got too much in a hurry to get back on track with the dungeon

@@ -19,7 +19,7 @@ protection from energy?, dispel magic, summon construct
     - Indira Ashoor: lawyer specializing in contract law magic. Working w Konrad Luca / Avizallo to develop logic trees + moral contracts in automata OR (then?) working w the rebel elves to litigate covenants
     - she helped Coriolis, so is being pursued?
 - Was an excellent watchmaker who turned to explosives + murder
-- Has a younger sister
+- Has a younger sister Salwa
 
 - probably increase dmg the next time they meet him, inc ac?
   

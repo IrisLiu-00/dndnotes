@@ -6,28 +6,6 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
 	- they don't run at night bc no one is working the fountains
 - big sport - bird fighter kites
-# Locations
-
-La Centra: central pillar
-- Rookery: central government building
-- Kite shop, most central kite competitions
-- friendly cafe/inn
-La Norza: northermost pillar
-- Temple: main temple to birds
-- Mason's guild
-L'Esta: eastmost pillar
-- Eledeia residence
-- Memorial to Bluemoon's dad (Vapor)
-- Seagrass flats
-La Sul: southmost pillar
-- Docks for foreign ships, where visiting foreigners often reside
-- Sailors' bunkhouses - cheap public inn
-La Varza: westmost pillar
-- Gandras Dol's residence + saltwood groves
-- Orin Skymark's residence
-- location of riot, Orin's murder
-
-
 # Economics
 
 Primary Industries
@@ -47,6 +25,7 @@ Kevaran Influence
 - Avizallo groves are required to sell saltwood to Kevaran merchants at set prices - laborers get underpaid
 	- Laborers are mostly low lvl druids spamming Druidcraft cantrip to get trees to grow faster
 	- Some higher class Avizallans make a profit by working for Kevarans to manage the groves - Court sells contract work to manage saltwood
+- Avizallo is not allowed to build saltwood ships over a certain size, must buy from Kevara
 - Heavily dependent on Kevaran imports for grains/food, textiles, building materials (metal, stone)
 	- Avizallo has very few saltwood ships of its own, cannot do its own trade
 	- Extremely dependent on Kevara continuing to buy saltwood, only so it can buy back the goods it is not able to purchase overseas itself
@@ -56,7 +35,7 @@ Kevaran Influence
 # The Court of Birds
 ### Members
 Owl (religion): she. Haltingly soft spoken.
-- Identity: Morgana Saire, human Felichian priest
+- Identity: Morgana Saire, human Felichian priest (OR celestial warlock of gilead?)
 	- Actually a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
 	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
 - Heads all religious functions, manages clerical rituals for aquifers
@@ -102,10 +81,12 @@ Kingfisher (treasury/commerce): she. Distant, refined, calculating.
 	- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
 	- Eledeia family was also a saltwood baron
 - The most versed in Avizallo's economic situation
-- Was close with Gyrfalcon
 - Social with the upper echelons of both Kevara and Avizallo
-- Highly ambitious, willing to push for revolt if it weakens Kevaran power over Avizallo
-	- Trying to get Kevaran nobles/firms to buy up faulty saltwood contracts, somehow trigger a financial crash (baru cormorant???)
+- Anti war, opposed to Gyrfalcon - believes that Avizallo will be immediately crushed by Kevara
+- Secretly building up her own saltwood fleet to usurp Giltstern, gain economic independence
+	- Needs to avoid war/greater Kevaran focus on Avizallo to keep it a secret
+	- Bought automata as alleged personal protection, actually to construct ships
+	- There's missing saltwood stock from Eledeia, and also purchased from Gandras by Eledeia
 ### Masks
 - Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
 - Masks cannot be unwillingly removed except DC30 str check
@@ -116,7 +97,6 @@ Kingfisher (treasury/commerce): she. Distant, refined, calculating.
 - Each represent aspects of the divine Birds, seen as a mouthpiece for their will
 Other stuff
 - Guard wear half hawk masks; lower public servants wear half sparrow masks
-- 
 
 # Religion
 
@@ -142,11 +122,6 @@ Other stuff
 - conflict of interest - Vasilev doesnt care abt anything besides her rise to power in Kevara
 	- give the players an objective that conflicts with what's good/right?
 	- tell them not to get too attached to what's on the ground
-- One of the birds has been murdered, seemingly by a Kevaran soldier
-	- disco elysium babey. what plot points can we copy from it. a fake hanging, actually sniped
-	- riots at the saltwood groves, the automata were involved as security (or just make it mercs)
-- Raven - working to investigate the murder, trying to keep peace(? don't think shes that pessimistic)
-	- she does think the case is more complicated than it seems
 - Coriolis 
 
 

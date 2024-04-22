@@ -1,5 +1,6 @@
 
 ANNOUNCEMENTS
+- diving into adventure design again, so trying to gather feedback
 - recap
 
 Todos - immediate
@@ -11,9 +12,10 @@ Todos - immediate
 	- all the dungeon
 - figure out
 	- Yu's role / challenge
+	- artificer's code
+	- establish: evidence of doping the fog, the butcher's lore
 
-
-### Notes
+# Notes
 Reminders
 - Notes on each battle should include relevant PC abilities - to remind them
 - Randomly call on people and ask what they wanna do - they can pass action off to someone else
@@ -65,6 +67,7 @@ Battle tactics
 - attack from low visibility zones
 
 
+# Todos
 Todos - story
 - lumdas wants to go to get the primus doctrine, talk to the head priestess abt 'go into the heart of the whiteness'
 	- REWARD FOR SHOWING INITIATIVE!!!
@@ -89,8 +92,14 @@ Todos - story
 			- tell the PCs to do something that seems wrong
 			- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
 			- appears to be working with the BBEG - connections to Owl
+Todos - avizallo
+- who is assassin
+	- how do PCs find out about assassin? he starts hunting them
+- what is Mettlewise's deal? goody two shoes
+- NPCs for the saltwood druids
+- how did gyrfalcon start finding out abt owl
 
-### Potential adventures
+# Potential adventures
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway
 	- elven riders hunting a runaway worker?
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
@@ -102,6 +111,7 @@ Todos - story
 - desert dragon tomb / grave / temple thing for dungeon crawl - use on the way to apostasy
 - Kallista gets recaptured by the tieflings, do a court trial encounter
 - Something brings them to the Mirwood, do class revolution
+	- Vasilev sends them bc the forest has been devouring vassal towns
 - exploring the corpse of a sky whale
 - Anime con with Rulla
 - Labyrinth crawl, find the treasure guarded by the automata
