@@ -365,6 +365,7 @@ Entrance
 	- If combat, second cultist will escape inwards to the first encounter > ambush on second lvl
 - Entrance: part of the rubble forms a triangular shaped doorway, leading into intact staircase down
 Atrium
+- Darkness - what's the deal with everyone's vision
 - tiled floor, burnt out fluorescent lights. Darkness. Doorway on left (to band hall) and on right (recording studio).
 - history check to remember the basement is supposedly very haunted?
 Band rehearsal hall
@@ -388,6 +389,18 @@ Destroyed recording studio
 Atrium
 - Cold air, darkness, faint sound of dripping water. Bit of a breeze across your face. Musty scent with a faint undertone of something organic, rotting. 
 - Staircase down from rehearsal hall
+- Rows of stone sarcophagi, lids off and all emptied
+- More crates of Elysian Fog stacked next to a sarcophagus with lid still on
+	- on one side, labelled "DO NOT MOVE - NEEDS DOPING" in a slanted hand
+	- a smaller stack labelled "READY TO MOVE"
+- Lidded sarcophagus is empty inside but being used as a makeshift table. Small lamp, mortar and pestle
+	- Two bundles of bones, boxed and labelled - courtesan (ca 1020), street thief (ca 950)
+	- One tall glass phial holding a partial rib - bottom end has been ground up
+		- Magical seal prevents opening
+	- Notes and calculations in elvish on possession gradient
+	- spread open book of kevara-ardan genealogy, tracking prominent families. A number off names circled, some circled and crossed out
+	- Other books on early history and legends of Kevara Arda, alleged burial sites of Kevar/Arda
+	- Pushed up against wall, untouched for a while are old newspaper clippings tracking documented kills of Balladeer Butcher
 - Doorways to butcher's studio, dance studio
 Dance studio
 - A room with high arched ceiling made of stone. More recently installed polished wooden floors, mirrored walls on 2 sides with mounted handrails. As you enter, a chain of runes glows at the edges of the mirrors, and their surfaces ripple like water. (ghouls appear out of the mirror)
@@ -398,38 +411,48 @@ Dance studio
 	- Andrei: Drow male. Tap dance. Skin tight white tanktop, black tights, glossy patent leather shoes.
 	- Malachite: Green dragonborn. Breakdance. Floppy beanie hat, cool sneakers.
 	- Suella: Human woman. Ballet. Tutu, ballet flats. 
-- Mirrors disappear when the ghouls die, expose another ghost ward(1) fragment
+- **Ghost ward**(1) fragment: exposed as mirrors disappear when ghouls die 
 - Doorways back to atrium, to Yu's room
 Yu's Room
-- Another low ceilinged, stone hewn room. Emptied burial niches. 
-- stepping on the right flagstones- multicolored stones, do a dance. maybe make this good for the str/dex ppl? the original puzzle was broken from its function
-- curse them to speak in rhymes - the mute and the blind?
-- Songster's Absinthe - used by singers, gives the benefits of a full rest (check how low they are on hp). One dose for everyone
-- Another ghost ward(2) fragment
-- Yu is hanging around here - has been alternatively posing as a cultist or some monster scaring the cultists. challenge the PCs to get the reward?
-	- ask them abt their employer - she used to know vasilev
-	- tell me a story, true or false
+- Another low ceilinged, stone hewn room. Emptied burial niches. Door on opposite side is locked with golden keyhole.
+- A mimic shaped like an organ, chained up to a wall
+	- Inscribed on the lid is "Music is the food of love"
+	- Catch a hint of something golden and gleaming at the back of its throat
+	- Outside of organ is decorated with green leaf motifs - wide at the base, kind of curly leaf tips
+- Lots of carved designs on the other three walls
+	- Farmers planting round leafy vegetables, singing as they work
+	- A chef cooking those vegetables 
+	- Two people eating them as a violinist plays in the bg
+- Mimic will bite after unsuccessful song
+- On playing "CABBAGE", mimic vomits up:
+	- key for the door
+	- Deck of illusions
+	- Songster's Absinthe - bottled song, created by powerful bards. Gives the benefits of a full rest (check how low they are on hp). One dose for everyone
+- **Ghost ward**(2) fragment: etched runes (musical notation) that have been erased/covered up with some other dark putrefied liquid (runes of a different sort crawling over the wall)
+	- Ghost wards were created more recently than the stone of the catacombs itself, and they were destroyed even more recently
+	- Bards building the ISEC tried to sanctify the catacombs and install ghost wards - prevent dead from rising, prevent them from moving around (and coming into the school buildings)
+	- Magic that destroyed the wards is diff from the bardic craft in the rest of the room - it's wizardly necromantic magic
 The Butcher's Studio
 - Small stone cellar. Overflowing piles of old yellow parchment, scrawled with musical notation. Pile of rotting rags in the corner (a cot). Wood carvers and planers (luthier's tools), scraps of ebony wood, tweezers and scalpels, bone saw. Some human remains (fragment of a orbital rim, fingers + toes).
+	- This stuff is all mostly covered in dust
 - Once anyone steps inside: roll initiative. white and ebony instruments start playing an unearthly tune that makes you feel like your soul is being yanked out of body. Door locks?
 	- deal 1d4 continuous damage until stopped
 	- violin strung w human hair, lute with body made of skull, flute made of thigh bone, xylophone made of rib cage
 	- silence them, destroy instruments, comfort the souls (return bones to the corpses)
 - Desiccated corpses: mummified with tufts of missing hair, skeleton w/o rib cage, body w/o head, body w/o leg
-- Ghost ward(3) near entrance: etched runes (musical notation) that have been erased/covered up with some other dark putrefied liquid (runes of a different sort crawling over the wall)
-	- Ghost wards were created more recently than the stone of the catacombs itself, and they were destroyed even more recently
-	- Bards building the ISEC tried to sanctify the catacombs and install ghost wards - prevent dead from rising, prevent them from moving around (and coming into the school buildings)
-	- Magic that destroyed the wards is diff from the bardic craft in the rest of the room - it's wizardly necromantic magic
+- **Ghost ward**(3) near entrance
 - Treasure: Rehearser's Ring
 - Stairs down to L3 Labyrinth
 #### Level 3 - The Deep Catacombs
 Labyrinth
 - narrow stone corridors, dripping water, emptied burial niches. From the distance, high mournful singing.
 - Singing ghosts in a labyrinth (~4 reduced threat ghosts)
-- Shortcut exit: rusted portcullis, glimpse another ghost ward(4) fragment on the opposing wall
+	- add cultists if needed
+- another **ghost ward**
+- Shortcut exit: rusted portcullis, glimpse another **ghost ward**(4) fragment on the opposing wall
 	- Piece together melody, performance dc 15 to prevent ghosts from entering area
 	- Portcullis AC, HP, dmg threshold
-- Primary exit: partially-functional ghost ward(4) locks the ghosts out. Goes to next room
+- Primary exit: partially-functional **ghost ward**(4) locks the ghosts out. Goes to next room
 - map: double scale on owlbear
 - periodically hear the butcher singing/shredding?
 [Dance of Doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) puzzle
@@ -473,8 +496,8 @@ Labyrinth
 - Turning the wrong knob: door does not open, 2d10 psychic damage, DC 12 WIS save for half
 The Butcher's Tomb
 - Tall cavernous room, pillars, carved niches with open sarcophagi, dripping water. 
-- Large stone sarcophagus at far end. Partial corpse inside - a number of ribs are gone. Pale dessicated skin, limp black hair. Tuning a ebony violin. 
-	- figure out how leanna and the ghost make their entrance
+- Large stone sarcophagus at far end. Corpse inside - a number of ribs are gone (used to make Fog). Pale dessicated skin, limp black hair. All black clothes, spiked choker, dark eye makeup, tons of bracelets and rings. Holding an ebony violin. 
+	- figure out how leanna and the ghost make their e.ntrance
 - Butcher is retrying his ritual, somewhere more structurally sound!
 	- Just need one more virtuoso bards - ideally virgins (leanna: why the fuck does that matter? butcher: it just seems like the thing to do when you're running a cult, yknow)
 	- target kallista
@@ -491,8 +514,6 @@ Dungeon design
 TODOS
 - puzzle for the room w healing
 - set up of the final lair more
-- artificer's text
-- ==they all have incongruous goth accents, and rly emphasize the butcher's getup
 
 ### The Cult of Song
 - Leanna is the cult leader
@@ -524,9 +545,8 @@ Playing a cultist
 # Treasure
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - Final battle cache
-	- 300 gp
-	- Balladeer's Violin 
-	- deck of illusions
+	- 200 gp worth of grave goods
+	- Balladeer's Lute 
 - gloves of protection: +1 to AC, +4 to avoid dropping items or being disarmed
 	- on leanna? lambskin, long gloves
 - Rehearser's Ring: used by students to memorize lines or sheet music

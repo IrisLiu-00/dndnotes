@@ -30,6 +30,8 @@ Kevaran Influence
 	- Avizallo has very few saltwood ships of its own, cannot do its own trade
 	- Extremely dependent on Kevara continuing to buy saltwood, only so it can buy back the goods it is not able to purchase overseas itself
 - Less of food supply is now home grown (fishing/sea grass) both bc of Kevaran imports + environmental disruption from saltwood harvesting
+- Why doesn't Kevara just take Avizallo by force? they're reluctant bc it would most likely mean a siege, and Fray-tides make a long siege difficult
+	- Kevara would win; they just haven't judged it worth it
 
 
 # The Court of Birds

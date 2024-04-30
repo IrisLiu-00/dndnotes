@@ -12,8 +12,10 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 ## Pre-Arrival
 Mission Assignment
 - PCs need to go to Avizallo to - what? monitor the diplomatic situation. spy on luca. what
+	- protect giltstern/luca. cut V in on the deal. 
 	- Owl has warned Vasilev abt possible danger
-	- how do the PCs get authority to investigate a murder
+	- get PCs minimal authority to investigate a murder - go as reps of Kevara gov, or Giltstern
+- Give them a conflicting goal - don't get involved w Avizallo? don't upset the political balance between Kevara/Avizallo (would disrupt V's plans)? calm the insurgents?
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
 - who is the diplomat being sent to avizallo - gildstern? luca? ornsgrym?
 Journey to Avizallo
@@ -32,7 +34,8 @@ Riot and Murder
 	- giltstern was docked at La Sul, unclear how automata got there (was it actually Kingfisher's automata?)
 - Gyrfalcon gets killed in the chaos
 	- gyrfalcon has electrocution, blunt force, lacerations
-	- Body is interred in the Rookery, Owl has cast Gentle Repose so it won't decay
+	- Body is interred in the Rookery, Owl/another cleric has cast Gentle Repose so it won't decay
+- Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for extra money. Don't let it go to war.
 - Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
 	- Kingfisher refuses to unmask while outsiders (PCs) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
@@ -52,8 +55,8 @@ Kingfisher Sidequest
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 Ramping tension at the docks / something related to V's directive?
-- Fray tide washes in at the saltwood groves - could fight some wraiths. Or sahuaguin attack, trying to get their captive back (or Owl ordered the attack)?
-- Growers refuse to defend against
+- Monsters attack - growers refuse to defend
+- Fray tide that rocs don't defend against
 - Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
 Raven starts tailing the PCs out of suspicion
 - ==what do?==
@@ -77,6 +80,7 @@ The Artificer's workshop
 The Kite Fighters
 - ==Owl is using the kites to signal stealth attacks on the reservoirs?
 	- using to broadcast arcane signals to control the automata? or the undead? 
+		- would need to get the eledeia automata near the riot loc
 	- to signal ppl to take out auxiliary water services? secretly, make it look like an accident. they're systematically taking out the diff reservoirs to find which one has Nexida
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
@@ -95,9 +99,6 @@ Ramping conflict at the docks
 - Macaw's corruption
 
 
-Locations
-- where is Kingfisher building ships? also in the caverns???
-
 show the poverty/lack of autonomy in Avizallo (economics section)
 
 run exploration as a pointcrawl
@@ -113,12 +114,28 @@ Potential encounters:
 
 # Background
 
+## The Conspiracy
+
+Sahuaguin zombie attacks 
+- Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
+	- travel quest - show a monster they kill becoming undead
+- Owl arranging attacks to distract from reservoir forays, sow conflict
+- Plant something that's attracting wild undead - incl fray wraiths?
+- albatross totems - owl is tampering?
+- the protectors are undead - owl has cooped them so they don't defend against the fray tide, go attack the reservoirs
+	- have to show them doing their job, first
+	- evidence for gyrfalcon to find? numbers have decreased. response time slowed. 
+	- and then one day they just don't show up
+- attributes of a corrupted protector
+
 ## The Murder
 - Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
 	- ==Gyrfalcon became suspicious bc:
 		- reduced guards in the reservoirs
 		- found mentions of the Queen of Thieves?
+		- was investigating scattered monster/fray wraith/pirates/terrorist attacks on avizallo?  or things being stolen??
+			- food shipments arriving spoiled - city is undergoing rationing
 		- rocs for defense, trained using saltwood sap? owl leaking the secrets on how to overcome rocs to kevaran navy?
 			- let them shoot feathers/radiant damage
 			- rocs usually defend against wandering sea serpents and fray wraiths. notable exception was bluemoon's dad's death - this was also caused by owl. gyrfalcon investigated
@@ -138,7 +155,7 @@ Potential encounters:
 make kingfisher look sus - for the drama! to involve her more
 
 Owl: the mastermind (stats- essential npcs priest?)
-- if owl asks the PCs to help investigate, why?
+- if owl asks the PCs to help investigate, why? she knows someone took out Leanna, and wants to bait them (how would she know is PCs)
 - how to expose that she's actually serving Gilead
 - Alibi: praying at the temple. corroborated by other priests, templegoers
 Raven: parallel investigating

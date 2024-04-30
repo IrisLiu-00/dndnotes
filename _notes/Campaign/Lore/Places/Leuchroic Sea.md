@@ -16,6 +16,7 @@ tags:
 - Ocean water turns milky white, sublimating into bright white fog
 - Storm, stillwater, lightning. Navigation systems fail
 - violet lightning crackles within the mists
+- storm-stalkers pace the horizon
 - Fray-wraiths: those who died to original Cataclysm and later to the Fray
 	- spellcasting has a chance of summoning wraiths?
 - Circular waterfall at center (a mouth) - goddess in the center

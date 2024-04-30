@@ -5,16 +5,20 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-	- cultist, clockwork, skeleton
+	- cultist, skeleton, ghoul, ghost
 - maps: 
 - stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
-	- all the dungeon
+	- dungeon final
 - figure out
 	- Yu's role / challenge
 	- artificer's code
-	- establish: evidence of doping the fog, the butcher's lore
+https://drive.proton.me/urls/57ZVGK0ANR#ZCmTsH0VAorE
 
+ghouls are getting multiattack
+they need to find:
+- the second ghost ward
+- crystal
 # Notes
 Reminders
 - Notes on each battle should include relevant PC abilities - to remind them
