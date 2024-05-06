@@ -64,8 +64,9 @@ Raven starts tailing the PCs out of suspicion
 - Raven thinks there's something sus abt the kites - sidequest?
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
-- kill/take out all the clerics responsible for purification - to what end?
+- Owl uses guardians to kill/take out all the clerics responsible for purification
 	- disable the cisterns so they need to import water from Kevara or import felichian priests from Kevara
+- Systematically taking out each reservoir to find Nexida
 - cisterns are connected to Piranes' old workshop
 The Artificer's workshop
 - Owl/Gilead believes that Tensorat's treasure (Nexida) is hidden here - but really he teleported it all away 90 years ago (using Coriolis wish)
@@ -79,11 +80,12 @@ The Artificer's workshop
 	- presence of air djinni/teleportation
 The Kite Fighters
 - ==Owl is using the kites to signal stealth attacks on the reservoirs?
-	- using to broadcast arcane signals to control the automata? or the undead? 
+	- using to broadcast arcane signals to control the automata
 		- would need to get the eledeia automata near the riot loc
-	- to signal ppl to take out auxiliary water services? secretly, make it look like an accident. they're systematically taking out the diff reservoirs to find which one has Nexida
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
+- Mettlewise won Valespinner when she exposed Coriolis' gambling fraud? 3yrs ago
+	- maybe not, would be confusing to have him appear at two time points
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
 	- the spine / inner layering of the kite has some clue
 - do research on the sport
@@ -119,26 +121,22 @@ Potential encounters:
 Sahuaguin zombie attacks 
 - Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
 	- travel quest - show a monster they kill becoming undead
-- Owl arranging attacks to distract from reservoir forays, sow conflict
-- Plant something that's attracting wild undead - incl fray wraiths?
-- albatross totems - owl is tampering?
-- the protectors are undead - owl has cooped them so they don't defend against the fray tide, go attack the reservoirs
-	- have to show them doing their job, first
-	- evidence for gyrfalcon to find? numbers have decreased. response time slowed. 
-	- and then one day they just don't show up
-- attributes of a corrupted protector
+- Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
+Corrupted Guardians
+- Took control of Guardians so they won't defend against sahuagin, attack reservoir while ppl distracted
+	- has managed to control guardians bc they are undead
+	- converted Guardians have a spell seal inside one of the eye cavities
+	- have to show guardians doing their job first
+- can maybe use Guardians to frame ppl - have them hang around Kingfisher?
+- Owl was testing her control over guardians some years ago - led to the fray wraith attack that killed Bluemoon's dad
 
 ## The Murder
 - Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
 	- ==Gyrfalcon became suspicious bc:
-		- reduced guards in the reservoirs
+		- guard schedule was shifted around in reservoirs so that there were gaps - gyrfalcon was able to fix
+		- number of guardians decreased, response time slowed
 		- found mentions of the Queen of Thieves?
-		- was investigating scattered monster/fray wraith/pirates/terrorist attacks on avizallo?  or things being stolen??
-			- food shipments arriving spoiled - city is undergoing rationing
-		- rocs for defense, trained using saltwood sap? owl leaking the secrets on how to overcome rocs to kevaran navy?
-			- let them shoot feathers/radiant damage
-			- rocs usually defend against wandering sea serpents and fray wraiths. notable exception was bluemoon's dad's death - this was also caused by owl. gyrfalcon investigated
 - Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
 		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
@@ -155,7 +153,10 @@ Sahuaguin zombie attacks
 make kingfisher look sus - for the drama! to involve her more
 
 Owl: the mastermind (stats- essential npcs priest?)
-- if owl asks the PCs to help investigate, why? she knows someone took out Leanna, and wants to bait them (how would she know is PCs)
+- why did Owl ask V for help? 
+	- she knows someone took out Leanna, and wants to bait them (how would she know is PCs)
+	- trying to frame Kevaran intruders
+	- try to manipulate the PCs to get them to blame someone else (Kingfisher or Giltstern)
 - how to expose that she's actually serving Gilead
 - Alibi: praying at the temple. corroborated by other priests, templegoers
 Raven: parallel investigating
@@ -174,9 +175,10 @@ Kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to 
 - Trying to insert her own choice as gyrfalcon's successor - possibly passing old/upcoming exam questions to her protege
 ## Other Guys
 
-- assassin - who is he? is he an avizallan? plant seeds to identity, someone who went missing
+- assassin - undead elf ranger bound into Morgana's service
 	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
 	- gloomstalker + assassin rogue
+	- was killed by Onkeioros
 - giltstern - Isaiah giltstern, feldspar also?
 	- play as the rly suspicious, obvious suspect
 	- would in fact like kevara to get control of avizallo - how much is he working w owl?

@@ -536,7 +536,7 @@ Playing a cultist
 	- aren't able to play instrument/sing normally
 ### The Butcher Balladeer
 - Brayden Blackwood: student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Coriolis
-	- the troupe decided to downsize their classical music budget in favor of appealing to the youths - went for rock opera instead
+	- Coriolis plagiarized Brayden's lyrics, rewrote song for the air guitar. Later became a very successful rockstar. Last he heard, eloped to Avizallo (with some tiefling?) to buy a villa
 	- dark eye circles - from eye makeup or being dead?
 - started murdering teachers + students, discovered the screams of the dead were a musical inspiration
 	- discovered entrance into catacombs, started using the area for his dark deeds

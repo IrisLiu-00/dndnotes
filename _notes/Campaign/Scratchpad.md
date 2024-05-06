@@ -19,6 +19,7 @@ ghouls are getting multiattack
 they need to find:
 - the second ghost ward
 - crystal
+
 # Notes
 Reminders
 - Notes on each battle should include relevant PC abilities - to remind them

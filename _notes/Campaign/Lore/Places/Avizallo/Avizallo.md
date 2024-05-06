@@ -6,6 +6,10 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
 	- they don't run at night bc no one is working the fountains
 - big sport - bird fighter kites
+- Guardians: albatross spirits who protect the isle, mostly defending against Fray wraiths
+	- technically undead. Unclear if they were created divinely or by some powerful caster in the past
+	- Large bird skull suspended in an ethereal body, ~7ft tall
+	- Can't speak, can sometimes seem to understand speech
 # Economics
 
 Primary Industries
@@ -37,8 +41,8 @@ Kevaran Influence
 # The Court of Birds
 ### Members
 Owl (religion): she. Haltingly soft spoken.
-- Identity: Morgana Saire, human Felichian priest (OR celestial warlock of gilead?)
-	- Actually a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
+- Identity: Morgana Saire, human death cleric of Gilead
+	- a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
 	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
 - Heads all religious functions, manages clerical rituals for aquifers
 - Pretending for peace, wants a war with Kevara that Avizallo will lose
@@ -124,7 +128,7 @@ Other stuff
 - conflict of interest - Vasilev doesnt care abt anything besides her rise to power in Kevara
 	- give the players an objective that conflicts with what's good/right?
 	- tell them not to get too attached to what's on the ground
-- Coriolis 
+- Coriolis - what was he doing here?
 
 
 - gilead can potentially deus ex and eat Owl's fate to save her > recurring villain
