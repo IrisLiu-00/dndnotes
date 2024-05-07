@@ -98,11 +98,10 @@ Todos - story
 			- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
 			- appears to be working with the BBEG - connections to Owl
 Todos - avizallo
-- who is assassin
-	- how do PCs find out about assassin? he starts hunting them
 - what is Mettlewise's deal? goody two shoes
 - NPCs for the saltwood druids
-- how did gyrfalcon start finding out abt owl
+- Vasilev's angling on the saltwood deal should relate to her scheming
+- necromancy for kingfisher, make her look sus
 
 # Potential adventures
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway

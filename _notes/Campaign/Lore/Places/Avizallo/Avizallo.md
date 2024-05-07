@@ -81,6 +81,7 @@ Macaw (agriculture/land use): he. Gregarious, comedic.
 - Softer/more optimistic on Kevara, sometimes called a sellout
 - Corrupt. In charge of tax collection on agriculture, has been cutting taxes on his own groves
 	- Faking tax breaks for funds used to "revitalize saltwood groves" - in reality has not been expanding groves much. Has been trying to buy out Orin Skymark's lands as part of supposed revitalization
+	- Financials has been bad (parents squandered their wealth), has turned to corruption to keep up
 
 Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
 - Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
@@ -92,7 +93,8 @@ Kingfisher (treasury/commerce): she. Distant, refined, calculating.
 - Secretly building up her own saltwood fleet to usurp Giltstern, gain economic independence
 	- Needs to avoid war/greater Kevaran focus on Avizallo to keep it a secret
 	- Bought automata as alleged personal protection, actually to construct ships
-	- There's missing saltwood stock from Eledeia, and also purchased from Gandras by Eledeia
+	- There's missing saltwood stock from Eledeia
+	- Purchased saltwood from Gandras by Eledeia (basically purchasing immature saltwood that Eledeia will presumably finish growing then sell) - Gandras needed the money
 ### Masks
 - Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
 - Masks cannot be unwillingly removed except DC30 str check

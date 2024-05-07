@@ -59,10 +59,11 @@ Lumdas
 	- prophecy: will i ever find the truth about Felichias? 'go into the heart of the whiteness'
 
 Toby
-- ==Coriolis (”Cory”) - Djinn father - deadbeat dad
+- Coriolis (Cory / Corin) - Djinn father, deadbeat dad
 	- 95yrs ago, performed in Kevara (stole the Butcher's glory)
 	- met tiefling and went to avizallo?
 	- 90yrs ago, captured by the Artificer in Avizallo - artificer made a wish to create his labryinth in the sky
+		- to capture a djinni: need a vessel sealed with the true name
 	- was active in apostasy (doing what?) had a child (Indira Ashoor) with the evil lawyer
 		- Indira was conceived as a vessel for djinni's powers - only a close blood relation of a djinni can hold a fraction of its powers
 		- bad guys want air powers to get the Condenser (put out protective flames?) + chasing rumors of Nexida

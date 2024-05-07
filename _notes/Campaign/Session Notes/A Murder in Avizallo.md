@@ -9,21 +9,20 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 
 # Scenes
 
-## Pre-Arrival
-Mission Assignment
-- PCs need to go to Avizallo to - what? monitor the diplomatic situation. spy on luca. what
-	- protect giltstern/luca. cut V in on the deal. 
-	- Owl has warned Vasilev abt possible danger
-	- get PCs minimal authority to investigate a murder - go as reps of Kevara gov, or Giltstern
-- Give them a conflicting goal - don't get involved w Avizallo? don't upset the political balance between Kevara/Avizallo (would disrupt V's plans)? calm the insurgents?
+## Mission Assignment
+- Scene setting
+	- Vasilev drinks from a flask
+- PCs need to go to Avizallo to make sure the saltwood deal is successful, to protect Giltstern (and maybe spy on him)
+	- Giltstern has arrived in Avizallo and tensions are running high - Owl thinks there needs to be another impartial Kevaran party to keep Giltstern in check.
+	- Prices of saltwood are set, but they're hammering out a deal for how much wood to sell to Kevara
+	- Vasilev wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
+- Vasilev gives them badges as proof of authority
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
-- who is the diplomat being sent to avizallo - gildstern? luca? ornsgrym?
-Journey to Avizallo
-- probably just link another mini adventure
-- PCs need to figure out a way to separately get to the isle
-- a few choices for how to get there - leviathan, ship
-- another fray tide (work of the synod/dragon), possibly pirate attack?
-- they encounter kevaran navy ships, patrolling around avizallo
+## Journey to Avizallo
+- a few choices for how to get there - leviathan, giltstern supply ship (with felichian missionaries)
+- encounter kevaran navy ships patrolling around avizallo, and undead attack
+	- dramatic tension?
+- show a monster they kill becoming undead - ambient arcane turmoil
 ## Day 1
 Arrival in the Isle
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
@@ -35,7 +34,7 @@ Riot and Murder
 - Gyrfalcon gets killed in the chaos
 	- gyrfalcon has electrocution, blunt force, lacerations
 	- Body is interred in the Rookery, Owl/another cleric has cast Gentle Repose so it won't decay
-- Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for extra money. Don't let it go to war.
+- Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for extra money. Don't let it go to war. Make the saltwood deal go thru. 
 - Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
 	- Kingfisher refuses to unmask while outsiders (PCs) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
@@ -44,6 +43,7 @@ Riot and Murder
 - Owl subtly stokes the flames - the hearts of Avizallans know what is needed
 - Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
 - Raven stays silent
+- Signing of saltwood deal is halted
 Kingfisher Sidequest
 - Unmask Macaw. She believes he's corrupt
 - interview him: Macaw's governmental duties, political opinions
@@ -54,6 +54,7 @@ Kingfisher Sidequest
 - Gandras Dol might take the PCs help to stop vandalism
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
+- coriolis?
 Ramping tension at the docks / something related to V's directive?
 - Monsters attack - growers refuse to defend
 - Fray tide that rocs don't defend against
@@ -66,6 +67,7 @@ Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
 - Owl uses guardians to kill/take out all the clerics responsible for purification
 	- disable the cisterns so they need to import water from Kevara or import felichian priests from Kevara
+- Can also control the automata to take out reservoirs
 - Systematically taking out each reservoir to find Nexida
 - cisterns are connected to Piranes' old workshop
 The Artificer's workshop
@@ -84,10 +86,11 @@ The Kite Fighters
 		- would need to get the eledeia automata near the riot loc
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
-- Mettlewise won Valespinner when she exposed Coriolis' gambling fraud? 3yrs ago
-	- maybe not, would be confusing to have him appear at two time points
+- Mettlewise: star disciple in Owl's church. prophet, child prodigy. type A, tattletale. 
+	- unwitting tool of Morgana
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
 	- the spine / inner layering of the kite has some clue
+	- has some relation to coriolis?
 - do research on the sport
 - Kite supplies shop run by a dwarf, daughter of stonecutters (aliya stonecutter? kingfisher's protege?)
 - kite fighting minigame, stats for each type of kite
@@ -98,15 +101,19 @@ The Kite Fighters
 	- attack: attacker makes speed check against defender's strength save. on a fail, attacker makes strength save to avoid being cut themselves.
 Ramping conflict at the docks 
 - Kevarans try to harvest saltwood by force? what's stopping them
-- Macaw's corruption
+- Gandras' corruption - he has overpromised saltwood stock and failed to deliver
+- Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 
 
 show the poverty/lack of autonomy in Avizallo (economics section)
 
 run exploration as a pointcrawl
 do favors/sidequests for ppl to get their help
-clockwork's involvement? trying to extradite kallista?
-coriolis presence?
+
+Other story beats
+- assassin starts hunting them, once they get to high enough prominence
+- clockwork's involvement? trying to extradite kallista?
+- coriolis presence? impacts on Avizallo of today - maybe some nobles inherited power from?
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
@@ -114,13 +121,13 @@ Potential encounters:
 - against the assassin
 - the boss battle
 
+
 # Background
 
 ## The Conspiracy
 
 Sahuaguin zombie attacks 
 - Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
-	- travel quest - show a monster they kill becoming undead
 - Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
 Corrupted Guardians
 - Took control of Guardians so they won't defend against sahuagin, attack reservoir while ppl distracted
@@ -135,7 +142,7 @@ Corrupted Guardians
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
 	- ==Gyrfalcon became suspicious bc:
 		- guard schedule was shifted around in reservoirs so that there were gaps - gyrfalcon was able to fix
-		- number of guardians decreased, response time slowed
+		- number of guardians decreased, response time slowed. specifically around the reservoirs. 
 		- found mentions of the Queen of Thieves?
 - Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
@@ -175,20 +182,27 @@ Kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to 
 - Trying to insert her own choice as gyrfalcon's successor - possibly passing old/upcoming exam questions to her protege
 ## Other Guys
 
-- assassin - undead elf ranger bound into Morgana's service
-	- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
-	- gloomstalker + assassin rogue
-	- was killed by Onkeioros
-- giltstern - Isaiah giltstern, feldspar also?
-	- play as the rly suspicious, obvious suspect
-	- would in fact like kevara to get control of avizallo - how much is he working w owl?
-	- profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). also bad for trade. 
+Mettlewise: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte.
+- Very talented cleric (powers/)
+- Goody two shoes, tattletale. Could get on PCs' heels
+- Uses fighter kites to disperse religious fliers
+- how did she win Valespinner? idt by flying talent
+Assassin: undead elf ranger bound into Morgana's service
+- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
+- gloomstalker + assassin rogue
+- investigating strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
+Isaiah Giltstern: head of Giltstern trading firm
+- Wants this labor issue resolved so he can buy the saltwood
+- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
+Reed: 
+
 - saltwood workers - a leader and secondary. firbolg?
 	- threaten to set fire to the saltwood
 - religious figures
 - saltwood owners
 	- Gandras Dol
 	- Sabra Dol - gandras' daughter. 16 yrs. naradriel voice
+	- overseer or no?
 - seagrass farmers, fishers
 	- Samuel - neighbor who cares for Gyrfalcon's homestead
 - masons guild
