@@ -18,8 +18,12 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 	- Vasilev wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
 - Vasilev gives them badges as proof of authority
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
+- what does the saltwood deal do for vasilev? she's positioned against giltstern in the power struggle
+	- ppl shipping saltwood in stuck outside the city, can't vote (bring the fray nets up)
+	- make them pay a lot for saltwood, then sabotage the goods
 ## Journey to Avizallo
 - a few choices for how to get there - leviathan, giltstern supply ship (with felichian missionaries)
+- don't just do a fight, have some exploration/survival/social tension/mystery
 - encounter kevaran navy ships patrolling around avizallo, and undead attack
 	- dramatic tension?
 - show a monster they kill becoming undead - ambient arcane turmoil
@@ -54,22 +58,25 @@ Kingfisher Sidequest
 - Gandras Dol might take the PCs help to stop vandalism
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
+- Vulture would like to weaken Kingfisher - too chummy with the Kevarans
 - coriolis?
+Unmasking Gyrfalcon
+- Expose identity and home address
+- magic missile / sniper wound within Orin's mouth
 Ramping tension at the docks / something related to V's directive?
 - Monsters attack - growers refuse to defend
-- Fray tide that rocs don't defend against
+- Fray tide that Guardians don't defend against
 - Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
+- Kevarans try to harvest saltwood by force? what's stopping them
+- Gandras' corruption - he has overpromised saltwood stock and failed to deliver
+- Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 Raven starts tailing the PCs out of suspicion
 - ==what do?==
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
 - Raven thinks there's something sus abt the kites - sidequest?
+- zora should have some other side mystery she's investigating  that ties to main thing
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
-- Owl uses guardians to kill/take out all the clerics responsible for purification
-	- disable the cisterns so they need to import water from Kevara or import felichian priests from Kevara
-- Can also control the automata to take out reservoirs
-- Systematically taking out each reservoir to find Nexida
-- cisterns are connected to Piranes' old workshop
 The Artificer's workshop
 - Owl/Gilead believes that Tensorat's treasure (Nexida) is hidden here - but really he teleported it all away 90 years ago (using Coriolis wish)
 - Tensorat was known to be active in Avizallo until 90 yrs ago - is believed that he disappeared into the caverns 
@@ -81,9 +88,6 @@ The Artificer's workshop
 	- the code - "None will find it except in the shadow of the wind"
 	- presence of air djinni/teleportation
 The Kite Fighters
-- ==Owl is using the kites to signal stealth attacks on the reservoirs?
-	- using to broadcast arcane signals to control the automata
-		- would need to get the eledeia automata near the riot loc
 - Merriwink challenges Toby to steal the Valespinner for her
 	- also to get back at her "evil" twin, Mettlewise
 - Mettlewise: star disciple in Owl's church. prophet, child prodigy. type A, tattletale. 
@@ -99,117 +103,24 @@ The Kite Fighters
 	- other moves? give some kites custom moves?
 	- gamble how high you fly it before the string snaps
 	- attack: attacker makes speed check against defender's strength save. on a fail, attacker makes strength save to avoid being cut themselves.
-Ramping conflict at the docks 
-- Kevarans try to harvest saltwood by force? what's stopping them
-- Gandras' corruption - he has overpromised saltwood stock and failed to deliver
-- Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 
 
 show the poverty/lack of autonomy in Avizallo (economics section)
 
 run exploration as a pointcrawl
-do favors/sidequests for ppl to get their help
+do favors/sidequests for ppl to get their help (should be resolvable in half a session)
 
 Other story beats
 - assassin starts hunting them, once they get to high enough prominence
 - clockwork's involvement? trying to extradite kallista?
-- coriolis presence? impacts on Avizallo of today - maybe some nobles inherited power from?
+- once they figure out the killer, how do they bring down justice? they don't exactly have authority 
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
 - within the cisterns, water is rising with the tide
 - against the assassin
 - the boss battle
-
-
-# Background
-
-## The Conspiracy
-
-Sahuaguin zombie attacks 
-- Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
-- Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
-Corrupted Guardians
-- Took control of Guardians so they won't defend against sahuagin, attack reservoir while ppl distracted
-	- has managed to control guardians bc they are undead
-	- converted Guardians have a spell seal inside one of the eye cavities
-	- have to show guardians doing their job first
-- can maybe use Guardians to frame ppl - have them hang around Kingfisher?
-- Owl was testing her control over guardians some years ago - led to the fray wraith attack that killed Bluemoon's dad
-
-## The Murder
-- Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
-	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
-	- ==Gyrfalcon became suspicious bc:
-		- guard schedule was shifted around in reservoirs so that there were gaps - gyrfalcon was able to fix
-		- number of guardians decreased, response time slowed. specifically around the reservoirs. 
-		- found mentions of the Queen of Thieves?
-- Found out gyrfalcon's true identity
-	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
-		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
-		- Find letter from Gandras in Orin's mailbox, or Owl produces Orin's letter to put PCs on Macaw's trail
-- Assassin sniped gyrfalcon while they were off service in their apt
-- somehow incite the riot
-	- automata at the riot were actually Kingfisher's - Owl has some way to control the automata? related to the kites, getting automata to raid the reservoirs?
-- faked lividity by beating up the body, then plant the body at the site of riot
-	- Assassin casted Lightning Arrow to get electrocution burns
-# NPCs
-## The Councillors
-
-*all insight checks against the Court have disadvantage bc they're masked*
-make kingfisher look sus - for the drama! to involve her more
-
-Owl: the mastermind (stats- essential npcs priest?)
-- why did Owl ask V for help? 
-	- she knows someone took out Leanna, and wants to bait them (how would she know is PCs)
-	- trying to frame Kevaran intruders
-	- try to manipulate the PCs to get them to blame someone else (Kingfisher or Giltstern)
-- how to expose that she's actually serving Gilead
-- Alibi: praying at the temple. corroborated by other priests, templegoers
-Raven: parallel investigating
-- Alibi: asleep (lie), probably doing some assassins creed shit 
-Macaw: unknowing accomplice (how), corrupt, soft/optimistic on kevara
-- Alibi: working late in the office (lie), can't say he was actually overseeing at the riots
-- Gandras saw Kingfisher at the riot, but Macaw can't say
-Vulture: 
-- Was the most vocally opposed to gyrfalcon - thought they were further entangling Avizallo with outside world, had upstart ideas about restructuring ownership of saltwood groves
-	- Was opposed to them starting from the grading of manuscripts (disliked political opinions in the essays) 
-- Alibi: refuse to talk to outsiders? but he was working late in the office, did not see Macaw
-Kingfisher: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
-- Alibi: was at the site of the riot (conferring with Giltstern earlier). Lie and say she had left by the riot?
-- Has purchased a suite of automata for her personal protection
-- make her look involved with the conspiracy / any attacking monsters
-- Trying to insert her own choice as gyrfalcon's successor - possibly passing old/upcoming exam questions to her protege
-## Other Guys
-
-Mettlewise: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte.
-- Very talented cleric (powers/)
-- Goody two shoes, tattletale. Could get on PCs' heels
-- Uses fighter kites to disperse religious fliers
-- how did she win Valespinner? idt by flying talent
-Assassin: undead elf ranger bound into Morgana's service
-- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
-- gloomstalker + assassin rogue
-- investigating strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
-Isaiah Giltstern: head of Giltstern trading firm
-- Wants this labor issue resolved so he can buy the saltwood
-- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
-Reed: 
-
-- saltwood workers - a leader and secondary. firbolg?
-	- threaten to set fire to the saltwood
-- religious figures
-- saltwood owners
-	- Gandras Dol
-	- Sabra Dol - gandras' daughter. 16 yrs. naradriel voice
-	- overseer or no?
-- seagrass farmers, fishers
-	- Samuel - neighbor who cares for Gyrfalcon's homestead
-- masons guild
-- mettlewise - 12 yr old. what's their deal
-	- star acolyte at the church?
-	- goody two shoes, working for owl just bc owl is an authority - supplying tampered kites
-	- or Kingfisher's protege?
+- combat encounter to get into hidden cove - automata and some monster eledeia controls?
 
 # Secret and Clues
 
@@ -217,7 +128,8 @@ _Check off when revealed._
 - [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
 - [ ] omens from the Birds that Owl is a false cleric (cowbirds)
 - [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
-- [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up
+- [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up with what's at her house
+- [ ] another clue for ring of mind shielding besides the missing treasure - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
 
 # Monsters
 - Priests loyal to Owl (have been hoodwinked)
@@ -231,7 +143,9 @@ _Check off when revealed._
 
 # Treasure
 - Something for bluemoon
-- loot dropped by owl and assassin
+- Loot dropped by owl
+	- ring of mind shielding
+- Loot dropped by assassin
 - gifts from npcs
 
 ## Scratchpad

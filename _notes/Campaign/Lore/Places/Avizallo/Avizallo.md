@@ -10,6 +10,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 	- technically undead. Unclear if they were created divinely or by some powerful caster in the past
 	- Large bird skull suspended in an ethereal body, ~7ft tall
 	- Can't speak, can sometimes seem to understand speech
+	- Normally manifest immediately at site of danger, hang around the roots to guard against things trying to come up
 # Economics
 
 Primary Industries
@@ -40,7 +41,7 @@ Kevaran Influence
 
 # The Court of Birds
 ### Members
-Owl (religion): she. Haltingly soft spoken.
+**Owl** (religion): she. Haltingly soft spoken.
 - Identity: Morgana Saire, human death cleric of Gilead
 	- a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
 	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
@@ -55,25 +56,27 @@ Owl (religion): she. Haltingly soft spoken.
 - Trying to destroy the reservoirs to weaken Avizallo, and find Nexida
 	- Contract Giltstern/Felichian missionaries for water > allow Kevaran access to Tensorat's labs
 
-Gyrfalcon (defense/guard/navy): they. Clarion, righteous.
+**Gyrfalcon** (defense/guard/navy): they. Clarion, righteous.
 - Identity: Orin Skymark, half elf. Inherited a small seagrass farmstead
 	- hires other local farmers to help tend fields every few weeks
 - Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
 
-Raven (intelligence/spymaster): she. Reclusive, unknown.
-- Identity: Zora Courier, mixed race. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
+**Raven** (intelligence/spymaster): she. Reclusive, unknown.
+- Identity: Zora Courier, mixed species. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
 - Newest councilor after Kingfisher - joined only 5mo ago
 - Anti Kevara but highly suspicious of current war mongering
 - Trying to take down the Kevaran trade firms, supporting the strikers, guerilla tactics destroying company property
 - Mistrusts Kingfisher for her perceived closeness to the Kevaran elites
 - Fairly religious
 
-Vulture (criminal/judiciary): he. Taciturn, old, spiteful. 
+**Vulture** (criminal/judiciary): he. Taciturn, old, spiteful. 
 - Identity: Ezekiel Ashridge. 
+	- runs some library type thing?
 - Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher, Macaw
 	- Thinks Macaw needs to approve more seagrass flats instead of saltwood, more farming instead of construction
+	- More interested in a nonexistent, glorious past than the present
 
-Macaw (agriculture/land use): he. Gregarious, comedic.
+**Macaw** (agriculture/land use): he. Gregarious, comedic.
 - Identity: Gandras Dol. Prominent saltwood cultivator. 
 	- Has been making precariously narrow margins
 	- Owes debt to Giltstern - father squandered much of family funds, took out a loan to buy back saltwood groves
@@ -83,24 +86,26 @@ Macaw (agriculture/land use): he. Gregarious, comedic.
 	- Faking tax breaks for funds used to "revitalize saltwood groves" - in reality has not been expanding groves much. Has been trying to buy out Orin Skymark's lands as part of supposed revitalization
 	- Financials has been bad (parents squandered their wealth), has turned to corruption to keep up
 
-Kingfisher (treasury/commerce): she. Distant, refined, calculating. 
-- Identity: Qrystrin Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
+**Kingfisher** (treasury/commerce): she. Distant, refined, calculating. 
+- Identity: Kristryn Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
 	- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
 	- Eledeia family was also a saltwood baron
 - The most versed in Avizallo's economic situation
 - Social with the upper echelons of both Kevara and Avizallo
 - Anti war, opposed to Gyrfalcon - believes that Avizallo will be immediately crushed by Kevara
-- Secretly building up her own saltwood fleet to usurp Giltstern, gain economic independence
+- Secretly building up her own saltwood fleet to usurp Giltstern, gain economic independence for Avizallo
 	- Needs to avoid war/greater Kevaran focus on Avizallo to keep it a secret
 	- Bought automata as alleged personal protection, actually to construct ships
-	- There's missing saltwood stock from Eledeia
 	- Purchased saltwood from Gandras by Eledeia (basically purchasing immature saltwood that Eledeia will presumably finish growing then sell) - Gandras needed the money
+- Studying necromancy to revive failed saltwood crops
+	- Lots of Eledeia saltwood has failed, partially bc of fray/undead attacks
 ### Masks
 - Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
 - Masks cannot be unwillingly removed except DC30 str check
 	- In death, can only be removed by consensus among the Court
 - Cannot be worn by anyone who is not the owner - inflicts damage
 - Immune to mind control magic that would make someone remove their mask
+- Masks give advantage on zone of truth saves?
 - After death of a Bird, a civil service exam happens - highest scorer becomes successor. The other birds never find out the new one's identity. 
 - Each represent aspects of the divine Birds, seen as a mouthpiece for their will
 Other stuff

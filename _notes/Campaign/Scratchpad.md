@@ -29,7 +29,6 @@ Reminders
 - A player can give their DM inspiration to someone else
 - Can cast spell as reaction, can cast cantrip + levelled if one is bonus
 
-
 Kallista
 - Bardic insp is a bonus action
 - Cutting words: use a bardic to subtract from dice roll
@@ -72,11 +71,13 @@ Battle tactics
 - attack from low visibility zones
 
 
-# Todos
-Todos - story
-- lumdas wants to go to get the primus doctrine, talk to the head priestess abt 'go into the heart of the whiteness'
-	- REWARD FOR SHOWING INITIATIVE!!!
-- tie mushika into it
+# Story Questions
+### Broad
+- riddle/steps for finding nexida
+- what was Coriolis up to
+- Kevara election mechanics - the beast comes alive?
+### Medium
+-  tie mushika into it
 - forge painting - this can be a sidequest or integrated into a bigger adventure
 	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
 	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
@@ -97,11 +98,31 @@ Todos - story
 			- tell the PCs to do something that seems wrong
 			- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
 			- appears to be working with the BBEG - connections to Owl
-Todos - avizallo
-- what is Mettlewise's deal? goody two shoes
-- NPCs for the saltwood druids
+### Immedidate - Butcher
+- lumdas wants to go to get the primus doctrine, talk to the head priestess abt 'go into the heart of the whiteness'
+	- REWARD FOR SHOWING INITIATIVE!!!
+### Immediate - Avizallo
 - Vasilev's angling on the saltwood deal should relate to her scheming
-- necromancy for kingfisher, make her look sus
+- zora should have some other side mystery she's investigating that ties to main thing
+	- she nominally traps PCs under the name of this investigation - it's actually bc Raven is sus
+	- discrepancies related to cargo shipments, crates going missing, esp near eledeia estate (being used by Owl)
+		- could have them track down the one specific crate used to hold Orin's body
+		- Zora says she thinks adventurers might be stealing loot, or ppl doing smuggling?
+- vulture sidequest
+	- ring of mind shield passed down from Coriolis? Owl stole it. Vulture is a retainer of Tensorat?
+	- some cache of valuables missing - a genie's treasure
+	- normally a guardian protects them, went missing - Gyrfalcon was helping investigate
+	- Owl manipulated vulture to expose the treasure
+	- Kareem stole it?
+- establish coriolis' past in avizallo
+- Leads to the important investigation loci
+	- chance to figure out assassin exists
+	- the exam scrolls?
+- have players do sidequest for owl - make them trust her
+	- what could players need owl for? convince another councillor to unmask. 
+	- clues that shes working for gilead
+- more material for giltstern
+	- supplying coffee/whatever for kareem, bc he owes kareem for saving a relative?
 
 # Potential adventures
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway

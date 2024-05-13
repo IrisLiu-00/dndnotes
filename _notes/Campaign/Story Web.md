@@ -1,7 +1,4 @@
-Open questions
-- Steps for finding Nexida
-	- "in the shadow of the wind"
-- Kevara election mechanics
+
 Need to set up
 - Lore around Kevar, Arda, Gilead
 - Role of Felichian religion, the goddess

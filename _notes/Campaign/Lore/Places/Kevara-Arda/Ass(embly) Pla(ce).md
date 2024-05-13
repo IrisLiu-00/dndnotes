@@ -34,5 +34,3 @@ Future Work Orders
 - Hidden passages
 - Security system
 - Workshop/lab
-- Mechanical benefits from the cats?
-- Something to let PCs train up familiars?
