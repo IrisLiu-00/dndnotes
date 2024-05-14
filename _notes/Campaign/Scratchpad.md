@@ -5,15 +5,13 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-	- cultist, skeleton, ghoul, ghost
+	- cultist, ghoul, ghost
 - maps: 
 - stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
 	- dungeon final
 - figure out
-	- Yu's role / challenge
 	- artificer's code
-https://drive.proton.me/urls/57ZVGK0ANR#ZCmTsH0VAorE
 
 ghouls are getting multiattack
 they need to find:
@@ -103,6 +101,7 @@ Battle tactics
 	- REWARD FOR SHOWING INITIATIVE!!!
 ### Immediate - Avizallo
 - Vasilev's angling on the saltwood deal should relate to her scheming
+	- frame giltstern for something that would turn popular opinion. selling wood to elves? make it look like they're selling kevara out to elven domination. bc of the trade winds, the ships carrying wood have to come back by river, thru the mirwood...
 - zora should have some other side mystery she's investigating that ties to main thing
 	- she nominally traps PCs under the name of this investigation - it's actually bc Raven is sus
 	- discrepancies related to cargo shipments, crates going missing, esp near eledeia estate (being used by Owl)
@@ -113,16 +112,19 @@ Battle tactics
 	- some cache of valuables missing - a genie's treasure
 	- normally a guardian protects them, went missing - Gyrfalcon was helping investigate
 	- Owl manipulated vulture to expose the treasure
-	- Kareem stole it?
+	- Kareem stole it? Giltstern got it? the druids? somewhere dangerous, guarded by monsters?
 - establish coriolis' past in avizallo
-- Leads to the important investigation loci
-	- chance to figure out assassin exists
-	- the exam scrolls?
 - have players do sidequest for owl - make them trust her
 	- what could players need owl for? convince another councillor to unmask. 
+	- sth related to temple? monster infiltration. 
 	- clues that shes working for gilead
 - more material for giltstern
 	- supplying coffee/whatever for kareem, bc he owes kareem for saving a relative?
+	- connect to kingfisher or eledeia somehow
+- more opportunity to dovetail w eledeia plot
+- possibly not enough clues pointing to owl? have we overcorrected
+randoms
+- where is eledeia getting shipbuiliding knowledge from - probably some books from vulture,
 
 # Potential adventures
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway

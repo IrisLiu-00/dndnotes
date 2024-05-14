@@ -103,9 +103,9 @@ Owl's relation to giltstern?
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
 - Thinks Shane is a cop, sellout, scab
-**Shane**: human. Leader of saltwood growers at La Norza, under Gandras
+**Delaney**: human. Leader of saltwood growers at La Norza, under Gandras
 - intense rivalry with Reed, stoked by Gandras
-**Samuel**: human. Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
+**Josef**: human. Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
 - Orin told him they're often busy upshaft, not physically well
 **Sabra Do**l: Gandras' Dol's daughter. 16 yrs.
 - voice: naradriel, slight lisp. 
