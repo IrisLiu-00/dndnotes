@@ -22,6 +22,7 @@ protection from energy?, dispel magic, summon construct
 - Has a younger sister Salwa
 
 - probably increase dmg the next time they meet him, inc ac?
+	- give him the spell Slow
   
 ```
 {

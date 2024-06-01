@@ -1,17 +1,16 @@
 
 ANNOUNCEMENTS
-- diving into adventure design again, so trying to gather feedback
 - recap
+- This is possibly Justine's last session, depending on if we finish the adventure today
 
 Todos - immediate
 - Voices, stat block review
-	- cultist, ghoul, ghost
+	- cultist, leanna, butcher
 - maps: 
 - stat blocks: 
 - prep battle in harmlesskey, owlbear, 5etools
 	- dungeon final
 - figure out
-	- artificer's code
 
 ghouls are getting multiattack
 they need to find:
@@ -74,6 +73,7 @@ Battle tactics
 - riddle/steps for finding nexida
 - what was Coriolis up to
 - Kevara election mechanics - the beast comes alive?
+- rewrite and remove Mirwood storyline. Tie the engine piece into Nexida. 
 ### Medium
 -  tie mushika into it
 - forge painting - this can be a sidequest or integrated into a bigger adventure
@@ -104,22 +104,28 @@ Battle tactics
 	- frame giltstern for something that would turn popular opinion. selling wood to elves? make it look like they're selling kevara out to elven domination. bc of the trade winds, the ships carrying wood have to come back by river, thru the mirwood...
 - zora should have some other side mystery she's investigating that ties to main thing
 	- she nominally traps PCs under the name of this investigation - it's actually bc Raven is sus
+	- hired by Reed to find false flags?
 	- discrepancies related to cargo shipments, crates going missing, esp near eledeia estate (being used by Owl)
 		- could have them track down the one specific crate used to hold Orin's body
 		- Zora says she thinks adventurers might be stealing loot, or ppl doing smuggling?
+	- artifact to get in orin's house? Reed asked to hold onto an artifact, acting sneaky. wife thinks hes cheating. don't love bottlenecking the house off of this one thing
+	- how does she set the PCs on the kites? either Raven trusts them and tells them Merriwink is up to something weird, or Zora says she's investigating sth for Myla?
 - vulture sidequest
 	- ring of mind shield passed down from Coriolis? Owl stole it. Vulture is a retainer of Tensorat?
 	- some cache of valuables missing - a genie's treasure
 	- normally a guardian protects them, went missing - Gyrfalcon was helping investigate
+	- stolen by leviathan pirates?
 	- Owl manipulated vulture to expose the treasure
 	- Kareem stole it? Giltstern got it? the druids? somewhere dangerous, guarded by monsters?
 - establish coriolis' past in avizallo
 - have players do sidequest for owl - make them trust her
-	- what could players need owl for? convince another councillor to unmask. 
+	- what could players need owl for? convince another councillor to unmask. access the dead body/rookery offices? forge/steal a government worker's mask?
 	- sth related to temple? monster infiltration. 
+	- birds at the aviary getting sick/stolen
+	- sth to help maintain peace?
 	- clues that shes working for gilead
+	- point the players at eledeia..?
 - more material for giltstern
-	- supplying coffee/whatever for kareem, bc he owes kareem for saving a relative?
 	- connect to kingfisher or eledeia somehow
 - more opportunity to dovetail w eledeia plot
 - possibly not enough clues pointing to owl? have we overcorrected

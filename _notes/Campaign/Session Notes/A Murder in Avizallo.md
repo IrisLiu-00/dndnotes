@@ -11,16 +11,15 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 
 ## Mission Assignment
 - Scene setting
-	- Vasilev drinks from a flask
-- PCs need to go to Avizallo to make sure the saltwood deal is successful, to protect Giltstern (and maybe spy on him)
+	- Vasilev drinks from a flask, cane to get upstairs
+- Monster attacks (zombies) around Avizallo. PCs need to go and make sure saltwood deal is successful, harvest happens
+	- Vasilev received news abt zombies from Owl
 	- Giltstern has arrived in Avizallo and tensions are running high - Owl thinks there needs to be another impartial Kevaran party to keep Giltstern in check.
 	- Prices of saltwood are set, but they're hammering out a deal for how much wood to sell to Kevara
 	- Vasilev wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
 - Vasilev gives them badges as proof of authority
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
-- what does the saltwood deal do for vasilev? she's positioned against giltstern in the power struggle
-	- ppl shipping saltwood in stuck outside the city, can't vote (bring the fray nets up)
-	- make them pay a lot for saltwood, then sabotage the goods
+- Merriwink gives Toby second task before departure - steal the Valespinner for her, from her "evil" twin Mettlewise
 ## Journey to Avizallo
 - a few choices for how to get there - leviathan, giltstern supply ship (with felichian missionaries)
 - don't just do a fight, have some exploration/survival/social tension/mystery
@@ -28,12 +27,23 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 	- dramatic tension?
 - show a monster they kill becoming undead - ambient arcane turmoil
 ## Day 1
-Arrival in the Isle
-- establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
+#### Arrival in the Isle
+- Scene setting
+	- High white vanishing fog of the fray. It clears, and you get a glimpse of a reflection - sunlight on black glass, refracted blue and violet in the morning light. Five pillars rise from the ocean, wreathed by white mist at their base. Small black dots of birds spiralling around the tips.
+	- A triangular, nearly translucent white shape soars down close - the skull of a bird set at its tip.
+	- The top of each pillar is crowned with lush greenery, vines and trees. Set amidst them like jewels are multicolored houses. Birds of every sort (gulls, parrots) wheel and deal in the air, raucous squawking.
+	- Draw closer - you see the famed saltwood trees, which look nothing much like trees. White fingers claw their way up the base of each pillar, stark contrast with the black translucence. Built amongst the vertically growing shoots are docks, their wood coated a darker color with waterproofing. Ships large and small pull in gingerly between the gnarled, bone-white roots of the trees. All of the ship have the characteristic white hulls of saltwood hewn, deepwater bound vessels. 
+	- People at work in the docks, unloading cargo holds to these elevators that travel on rails up the length of the columns.
+- Location: La Sul. Bargewrights, ships, Giltstern.
 - Avizallans blocking Felichian missionaries from entering - maybe Kingfisher lets them come in?
 - introduce a few major players of the council
-Riot and Murder
-- Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern intervened with automata, a number of saltwood growers killed
+- Owl greets them, takes them to the saltwood docks?
+- establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
+- spontaneous zombie attack, guardians swoop in
+- opportunity to go to Kareem's, Bargewrights, explore city. show the kite fights. 
+#### Riot and Murder
+- PCs may or may not be at the saltwood docks - either way Gyrfalcon is on the other side
+- Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern (seemingly) intervened with automata, a number of saltwood growers killed
 	- giltstern was docked at La Sul, unclear how automata got there (was it actually Kingfisher's automata?)
 - Gyrfalcon gets killed in the chaos
 	- gyrfalcon has electrocution, blunt force, lacerations
@@ -48,6 +58,10 @@ Riot and Murder
 - Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
 - Raven stays silent
 - Signing of saltwood deal is halted
+- might find out it was not giltstern automata thru careful investigation
+
+## Upcoming
+
 Kingfisher Sidequest
 - Unmask Macaw. She believes he's corrupt
 - interview him: Macaw's governmental duties, political opinions
@@ -56,13 +70,17 @@ Kingfisher Sidequest
 - spy on his office
 - go investigate land use
 - Gandras Dol might take the PCs help to stop vandalism
+- leads: saw kingfisher at the riot, shady accounting from eledeia, it wasn't giltstern's automata at the riot
+	- gandras got control of the giltstern automata at one point
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 - Vulture would like to weaken Kingfisher - too chummy with the Kevarans
 - coriolis?
+- treasure hunt leads: ring is missing (someone can lie), gyrfalcon was investigating guardians
 Unmasking Gyrfalcon
 - Expose identity and home address
 - magic missile / sniper wound within Orin's mouth
+- leads: reservoirs (from house), 
 Ramping tension at the docks / something related to V's directive?
 - Monsters attack - growers refuse to defend
 - Fray tide that Guardians don't defend against
@@ -75,6 +93,7 @@ Raven starts tailing the PCs out of suspicion
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
 - Raven thinks there's something sus abt the kites - sidequest?
 - zora should have some other side mystery she's investigating  that ties to main thing
+- leads: kites
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
 The Artificer's workshop
@@ -87,11 +106,8 @@ The Artificer's workshop
 - plant clues
 	- the code - "None will find it except in the shadow of the wind"
 	- presence of air djinni/teleportation
+- more clues leading to Owl
 The Kite Fighters
-- Merriwink challenges Toby to steal the Valespinner for her
-	- also to get back at her "evil" twin, Mettlewise
-- Mettlewise: star disciple in Owl's church. prophet, child prodigy. type A, tattletale. 
-	- unwitting tool of Morgana
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
 	- the spine / inner layering of the kite has some clue
 	- has some relation to coriolis?
@@ -109,6 +125,7 @@ show the poverty/lack of autonomy in Avizallo (economics section)
 
 run exploration as a pointcrawl
 do favors/sidequests for ppl to get their help (should be resolvable in half a session)
+each quest should give clear leads on what to do next, don't just let things happen to the pcs
 
 Other story beats
 - assassin starts hunting them, once they get to high enough prominence
@@ -122,14 +139,6 @@ Potential encounters:
 - the boss battle
 - combat encounter to get into hidden cove - automata and some monster eledeia controls?
 
-# Secret and Clues
-
-_Check off when revealed._
-- [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
-- [ ] omens from the Birds that Owl is a false cleric (cowbirds)
-- [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
-- [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up with what's at her house
-- [ ] another clue for ring of mind shielding besides the missing treasure - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
 
 # Monsters
 - Priests loyal to Owl (have been hoodwinked)
@@ -146,8 +155,9 @@ _Check off when revealed._
 - Loot dropped by owl
 	- ring of mind shielding
 - Loot dropped by assassin
+	- crossbow
 - gifts from npcs
 
-## Scratchpad
+# Scratchpad
 
 - Write down notes as things progress during the game.

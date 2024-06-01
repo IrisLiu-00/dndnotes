@@ -7,8 +7,9 @@
 - Clues
 	- Kingfisher passing Myla exams
 	- Myla supplying Kingfisher spell components (powdered silver, bird bones) 
-#### Cloak and Stagger
-- Inn run by Kareem
+#### Kareem's Beans
+- Coffeeshop / tavern / inn run by Kareem
+	- coffee is pretty rare in Avizallo, and Kareem sells for reasonable prices. It's always busy here.
 - interesting features?
 - People: Zora, Myla
 - Direct access to reservoir, since it's harder for Kareem to get to a fountain
@@ -35,7 +36,7 @@
 #### Docks
 - Bargewright's: a floating tavern moored amongst the roots
 	- Connected to cheap sailor's bunkhouses
-	- People: Reed, Shane, 
+	- People: Reed, Shane, Raven/Zora
 #### Moored Ships
 - Docks for foreign ships, where visiting foreigners often reside
 - Giltstern flagship
@@ -50,6 +51,8 @@
 #### Orin Skymark's Homestead
 - Owl has set some trap here - something to fightttt
 	- mimics? but more difficult
+- why did owl not destroy all the clues in the house?
+	- she couldn't, it's guarded by some artifact 
 - Clues
 	- newly replaced window (line of sight from flank of La Norza, where assassin shot)
 	- mailbox: correspondence with gandras dol

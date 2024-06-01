@@ -7,7 +7,6 @@ Sahuaguin zombie attacks
 - Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
 Corrupted Guardians
 - Disable Guardians so they won't defend against sahuagin, automata
-	- has managed to control guardians bc they are undead, but can only exert a limited influence
 	- have to show guardians doing their job first
 - Systematically bait Guardians with attacks at remote locations at night, then Owl seals them
 - Disabled Guardians reduce to their skull, have a spell seal imprinted. 
@@ -20,7 +19,7 @@ Controlling Automata
 	- Mettlewise thinks the kites have surveillance equipment to catch petty crimes - Owl let her think it was her idea, helped develop the equipment
 	- some kites also disperse fliers for the temple (could be a good plot hook!)
 - Kites have remote device to hijack Eledeia's automata and control them
-	- Owl manage to steal a key to Eledeia automata - how?
+	- Owl manage to steal a key to Eledeia automata - how? used assassin to break in?
 - discreetly transport automata by loading a bunch into cargo container, have one push it around - cargo loading automata are fairly common with the Giltstern crew
 	- also use to transport sahuagin in cargo
 Reservoir Attacks
@@ -43,7 +42,7 @@ Owl's relation to giltstern?
 		- Find letter from Gandras in Orin's mailbox, or Owl produces Orin's letter to put PCs on Macaw's trail
 - Assassin sniped gyrfalcon while they were off service in their apt
 - somehow incite the riot
-	- automata at the riot were actually Kingfisher's - Owl has some way to control the automata? related to the kites, getting automata to raid the reservoirs?
+	- automata at the riot were actually Kingfisher's
 - faked lividity by beating up the body, then plant the body at the site of riot
 	- Assassin casted Lightning Arrow to get electrocution burns
 # NPCs
@@ -54,9 +53,10 @@ Owl's relation to giltstern?
 **Owl**: the mastermind (stats- essential npcs priest?)
 - why did Owl ask V for help? 
 	- she knows someone took out Leanna, and wants to bait them (how would she know is PCs)
-	- trying to frame Kevaran intruders
+	- trying to frame Kevaran intruders, incite further conflict
 	- try to manipulate the PCs to get them to blame someone else (Kingfisher or Giltstern)
 - how to expose that she's actually serving Gilead
+- Great baker, ply the PCs with pastries
 - Alibi: praying at the temple. corroborated by other priests, templegoers
 - Zone of Truth: will answer with some performed reservation. ring allows lying
 **Raven**: parallel investigating
@@ -80,18 +80,19 @@ Owl's relation to giltstern?
 - Studying necromancy to revive failed saltwood, necromantic wards around the hidden cove to prevent Guardians from finding her shipbuilding
 ## Other Guys
 
-**Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte.
-- Very talented cleric (powers/)
+**Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte. Prophet, child prodigy. type A, tattletale. 
+- Very talented paladin, great at taming/interpreting the birds (powers?)
 - Goody two shoes, tattletale. Could get on PCs' heels
 - Uses fighter kites to disperse religious fliers
 - how did she win Valespinner? idt by flying talent
 - Angling to become the next Councillor - there's no age requirement. Owl wouldn't' mind having a pawn
 - Trying to requisition Kareem's shop to build a new seminary. Owl suggested bc the inn is over a major reservoir entrance. 
+- May come after players for petty crimes
 - relation with dwarf shopkeep?
 **Assassin**: undead elf ranger bound into Morgana's service
 - play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
 - gloomstalker + assassin rogue
-- investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
+- Ranger working for Moonflowers, investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
 **Isaiah Giltstern**: head of Giltstern trading firm
 - Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. 
 - Wants this labor issue resolved so he can buy the saltwood
@@ -123,8 +124,20 @@ Owl's relation to giltstern?
 - has a prosthetic leg / walker chair made by wizard friend Eidola
 - ex adventurer, disabled in final battle against a worshipper of the Golden Lord (Giltstern)
 - Friends with Zora
+- Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
 - secrets and such? tie to Zora?
+- 
 Mason's guild?
+
+# Secret and Clues
+
+_Check off when revealed._
+- [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
+- [ ] omens from the Birds that Owl is a false cleric (cowbirds)
+- [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
+- [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up with what's at her house
+- [ ] another clue for ring of mind shielding besides the missing treasure - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
+- [ ] Owl is holding the other side of the spies blood diary
 
 # Resources
 

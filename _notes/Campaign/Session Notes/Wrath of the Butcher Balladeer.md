@@ -446,16 +446,21 @@ The Butcher's Studio
 #### Level 3 - The Deep Catacombs
 Labyrinth
 - narrow stone corridors, dripping water, emptied burial niches. From the distance, high mournful singing.
-- Singing ghosts in a labyrinth (~4 reduced threat ghosts)
-	- add cultists if needed
-- another **ghost ward**
+- Singing ghosts in a labyrinth (~4 reduced threat ghosts), 1 cultist
+	- cultist starts invisible, gets adv on first attack, then cast sleep
+	- next turn use charged Cacophony
+	- ghost come in and tries to possess someone (not lumdas)
+	- each ghost can use horrifying visage once
+- another **ghost ward**(2)
 - Shortcut exit: rusted portcullis, glimpse another **ghost ward**(4) fragment on the opposing wall
 	- Piece together melody, performance dc 15 to prevent ghosts from entering area
-	- Portcullis AC, HP, dmg threshold
+	- Portcullis AC 19, HP 18, dmg threshold 5
 - Primary exit: partially-functional **ghost ward**(4) locks the ghosts out. Goes to next room
 - map: double scale on owlbear
 - periodically hear the butcher singing/shredding?
 [Dance of Doors](https://www.reddit.com/r/DnDBehindTheScreen/comments/8buda2/the_dance_of_doors_puzzleriddle_for_an_upcoming/) puzzle
+- just got out of battle, do they want to heal?
+	- Songster's Absinthe: restore short rest worth of hp, and half of all resources (round up)
 - 7 flat stone doors, each identical except their knobs. From left to right:
 	1. A clear glass knob, hollow and thin (like a light bulb), but empty
 	2. An ivory knob, slightly speckled, round and smooth
@@ -495,43 +500,55 @@ Labyrinth
 	```
 - Turning the wrong knob: door does not open, 2d10 psychic damage, DC 12 WIS save for half
 The Butcher's Tomb
-- Tall cavernous room, pillars, carved niches with open sarcophagi, dripping water. 
+- Tall cavernous room, pillars, carved niches with open sarcophagi, dripping water. Tunnel going deeper at far end
 - Large stone sarcophagus at far end. Corpse inside - a number of ribs are gone (used to make Fog). Pale dessicated skin, limp black hair. All black clothes, spiked choker, dark eye makeup, tons of bracelets and rings. Holding an ebony violin. 
-	- figure out how leanna and the ghost make their e.ntrance
+- Butcher wakes, there is a muffled groan/shout from cage at the back of room (Alara, bound and gagged). Leanna enters, kicking the cage to shut her up
 - Butcher is retrying his ritual, somewhere more structurally sound!
 	- Just need one more virtuoso bards - ideally virgins (leanna: why the fuck does that matter? butcher: it just seems like the thing to do when you're running a cult, yknow)
 	- target kallista
+- Battle: Butcher, Leanna, 4 cultists
+	- Cultists: first line. Cast sleep to get adv/auto crit attacks.
+	- Butcher: shriek first if range is good, then horrifying visage
+	- Leanna: hang back. 
+		- Mage armor to start, shield for any big attacks. 
+		- Invisibility (conc) next? or Evards (conc) to get terrain control
+		- Misty step, fly (conc) for mobility. Web and invisiblity for evasion.
+		- Lightning bolt as primary damage
 - 4 broken ghost wards - performance DC15 at each to restore them.
 	- Restoring all cuts off possession of cultists, does a chunk of dmg to butcher
-- where is alara captured?
-- cultists as infantry? remove cacophony ability
+- Flashback if the Butcher drops Toby to 0
+	- austere, windblown cliffs of the hamlet where you grew up.
+- Leanna speaks to Eletha on her death: coward. unworthy of your bloodline. when you found out the truth of your family you ran like the dog you are. now your father and my lord gather at the hem of the One in Green; they will assume the power your were too coward to take; and the Mirwood will grow; and the elves shall regain their ancestral right --!
+- Loot drop
+	- damaged crystal from Leanna (a misurium data crystal)
+	- gloves of protection: +1 to AC, +4 to avoid dropping items or being disarmed. long lambskin gloves
+	- Balladeer's Lute 
+	- Spies blood book on Leanna
+- Tunnel to go deeper has unransacked graves, also 200gp worth of grave goods
+- Let them meet the freed dance ghouls on the way out
 
-
-Dungeon design
-- each room should have at least two or three of the following aspects: lore, a mechanical challenge, a puzzle, and a reward.
-- https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html
-- https://theangrygm.com/babys-first-dungeon-1/
-TODOS
-- puzzle for the room w healing
-- set up of the final lair more
 
 ### The Cult of Song
 - Leanna is the cult leader
 	- Disgraced after the Strigoia debacle, trying to get back into Shrewseer's good graces. Trying to destabilize the city so Shrewseer can come seize power
 	- Hates Eletha for being born into status
 	- Dressed as a widow. 8 ft tall, black mourning dress, full veil over head. flips hair, eyes like chips of ice, curled lip
-	- stats: necrichor, remnant cultist, drow mage?
 - Possessing elysian fog users to carry out assassinations against prominent Kevarans
-- Grave goods are doped with bone from the Butcher, so that smokers get possessed
+	- Grave goods are doped with bone from the Butcher, so that smokers get possessed
 - Butcher has captured Alara as a sacrifice for his final composition - the cultists are gonna do a ritual
 - Morgana/Owl gave Leanna necromantic powers in return for her searching for the Lance of Kevar in the catacombs
-	- or taught leanna the ritual, she plundered fog to get more powers?
-	- TODO: clues for this
-	- hint at dragons, kevar's lance
+	- in avizallo, willing to kill soem nobles
+- Using Spies Blood Diary for secure communication with Morgana
+	- Messages written with blood drawn and enchanted from the owner (has to be living)
+	- Fountain pen with a little bit of enchanted blood still in it
+	- Words appear: any progress on the Lance? (lance is capitalized)
+	- Passing intel about activity in the Mirwood - the Shrewseer and Moonflower estates have joined forces, threatening the other woodland races. Eldritch rangers stalk under their command; old powers gather.
+	- Owl: my hands are tied here in Avizallo; I will need you to update me as things progress in Kevara. Do not forget your end of the deal. You serve a cause far greater than the petty squabbles of your woodland kin. Gods and legends will rise again. 
+	- Leanna: you taught me necromancy, not archaeology. Having a hard time finding anything that old - I think I'm going to have to possess some historians or something.
+	- Older messages have faded away
 Playing a cultist
 - Cultist/assassins profess to be composing for the eternal melody
 	- the songs of the dead are the most beautiful of all / may your dying screams join the eternal chorus / for the final composition
-- Concentration save (WIS or CON?) when they take damage - possession temporarily ends if they fail, the remaining person has gaps in their memory
 	- may remember getting on the ferry to go to Arda, can't remember the reason
 	- aren't able to play instrument/sing normally
 ### The Butcher Balladeer
@@ -546,7 +563,7 @@ Playing a cultist
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - Final battle cache
 	- 200 gp worth of grave goods
-	- Balladeer's Lute 
+	- Balladeer's Viola 
 - gloves of protection: +1 to AC, +4 to avoid dropping items or being disarmed
 	- on leanna? lambskin, long gloves
 - Rehearser's Ring: used by students to memorize lines or sheet music
