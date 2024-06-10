@@ -12,20 +12,41 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 ## Mission Assignment
 - Scene setting
 	- Vasilev drinks from a flask, cane to get upstairs
-- Monster attacks (zombies) around Avizallo. PCs need to go and make sure saltwood deal is successful, harvest happens
+- Monster attacks (zombies), Fray around Avizallo. PCs need to go and make sure saltwood deal is successful, harvest happens
 	- Vasilev received news abt zombies from Owl
 	- Giltstern has arrived in Avizallo and tensions are running high - Owl thinks there needs to be another impartial Kevaran party to keep Giltstern in check.
 	- Prices of saltwood are set, but they're hammering out a deal for how much wood to sell to Kevara
 	- Vasilev wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
-- Vasilev gives them badges as proof of authority
+- Initial payout: 900gp. To solve the murder: +500gp
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
 - Merriwink gives Toby second task before departure - steal the Valespinner for her, from her "evil" twin Mettlewise
 ## Journey to Avizallo
-- a few choices for how to get there - leviathan, giltstern supply ship (with felichian missionaries)
-- don't just do a fight, have some exploration/survival/social tension/mystery
-- encounter kevaran navy ships patrolling around avizallo, and undead attack
-	- dramatic tension?
-- show a monster they kill becoming undead - ambient arcane turmoil
+Picking a Ship
+- Fray exposed sailors, bleached and worn looking
+- Atlas: leviathan, a giant living water beast. a whale, edges of its being bubble away like seafoam
+	- Josephine Avila: half sun elf, granddaughter of Azolar Avila. Privateer captain. Spanish accent?
+	- Aleksei: lynx tabaxi first mate
+	- Solas + Iolas: human twin deck wizards. Responsible for casting air bubble spells.
+	- Giltstern is on their heels? why
+	- Can cut thru (under) the Fray - will get there 4 days in advance of Giltstern
+- Caledonian: Giltstern supply ship taking Isaiah Giltstern to Avizallo for negotiations
+	- Oscar: gruff quartermaster
+	- Sylvie: head of felichian missionaries
+	- Pay your way (500gp), or find some other way
+- Ole Snuff's Saltwater Tugg: tiny sloop, somehow built with saltwood. Covered/disguised with a tarp
+	- Ole Snuff: captain, scrawny orc, owes treasure to Josephine, on the run
+	- Berbert: big bloodhound. Became intelligent + got opposable thumbs thru a Medallion of Wit (stolen from Josephine)
+	- Happy to take passengers. Will get attacked by Atlas almost immediately
+The Journey
+- 3 week journey
+- ==find Coriolis' genie treasure, thrown in the ocean. one of the items is cursed
+- Lots of tiny black glass isles, choked with seagrass. Someone dumps food scraps offboard. Sahuaguin attack.
+	- Smaller numbers, they're desperate bc Owl is killing them off. Willing to take on large target
+	- show a monster they kill becoming undead - ambient arcane turmoil
+- Kevaran navy ships patrolling around Avizallo, naval protection as part of the deal. Hostile to most. 
+	- water becomes shallow enough that Atlas has to breach
+- Guardians come as ship approaches to check for threats
+	- Shimmering, white triangular shape. Razorblade wings, bird skull set at top. 
 ## Day 1
 #### Arrival in the Isle
 - Scene setting
@@ -140,15 +161,7 @@ Potential encounters:
 - combat encounter to get into hidden cove - automata and some monster eledeia controls?
 
 
-# Monsters
-- Priests loyal to Owl (have been hoodwinked)
-- Owl has made allies with some sahuagin? lets make them non-sentient
-	- has some artifact to charm them/ stole something of theirs to force them to work for her
-	- drowned zombie stat blocks - bluerot
-- Owl summons some monsters to take out the cisterns
-	- elementals? 
-	- undead? would fit with her teachings to leanna. undead sahuaguin? could be very cool..
-	- clues abt felichian nature - should be divine???
+
 
 # Treasure
 - Something for bluemoon

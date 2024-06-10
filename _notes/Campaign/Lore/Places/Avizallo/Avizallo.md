@@ -128,14 +128,5 @@ Other stuff
 - Clerics gain power by making offerings and force of belief - the Birds don't rly care about your actions otherwise
 	- On some lvl clerics of the Birds also have power bc other devotees believe in them
 
-# Story Stuff
-
-- [[Bluemoon]]'s hometown
-
-- conflict of interest - Vasilev doesnt care abt anything besides her rise to power in Kevara
-	- give the players an objective that conflicts with what's good/right?
-	- tell them not to get too attached to what's on the ground
-- Coriolis - what was he doing here?
 
 
-- gilead can potentially deus ex and eat Owl's fate to save her > recurring villain

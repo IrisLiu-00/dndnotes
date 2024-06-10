@@ -25,12 +25,7 @@ CHA save: 1
 Max HP: 33
 AC: 14
 ---
-Abilities
-
-- Sneak attack only lands if main attk lands
-- Cunning action - bonus dash, disengage, hide
-- Fast hands - use bonus action to make sleight of hand, take Use Object action
-- Can hold breath forever
+3/7 weeks into chain training
 
 Thieves Guild initiation - 3 trials
 - steal 200gp and tithe to the thieves guild (supplanted)
@@ -49,3 +44,5 @@ lvl2 (don't scale up until others have magic items too)
 - dagger of venom stats?
 lvl3
 - turn invisible? (blade of broken mirrors, exalted)
+
+When a creature fails to hit the wearer of this glove (while the hand wearing it is free), the wearer can choose to ‘catch’ the blade between two fingers. At this point, the wearer can flick the attacker’s blade to the side, performing a DEX contest with the attacker. On a success, the attacker loses hold of its blade and is disarmed. On a fail, the blade is simply flicked aside. This ability can only succeed once per person per fight.

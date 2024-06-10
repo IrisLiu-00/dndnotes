@@ -30,3 +30,6 @@ Abilities
 - Wild magic table for any leveled spell
 - Sorcery points - convert spell slot
 - War caster: cast spell as opportunity attk
+
+Backstory
+- 

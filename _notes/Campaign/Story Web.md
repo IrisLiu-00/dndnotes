@@ -31,7 +31,7 @@ Kallista
 Bluemoon
 - Hometown is Avizallo
 - Vapor (genasi father)
-    - died fighting off Fray-wraith invasion
+    - Father died defending saltgrove workers from an attack (Fray?)
 - Mother (humanlike air/earth genasi)
     - ancestor is Toby’s dad? air genasi parent purposefully tried to suppress child’s power
 - Half elf teacher/aunt

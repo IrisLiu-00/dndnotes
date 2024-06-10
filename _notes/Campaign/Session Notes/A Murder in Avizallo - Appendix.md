@@ -5,6 +5,7 @@
 Sahuaguin zombie attacks 
 - Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
 - Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
+- should we just get rid of this...
 Corrupted Guardians
 - Disable Guardians so they won't defend against sahuagin, automata
 	- have to show guardians doing their job first
@@ -56,6 +57,7 @@ Owl's relation to giltstern?
 	- trying to frame Kevaran intruders, incite further conflict
 	- try to manipulate the PCs to get them to blame someone else (Kingfisher or Giltstern)
 - how to expose that she's actually serving Gilead
+	- gilead can potentially deus ex and eat Owl's fate to save her > recurring villain
 - Great baker, ply the PCs with pastries
 - Alibi: praying at the temple. corroborated by other priests, templegoers
 - Zone of Truth: will answer with some performed reservation. ring allows lying
@@ -139,6 +141,18 @@ _Check off when revealed._
 - [ ] another clue for ring of mind shielding besides the missing treasure - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
 - [ ] Owl is holding the other side of the spies blood diary
 
+# Monsters
+- Avizallo Cleric
+- Sahuagin, Sahuagin zombie
+	- drowned zombie stat blocks - bluerot
+- Guardians: firebird stats, do radiant dmg
+- Owl has made allies with some sahuagin? lets make them non-sentient
+	- has some artifact to charm them/ stole something of theirs to force them to work for her
+- Owl summons some monsters to take out the cisterns
+	- elementals? 
+	- undead? would fit with her teachings to leanna. undead sahuaguin? could be very cool..
+	- clues abt felichian nature - should be divine???
+- 
 # Resources
 
 Dealing with Zone of Truth: https://www.reddit.com/r/dndnext/comments/q29dqi/how_to_beat_zone_of_truth_the_ultimate_guide_to/

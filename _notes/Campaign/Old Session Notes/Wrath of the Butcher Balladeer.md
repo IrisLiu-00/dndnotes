@@ -499,6 +499,7 @@ Labyrinth
 	Remember great artists take the path less travelled.
 	```
 - Turning the wrong knob: door does not open, 2d10 psychic damage, DC 12 WIS save for half
+- answer is 1
 The Butcher's Tomb
 - Tall cavernous room, pillars, carved niches with open sarcophagi, dripping water. Tunnel going deeper at far end
 - Large stone sarcophagus at far end. Corpse inside - a number of ribs are gone (used to make Fog). Pale dessicated skin, limp black hair. All black clothes, spiked choker, dark eye makeup, tons of bracelets and rings. Holding an ebony violin. 
@@ -511,7 +512,7 @@ The Butcher's Tomb
 	- Butcher: shriek first if range is good, then horrifying visage
 	- Leanna: hang back. 
 		- Mage armor to start, shield for any big attacks. 
-		- Invisibility (conc) next? or Evards (conc) to get terrain control
+		- Invisibility (conc) next? or Evards (conc, Butcher is immune) to get terrain control
 		- Misty step, fly (conc) for mobility. Web and invisiblity for evasion.
 		- Lightning bolt as primary damage
 - 4 broken ghost wards - performance DC15 at each to restore them.
@@ -552,8 +553,8 @@ Playing a cultist
 	- may remember getting on the ferry to go to Arda, can't remember the reason
 	- aren't able to play instrument/sing normally
 ### The Butcher Balladeer
-- Brayden Blackwood: student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Coriolis
-	- Coriolis plagiarized Brayden's lyrics, rewrote song for the air guitar. Later became a very successful rockstar. Last he heard, eloped to Avizallo (with some tiefling?) to buy a villa
+- Brayden Blackwood: student who auditioned for second violin on the Sirenian players - but was rejected in favor of guitar player Cory
+	- Cory plagiarized Brayden's lyrics, rewrote song for the air guitar. Later became a very successful rockstar. Last he heard, eloped to Avizallo (with some tiefling?) to buy a villa
 	- dark eye circles - from eye makeup or being dead?
 - started murdering teachers + students, discovered the screams of the dead were a musical inspiration
 	- discovered entrance into catacombs, started using the area for his dark deeds

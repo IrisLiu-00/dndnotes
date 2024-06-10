@@ -20,6 +20,7 @@ tags:
 - storm-stalkers pace the horizon
 - Fray-wraiths: those who died to original Cataclysm and later to the Fray
 	- spellcasting has a chance of summoning wraiths?
+	- intellect devourer, nishruu (gains hp from spells), devour magic items?, rod of absorption, spectator (spell reflection)
 - Circular waterfall at center (a mouth) - goddess in the center
 ### Fray Exposure
 - Most living creatures are not adapted to an environment that is cut off from the Weave; prolonged inhalation of the mists, or consuming its waters will cause adverse effects. 

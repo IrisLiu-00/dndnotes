@@ -1,21 +1,17 @@
 
 ANNOUNCEMENTS
 - recap
-- This is possibly Justine's last session, depending on if we finish the adventure today
 
 Todos - immediate
 - Voices, stat block review
-	- cultist, leanna, butcher
+	- spanish accent (josephine)
 - maps: 
-- stat blocks: 
+- stat blocks: sahuaguin zombie
 - prep battle in harmlesskey, owlbear, 5etools
 	- dungeon final
 - figure out
 
-ghouls are getting multiattack
-they need to find:
-- the second ghost ward
-- crystal
+
 
 # Notes
 Reminders
@@ -30,18 +26,12 @@ Kallista
 - Bardic insp is a bonus action
 - Cutting words: use a bardic to subtract from dice roll
 - extra healing during short rest
-
-Eletha
-- Reaction to deflect missiles
-- Flurry of blows can impose: fall prone, get pushed, no reaction
-- Slow fall reaction
-- Stunning strike for a ki point
-- 2 attacks
+- Countercharm action to give adv to frightened, charmed
 
 Lumdas
 - Can only single hand the warhammer bc he has shield
 - Prompt him to use bless (buff) abilities
-- Healing word is a bonus action
+- Healing spells also heal himself a little bit
 - Channel divinity to do mass heal, turn/destroy undead
 - Prep WIS + lvl spells per long rest
 
@@ -52,14 +42,22 @@ Bluemoon
 - Cast spell for opportunity attk
 - Magical tinkering to apply an effect to a Tiny object
 - Can change prepared artificer spells on long rest
+- 4 infusions known, can infuse 2 items total
 - Cannot do two handed weapons if he has one hand for spellcasting
 
 Toby
 - Sneak attack only lands if you hit the main attk
 - Bonus action allows doing something dextrous with hands
-- Uncanny dodge reaction to halve dmg
+- Uncanny dodge reaction to halve dmg on attacker he can see
 - Climbing does not cost extra movement
 - double proficiency w thieves tools
+
+Eletha
+- Reaction to deflect missiles
+- Flurry of blows can impose: fall prone, get pushed, no reaction
+- Slow fall reaction
+- Stunning strike for a ki point
+- 2 attacks
 
 Battle tactics
 - gang up on a player
@@ -76,6 +74,9 @@ Battle tactics
 - rewrite and remove Mirwood storyline. Tie the engine piece into Nexida. 
 ### Medium
 -  tie mushika into it
+	- mushika selling elysian fog
+	- sidequest to create a drug empire???
+- lumdas regarding church
 - forge painting - this can be a sidequest or integrated into a bigger adventure
 	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
 	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
@@ -96,10 +97,8 @@ Battle tactics
 			- tell the PCs to do something that seems wrong
 			- sectors of the city are controlled by each duke, their private guard acts as policing - Vasilev pulls in the criminals?
 			- appears to be working with the BBEG - connections to Owl
-### Immedidate - Butcher
-- lumdas wants to go to get the primus doctrine, talk to the head priestess abt 'go into the heart of the whiteness'
-	- REWARD FOR SHOWING INITIATIVE!!!
 ### Immediate - Avizallo
+- Guiding stars: Coriolis mystery, Bluemoon backstory, Tensorat
 - Vasilev's angling on the saltwood deal should relate to her scheming
 	- frame giltstern for something that would turn popular opinion. selling wood to elves? make it look like they're selling kevara out to elven domination. bc of the trade winds, the ships carrying wood have to come back by river, thru the mirwood...
 - zora should have some other side mystery she's investigating that ties to main thing
@@ -117,7 +116,11 @@ Battle tactics
 	- stolen by leviathan pirates?
 	- Owl manipulated vulture to expose the treasure
 	- Kareem stole it? Giltstern got it? the druids? somewhere dangerous, guarded by monsters?
-- establish coriolis' past in avizallo
+- establish coriolis' past in avizallo, he is the air elemental butcher mentioned
+	- sth with Bridgewater college diploma, framed air guitar
+	- get some air elementals to fight
+	- plant rumors everywhere. get a rumors table
+	- coriolis was born around here - hes got a lair thing around avizallo
 - have players do sidequest for owl - make them trust her
 	- what could players need owl for? convince another councillor to unmask. access the dead body/rookery offices? forge/steal a government worker's mask?
 	- sth related to temple? monster infiltration. 
