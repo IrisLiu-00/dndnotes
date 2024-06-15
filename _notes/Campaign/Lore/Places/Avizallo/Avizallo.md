@@ -6,6 +6,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
 	- they don't run at night bc no one is working the fountains
 - big sport - bird fighter kites
+- settlements at column base are more in danger of Fray tide - guardians usually protect, but there is a distinct class difference
 - Guardians: albatross spirits who protect the isle, mostly defending against Fray wraiths
 	- technically undead. Unclear if they were created divinely or by some powerful caster in the past
 	- Large bird skull suspended in an ethereal body, ~7ft tall
@@ -52,7 +53,7 @@ Kevaran Influence
 - Corresponds w Vasilev, presents as an ally to her
 - Worked with Leanna to find the lance of Kevar
 	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
-- Working with Giltstern to destabilize Avizallo (using the kites to leak info?)
+- Has asked Giltstern for help, was refused
 - Trying to destroy the reservoirs to weaken Avizallo, and find Nexida
 	- Contract Giltstern/Felichian missionaries for water > allow Kevaran access to Tensorat's labs
 

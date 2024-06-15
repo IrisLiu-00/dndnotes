@@ -38,13 +38,13 @@ Picking a Ship
 	- Berbert: big bloodhound. Became intelligent + got opposable thumbs thru a Medallion of Wit (stolen from Josephine)
 	- Happy to take passengers. Will get attacked by Atlas almost immediately
 The Journey
+- toby practicing chain in the front yard. where is the pole installed?
 - 3 week journey
 - ==find Coriolis' genie treasure, thrown in the ocean. one of the items is cursed
-- Lots of tiny black glass isles, choked with seagrass. Someone dumps food scraps offboard. Sahuaguin attack.
+- Water gets shallower, Atlas has to breach. Lots of tiny black glass isles, choked with seagrass. Someone dumps food scraps offboard. Sahuaguin attack.
 	- Smaller numbers, they're desperate bc Owl is killing them off. Willing to take on large target
 	- show a monster they kill becoming undead - ambient arcane turmoil
 - Kevaran navy ships patrolling around Avizallo, naval protection as part of the deal. Hostile to most. 
-	- water becomes shallow enough that Atlas has to breach
 - Guardians come as ship approaches to check for threats
 	- Shimmering, white triangular shape. Razorblade wings, bird skull set at top. 
 ## Day 1
@@ -56,6 +56,7 @@ The Journey
 	- Draw closer - you see the famed saltwood trees, which look nothing much like trees. White fingers claw their way up the base of each pillar, stark contrast with the black translucence. Built amongst the vertically growing shoots are docks, their wood coated a darker color with waterproofing. Ships large and small pull in gingerly between the gnarled, bone-white roots of the trees. All of the ship have the characteristic white hulls of saltwood hewn, deepwater bound vessels. 
 	- People at work in the docks, unloading cargo holds to these elevators that travel on rails up the length of the columns.
 - Location: La Sul. Bargewrights, ships, Giltstern.
+- immediate conflict/drama? then open up to exploration. show them where to stand guard? clear objective
 - Avizallans blocking Felichian missionaries from entering - maybe Kingfisher lets them come in?
 - introduce a few major players of the council
 - Owl greets them, takes them to the saltwood docks?
@@ -117,6 +118,7 @@ Raven starts tailing the PCs out of suspicion
 - leads: kites
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
+- tensorat helped engineer a lot of the reservoirs to ...?
 The Artificer's workshop
 - Owl/Gilead believes that Tensorat's treasure (Nexida) is hidden here - but really he teleported it all away 90 years ago (using Coriolis wish)
 - Tensorat was known to be active in Avizallo until 90 yrs ago - is believed that he disappeared into the caverns 

@@ -1,6 +1,7 @@
 
 ANNOUNCEMENTS
 - recap
+	- check understanding + open questions for PCs
 
 Todos - immediate
 - Voices, stat block review
@@ -71,15 +72,11 @@ Battle tactics
 - riddle/steps for finding nexida
 - what was Coriolis up to
 - Kevara election mechanics - the beast comes alive?
-- rewrite and remove Mirwood storyline. Tie the engine piece into Nexida. 
 ### Medium
 -  tie mushika into it
 	- mushika selling elysian fog
 	- sidequest to create a drug empire???
 - lumdas regarding church
-- forge painting - this can be a sidequest or integrated into a bigger adventure
-	- need to find a good enough painter to forge things (Ersatz? side quest involving ringley?)
-	- need to find a buyer (what happens when the buyer realizes the code doesn't work?) 
 - Vasilev's political agenda - appearances vs actuality
 - Get the PCs to care abt Vasilev - help setup later power struggle conflict
 	- to get them to care, need to force them to either side with or against
@@ -121,6 +118,8 @@ Battle tactics
 	- get some air elementals to fight
 	- plant rumors everywhere. get a rumors table
 	- coriolis was born around here - hes got a lair thing around avizallo
+	- valespinner related to coriolis?
+	- Tensorat gave coriolis a safe haven after imprisoning him - where? kevara? relate to queen of thieves
 - have players do sidequest for owl - make them trust her
 	- what could players need owl for? convince another councillor to unmask. access the dead body/rookery offices? forge/steal a government worker's mask?
 	- sth related to temple? monster infiltration. 
@@ -136,24 +135,22 @@ randoms
 - where is eledeia getting shipbuiliding knowledge from - probably some books from vulture,
 
 # Potential adventures
+- further establish the chruch (lumdas story), vasilev. location? kind of bored of kevara
+	- and lead into apostasy
 - the Fray - Vasilev's shipment gone wrong - elven interference - mistaken identity - a stowaway
 	- elven riders hunting a runaway worker?
 	- steal something from a warehouse while ppl are gone during the tide? but workers r on strike
 - Do a job for Konrad
-- Avizallo - the bad guys should lead here by the end of the Kevara introduction arc
-	- should clearly establish what Nexida is 
-	- should establish Coriolis
 - catch an escaped criminal (Coriolis?)
 - desert dragon tomb / grave / temple thing for dungeon crawl - use on the way to apostasy
 - Kallista gets recaptured by the tieflings, do a court trial encounter
 - Something brings them to the Mirwood, do class revolution
-	- Vasilev sends them bc the forest has been devouring vassal towns
+	- Vasilev sends them bc the forest has been devouring vassal towns. Or urgent news from eletha in danger
 - exploring the corpse of a sky whale
 - Anime con with Rulla
 - Labyrinth crawl, find the treasure guarded by the automata
     - artificial intelligences, labyrinths + minotaur (Borges)
 
-- language barriers for lumdas to use tongues
 - desert tomb raiding, helping Nidalia find out abt her creation
     - give the party a reason to find nidalia / ask her stuff > hook into this adventure
     - Created by Freyot (Fistandia’s friend)? or Fistandia herself to guard some extradimensional space?

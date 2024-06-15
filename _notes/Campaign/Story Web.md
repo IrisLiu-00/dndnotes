@@ -48,6 +48,7 @@ Lumdas
 - Mangurum - home village
     - was threatened by the thing from ocean?
     - sacrifice was actually to Onkeioros? ask Michael what biome the village is. edge of Mirwood? 
+    - corrupt felichian sect? 
 - Family + elders
 - Earl Sweatshirt
 - Goddess of Fate
@@ -57,8 +58,9 @@ Lumdas
 
 Toby
 - Coriolis (Cory / Corin) - Djinn father, deadbeat dad
+	- wants: power? freedom? commitment issues. fame?
 	- 95yrs ago, performed in Kevara (stole the Butcher's glory)
-	- met tiefling and went to avizallo?
+	- met tiefling and went to avizallo? puppeted the court of birds?
 	- 90yrs ago, captured by the Artificer in Avizallo - artificer made a wish to create his labryinth in the sky
 		- to capture a djinni: need a vessel sealed with the true name
 	- was active in apostasy (doing what?) had a child (Indira Ashoor) with the evil lawyer
@@ -120,6 +122,7 @@ Luga Tensorat the Artificer
 - based in Avizallo
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
+- Tensorate uncovered memory bank and used it to create a synthetic intelligence
 - floats just within the fray - carried by the trade winds around the sea
 	- once a year it draws close to seaside cliffs - could access from here
 - find his writings, maps, labs. need a special boat to get there? how to navigate thru Fray
@@ -129,8 +132,6 @@ Labyrinth (nexida)
 	- you get a wish from a djinn by having them owe you a favor - or by trapping/tricking them
 	- should it be a floating island
 	- Bad guys might capture coriolis, or find some other way to find island
-Elves
-Onkeioros
 Felichias: goddess of fate
 - people think that fate is some omniscient force moving the paths of men - but it's really just senseless randomness
     - she’s not the DM, she’s the DICE
@@ -139,4 +140,5 @@ Felichias: goddess of fate
 - Manages the engine of fate - old style computer, ticker tape. dice tower?
 	- the engine would have let you view + change the fate of an entity or an event. the BBEG would use that to change the fate of the world so it gets eaten
 - the lone remaining human from before the cataclysm (Felicia Brown)
-
+Vasilev
+- missing brother - where to plant

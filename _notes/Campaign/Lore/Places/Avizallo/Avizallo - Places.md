@@ -31,9 +31,7 @@
 - Automata get ferried here, constructing a trading ship
 - Necromantic wards around to prevent Guardians from finding the shipbuilding (modified casting of Magic Circle)
 - Tucked away nook holds the skulls of disabled Guardians
-#### Other stuff
-- Memorial to Bluemoon's dad (Vapor): a sculptural fountain
-- Seagrass flats
+
 ## La Sul (southmost pillar)
 #### Docks
 - Bargewright's: a floating tavern moored amongst the roots
@@ -50,7 +48,15 @@
 - People: Gandras, Reed
 - Saltwood-carved statue of Vapor (Bluemoon's dad)
 - Discarded cargo container: blood stained, used to transport Orin's body 
-- 
+
+#### Seagrass Flats / Shantytown
+- Description
+	- floating shacks + docks built out of discard saltwood, grayed with age
+	- ppl on small flat skiffs among dark green-blue seagrass fields. fishing or tending the crop
+- poorer settlements clustered around the base of multiple columns
+- several destroyed houses/docks from Fray-wrath attacks
+- Orin's homestead is here
+
 #### Gandras Dol's Residence
 - People: Gandras, Sabra 
 #### Orin Skymark's Homestead

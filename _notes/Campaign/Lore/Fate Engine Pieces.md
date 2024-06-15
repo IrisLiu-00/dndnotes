@@ -4,4 +4,4 @@
 - Potentiality splitter / Lance of Kevar
 	- Used by Kevar + Arda to kill [[Gilead]], now hidden in the catacombs
 - Memory bank
-	- Held (was held?) by [[Onkeioros]]
+	- Held in Nexida's core / subsumed into Nexida

@@ -2,10 +2,10 @@
 
 ## The Conspiracy
 
-Sahuaguin zombie attacks 
+Sahuaguin zombies 
 - Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
 - Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
-- should we just get rid of this...
+- ==remove in favor of automata?==
 Corrupted Guardians
 - Disable Guardians so they won't defend against sahuagin, automata
 	- have to show guardians doing their job first
@@ -42,8 +42,8 @@ Owl's relation to giltstern?
 		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
 		- Find letter from Gandras in Orin's mailbox, or Owl produces Orin's letter to put PCs on Macaw's trail
 - Assassin sniped gyrfalcon while they were off service in their apt
-- somehow incite the riot
-	- automata at the riot were actually Kingfisher's
+- Incite the riot by having automata fire into the strikers
+	- actually Kingfisher's automata under her control, not Giltstern's
 - faked lividity by beating up the body, then plant the body at the site of riot
 	- Assassin casted Lightning Arrow to get electrocution burns
 # NPCs
@@ -97,15 +97,16 @@ Owl's relation to giltstern?
 - Ranger working for Moonflowers, investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
 **Isaiah Giltstern**: head of Giltstern trading firm
 - Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. 
+- Totally unaware of Morgana's plot. Actually very anti war bc he would never get his debts back from Gandras, in addition to losing saltwood source
+	- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
 - Wants this labor issue resolved so he can buy the saltwood
 - Pressuring Gandras Dol to repay his debts. Annoyed at Gandras' inability to suppress saltwood workers
 - Has worked politically with Macaw, Kingfisher to negotiate imports. Conflict w Gyrfalcon
-- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
 - Residing on the moored Giltstern flagship 
 **Reed**: firbolg. Leader of saltwood growers at La Varza, under Gandras
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
-- Thinks Shane is a cop, sellout, scab
+- Thinks Delaney is a cop, sellout, scab
 **Delaney**: human. Leader of saltwood growers at La Norza, under Gandras
 - intense rivalry with Reed, stoked by Gandras
 **Josef**: human. Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
