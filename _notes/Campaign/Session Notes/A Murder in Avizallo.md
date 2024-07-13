@@ -12,8 +12,8 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 ## Mission Assignment
 - Scene setting
 	- Vasilev drinks from a flask, cane to get upstairs
-- Monster attacks (zombies), Fray around Avizallo. PCs need to go and make sure saltwood deal is successful, harvest happens
-	- Vasilev received news abt zombies from Owl
+- Monster attacks around Avizallo. PCs need to go and make sure saltwood deal is successful, harvest happens
+	- Vasilev received news abt wraiths from Owl - fray wraiths attacking even when there's no fray tide
 	- Giltstern has arrived in Avizallo and tensions are running high - Owl thinks there needs to be another impartial Kevaran party to keep Giltstern in check.
 	- Prices of saltwood are set, but they're hammering out a deal for how much wood to sell to Kevara
 	- Vasilev wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
@@ -41,12 +41,9 @@ The Journey
 - toby practicing chain in the front yard. where is the pole installed?
 - 3 week journey
 - ==find Coriolis' genie treasure, thrown in the ocean. one of the items is cursed
-- Water gets shallower, Atlas has to breach. Lots of tiny black glass isles, choked with seagrass. Someone dumps food scraps offboard. Sahuaguin attack.
-	- Smaller numbers, they're desperate bc Owl is killing them off. Willing to take on large target
-	- show a monster they kill becoming undead - ambient arcane turmoil
+- Water gets shallower, Atlas has to breach. Lots of tiny black glass isles, choked with seagrass. Fray tide comes in, wraiths attack. 
+	- figure out fray tide rules...
 - Kevaran navy ships patrolling around Avizallo, naval protection as part of the deal. Hostile to most. 
-- Guardians come as ship approaches to check for threats
-	- Shimmering, white triangular shape. Razorblade wings, bird skull set at top. 
 ## Day 1
 #### Arrival in the Isle
 - Scene setting
@@ -56,12 +53,13 @@ The Journey
 	- Draw closer - you see the famed saltwood trees, which look nothing much like trees. White fingers claw their way up the base of each pillar, stark contrast with the black translucence. Built amongst the vertically growing shoots are docks, their wood coated a darker color with waterproofing. Ships large and small pull in gingerly between the gnarled, bone-white roots of the trees. All of the ship have the characteristic white hulls of saltwood hewn, deepwater bound vessels. 
 	- People at work in the docks, unloading cargo holds to these elevators that travel on rails up the length of the columns.
 - Location: La Sul. Bargewrights, ships, Giltstern.
+- Cargo unloaded - food and textiles from Giltstern ship into the isle
 - immediate conflict/drama? then open up to exploration. show them where to stand guard? clear objective
 - Avizallans blocking Felichian missionaries from entering - maybe Kingfisher lets them come in?
 - introduce a few major players of the council
 - Owl greets them, takes them to the saltwood docks?
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
-- spontaneous zombie attack, guardians swoop in
+- spontaneous fray wraith
 - opportunity to go to Kareem's, Bargewrights, explore city. show the kite fights. 
 #### Riot and Murder
 - PCs may or may not be at the saltwood docks - either way Gyrfalcon is on the other side
@@ -94,28 +92,35 @@ Kingfisher Sidequest
 - Gandras Dol might take the PCs help to stop vandalism
 - leads: saw kingfisher at the riot, shady accounting from eledeia, it wasn't giltstern's automata at the riot
 	- gandras got control of the giltstern automata at one point
+- if they majorly damage Gandras his faction can come after them
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 - Vulture would like to weaken Kingfisher - too chummy with the Kevarans
 - coriolis?
-- treasure hunt leads: ring is missing (someone can lie), gyrfalcon was investigating guardians
+- treasure hunt leads: ring is missing (someone can lie), gyrfalcon was investigating sth
 Unmasking Gyrfalcon
 - Expose identity and home address
+- battle at Orin's house should be pretty major (an ambush? multiple factions collide). give up a big repository of clues
 - magic missile / sniper wound within Orin's mouth
+- electrocution burns on body don't entirely match automata attacks (was a spell instead)
 - leads: reservoirs (from house), 
 Ramping tension at the docks / something related to V's directive?
 - Monsters attack - growers refuse to defend
-- Fray tide that Guardians don't defend against
+- Fray tides
 - Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
 - Kevarans try to harvest saltwood by force? what's stopping them
 - Gandras' corruption - he has overpromised saltwood stock and failed to deliver
 - Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 Raven starts tailing the PCs out of suspicion
-- ==what do?==
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
-- Raven thinks there's something sus abt the kites - sidequest?
-- zora should have some other side mystery she's investigating  that ties to main thing
+- Zora investigating a mystery for Reed: he purchased a nice ring off of Kareem a few years back and it's missing
+	- Reed wears it on a chain around his neck, puts it in a dish when he goes to bed
+	- Reed thinks his wife Ella is cheating on him with, wife stole it to give to 
+	- His wife works late nights at Kareem's Beans
+	- Reed has previously found Ella
+	- Zora thinks the new adventurers in town might have stolen it, since adventurers are treasure hungry
 - leads: kites
+	- either Raven trusts them and tells them Merriwink is up to something weird, or Zora says she's investigating sth for Myla?
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
 - tensorat helped engineer a lot of the reservoirs to ...?
@@ -132,7 +137,7 @@ The Artificer's workshop
 - more clues leading to Owl
 The Kite Fighters
 - Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
-	- the spine / inner layering of the kite has some clue
+	- remote device hidden inside to control automata (maybe say it's Eledeia automata)
 	- has some relation to coriolis?
 - do research on the sport
 - Kite supplies shop run by a dwarf, daughter of stonecutters (aliya stonecutter? kingfisher's protege?)
@@ -144,16 +149,14 @@ The Kite Fighters
 	- attack: attacker makes speed check against defender's strength save. on a fail, attacker makes strength save to avoid being cut themselves.
 
 
-show the poverty/lack of autonomy in Avizallo (economics section)
-
-run exploration as a pointcrawl
-do favors/sidequests for ppl to get their help (should be resolvable in half a session)
 each quest should give clear leads on what to do next, don't just let things happen to the pcs
 
-Other story beats
+Ratcheting the tension
+- more fray attacks, possibly an actual fray tide
+- murmurs of reservoirs getting taken out (how)
+- more conflict at the docks, with the saltwood growers
 - assassin starts hunting them, once they get to high enough prominence
-- clockwork's involvement? trying to extradite kallista?
-- once they figure out the killer, how do they bring down justice? they don't exactly have authority 
+- anyone they offend will come after them
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
@@ -168,7 +171,7 @@ Potential encounters:
 # Treasure
 - Something for bluemoon
 - Loot dropped by owl
-	- ring of mind shielding
+	- Ring of mind shielding: a bronzework ring made of intricate woven wires, small green stones set at intervals. The weaving actually makes up magic runes, recognized by Gyrfalcon.
 - Loot dropped by assassin
 	- crossbow
 - gifts from npcs

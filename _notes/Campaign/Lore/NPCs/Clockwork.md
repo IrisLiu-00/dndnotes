@@ -15,6 +15,7 @@ protection from energy?, dispel magic, summon construct
 
 - Tiefling bounty hunter. Reddish skin, lanky, black reflective sunglasses, black leather jacket. One horn cleanly sheared off. Spiked cuffs connect to pocket watch + chain.
 - James (team rocket) voice, over the top, unhinged, anime villain
+	- aggrandizing, calls ppl 'sweetheart', 'good girl'
 - Chasing rumors of a tiefling caster Indira who brought infernal secrets beyond Apostasy
     - Indira Ashoor: lawyer specializing in contract law magic. Working w Konrad Luca / Avizallo to develop logic trees + moral contracts in automata OR (then?) working w the rebel elves to litigate covenants
     - she helped Coriolis, so is being pursued?

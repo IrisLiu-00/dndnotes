@@ -14,6 +14,10 @@ Form and Appearance
 - located somewhere underground in Kevara, but can't do much? what form does he take
 
 Plans
+- sow chaos in Kevara to make it easier to carry out the rest of their plans
+	- a contested election
+	- war with Avizallo - would draw out Kevara's naval/military power
+- Get all the engine pieces and rebuild the engine
 - Use Luca as a pawn to become Patrician > eat Luca's fate and control him > use Luca to regain physical form from the pieces of him left in the city
 	- if V wins, he will try to somehow get Vasilev's fate - depending on what the PCs do
 	- But Luca has Kevaran water and is warded - so Gilead is trying to go for Vasilev instead?

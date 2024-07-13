@@ -2,41 +2,47 @@
 
 ## The Conspiracy
 
-Sahuaguin zombies 
-- Magical creatures can become undead with some regularity around the Fray - arcane gradient differential causes higher magic concentration just outside the Fray, undead can rise
-- Owl arranging attacks to distract from reservoir attack, sow conflict - creating and commanding undead sahuagin
-- ==remove in favor of automata?==
-Corrupted Guardians
-- Disable Guardians so they won't defend against sahuagin, automata
-	- have to show guardians doing their job first
-- Systematically bait Guardians with attacks at remote locations at night, then Owl seals them
-- Disabled Guardians reduce to their skull, have a spell seal imprinted. 
-- Stored in a nook in Eledeia's cove - used the eledeia automata to move them
-- Owl was testing her control over guardians some years ago - led to the fray wraith attack that killed Bluemoon's dad
+Sahuagin fray wraith zombies 
+- Owl killed a bunch of sahuagin, did a necromancy-adjacent ritual to convert them into fray wraiths
+	- vacating the corpse of its natural magic, inviting the fray in
+	- resulting wraiths count as Aberrations but have some undead attributes, can be kind of commanded (or do they need to be boxed up and transported?)
+- Can leave dead bodies when destroyed, unlike true wraiths. Also look more humanoid, while true wraiths only have a rough impression of a living thing
+- Owl using them to sow conflict, attack the reservoir
+- Need to be stored in range of Owl's control - in a nook at the back of Eledeia's cove
+	- Reduced to their skulls, submerged in water
+	- Also need to be replenished relatively often bc they don't keep
 Controlling Automata
 - New feature on latest models allows remote control thru a device
 	- increased height improves range on the remote signal
 - Owl is getting Mettlewise to fly the automata controlling kites at specified locations
 	- Mettlewise thinks the kites have surveillance equipment to catch petty crimes - Owl let her think it was her idea, helped develop the equipment
 	- some kites also disperse fliers for the temple (could be a good plot hook!)
-- Kites have remote device to hijack Eledeia's automata and control them
-	- Owl manage to steal a key to Eledeia automata - how? used assassin to break in?
+- Valespinner has remote device to hijack Eledeia's automata and control them, disguised as part of a device to distribute leaflets
+	- Owl stole one of the automata to synthesize the key. The automata later turned up drowned + damaged.
+	- Merriwink paid Myla (featherweight) to install the device. Myla got the aerial leaflet printer as a sample from Auric Trading
 - discreetly transport automata by loading a bunch into cargo container, have one push it around - cargo loading automata are fairly common with the Giltstern crew
 	- also use to transport sahuagin in cargo
 Reservoir Attacks
 - Owl gets more latitude to move after Gyrfalcon taken out
-- Planning to systematically take out reservoirs in each column to search for Nexida, weaken Avizallo (need to import water or import Felichian priests)
+- Planning to systematically take out reservoirs in each column to search for Cory's true name, weaken Avizallo (need to import water or import Felichian priests)
 	- Cisterns are connected to Tensorat's old workshop
-- Automata attack from above, sahuagin swim up from below
-Owl's relation to giltstern?
+- Use sahuagin to attack bc automata can't go in water
+Auric Trading Co.
+- Small Kevaran-based trading company - actually a shell company
+- Any real shipping they do is contracted out to Giltstern (eg the leaflet printer)
+- Registered under Morgana Saire, resident of Kevara-Arda
+- Use shell company to requisition cargo crates, use of the freight elevators
+- Kevaran Traders guild was tied on whether to provide the government with more funding for naval presence around Avizallo, until Auric trading joined the guild and voted to increase naval presence
+- Launder money gained from Giltstern 
+	- use money to buy black diamonds - used to resurrect fray wraiths (needs like 300gp per sahuagin)
+	- use to pay someone to reverse engineer a key for krystin's automata
+- Informed Avizallo gov they were culling sahuagin to clear out a dock for ships - one of the small glass atolls around the isle
+	- didn't actually build a dock, owl just went a killed a bunch of sahuagin
 
 ## The Murder
 - Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
-	- ==Gyrfalcon became suspicious bc:
-		- guard schedule was shifted around in reservoirs so that there were gaps - gyrfalcon was able to fix
-		- number of guardians decreased, response time slowed. specifically around the reservoirs. 
-		- found mentions of the Queen of Thieves?
+	- Gyrfalcon became suspicious, see clues below
 - Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
 		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
@@ -79,25 +85,26 @@ Owl's relation to giltstern?
 - Has purchased a suite of automata for her personal protection
 - make her look involved with the conspiracy / any attacking monsters
 - Trying to insert her own choice as gyrfalcon's successor - passing old/upcoming exam questions to Myla
-- Studying necromancy to revive failed saltwood, necromantic wards around the hidden cove to prevent Guardians from finding her shipbuilding
+- Studying necromancy to revive failed saltwood
+- Necromantic wards?
 ## Other Guys
 
 **Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte. Prophet, child prodigy. type A, tattletale. 
 - Very talented paladin, great at taming/interpreting the birds (powers?)
 - Goody two shoes, tattletale. Could get on PCs' heels
-- Uses fighter kites to disperse religious fliers
+- Uses fighter kites to disperse religious fliers - was talking to Owl about a way to promote the temple services more, Owl suggested using the kites
 - how did she win Valespinner? idt by flying talent
 - Angling to become the next Councillor - there's no age requirement. Owl wouldn't' mind having a pawn
 - Trying to requisition Kareem's shop to build a new seminary. Owl suggested bc the inn is over a major reservoir entrance. 
 - May come after players for petty crimes
 - relation with dwarf shopkeep?
-**Assassin**: undead elf ranger bound into Morgana's service
+**Renard Corinsson**: undead elf ranger bound into Morgana's service. assassin
 - play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
 - gloomstalker + assassin rogue
 - Ranger working for Moonflowers, investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
 **Isaiah Giltstern**: head of Giltstern trading firm
 - Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. 
-- Totally unaware of Morgana's plot. Actually very anti war bc he would never get his debts back from Gandras, in addition to losing saltwood source
+- Sponsoring Morgana in her plot to start a war, or at least cause enough trouble that he can gain the upper hand in negotiations
 	- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
 - Wants this labor issue resolved so he can buy the saltwood
 - Pressuring Gandras Dol to repay his debts. Annoyed at Gandras' inability to suppress saltwood workers
@@ -107,6 +114,7 @@ Owl's relation to giltstern?
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
 - Thinks Delaney is a cop, sellout, scab
+- Ring of mind shielding got stolen
 **Delaney**: human. Leader of saltwood growers at La Norza, under Gandras
 - intense rivalry with Reed, stoked by Gandras
 **Josef**: human. Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
@@ -119,40 +127,70 @@ Owl's relation to giltstern?
 - Kingfisher's protege. Knows Kingfisher's identity. Kingfisher is helping her with the exam.
 - Similar politics as Kingfisher but can be more vocally anti Kevara.
 - Helping Eledeia by:
-	- supplying materials for the Guardian ward (powdered silver, bird bones) - she can get things more easily for the kite shop
+	- supplying materials for the Guardian ward - she can get things more easily for the kite shop
 	- also give her somethig that helps KINGFISHER - tie to Zora's mystery?
+- Got a small sample shipment of kite supplies from Auric Trading co a while ago, including a lightweight leaflet printer (actually automata controller). When Mettlewise asked her to modify Valespinner she used it.
 - Disowned from stonemasons, chip on her shoulder. Trying to prove herself and regain power (become a councillor). 
 - Kite shop is a good way to keep an ear on the ground, but kind of resents doing menial labor. 
-**Kareem**: half orc, 40s. Owner of the Cloak and Stagger
+**Kareem**: half orc, 40s. Owner of Kareem's Beans
 - has a prosthetic leg / walker chair made by wizard friend Eidola
 - ex adventurer, disabled in final battle against a worshipper of the Golden Lord (Giltstern)
+	- was in same party as Edith (orc ranger)
 - Friends with Zora
 - Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
 - secrets and such? tie to Zora?
 - 
 Mason's guild?
 
-# Secret and Clues
+# Loose Clues
 
-_Check off when revealed._
+_Populate locations with. Check off when revealed._
+
+Big stuff
 - [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
 - [ ] omens from the Birds that Owl is a false cleric (cowbirds)
-- [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
-- [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up with what's at her house
-- [ ] another clue for ring of mind shielding besides the missing treasure - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
+- [ ] Owl has a bunch of books about Felichianism - an old treatise on aspects of Felichias. The aspect of the guardian presents in a beastly form, guards ppl's fates from being pulled astray
+- [ ] Personal shrine to a six winged, golden bird - legendary thunderbird, actually the golden one. 
 - [ ] Owl is holding the other side of the spies blood diary
+- [ ] **need more subtle clues that owl is bad. pointers from Gyrfalcon's conspiracy investigation
+
+Murder
+- [ ] Owl has all the old applicants' exam scrolls, incl Gyrfalcon's
+- [ ] Owl has a letter Gandras got from Orin (how)
+- [ ] another clue for ring of mind shielding - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
+- [ ] eyewitness of the assassin (a tall, unrecognized man, elf height) scaling the side of a pillar
+
+Automata plot
+- [ ] Cargo crates labelled for Auric Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
+- [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
+- [ ] Valespinner controlling automata
+- [ ] Automata at riot were Kingfisher's, not Giltstern's (how to tell?)
+
+Gyrfalcon's Investigation
+ - [ ] asked Raven for records on the Fray attack that killed Vapor (anything important?)
+ - [ ] recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
+ - [ ] did they get on the trail of Auric? asked Macaw to audit Auric Trading/all the trading companies Avizallo works with, he never did it. 
+ - [ ] something that definitively points to owl, and the evidence was wiped (without leaving evidence of it being wiped / someone having been in orin's home)
+- found mentions of the Queen of Thieves?
+
+Krystin
+
+Gandras
+- [ ] Owes money to Giltstern
+- [ ] Cutting taxes on his own groves - infiltrate Rookery or Gandras' own accounting
 
 # Monsters
 - Avizallo Cleric
 - Sahuagin, Sahuagin zombie
 	- drowned zombie stat blocks - bluerot
-- Guardians: firebird stats, do radiant dmg
 - Owl has made allies with some sahuagin? lets make them non-sentient
 	- has some artifact to charm them/ stole something of theirs to force them to work for her
 - Owl summons some monsters to take out the cisterns
 	- elementals? 
 	- undead? would fit with her teachings to leanna. undead sahuaguin? could be very cool..
 	- clues abt felichian nature - should be divine???
+- Avizallo soldiers
+	- reflavored misty step to give them a short flying ability
 - 
 # Resources
 

@@ -70,8 +70,11 @@ Battle tactics
 # Story Questions
 ### Broad
 - riddle/steps for finding nexida
+	- next adventure - something with the church, the queen of thieves stole sth important. go somewhere
+		- plant V's missing brother
 - what was Coriolis up to
 - Kevara election mechanics - the beast comes alive?
+- Ferret Fennel apparently fought in the 4th underdark war alongside Merriwink's mom
 ### Medium
 -  tie mushika into it
 	- mushika selling elysian fog
@@ -98,21 +101,7 @@ Battle tactics
 - Guiding stars: Coriolis mystery, Bluemoon backstory, Tensorat
 - Vasilev's angling on the saltwood deal should relate to her scheming
 	- frame giltstern for something that would turn popular opinion. selling wood to elves? make it look like they're selling kevara out to elven domination. bc of the trade winds, the ships carrying wood have to come back by river, thru the mirwood...
-- zora should have some other side mystery she's investigating that ties to main thing
-	- she nominally traps PCs under the name of this investigation - it's actually bc Raven is sus
-	- hired by Reed to find false flags?
-	- discrepancies related to cargo shipments, crates going missing, esp near eledeia estate (being used by Owl)
-		- could have them track down the one specific crate used to hold Orin's body
-		- Zora says she thinks adventurers might be stealing loot, or ppl doing smuggling?
-	- artifact to get in orin's house? Reed asked to hold onto an artifact, acting sneaky. wife thinks hes cheating. don't love bottlenecking the house off of this one thing
-	- how does she set the PCs on the kites? either Raven trusts them and tells them Merriwink is up to something weird, or Zora says she's investigating sth for Myla?
-- vulture sidequest
-	- ring of mind shield passed down from Coriolis? Owl stole it. Vulture is a retainer of Tensorat?
-	- some cache of valuables missing - a genie's treasure
-	- normally a guardian protects them, went missing - Gyrfalcon was helping investigate
-	- stolen by leviathan pirates?
-	- Owl manipulated vulture to expose the treasure
-	- Kareem stole it? Giltstern got it? the druids? somewhere dangerous, guarded by monsters?
+- details of zora's search for stolen ring. reed thinks his wife is cheating on him with...?
 - establish coriolis' past in avizallo, he is the air elemental butcher mentioned
 	- sth with Bridgewater college diploma, framed air guitar
 	- get some air elementals to fight
@@ -120,6 +109,8 @@ Battle tactics
 	- coriolis was born around here - hes got a lair thing around avizallo
 	- valespinner related to coriolis?
 	- Tensorat gave coriolis a safe haven after imprisoning him - where? kevara? relate to queen of thieves
+	- cache of genie treasure? could b cool
+	- relate to Reed?
 - have players do sidequest for owl - make them trust her
 	- what could players need owl for? convince another councillor to unmask. access the dead body/rookery offices? forge/steal a government worker's mask?
 	- sth related to temple? monster infiltration. 
@@ -127,12 +118,7 @@ Battle tactics
 	- sth to help maintain peace?
 	- clues that shes working for gilead
 	- point the players at eledeia..?
-- more material for giltstern
-	- connect to kingfisher or eledeia somehow
-- more opportunity to dovetail w eledeia plot
-- possibly not enough clues pointing to owl? have we overcorrected
-randoms
-- where is eledeia getting shipbuiliding knowledge from - probably some books from vulture,
+
 
 # Potential adventures
 - further establish the chruch (lumdas story), vasilev. location? kind of bored of kevara

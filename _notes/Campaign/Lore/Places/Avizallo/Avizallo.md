@@ -6,12 +6,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
 	- they don't run at night bc no one is working the fountains
 - big sport - bird fighter kites
-- settlements at column base are more in danger of Fray tide - guardians usually protect, but there is a distinct class difference
-- Guardians: albatross spirits who protect the isle, mostly defending against Fray wraiths
-	- technically undead. Unclear if they were created divinely or by some powerful caster in the past
-	- Large bird skull suspended in an ethereal body, ~7ft tall
-	- Can't speak, can sometimes seem to understand speech
-	- Normally manifest immediately at site of danger, hang around the roots to guard against things trying to come up
+- settlements at column base are more in danger of Fray tide -  but there is a distinct class difference
 # Economics
 
 Primary Industries
@@ -21,7 +16,7 @@ Primary Industries
 - Floating sea grass flats at base of column for food (more lower class)
 - Fishing
 - Masons' Guild: manages all the building material available on the isles. Draconian accounting of each block of stone that exists (~45760 blocks?)
-	- Almost entirely managed by the stonecutter dwarf lineage
+	- Almost entirely managed by the Stonecutter dwarf lineage
 	- stones are very rarely quarried and brought to avizallo from the mainland. One of the few resources that avizallo does not import via Kevara firms, because it would be prohibitively expensive (stone is heavy, and no one else buys it so economies of scale don't work out)
 	- ships that can sail back to the mainland need to be made of some percentage of saltwood - avizallo has a very limited quantity of them
 
@@ -43,19 +38,18 @@ Kevaran Influence
 # The Court of Birds
 ### Members
 **Owl** (religion): she. Haltingly soft spoken.
-- Identity: Morgana Saire, human death cleric of Gilead
-	- a Felichian priest manipulated by Gilead. Thinks she's destroying Avizallo to gain Felichian converts, actually working for Gilead to find Nexida, lance of Kevar. 
-	- Made contact with a strange power when she was a young cleric - currently holds some fragment of Gilead?
+- Identity: Morgana Saire, human death cleric/warlock of Gilead
+	- ex-Felichian priest, abandoned the church when she discovered Gilead's power
 - Heads all religious functions, manages clerical rituals for aquifers
 - Pretending for peace, wants a war with Kevara that Avizallo will lose
 	- Gilead told her there is a treasure within Avizallo (Nexida) that must be claimed for Felichias/Kevara
-	- Also to convert Avizallo to Felichias
+- Trying to find info on Nexida, or Cory's true name
 - Corresponds w Vasilev, presents as an ally to her
 - Worked with Leanna to find the lance of Kevar
 	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
 - Has asked Giltstern for help, was refused
-- Trying to destroy the reservoirs to weaken Avizallo, and find Nexida
-	- Contract Giltstern/Felichian missionaries for water > allow Kevaran access to Tensorat's labs
+- stats
+	- form of dread - boss battle stages
 
 **Gyrfalcon** (defense/guard/navy): they. Clarion, righteous.
 - Identity: Orin Skymark, half elf. Inherited a small seagrass farmstead
@@ -86,9 +80,10 @@ Kevaran Influence
 - Corrupt. In charge of tax collection on agriculture, has been cutting taxes on his own groves
 	- Faking tax breaks for funds used to "revitalize saltwood groves" - in reality has not been expanding groves much. Has been trying to buy out Orin Skymark's lands as part of supposed revitalization
 	- Financials has been bad (parents squandered their wealth), has turned to corruption to keep up
+	- Owes money to Giltstern
 
 **Kingfisher** (treasury/commerce): she. Distant, refined, calculating. 
-- Identity: Kristryn Eledeia. Married an Avizallo noble who she found out was the previous Kingfisher in order to assume the role from him. 
+- Identity: Kristryn Eledeia. Married an Avizallo noble (Evran Eledeia) who she found out was the previous Kingfisher in order to assume the role from him. 
 	- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
 	- Eledeia family was also a saltwood baron
 - The most versed in Avizallo's economic situation
@@ -102,10 +97,10 @@ Kevaran Influence
 	- Lots of Eledeia saltwood has failed, partially bc of fray/undead attacks
 ### Masks
 - Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
-- Masks cannot be unwillingly removed except DC30 str check
+- Masks cannot be unwillingly removed except DC30 str check (would also significantly injure the face)
 	- In death, can only be removed by consensus among the Court
 - Cannot be worn by anyone who is not the owner - inflicts damage
-- Immune to mind control magic that would make someone remove their mask
+- Immune to mind control magic that would make someone remove their mask, disclose identity
 - Masks give advantage on zone of truth saves?
 - After death of a Bird, a civil service exam happens - highest scorer becomes successor. The other birds never find out the new one's identity. 
 - Each represent aspects of the divine Birds, seen as a mouthpiece for their will

@@ -71,6 +71,7 @@ Toby
 	- (Kevara) performed again, (Avizallo) ran a gambling scheme to fix Kite battles, (Mirwood) ??
 	- 2yrs ago, evil lawyer captured him again (how? for what crime?)
 		- bad guy wished to transfer his powers to his child > Cory transferred to Toby > Indira ran away
+		- they thought they had Cory's name and could perform the ritual, but it only half worked. If Cory's full power had been transferred then he would have died
 	- now stripped of his power, inept. 
 	- Prophecy: you will find him in the place of fire
 - Mother (Annalise)
@@ -120,18 +121,22 @@ Gilead, the dragon king - The Big Bad
 	- a PC whose fate is eaten becomes a malicious NPC, an aspect of the fate eater
 Luga Tensorat the Artificer 
 - based in Avizallo
+- was he fleeing gilead? trying to hide the engine piece from him
+- what if he was a time traveler from before the cataclysm. could be cool
 Labyrinth (nexida)
 - an automata that was uncontrollable, unpredictable - agent of chaos
-- Tensorate uncovered memory bank and used it to create a synthetic intelligence
-- floats just within the fray - carried by the trade winds around the sea
+- Tensorat uncovered memory bank and used it to create a synthetic intelligence
+- floats just within the fray - carried by the coriolis trade winds around the sea
 	- once a year it draws close to seaside cliffs - could access from here
-- find his writings, maps, labs. need a special boat to get there? how to navigate thru Fray
 - Tensorat made a wish using Coriolis to float his lab into the air, high above the Fray where none can reach
-	- also wished that no one else could use Coriolis' power to access the labyrinth
+	- also wished that no one else could use Coriolis' power to access the labyrinth, and Coriolis can't tell anyone what he did with it
 - connection to djinn or genasi? enslaved air elementals to protect lab?? made a wish on Coriolis? so annalise was trying to get the location from coriolis?
 	- you get a wish from a djinn by having them owe you a favor - or by trapping/tricking them
 	- should it be a floating island
 	- Bad guys might capture coriolis, or find some other way to find island
+- how to reach nexida - thru Tensorat's writings
+	- how to enter the fray depths. or fly above
+	- timing, when it circles close enough to land. close to cliffside village of toby's home?
 Felichias: goddess of fate
 - people think that fate is some omniscient force moving the paths of men - but it's really just senseless randomness
     - she’s not the DM, she’s the DICE
