@@ -100,6 +100,7 @@ Battle tactics
 ### Immediate - Avizallo
 - Guiding stars: Coriolis mystery, Bluemoon backstory, Tensorat
 - Vasilev's angling on the saltwood deal should relate to her scheming
+	- danger of exposing her identity
 	- frame giltstern for something that would turn popular opinion. selling wood to elves? make it look like they're selling kevara out to elven domination. bc of the trade winds, the ships carrying wood have to come back by river, thru the mirwood...
 - details of zora's search for stolen ring. reed thinks his wife is cheating on him with...?
 - establish coriolis' past in avizallo, he is the air elemental butcher mentioned

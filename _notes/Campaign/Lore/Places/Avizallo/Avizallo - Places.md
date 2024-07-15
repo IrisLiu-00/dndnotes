@@ -5,8 +5,9 @@
 #### The Featherweight
 - Kite and kite supplies store, owned by Myla Stonecutter
 - Clues
-	- Kingfisher passing Myla exams
+	- Kingfisher passing Myla exams - Orin's copy of exam, among some others
 	- Myla supplying Kingfisher spell components (powdered silver, bird bones) 
+	- Samples shipped by Kingswill - gave transponder/leaflet printer to Mettlewise
 #### Kareem's Beans
 - Coffeeshop / tavern / inn run by Kareem
 	- coffee is pretty rare in Avizallo, and Kareem sells for reasonable prices. It's always busy here.
@@ -85,15 +86,16 @@ Clues
 - gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
 - Leads: reservoirs, kites?
 Clues
-- newly replaced window (line of sight from flank of La Norza, where assassin shot)
-- mailbox: correspondence with gandras dol. Gandras has attempted multiple times to buy Orin's land to convert it all to saltwood groves, Orin has refused
-	- Orin has also told all their neighbors they should refuse similar offers
-- Noticed Reed wearing a ring of mind shielding and knew what it was. Later Reed told them it got stolen, and Orin got worried
-- suspicions about conspiracy
+- [ ] newly replaced window (line of sight from flank of La Norza, where assassin shot)
+- [ ] mailbox: correspondence with gandras dol. Gandras has attempted multiple times to buy Orin's land to convert it all to saltwood groves, Orin has refused
+	- [ ] Orin has also told all their neighbors they should refuse similar offers
+- [ ] Noticed Reed wearing a ring of mind shielding and knew what it was. Later Reed told them it got stolen, and Orin got worried
+- conspiracy investigation
+	- [ ]  asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
 - some important clue pointing to owl that was wiped - owl has the other half
 
 
-Auric docking atoll
+Kingswill docking atoll
 - heavily marked private property. seems stingy as hell
 
 which pillar does reservoir encounter happen on?

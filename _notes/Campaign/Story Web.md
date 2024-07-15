@@ -60,14 +60,13 @@ Toby
 - Coriolis (Cory / Corin) - Djinn father, deadbeat dad
 	- wants: power? freedom? commitment issues. fame?
 	- 95yrs ago, performed in Kevara (stole the Butcher's glory)
-	- met tiefling and went to avizallo? puppeted the court of birds?
 	- 90yrs ago, captured by the Artificer in Avizallo - artificer made a wish to create his labryinth in the sky
 		- to capture a djinni: need a vessel sealed with the true name
-	- was active in apostasy (doing what?) had a child (Indira Ashoor) with the evil lawyer
+	- 21 yrs ago, was active in apostasy (doing what?) had a child (Indira Ashoor) with the evil lawyer
 		- Indira was conceived as a vessel for djinni's powers - only a close blood relation of a djinni can hold a fraction of its powers
 		- bad guys want air powers to get the Condenser (put out protective flames?) + chasing rumors of Nexida
 		- transfer powers to someone else so they can use it to get to Nexida
-	- later fell in love w Annalise, had Toby > left bc he's a deadbeat
+	- 16 yrs ago, fell in love w Annalise, had Toby > left bc he's a deadbeat
 	- (Kevara) performed again, (Avizallo) ran a gambling scheme to fix Kite battles, (Mirwood) ??
 	- 2yrs ago, evil lawyer captured him again (how? for what crime?)
 		- bad guy wished to transfer his powers to his child > Cory transferred to Toby > Indira ran away

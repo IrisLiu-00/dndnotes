@@ -29,7 +29,7 @@ Picking a Ship
 	- Solas + Iolas: human twin deck wizards. Responsible for casting air bubble spells.
 	- Giltstern is on their heels? why
 	- Can cut thru (under) the Fray - will get there 4 days in advance of Giltstern
-- Caledonian: Giltstern supply ship taking Isaiah Giltstern to Avizallo for negotiations
+- Conviviant: Giltstern supply ship taking Isaiah Giltstern to Avizallo for negotiations
 	- Oscar: gruff quartermaster
 	- Sylvie: head of felichian missionaries
 	- Pay your way (500gp), or find some other way
@@ -61,6 +61,7 @@ The Journey
 - establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
 - spontaneous fray wraith
 - opportunity to go to Kareem's, Bargewrights, explore city. show the kite fights. 
+- fountains
 #### Riot and Murder
 - PCs may or may not be at the saltwood docks - either way Gyrfalcon is on the other side
 - Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern (seemingly) intervened with automata, a number of saltwood growers killed
@@ -88,6 +89,7 @@ Kingfisher Sidequest
 - try to tail him
 	- lead to the saltwood groves
 - spy on his office
+	- Macaw often forgets correspondence at his office - he comes looking for stuff that Owl already stole
 - go investigate land use
 - Gandras Dol might take the PCs help to stop vandalism
 - leads: saw kingfisher at the riot, shady accounting from eledeia, it wasn't giltstern's automata at the riot
@@ -113,6 +115,7 @@ Ramping tension at the docks / something related to V's directive?
 - Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 Raven starts tailing the PCs out of suspicion
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
+- Zora plants a tracker on one of the PCs
 - Zora investigating a mystery for Reed: he purchased a nice ring off of Kareem a few years back and it's missing
 	- Reed wears it on a chain around his neck, puts it in a dish when he goes to bed
 	- Reed thinks his wife Ella is cheating on him with, wife stole it to give to 
@@ -147,6 +150,7 @@ The Kite Fighters
 	- other moves? give some kites custom moves?
 	- gamble how high you fly it before the string snaps
 	- attack: attacker makes speed check against defender's strength save. on a fail, attacker makes strength save to avoid being cut themselves.
+Get access to Giltstern's data
 
 
 each quest should give clear leads on what to do next, don't just let things happen to the pcs
@@ -160,6 +164,7 @@ Ratcheting the tension
 Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 - precipice of a narrow column where ppl could get knocked off
+- inside a halted elevator (NSBU)
 - within the cisterns, water is rising with the tide
 - against the assassin
 - the boss battle

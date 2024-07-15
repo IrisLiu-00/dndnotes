@@ -17,9 +17,10 @@ Controlling Automata
 - Owl is getting Mettlewise to fly the automata controlling kites at specified locations
 	- Mettlewise thinks the kites have surveillance equipment to catch petty crimes - Owl let her think it was her idea, helped develop the equipment
 	- some kites also disperse fliers for the temple (could be a good plot hook!)
-- Valespinner has remote device to hijack Eledeia's automata and control them, disguised as part of a device to distribute leaflets
+- Valespinner has a transponder to hijack Eledeia's automata and control them, disguised as part of a device to distribute leaflets
 	- Owl stole one of the automata to synthesize the key. The automata later turned up drowned + damaged.
-	- Merriwink paid Myla (featherweight) to install the device. Myla got the aerial leaflet printer as a sample from Auric Trading
+		- Owl paid a visit to Eledeia estate once, to discuss donations to the temple
+	- Merriwink paid Myla (featherweight) to install the device. Myla got the aerial leaflet printer as a sample from Kingswill Trading
 - discreetly transport automata by loading a bunch into cargo container, have one push it around - cargo loading automata are fairly common with the Giltstern crew
 	- also use to transport sahuagin in cargo
 Reservoir Attacks
@@ -27,26 +28,27 @@ Reservoir Attacks
 - Planning to systematically take out reservoirs in each column to search for Cory's true name, weaken Avizallo (need to import water or import Felichian priests)
 	- Cisterns are connected to Tensorat's old workshop
 - Use sahuagin to attack bc automata can't go in water
-Auric Trading Co.
+Kingswill Trading Co.
 - Small Kevaran-based trading company - actually a shell company
-- Any real shipping they do is contracted out to Giltstern (eg the leaflet printer)
+- Any real shipping they do is contracted out to Giltstern
 - Registered under Morgana Saire, resident of Kevara-Arda
 - Use shell company to requisition cargo crates, use of the freight elevators
-- Kevaran Traders guild was tied on whether to provide the government with more funding for naval presence around Avizallo, until Auric trading joined the guild and voted to increase naval presence
+- Kevaran Traders guild was tied on whether to provide the government with more funding for naval presence around Avizallo, until Kingswill trading joined the guild and voted to increase naval presence
 - Launder money gained from Giltstern 
 	- use money to buy black diamonds - used to resurrect fray wraiths (needs like 300gp per sahuagin)
 	- use to pay someone to reverse engineer a key for krystin's automata
+- Planted leaflet printer as a sample sent to Featherweight
 - Informed Avizallo gov they were culling sahuagin to clear out a dock for ships - one of the small glass atolls around the isle
 	- didn't actually build a dock, owl just went a killed a bunch of sahuagin
+- Described as "Ruler's Desire" in encoded communiques
 
 ## The Murder
-- Owl killed Gyrfalcon bc they got too close to finding out she's a false priest, and finding out abt her search for Nexida
+- Owl killed Gyrfalcon bc they got too close to finding her out, and finding out abt her search for Nexida
 	- Killing Gyrfalcon was also convenient to spark a war, which would destroy Avizallo
 	- Gyrfalcon became suspicious, see clues below
 - Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
-		- Macaw accidentally left one of Orin's letters at the Rookery? Or the temple?
-		- Find letter from Gandras in Orin's mailbox, or Owl produces Orin's letter to put PCs on Macaw's trail
+		- Macaw accidentally left one of Orin's letters at the Rookery
 - Assassin sniped gyrfalcon while they were off service in their apt
 - Incite the riot by having automata fire into the strikers
 	- actually Kingfisher's automata under her control, not Giltstern's
@@ -62,14 +64,13 @@ Auric Trading Co.
 	- she knows someone took out Leanna, and wants to bait them (how would she know is PCs)
 	- trying to frame Kevaran intruders, incite further conflict
 	- try to manipulate the PCs to get them to blame someone else (Kingfisher or Giltstern)
-- how to expose that she's actually serving Gilead
-	- gilead can potentially deus ex and eat Owl's fate to save her > recurring villain
-- Great baker, ply the PCs with pastries
+- Might not wear her prayer beads around now - or wear them in a different color
 - Alibi: praying at the temple. corroborated by other priests, templegoers
 - Zone of Truth: will answer with some performed reservation. ring allows lying
 **Raven**: parallel investigating
 - Alibi: asleep (lie), probably doing some assassins creed shit
 - Zone of Truth: refuse to cooperate if she doesn't trust PCs
+- Gyrfalcon asked them a few months ago on records of past fray tides
 **Macaw**: unknowing accomplice (how), corrupt, soft/optimistic on kevara
 - Alibi: working late in the office (lie), can't say he was actually overseeing at the riots
 - Gandras saw Kingfisher at the riot, but Macaw can't say
@@ -82,8 +83,7 @@ Auric Trading Co.
 **Kingfisher**: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
 - Alibi: was at the site of the riot (conferring with Giltstern earlier). Lie and say she had left by the riot?
 - Zone of Truth: probably reluctant, afraid of exposing other secrets. 
-- Has purchased a suite of automata for her personal protection
-- make her look involved with the conspiracy / any attacking monsters
+- Has purchased a suite of automata for her personal protection (via giltstern)
 - Trying to insert her own choice as gyrfalcon's successor - passing old/upcoming exam questions to Myla
 - Studying necromancy to revive failed saltwood
 - Necromantic wards?
@@ -98,7 +98,7 @@ Auric Trading Co.
 - Trying to requisition Kareem's shop to build a new seminary. Owl suggested bc the inn is over a major reservoir entrance. 
 - May come after players for petty crimes
 - relation with dwarf shopkeep?
-**Renard Corinsson**: undead elf ranger bound into Morgana's service. assassin
+**Lieutenant Corinsson**: undead elf ranger bound into Morgana's service. assassin
 - play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
 - gloomstalker + assassin rogue
 - Ranger working for Moonflowers, investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
@@ -110,6 +110,12 @@ Auric Trading Co.
 - Pressuring Gandras Dol to repay his debts. Annoyed at Gandras' inability to suppress saltwood workers
 - Has worked politically with Macaw, Kingfisher to negotiate imports. Conflict w Gyrfalcon
 - Residing on the moored Giltstern flagship 
+- [ ] Communications
+	- From Gyrfalcon (day before riot): I'll warn you again to keep your hired muscle off of the columns; and for that matter, they shouldn't be on civilian-use docks either. I will be at the picket line starting tomorrow morning. Don't think of trying anything. 
+	- To Macaw (few days ago): I'd like for us to meet on board Conviviant, this next Sixthday. We need to do some real damage control around this damn strike, and I remind you of your other obligations as well. Do the bare minimum and bring your next installment when we meet. 
+	- From Owl (month ago): I would appreciate you (and other traders) limiting the number of Felichian missionaries you charter to the Isle. I understand your flagship has a company of 250 sailors that require a stone's worth of libations per day, but work that takes them inland can be as easily handled by those automata you've purchased. I would hope you could order these changes by ruler's desire. 
+		- _the flagship needs far more than 250 sailors. what is a stone of libations? Ruler's Desire?_
+	- To Kingfisher (half a yr ago): I have word that your shipment should come in by sixthday. The boxes are marked with Luca Industries but I'll send an attendant to deliver them to you. It's been a pleasure doing business. 
 **Reed**: firbolg. Leader of saltwood growers at La Varza, under Gandras
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
@@ -127,9 +133,9 @@ Auric Trading Co.
 - Kingfisher's protege. Knows Kingfisher's identity. Kingfisher is helping her with the exam.
 - Similar politics as Kingfisher but can be more vocally anti Kevara.
 - Helping Eledeia by:
-	- supplying materials for the Guardian ward - she can get things more easily for the kite shop
+	- supplying materials for the necromancy - she can get things more easily for the kite shop
 	- also give her somethig that helps KINGFISHER - tie to Zora's mystery?
-- Got a small sample shipment of kite supplies from Auric Trading co a while ago, including a lightweight leaflet printer (actually automata controller). When Mettlewise asked her to modify Valespinner she used it.
+- Got a small sample shipment of kite supplies from Kingswill Trading co a while ago, including a lightweight leaflet printer (actually automata controller). When Mettlewise asked her to modify Valespinner she used it.
 - Disowned from stonemasons, chip on her shoulder. Trying to prove herself and regain power (become a councillor). 
 - Kite shop is a good way to keep an ear on the ground, but kind of resents doing menial labor. 
 **Kareem**: half orc, 40s. Owner of Kareem's Beans
@@ -155,30 +161,37 @@ Big stuff
 - [ ] **need more subtle clues that owl is bad. pointers from Gyrfalcon's conspiracy investigation
 
 Murder
-- [ ] Owl has all the old applicants' exam scrolls, incl Gyrfalcon's
-- [ ] Owl has a letter Gandras got from Orin (how)
-- [ ] another clue for ring of mind shielding - an imprint of the ring's runes? crushed into mud on a guardian skull, wood of a crate?
+- [ ] Owl has all the old applicants' exam scrolls, incl Gyrfalcon's (Kingfisher might ask Owl to borrow, to give to Myla)
+- [ ] Owl has a letter Gandras received from Orin (how)
+- [ ] Imprint of the ring of mind shielding - in the mud at hidden cove, a paper from Owl, ?
+- [ ] New set of prayer beads commissioned for Owl
 - [ ] eyewitness of the assassin (a tall, unrecognized man, elf height) scaling the side of a pillar
 
 Automata plot
-- [ ] Cargo crates labelled for Auric Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
+- [ ] Cargo crates labelled for Kingswill Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
 - [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
 - [ ] Valespinner controlling automata
 - [ ] Automata at riot were Kingfisher's, not Giltstern's (how to tell?)
 
 Gyrfalcon's Investigation
- - [ ] asked Raven for records on the Fray attack that killed Vapor (anything important?)
+ - [ ] asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
+ - [ ] 
  - [ ] recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
- - [ ] did they get on the trail of Auric? asked Macaw to audit Auric Trading/all the trading companies Avizallo works with, he never did it. 
- - [ ] something that definitively points to owl, and the evidence was wiped (without leaving evidence of it being wiped / someone having been in orin's home)
+ - [ ] did they get on the trail of Kingswill? asked Macaw to audit Kingswill Trading/all the trading companies Avizallo works with, he never did it. 
+ - [ ] something that definitively points to owl, and the evidence was wiped (evidence of foul play at the house)
 - found mentions of the Queen of Thieves?
-
-Krystin
 
 Gandras
 - [ ] Owes money to Giltstern
 - [ ] Cutting taxes on his own groves - infiltrate Rookery or Gandras' own accounting
+- [ ] Has lost documents at the Rookery
 
+Paths to Owl
+- Owl has gyrfalcon's exam scroll and Orin's letter
+- Kite device > mettlewise > Owl suggested when to fly the kites? (evenings, ppl r out)
+	- mettlewise > myla > kingswill > Morgana
+- Kingswill > owl mentions "Ruler's Desire"
+- missing ring > imprint of ring on something owl has touched?
 # Monsters
 - Avizallo Cleric
 - Sahuagin, Sahuagin zombie
