@@ -28,6 +28,11 @@ Reservoir Attacks
 - Planning to systematically take out reservoirs in each column to search for Cory's true name, weaken Avizallo (need to import water or import Felichian priests)
 	- Cisterns are connected to Tensorat's old workshop
 - Use sahuagin to attack bc automata can't go in water
+- Reservoir system of La Sul was destroyed a few weeks ago
+	- Fray attack at the docks at night to cause chaos, disguise noise of Shatter. Aboveground entrances of reservoir are guarded at night but interior is empty.
+	- Owl had Corinsson cast Water Breathing on her, swam up the bottom of reservoir. Cast Dispel Magic to destroy the glyphs, Shatter to tear apart the waterwheel. Then have wraiths carry out all the precious metals so it's harder to repair. 
+	- Currently being repaired - Owl is able to search for Tensorat's lab while she supervises the drained reservoirs
+	- Gyrfalcon has now posted guards inside the reservoirs at night, at Owl's behest
 Kingswill Trading Co.
 - Small Kevaran-based trading company - actually a shell company
 - Any real shipping they do is contracted out to Giltstern
@@ -103,6 +108,7 @@ Kingswill Trading Co.
 - gloomstalker + assassin rogue
 - Ranger working for Moonflowers, investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
 **Isaiah Giltstern**: head of Giltstern trading firm
+- stats: Ruler Noble (essetial npcs)
 - Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. 
 - Sponsoring Morgana in her plot to start a war, or at least cause enough trouble that he can gain the upper hand in negotiations
 	- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
@@ -117,6 +123,7 @@ Kingswill Trading Co.
 		- _the flagship needs far more than 250 sailors. what is a stone of libations? Ruler's Desire?_
 	- To Kingfisher (half a yr ago): I have word that your shipment should come in by sixthday. The boxes are marked with Luca Industries but I'll send an attendant to deliver them to you. It's been a pleasure doing business. 
 **Reed**: firbolg. Leader of saltwood growers at La Varza, under Gandras
+- stats: Druid
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
 - Thinks Delaney is a cop, sellout, scab
@@ -124,12 +131,15 @@ Kingswill Trading Co.
 **Delaney**: human. Leader of saltwood growers at La Norza, under Gandras
 - intense rivalry with Reed, stoked by Gandras
 **Josef**: human. Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
+- stats: Commoner
 - Orin told him they're often busy upshaft, not physically well
 **Sabra Do**l: Gandras' Dol's daughter. 16 yrs.
+- stats: Commoner
 - voice: naradriel, slight lisp. 
 - unaware of father's corruption, vaguely aware of family's money problems
 - friends with Qrystin Eledeia - has lent books to her (on magic, cycles of life and death)
 **Myla Stonecutter**: female dwarf, 30s. Shopkeep of the Featherweight.
+- stats: STR 2, DEX 0, CON 1, INT 3, WIS 2, CHA 0
 - Kingfisher's protege. Knows Kingfisher's identity. Kingfisher is helping her with the exam.
 - Similar politics as Kingfisher but can be more vocally anti Kevara.
 - Helping Eledeia by:
@@ -139,14 +149,12 @@ Kingswill Trading Co.
 - Disowned from stonemasons, chip on her shoulder. Trying to prove herself and regain power (become a councillor). 
 - Kite shop is a good way to keep an ear on the ground, but kind of resents doing menial labor. 
 **Kareem**: half orc, 40s. Owner of Kareem's Beans
+- stats: Hobgoblin warlord
 - has a prosthetic leg / walker chair made by wizard friend Eidola
 - ex adventurer, disabled in final battle against a worshipper of the Golden Lord (Giltstern)
 	- was in same party as Edith (orc ranger)
 - Friends with Zora
 - Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
-- secrets and such? tie to Zora?
-- 
-Mason's guild?
 
 # Loose Clues
 
@@ -158,14 +166,14 @@ Big stuff
 - [ ] Owl has a bunch of books about Felichianism - an old treatise on aspects of Felichias. The aspect of the guardian presents in a beastly form, guards ppl's fates from being pulled astray
 - [ ] Personal shrine to a six winged, golden bird - legendary thunderbird, actually the golden one. 
 - [ ] Owl is holding the other side of the spies blood diary
-- [ ] **need more subtle clues that owl is bad. pointers from Gyrfalcon's conspiracy investigation
 
 Murder
-- [ ] Owl has all the old applicants' exam scrolls, incl Gyrfalcon's (Kingfisher might ask Owl to borrow, to give to Myla)
+- [ ] Owl has all the old applicants' exam scrolls, incl Gyrfalcon's (Kingfisher might ask Owl to borrow to give to Myla / Owl asks Kingfisher to get the scrolls back)
 - [ ] Owl has a letter Gandras received from Orin (how)
 - [ ] Imprint of the ring of mind shielding - in the mud at hidden cove, a paper from Owl, ?
 - [ ] New set of prayer beads commissioned for Owl
 - [ ] eyewitness of the assassin (a tall, unrecognized man, elf height) scaling the side of a pillar
+- [ ] Fish scale (sahuagin) embedded in the wood fragments of the reservoir waterwheel
 
 Automata plot
 - [ ] Cargo crates labelled for Kingswill Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
@@ -174,12 +182,7 @@ Automata plot
 - [ ] Automata at riot were Kingfisher's, not Giltstern's (how to tell?)
 
 Gyrfalcon's Investigation
- - [ ] asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
- - [ ] 
  - [ ] recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
- - [ ] did they get on the trail of Kingswill? asked Macaw to audit Kingswill Trading/all the trading companies Avizallo works with, he never did it. 
- - [ ] something that definitively points to owl, and the evidence was wiped (evidence of foul play at the house)
-- found mentions of the Queen of Thieves?
 
 Gandras
 - [ ] Owes money to Giltstern
@@ -194,8 +197,9 @@ Paths to Owl
 - missing ring > imprint of ring on something owl has touched?
 # Monsters
 - Avizallo Cleric
-- Sahuagin, Sahuagin zombie
+- Sahuagin, Sahuagin fray wraith
 	- drowned zombie stat blocks - bluerot
+- Can convert other dead things to fray wraiths also
 - Owl has made allies with some sahuagin? lets make them non-sentient
 	- has some artifact to charm them/ stole something of theirs to force them to work for her
 - Owl summons some monsters to take out the cisterns

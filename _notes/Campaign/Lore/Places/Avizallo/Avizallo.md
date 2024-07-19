@@ -4,7 +4,8 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 	- Height generally protects from incursions of the fray, with a few prominent exceptions (what killed Bluemoon’s dad)
 - Modern religious belief says that all the birds living on the columns are collectively their god
 - Reservoirs pull seawater up into the glass columns; clerics use purify drink to create aquifers
-	- they don't run at night bc no one is working the fountains
+	- Surface entrances guarded at night, but no one is running them inside. Fountains don't run at night.
+	- Waterwheels painted with oil-based glyphs, inset with precious metals act as spell focus for clerics
 - big sport - bird fighter kites
 - settlements at column base are more in danger of Fray tide -  but there is a distinct class difference
 # Economics
@@ -50,6 +51,7 @@ Kevaran Influence
 - Has asked Giltstern for help, was refused
 - stats
 	- form of dread - boss battle stages
+	- shatter spell - this is kinda not in flavor tho
 
 **Gyrfalcon** (defense/guard/navy): they. Clarion, righteous.
 - Identity: Orin Skymark, half elf. Inherited a small seagrass farmstead
@@ -57,6 +59,7 @@ Kevaran Influence
 - Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
 
 **Raven** (intelligence/spymaster): she. Reclusive, unknown.
+- stats: Lawkeeper 5 (essential npcs)
 - Identity: Zora Courier, mixed species. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
 - Newest councilor after Kingfisher - joined only 5mo ago
 - Anti Kevara but highly suspicious of current war mongering
@@ -65,6 +68,7 @@ Kevaran Influence
 - Fairly religious
 
 **Vulture** (criminal/judiciary): he. Taciturn, old, spiteful. 
+- stats: mid tier noble (essential npcs)
 - Identity: Ezekiel Ashridge. 
 	- runs some library type thing?
 - Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher, Macaw

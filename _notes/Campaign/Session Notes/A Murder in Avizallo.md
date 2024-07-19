@@ -157,7 +157,7 @@ each quest should give clear leads on what to do next, don't just let things hap
 
 Ratcheting the tension
 - more fray attacks, possibly an actual fray tide
-- murmurs of reservoirs getting taken out (how)
+- more reservoirs getting taken out, whenever there's the chance
 - more conflict at the docks, with the saltwood growers
 - assassin starts hunting them, once they get to high enough prominence
 - anyone they offend will come after them
