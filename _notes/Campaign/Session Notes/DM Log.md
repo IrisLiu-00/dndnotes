@@ -139,3 +139,13 @@
 		- Could have established finding out about the cult as a specific goal - either have the cult directly threaten PCs or have Vasilev call in a job
 	- Should have had an assassin target them when they took the long rest! To remind them about the assassinations
 		- you got too much in a hurry to get back on track with the dungeon
+- 24.7.22 - Murder in Avizallo pt 1
+	- Players seem to struggle with open world - is it bc no clear established objective?
+		- this will be interesting to cross test with another group
+	- Far too much exposition, narration yanking players to one place then another
+	- Travel section was kinda pointless. Sahuagin battle exists to establish sahuagin but feels pointless in the moment. 
+		- Could have been fixed by putting some subgoal / miniquest within the travel - whether related to main adventure or not
+	- Get better at gravelly voices. Get more vivid NPCs
+	- Still need to be better at improv. M tried to engage w the source and ask for a divination - you couldn't make up anything useful on the spot. It would have been fine to give away more info. 
+	- Forgot to remind Pablo abt backstory, so a lot of that fell thru
+	- Players still seem slow/clumsy during battle. Have to know their character sheets better. Bring this up with them?

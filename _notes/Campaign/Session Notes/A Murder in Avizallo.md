@@ -16,19 +16,23 @@ table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp
 	- Vasilev received news abt wraiths from Owl - fray wraiths attacking even when there's no fray tide
 	- Giltstern has arrived in Avizallo and tensions are running high - Owl thinks there needs to be another impartial Kevaran party to keep Giltstern in check.
 	- Prices of saltwood are set, but they're hammering out a deal for how much wood to sell to Kevara
-	- Vasilev wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
+	- Vasilev says: wants to maintain political stability, and a lot of his wealth from his estates depends on trade running smoothly
+	- Truthfully is planning on selling Giltstern stocks to buy Filroy's silence
 - Initial payout: 900gp. To solve the murder: +500gp
 - Beware of the Court of Birds - never trust a man who won't tell you his true name
-- Merriwink gives Toby second task before departure - steal the Valespinner for her, from her "evil" twin Mettlewise
 ## Journey to Avizallo
-Picking a Ship
+#### Picking a Ship
 - Fray exposed sailors, bleached and worn looking
 - Atlas: leviathan, a giant living water beast. a whale, edges of its being bubble away like seafoam
 	- Josephine Avila: half sun elf, granddaughter of Azolar Avila. Privateer captain. Spanish accent?
+		- stats: [Viona Zarr](https://drive.google.com/file/d/1BpCTXodA-AcFL7kARWmunwSxRWCPAE8L/view)
 	- Aleksei: lynx tabaxi first mate
-	- Solas + Iolas: human twin deck wizards. Responsible for casting air bubble spells.
-	- Giltstern is on their heels? why
+		- stats: Jarram
+	- Solas + Iolas: human twin deck wizards. Responsible for casting modified Air Bubble spells.
+		- stats: Deck Mage (under Harek)
+		- Casting a large size air bubble across the whole leviathan takes concentration; they work in 6 hour shifts. 
 	- Can cut thru (under) the Fray - will get there 4 days in advance of Giltstern
+	- Making a stop at Avizallo to take on water, before heading north in search of Azolar Avila's treasure
 - Conviviant: Giltstern supply ship taking Isaiah Giltstern to Avizallo for negotiations
 	- Oscar: gruff quartermaster
 	- Sylvie: head of felichian missionaries
@@ -37,49 +41,82 @@ Picking a Ship
 	- Ole Snuff: captain, scrawny orc, owes treasure to Josephine, on the run
 	- Berbert: big bloodhound. Became intelligent + got opposable thumbs thru a Medallion of Wit (stolen from Josephine)
 	- Happy to take passengers. Will get attacked by Atlas almost immediately
-The Journey
-- toby practicing chain in the front yard. where is the pole installed?
-- 3 week journey
-- ==find Coriolis' genie treasure, thrown in the ocean. one of the items is cursed
-- Water gets shallower, Atlas has to breach. Lots of tiny black glass isles, choked with seagrass. Fray tide comes in, wraiths attack. 
-	- figure out fray tide rules...
+#### The Journey
+- Before leaving
+	- Where is the stripper pole installed?
+	- Servant (mild mannered eastener) finds the party before leaving and gives them a dossier on Avizallo. Warn them not to let Giltstern know that they're there to protect the deal. 
+	- Merriwink calls to give Toby his second task: steal the Valespinner for her, from her "evil" twin Mettlewise
+- Scene setting: the departure
+	- Josephine calls Iolas - no, Solas to be first watch on the air bubble spell. Steps up to the forehead of the leviathan and rests a hand on its giant horn. A spray of mist ejected from its blowhole - water rains down over the Kevara docks, kids shriek and wave in delight. Solas waves their hands over a giant sigil tattooed on the sea monster's spine, and the saltwater spray hanging in the air collects to form an iridescent membrane around you all. A cheer rises from the pirates as the monster beats its flukes and sinks. 
+	- Very low light - a few dark blue rays filter down. Bioluminescent patterns on Atlas' skin light up. Pirates sit down in hammocks strung along the sides, a few climb up long spines for first watch. 
+	- Few hours into the ocean, the water above loses all transparency - the milk white of the Fray.
+- What do the PCs do for the 3 week journey?
+	- Food is unremarkable - hard tack soaked in soup. Iolas amuses the crew by spearing fish with magic missiles
+	- Josephine knows the court of birds?
+	- stuff abt coriolis?
+- Water gets shallower, Atlas has to breach. Lots of tiny black glass isles, choked with seagrass.
+- Josephine sends crew onto the atolls to hunt for giant rockfish, which come to lay their eggs. but watch out for sahuagin!
+	- sahuagin can dive under water if they have extra movement
 - Kevaran navy ships patrolling around Avizallo, naval protection as part of the deal. Hostile to most. 
+	- details
 ## Day 1
 #### Arrival in the Isle
+La Sul
 - Scene setting
 	- High white vanishing fog of the fray. It clears, and you get a glimpse of a reflection - sunlight on black glass, refracted blue and violet in the morning light. Five pillars rise from the ocean, wreathed by white mist at their base. Small black dots of birds spiralling around the tips.
-	- A triangular, nearly translucent white shape soars down close - the skull of a bird set at its tip.
 	- The top of each pillar is crowned with lush greenery, vines and trees. Set amidst them like jewels are multicolored houses. Birds of every sort (gulls, parrots) wheel and deal in the air, raucous squawking.
 	- Draw closer - you see the famed saltwood trees, which look nothing much like trees. White fingers claw their way up the base of each pillar, stark contrast with the black translucence. Built amongst the vertically growing shoots are docks, their wood coated a darker color with waterproofing. Ships large and small pull in gingerly between the gnarled, bone-white roots of the trees. All of the ship have the characteristic white hulls of saltwood hewn, deepwater bound vessels. 
-	- People at work in the docks, unloading cargo holds to these elevators that travel on rails up the length of the columns.
+	- People at work in the docks, unloading cargo holds to these elevators that travel on rails up the length of the columns. Food and textiles from trading ships into the isle
 - Location: La Sul. Bargewrights, ships, Giltstern.
-- Cargo unloaded - food and textiles from Giltstern ship into the isle
-- immediate conflict/drama? then open up to exploration. show them where to stand guard? clear objective
-- Avizallans blocking Felichian missionaries from entering - maybe Kingfisher lets them come in?
-- introduce a few major players of the council
-- Owl greets them, takes them to the saltwood docks?
-- establish Gyrfalcon's animosity, tensions between saltwood workers + KA mercenaries
-- spontaneous fray wraith
-- opportunity to go to Kareem's, Bargewrights, explore city. show the kite fights. 
-- fountains
+- Josephine has trouble getting water - an official directing ppl to caskets being brought in from the other isles. Fountains r down. 
+- Owl chivvying away some Felichian missionaries. Approaches PCs
+	- Sporadic fray wraith attacks recently, some saltwood growers injured/killed. Avizallo's own military power isn't great, doesn't fully trust Giltstern either
+	- mentioned problems to Vasilev, who said he would send ppl over
+	- can show the PCs over to the groves
+La Varza, the saltwood groves
+- White barked trees, reaching like skeletal fingers above the water. Very few leaves. Lots of roots spider around each other and cling to crevices in the glass. Wooden docks crisscross between the roots. 
+- Druids lined up on one of the docks, some of them holding signs: "Kevaran leeches off our backs", "A fair day's wage for a fair day's work", "Gandras Dol, Giltern's puppet"
+- Few other citizens standing back and watching (incl Sabra)
+- At the front of the line, Gyrfalcon and Gandras. Gandras has a number of automata behind him. 
+	- Gandras Dol: tall, brown skinned man. Dressed in a well tailored sleeveless coat, well tailored arms bared. Half laughing, trying to be polite. 
+	- Gyrfalcon: You cannot bring those here, Mister Dol. As a civilian you have no right to use armed enforcement against other citizens. 
+	- Dol: Come now, shouldn't a man have a right to see to the security of his own private lands? I don't like to do it, but until the situation is resolved, I need some way to prevent damages to my property. Giltstern enterprises has supplied me with a solution. 
+	- Gyrfalcon: I will remind you that the saltwood groves are not your land, they have only been leased to you by the court of birds. I will be bringing this to the court, and then we'll see how much longer you can bring this Kevaran scum onto our docks. 
+- Giltstern standing on a higher terrace, turns away
+- Fray wraiths attack. Gandras will order automata to help fight. 
+	- Fray wraiths come in from sea and engage automata, druids, gyrfalcon. As they're distracted another group comes in from the side, going for the civilians
+	- they leave dead bodies when killed - unusual for true wraiths
+- Opportunity to explore city:
+	- La Sul reservoir is non functional
+	- Kareem's, Bargewrights. show the kite fights.
+	- people: owl, macaw, raven/zora (spying), giltstern
+	- have them figure out where they're staying for the night
+- meet up w owl - she was the one who told V about the wraith attacks, can give general advice if needed
+sabra starts with death saves
+how to demonstrate automata remote control
+
 #### Riot and Murder
-- PCs may or may not be at the saltwood docks - either way Gyrfalcon is on the other side
-- Riot at the saltwood docks - saltwood workers against Gandras Dol's not increasing wages, Giltstern (seemingly) intervened with automata, a number of saltwood growers killed
-	- giltstern was docked at La Sul, unclear how automata got there (was it actually Kingfisher's automata?)
+- At evening, Giltstern issued remote order to recall automata - he needs extras to unload a shipment in time
+- PCs may or may not be at the saltwood docks - either way Gyrfalcon is on a dock further away
+- Riot events (if you ask anyone it's unclear what happened)
+	- Gandras/Giltstern ordered automata to stand watch - against wraiths, or potential damage from strikers
+	- Some say the riot started bc strikers threw rocks, or bc a wraith was spotted, or the automata just started firing into the crowd
+	- Number of workers were killed
 - Gyrfalcon gets killed in the chaos
 	- gyrfalcon has electrocution, blunt force, lacerations
-	- Body is interred in the Rookery, Owl/another cleric has cast Gentle Repose so it won't decay
-- Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for extra money. Don't let it go to war. Make the saltwood deal go thru. 
+- Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for 500 extra gold. Don't let it go to war. Make the saltwood deal go thru. 
+	- Insight check: a little edge of ruthless desperation
 - Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
 	- Kingfisher refuses to unmask while outsiders (PCs) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
-- Kingfisher blames Kevara, demands reparations from Giltstern
-- Vulture blames Kevara, takes it as more evidence that Avizallo should cut off connections
-- Owl subtly stokes the flames - the hearts of Avizallans know what is needed
-- Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
-- Raven stays silent
+	- Body is interred in the Rookery, Owl/another cleric has cast Gentle Repose so it won't decay
+- Court of birds
+	- Kingfisher blames Kevara, demands reparations from Giltstern
+	- Vulture blames Kevara, takes it as more evidence that Avizallo should cut off connections
+	- Owl subtly stokes the flames - the hearts of Avizallans know what is needed
+	- Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
+	- Raven stays silent
 - Signing of saltwood deal is halted
-- might find out it was not giltstern automata thru careful investigation
 
 ## Upcoming
 
@@ -94,6 +131,7 @@ Kingfisher Sidequest
 - Gandras Dol might take the PCs help to stop vandalism
 - leads: saw kingfisher at the riot, shady accounting from eledeia, it wasn't giltstern's automata at the riot
 	- gandras got control of the giltstern automata at one point
+- reward that ties into mainline: a kite he's framed, another clue?
 - if they majorly damage Gandras his faction can come after them
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
@@ -139,18 +177,8 @@ The Artificer's workshop
 	- presence of air djinni/teleportation
 - more clues leading to Owl
 The Kite Fighters
-- Valespinner - a 100+ yr old kite, engineered by Tensorat. The undisputed champion
-	- remote device hidden inside to control automata (maybe say it's Eledeia automata)
-	- has some relation to coriolis?
-- do research on the sport
-- Kite supplies shop run by a dwarf, daughter of stonecutters (aliya stonecutter? kingfisher's protege?)
-- kite fighting minigame, stats for each type of kite
-	- kite stats: strength, speed, maneuverability
-	- initiative is +speed, positioning is +maneuverability
-	- other moves? give some kites custom moves?
-	- gamble how high you fly it before the string snaps
-	- attack: attacker makes speed check against defender's strength save. on a fail, attacker makes strength save to avoid being cut themselves.
-Get access to Giltstern's data
+- there will be a tournament in a few days time, where Valespinner will by flying
+Get access to Giltstern's data - infiltrate or fight
 
 
 each quest should give clear leads on what to do next, don't just let things happen to the pcs
@@ -174,12 +202,12 @@ Potential encounters:
 
 
 # Treasure
-- Something for bluemoon
 - Loot dropped by owl
 	- Ring of mind shielding: a bronzework ring made of intricate woven wires, small green stones set at intervals. The weaving actually makes up magic runes, recognized by Gyrfalcon.
 - Loot dropped by assassin
 	- crossbow
 - gifts from npcs
+- [Portable Hole](https://5e.tools/items.html#portable%20hole_dmg): A circular sheet of fine black cloth, 6ft in diameter. Use an action to unfold it against a solid surface, whereupon it creates an extradimensional hole 10ft deep. You can use an action to fold up the hole. Any creatures or objects remain inside the extradimensional space. The folded cloth weighs next to nothing. 
 
 # Scratchpad
 

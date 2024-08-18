@@ -14,16 +14,18 @@ Primary Industries
 - Saltwood: trees that grow along the columns, their roots wrapping around the glass. Birds live in the trees. Drink ocean water and weep the excess salt out of their bark. Gray-white wood.
 	- Required to make prows for boats that can navigate the Fray
 	- Druids cultivate the trees to have them grow faster, meet supply
+	- First settlers of avizallo built their industry off of trade and selling boats
 - Floating sea grass flats at base of column for food (more lower class)
 - Fishing
 - Masons' Guild: manages all the building material available on the isles. Draconian accounting of each block of stone that exists (~45760 blocks?)
 	- Almost entirely managed by the Stonecutter dwarf lineage
 	- stones are very rarely quarried and brought to avizallo from the mainland. One of the few resources that avizallo does not import via Kevara firms, because it would be prohibitively expensive (stone is heavy, and no one else buys it so economies of scale don't work out)
 	- ships that can sail back to the mainland need to be made of some percentage of saltwood - avizallo has a very limited quantity of them
+	- other buildings are traditionally made out of saltwood + plaster (also imported)
 
 Kevaran Influence
-- Was more independent 100 yrs ago, but Council got scared during the last expansion of the Langksaran empire > signed deals with Kevara for naval protection in return for contracts to access saltwood groves
-	- Langksaran empire has receded but Kevaran influence remains
+- Was conquered by the inland empire ~200 yrs ago
+- Liberated by Kevaran navy ~100 yrs ago > signed deals with Kevara for naval protection in return for contracts to access saltwood groves
 - Avizallo groves are required to sell saltwood to Kevaran merchants at set prices - laborers get underpaid
 	- Laborers are mostly low lvl druids spamming Druidcraft cantrip to get trees to grow faster
 	- Some higher class Avizallans make a profit by working for Kevarans to manage the groves - Court sells contract work to manage saltwood
@@ -38,7 +40,7 @@ Kevaran Influence
 
 # The Court of Birds
 ### Members
-**Owl** (religion): she. Haltingly soft spoken.
+**Owl** (religion): she. Haltingly soft spoken. Fastidious, a little uptight, neat freak. 
 - Identity: Morgana Saire, human death cleric/warlock of Gilead
 	- ex-Felichian priest, abandoned the church when she discovered Gilead's power
 - Heads all religious functions, manages clerical rituals for aquifers
@@ -48,7 +50,9 @@ Kevaran Influence
 - Corresponds w Vasilev, presents as an ally to her
 - Worked with Leanna to find the lance of Kevar
 	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
-- Has asked Giltstern for help, was refused
+- Grudge against Raven - opposed her selection into the court, is pretty convinced Raven poisoned her competition
+	- Owl has a special blindness for her own hypocrisy
+	- Knows that Raven has been doing illicit stuff for strikers, says it's pushing Avizallo closer to war
 - stats
 	- form of dread - boss battle stages
 	- shatter spell - this is kinda not in flavor tho
@@ -58,10 +62,10 @@ Kevaran Influence
 	- hires other local farmers to help tend fields every few weeks
 - Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
 
-**Raven** (intelligence/spymaster): she. Reclusive, unknown.
+**Raven** (intelligence/spymaster): she. Reclusive, unknown, ruthless.
 - stats: Lawkeeper 5 (essential npcs)
 - Identity: Zora Courier, mixed species. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
-- Newest councilor after Kingfisher - joined only 5mo ago
+- Newest councilor after Kingfisher - joined only 1.5yrs ago
 - Anti Kevara but highly suspicious of current war mongering
 - Trying to take down the Kevaran trade firms, supporting the strikers, guerilla tactics destroying company property
 - Mistrusts Kingfisher for her perceived closeness to the Kevaran elites
@@ -73,6 +77,7 @@ Kevaran Influence
 	- runs some library type thing?
 - Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher, Macaw
 	- Thinks Macaw needs to approve more seagrass flats instead of saltwood, more farming instead of construction
+	- Thinks Gyrfalcon isfurther entangling Avizallo with outside world, has upstart ideas about restructuring ownership of saltwood groves. Opposed to them from the grading of manuscripts
 	- More interested in a nonexistent, glorious past than the present
 
 **Macaw** (agriculture/land use): he. Gregarious, comedic.
@@ -86,7 +91,7 @@ Kevaran Influence
 	- Financials has been bad (parents squandered their wealth), has turned to corruption to keep up
 	- Owes money to Giltstern
 
-**Kingfisher** (treasury/commerce): she. Distant, refined, calculating. 
+**Kingfisher** (treasury/commerce): she. Distant, refined, calculating. Mildly french
 - Identity: Kristryn Eledeia. Married an Avizallo noble (Evran Eledeia) who she found out was the previous Kingfisher in order to assume the role from him. 
 	- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
 	- Eledeia family was also a saltwood baron
@@ -99,13 +104,15 @@ Kevaran Influence
 	- Purchased saltwood from Gandras by Eledeia (basically purchasing immature saltwood that Eledeia will presumably finish growing then sell) - Gandras needed the money
 - Studying necromancy to revive failed saltwood crops
 	- Lots of Eledeia saltwood has failed, partially bc of fray/undead attacks
+- Trying to insert her own choice as gyrfalcon's successor - passing old/upcoming exam questions to Myla
+
 ### Masks
 - Masks guard their identities - origins in avoiding the plague, or for impartiality, safety
 - Masks cannot be unwillingly removed except DC30 str check (would also significantly injure the face)
 	- In death, can only be removed by consensus among the Court
 - Cannot be worn by anyone who is not the owner - inflicts damage
 - Immune to mind control magic that would make someone remove their mask, disclose identity
-- Masks give advantage on zone of truth saves?
+	- Also give advantage on zone of truth saves
 - After death of a Bird, a civil service exam happens - highest scorer becomes successor. The other birds never find out the new one's identity. 
 - Each represent aspects of the divine Birds, seen as a mouthpiece for their will
 Other stuff

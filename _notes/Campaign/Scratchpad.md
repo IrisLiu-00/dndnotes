@@ -5,13 +5,14 @@ ANNOUNCEMENTS
 
 Todos - immediate
 - Voices, stat block review
-	- spanish accent (josephine)
-- maps: 
-- stat blocks: sahuaguin zombie
+- maps: sahuagin, fray wraiths
+- stat blocks: corinsson, mettlewise, fray wraith, kingfisher (necromancy), Owl
 - prep battle in harmlesskey, owlbear, 5etools
-	- dungeon final
+	- sahuagin, fray wraiths
 - figure out
 
+What they know
+- 
 
 
 # Notes
@@ -99,19 +100,10 @@ Battle tactics
 			- appears to be working with the BBEG - connections to Owl
 ### Immediate - Avizallo
 - Guiding stars: Coriolis mystery, Bluemoon backstory, Tensorat
-- Vasilev's angling on the saltwood deal should relate to her scheming
-	- danger of exposing her identity
-	- frame giltstern for something that would turn popular opinion. selling wood to elves? make it look like they're selling kevara out to elven domination. bc of the trade winds, the ships carrying wood have to come back by river, thru the mirwood...
-- details of zora's search for stolen ring. reed thinks his wife is cheating on him with...?
 - establish coriolis' past in avizallo, he is the air elemental butcher mentioned
 	- sth with Bridgewater college diploma, framed air guitar
-	- get some air elementals to fight
-	- plant rumors everywhere. get a rumors table
-	- coriolis was born around here - hes got a lair thing around avizallo
 	- valespinner related to coriolis?
 	- Tensorat gave coriolis a safe haven after imprisoning him - where? kevara? relate to queen of thieves
-	- cache of genie treasure? could b cool
-	- relate to Reed?
 - have players do sidequest for owl - make them trust her
 	- what could players need owl for? convince another councillor to unmask. access the dead body/rookery offices? forge/steal a government worker's mask?
 	- sth related to temple? monster infiltration. 

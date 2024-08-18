@@ -10,12 +10,13 @@ RULES: [One-Page Cheatsheet](https://docs.google.com/document/d/1Brv6HhHG5rJGyFu
 
 TABLETOP: [https://www.owlbear.app/room/-xx9g-L9pOws/TheScantCrew](https://www.owlbear.app/room/-xx9g-L9pOws/TheScantCrew)
 
-INITIATIVE: https://shieldmaiden.app/user/aJ8tJ2qmJQeVZKv0W96fg540OKD3
+INITIATIVE: [https://shieldmaiden.app/user/aJ8tJ2qmJQeVZKv0W96fg540OKD3](https://shieldmaiden.app/user/aJ8tJ2qmJQeVZKv0W96fg540OKD3)
 
 # Handouts
 
 [[Ass Play Work Orders]]
 
+[[Kite Dueling - Rules]]
 
 
 

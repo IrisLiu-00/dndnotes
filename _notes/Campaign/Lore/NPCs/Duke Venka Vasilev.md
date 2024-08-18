@@ -52,13 +52,18 @@ Level 3: 2 slots
     - Divert city funding to public health + infrastructure - much if it is currently hemorrhaged via corruption, lobbyists (dock warehouse overseers, gentrification)
     - Allies with organized crime to try to curb their activity
         - Crime doesn’t happen because people just decide to stab pedestrians for fun; crime happens when people feel that they don’t have the power to affect change within the bounds of society. In that case, the existence of crime reflects a failure of society, not of morality.
+- close servant/secretary: Tao Lune, mild mannered easterner
 ### Backstory
 - Publicly presents as male, transed her gender ~teen years?
 - Old Duke Vasilev adopted a drow son (Victoro) for the status, Venka came along as a page / playmate / scullery boy
     - Venka assassinated the old duke, sent Victoro back to Underdark > took Victoro’s identity as heir
+    - Assassination is commonly known/rumored
 - Deeply ashamed of past - abuse, low origins, old weakness
-- Common rumor that Venka assassinated adopted father
+- 
 ### Positioning
 - Holds the decryption key to Giltstern communications 
 - Getting grave relics to spoof election votes
 - Always drinks from a flask to avoid the dragon curse - so she can eventually poison the Patrician
+- Filroy has found out that Vasilev is sending large amounts of money to someone in the Mirwood (real Victoro)
+	- Filroy - who is it? a bastard child? an elven spy? or are the rumors false, and you couldn't bring yourself to kill your old bastard father, after all? whoever it is, I'll find them out..
+	- V makes sure the saltwood deal goes thru so Giltstern stocks appreciate, and bribes Filroy with all the stocks she inherited. Also lets Filroy take credit for hiring the PCs/stopping the war, so he gains status. 

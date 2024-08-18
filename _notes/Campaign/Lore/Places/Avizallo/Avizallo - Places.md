@@ -2,26 +2,63 @@
 ## La Centra (central pillar)
 #### Rookery
 - Central gov building
+Clues
+- [ ] Owl holds all the old exam scrolls, including gyrfalcon's
+- [ ] Macaw left one of Orin's letters at his office, Owl has it
 #### The Featherweight
 - Kite and kite supplies store, owned by Myla Stonecutter
+- Description: The top floor of a round tower set on an elevated promontory. Good quality stonework. Balconies, large viewing windows where people spectate and gamble on kite duels.
+	- External lift takes you up to the top floor balcony, or there are stairs inside
+- Sports betting, managed by Myla
+	- Kites need a registered name to be bet on
+	- Decimal odds give how much return for each gold coin wagered. Favored kites have lower odds.
+- People: Myla, Krystin/Kingfisher, Mettlewise 
 - Clues
-	- Kingfisher passing Myla exams - Orin's copy of exam, among some others
-	- Myla supplying Kingfisher spell components (powdered silver, bird bones) 
-	- Samples shipped by Kingswill - gave transponder/leaflet printer to Mettlewise
+	- [ ] Kingfisher passing Myla exams - Orin's copy of exam, among some others
+		- correspondence from K that they need to act fast in the wake of murder. delivered by one of the K automata
+	- [ ] Myla supplying Kingfisher spell components (powdered silver, bird bones) 
+	- [ ] Samples shipped by Kingswill - gave transponder/leaflet printer to Mettlewise
 #### Kareem's Beans
 - Coffeeshop / tavern / inn run by Kareem
-	- coffee is pretty rare in Avizallo, and Kareem sells for reasonable prices. It's always busy here.
-- interesting features?
-- People: Zora, Myla
+	- coffee is pretty rare in Avizallo, and Kareem sells for reasonable prices
+	- Can also let out rooms for 2g/day
+- Description
+	- Plush rugs, potted plants, cozy. Smell of coffee. But there's also a rusted shield, swords hanging on the wall. Double bladed axe behind the counter. Copper countertop w coffee machine, rickety tables.
+	- Counter set on hydraulic piston legs - can raise or lower if Kareem is in chair or walking
+	- Fresh grinded coffee from the Sutherlands, honest meals, rotating pastries
+- People: Zora, Myla, Owl (for the baked goods), Mettlewise (requisition the property)
 - Secret magic items shop. Kareem is looking to pawn off some goods from adventuring days
 	- a lot of his treasures are unidentified loot from past adventures
 	- sold a nice ring to Reed a while ago (didn't know it was a ring of mind shielding)
-- Direct access to reservoir, since it's harder for Kareem to get to a fountain
+- Fountain in the backroom gives direct access to reservoir - it's harder for Kareem to get to a fountain
+###### Shop
+- Tidebreak Sandals: 270gp. Requires attunement.
+	- Wavesurfer. While wearing these sandals, you can move across even the wildest of waters as if you were on solid ground. Additionally, your speed increases by 15 ft when walking on water.
+	- Crashing Tide. If you move at least 15 feet in a straight line toward a creature and then hit it with a melee weapon attack or a melee spell attack, you can use the power of the sandals to unleash a crashing wave. The target takes an additional 3d6 bludgeoning damage, is pushed back 15 ft, and must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your Strength or Dexterity modifier, your choice) or be knocked prone. Creatures that are Huge or larger do not get pushed but can be knocked prone. You can use this ability a number of times equal to your proficiency bonus, regaining all uses after a short or long rest.
+- Scrying Marble: 200gp. A small round marble painted in the likeness of an eyeball. Once attuned, you can see through the marble as if you were in that location. 
+- Brooch of the Panther: 250gp. While wearing this brooch, opportunity attacks against you have disadvantage. 
+- +1 Maul: 150gp. Gives +1 to attack and damage rolls made with this weapon. 
+- Perspection Funnel: 120 gp. A funnel with a mouth 10 inches wide and a nose 1 inch wide. Anything passed through the small end grows to 10 times its size, and anything passed through the large end shrinks by 10 times. The effect lasts for 10 minutes.
+- Potion of Healing: 50gp, 2 in stock. Gain 2d4+2 hp.
+- Potion of Greater Healing: 250gp. Gain 4d4+4 hp. 
+- Bundle of Sticks: 20gp each. All wooden, uneven lengths. Taken from a mischievous goblin. Kareem isn't sure what they all do.
+	- Stick of Incomprehensible Value: This stick forces any creature which examines it to make a DC 10 Wisdom Saving Throw. On a failure, the creature is stunned for one round as it attempts to wrap its head around how something could be so worthless as this stick.
+	- Feline Stick: This stick feels furry despite having no hair. When the stick is stroked, it emanates a soft purring noise. Occasionally, a creature which touches this stick has the urge to somehow feed it fresh fish. Or feed it a Fish Stick.
+	- Stick of Good Boys: When a well-behaved dog sees this stick, it can’t help but want to play fetch with it. Unfortunately, the stick compels dogs to play with it until they collapse from exhaustion, and dogs will get grumpy if people stop throwing the stick or if they take it away.
+	- Chocolate Stick: This stick is flavored like chocolate.
+	- Stick of Being Different Colors: Any creature which sees this stick must succeed a DC 10 Wisdom Saving Throw or believe this stick is a random color. The color is different for each creature that fails, and failing creatures are compelled to mildly argue with any other creature that says it is a different color.
+
+
+
+
 
 ## La Norza (northermost pillar)
 #### Temple
 - People: Owl, Mettlewise, Raven (praying)
 - Patrons can purchase bird seed, fruit to scatter and feed the birds
+Clues
+- [ ] Personal shrine to a six winged, golden bird - legendary thunderbird, actually the golden one. 
+- [ ] Owl has a bunch of books about Felichianism - an old treatise on aspects of Felichias. The aspect of the guardian presents in a beastly form, guards ppl's fates from being pulled astray
 
 #### Reservoirs + Tensorat's Lab (can be moved)
 - lab has been flooded by reservoirs
@@ -36,8 +73,8 @@ Genie trap:
 
 ## L'Esta (eastmost pillar)
 #### Eledeia residence
-- Eledeia's saltwood groves - a lot destroyed, dead
-- Dol's saltwood groves (leased to Eledeia)
+- Eledeia's saltwood groves - a lot destroyed, dead. damaged by the wraiths
+- Dol's saltwood groves (leased to Eledeia), also damaged
 Clues
 - [ ] has necromancy books (Codex Abiologica: Applied Necromancy for Non Sentient Lifeforms)
 - [ ] Bunch of the groves are doing poorly/kinda dead, while others have been resurrected with necromancy
@@ -48,29 +85,35 @@ Clues
 - Descend via a long series of wooden platforms and ladders (or sail there?) - could be interesting encounter loc
 	- private property, guard forces to fight around it
 - Automata get ferried here, constructing a trading ship
-- Tucked away nook holds the skulls of Sahuagin fray wraiths, submerged in water
+- Tucked away nook holds the skulls/bodies of Sahuagin fray wraiths, submerged in water
 	- automata dumping a box of them into the water
 
 ## La Sul (southmost pillar)
 
-Water system has been taken out 
+#### Destroyed Reservoir
 - water getting shipped over from other isles, ppl need to line up to collect
 - telling civilians it's an infrastructure issue, doing routine repairs
+Clues
+- [ ] Fish scale (sahuagin) embedded in the wood fragments of the reservoir waterwheel
 #### Docks
 - Bargewright's: a floating tavern moored amongst the roots
-	- Connected to cheap sailor's bunkhouses
+	- Cheap alcohol, sailor's bunkhouses (1g/day)
+	- They're out of water, only beer
 	- People: Reed, Shane, Raven/Zora
 #### Moored Ships
 - Docks for foreign ships, where visiting foreigners often reside
-- Giltstern flagship
+- Conviviant (giltstern flagship). White hulled, crimson sail. Emblazoned with the crests of Kevara (gate over sea) and Giltstern (coin pierced by arrow)
 
 ## La Varza (westmost pillar)
 
 #### Riot / Murder Scene
+Clues
+- [ ] Gyrfalcon's body, other strikers' bodies - blunt force and electrocution
+- [ ] Discarded cargo container: blood stained, used to transport Orin's body 
+- [ ] Destroyed automata are not part of Giltstern fleet, but the Eledeia fleet
 #### Saltwood Groves
 - People: Gandras, Reed
 - Saltwood-carved statue of Vapor (Bluemoon's dad)
-- Discarded cargo container: blood stained, used to transport Orin's body 
 
 #### Seagrass Flats / Shantytown
 - Description
@@ -85,8 +128,6 @@ Water system has been taken out
 #### Orin Skymark's Homestead
 - Owl has set some trap here - something to fightttt
 	- mimics? but more difficult
-- why did owl not destroy all the clues in the house?
-	- she couldn't, it's guarded by some artifact 
 - gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
 - Leads: reservoirs, kites?
 Clues (maybe offload some to a secondary location, guarded by another encounter?)
@@ -95,10 +136,10 @@ Clues (maybe offload some to a secondary location, guarded by another encounter?
 	- [ ] Orin has also told all their neighbors they should refuse similar offers
 - [ ] Filler: orange and blue kite with a wing torn. 25 gold stashed under the bed, untouched. Crossbow, shortsword. (add stuff abt working with unions)
 - [ ] Tiny bit of blue powder, broken string (overturned box?) (from Owl's crushed lapis prayer beads, found at atoll)
-- [ ] Noticed Reed wearing a ring of mind shielding and knew what it was. Later Reed told them it got stolen, and Orin got worried
+- [ ] Noticed Reed wearing a ring of mind shielding and knew what it was. Later Reed told them it got stolen, and Orin got worried (or only Raven knows this?)
 - Investigating fray wraith attacks, possible connection to reservoir attack at same time
 	- [ ] Asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
-	- [ ] Fish scale in the waterwheel piece
+	- [ ] Fish scale (from the waterwheel piece) (optional, maybe don't say where from)
 	- [ ] Maybe suspicions that the wraiths are not real wraiths?
 	- [ ] Asked Macaw to audit Fray damages in the various trading firms that do business at the isle. The only one that didn't have damages recently was Kingswill trading
 	- [ ] Found the atoll where kingswill got permission to cull sahuagin, build a ship dock

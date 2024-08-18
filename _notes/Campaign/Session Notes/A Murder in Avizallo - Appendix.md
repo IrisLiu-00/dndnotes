@@ -57,8 +57,8 @@ Kingswill Trading Co.
 - Assassin sniped gyrfalcon while they were off service in their apt
 - Incite the riot by having automata fire into the strikers
 	- actually Kingfisher's automata under her control, not Giltstern's
-- faked lividity by beating up the body, then plant the body at the site of riot
-	- Assassin casted Lightning Arrow to get electrocution burns
+- faked lividity by beating up the body - corinsson casted Lightning Arrow to get electrocution burns
+- use the automata, crates to deliver body to the site of riot (during the chaos)
 # NPCs
 ## The Councillors
 
@@ -77,42 +77,41 @@ Kingswill Trading Co.
 - Zone of Truth: refuse to cooperate if she doesn't trust PCs
 - Gyrfalcon asked them a few months ago on records of past fray tides
 **Macaw**: unknowing accomplice (how), corrupt, soft/optimistic on kevara
-- Alibi: working late in the office (lie), can't say he was actually overseeing at the riots
+- Alibi: working late in the office (lie), can't say he rushed to the riots as Gandras
 - Gandras saw Kingfisher at the riot, but Macaw can't say
 - Zone of Truth: fully cooperate
 **Vulture**: 
-- Was the most vocally opposed to gyrfalcon - thought they were further entangling Avizallo with outside world, had upstart ideas about restructuring ownership of saltwood groves
-	- Was opposed to them starting from the grading of manuscripts (disliked political opinions in the essays) 
+- Was the most vocally opposed to gyrfalcon -
 - Alibi: refuse to talk to outsiders? but he was working late in the office, did not see Macaw
 - Zone of Truth: refuse to cooperate
-**Kingfisher**: trying to insert her own choice as gyrfalcon's successor? trying to route macaw
-- Alibi: was at the site of the riot (conferring with Giltstern earlier). Lie and say she had left by the riot?
+**Kingfisher**: 
+- Alibi: Krystin was near the riot (conferring with Giltstern abt another automata purchase). Might say she was with a business associate/client?
 - Zone of Truth: probably reluctant, afraid of exposing other secrets. 
-- Has purchased a suite of automata for her personal protection (via giltstern)
-- Trying to insert her own choice as gyrfalcon's successor - passing old/upcoming exam questions to Myla
-- Studying necromancy to revive failed saltwood
 - Necromantic wards?
 ## Other Guys
 
-**Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte. Prophet, child prodigy. type A, tattletale. 
-- Very talented paladin, great at taming/interpreting the birds (powers?)
-- Goody two shoes, tattletale. Could get on PCs' heels
+**Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte. Prophet, child prodigy paladin. type A, tattletale. 
+- Appearance: Teeny little goblin in pauldrons, breastplate, glasses
+- Leads the Feather Scouts - sell cookies, annual boating trip, charity for schools/temples/less fortunate
 - Uses fighter kites to disperse religious fliers - was talking to Owl about a way to promote the temple services more, Owl suggested using the kites
 - how did she win Valespinner? idt by flying talent
 - Angling to become the next Councillor - there's no age requirement. Owl wouldn't' mind having a pawn
 - Trying to requisition Kareem's shop to build a new seminary. Owl suggested bc the inn is over a major reservoir entrance. 
 - May come after players for petty crimes
-- relation with dwarf shopkeep?
-**Lieutenant Corinsson**: undead elf ranger bound into Morgana's service. assassin
+- relation with Myla?
+**Lieutenant Corinsson**: undead elven air genasi ranger bound into Morgana's service. assassin
 - play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
 - gloomstalker + assassin rogue
-- Ranger working for Moonflowers, investigated strange happenings in the Mirwood and got killed by Onkeioros. Moonflowers passed him onto Morgana
+- Appearance: pale, wispy white hair. blank white eyes
+- Corin's son, air genasi, born 50 yrs ago. It was well known that he was related to Corin
+- Owl was sent to kill him 2 yrs ago so Indira would be the only heir, inherit the power
+	- left on a ship chartered by kingswill, never seen again?
 **Isaiah Giltstern**: head of Giltstern trading firm
 - stats: Ruler Noble (essetial npcs)
-- Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. 
+- Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. Rakish. 
 - Sponsoring Morgana in her plot to start a war, or at least cause enough trouble that he can gain the upper hand in negotiations
 	- Profess to not want a war bc it might cause difficulties in getting saltwood (Avizallo could just torch everything). Also bad for trade. 
-- Wants this labor issue resolved so he can buy the saltwood
+- Wants this labor issue resolved so he can buy the saltwood. "we pay these people a fortune for some trees, all because they're the only ones who have it."
 - Pressuring Gandras Dol to repay his debts. Annoyed at Gandras' inability to suppress saltwood workers
 - Has worked politically with Macaw, Kingfisher to negotiate imports. Conflict w Gyrfalcon
 - Residing on the moored Giltstern flagship 
@@ -120,26 +119,29 @@ Kingswill Trading Co.
 	- From Gyrfalcon (day before riot): I'll warn you again to keep your hired muscle off of the columns; and for that matter, they shouldn't be on civilian-use docks either. I will be at the picket line starting tomorrow morning. Don't think of trying anything. 
 	- To Macaw (few days ago): I'd like for us to meet on board Conviviant, this next Sixthday. We need to do some real damage control around this damn strike, and I remind you of your other obligations as well. Do the bare minimum and bring your next installment when we meet. 
 	- From Owl (month ago): I would appreciate you (and other traders) limiting the number of Felichian missionaries you charter to the Isle. I understand your flagship has a company of 250 sailors that require a stone's worth of libations per day, but work that takes them inland can be as easily handled by those automata you've purchased. I would hope you could order these changes by ruler's desire. 
-		- _the flagship needs far more than 250 sailors. what is a stone of libations? Ruler's Desire?_
+		- _coded message to get black diamonds via kingswill. the flagship needs far more than 250 sailors. what is a stone of libations? Ruler's Desire?_
 	- To Kingfisher (half a yr ago): I have word that your shipment should come in by sixthday. The boxes are marked with Luca Industries but I'll send an attendant to deliver them to you. It's been a pleasure doing business. 
-**Reed**: firbolg. Leader of saltwood growers at La Varza, under Gandras
+**Titus**: firbolg. Leader of saltwood growers at La Varza, under Gandras
 - stats: Druid
+- Appearance: ponytail, arm wraps. Hardcore, testosterone, titus hardie (hard consonants, cursing)
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
 - Thinks Delaney is a cop, sellout, scab
 - Ring of mind shielding got stolen
 **Delaney**: human. Leader of saltwood growers at La Norza, under Gandras
 - intense rivalry with Reed, stoked by Gandras
-**Josef**: human. Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
+**Josef**: human. Old, rly french
 - stats: Commoner
+- Old seagrass farmer who cares for Gyrfalcon's homestead when they're absent
 - Orin told him they're often busy upshaft, not physically well
 **Sabra Do**l: Gandras' Dol's daughter. 16 yrs.
 - stats: Commoner
-- voice: naradriel, slight lisp. 
+- Appearance: head kerchief, nice skirt. Daddy's girl, naradriel, slight lisp. 
 - unaware of father's corruption, vaguely aware of family's money problems
 - friends with Qrystin Eledeia - has lent books to her (on magic, cycles of life and death)
 **Myla Stonecutter**: female dwarf, 30s. Shopkeep of the Featherweight.
 - stats: STR 2, DEX 0, CON 1, INT 3, WIS 2, CHA 0
+- Appearance: wispy beard, long hair with beads. chill stoner with underlying intensity/acuity. 
 - Kingfisher's protege. Knows Kingfisher's identity. Kingfisher is helping her with the exam.
 - Similar politics as Kingfisher but can be more vocally anti Kevara.
 - Helping Eledeia by:
@@ -149,12 +151,15 @@ Kingswill Trading Co.
 - Disowned from stonemasons, chip on her shoulder. Trying to prove herself and regain power (become a councillor). 
 - Kite shop is a good way to keep an ear on the ground, but kind of resents doing menial labor. 
 **Kareem**: half orc, 40s. Owner of Kareem's Beans
-- stats: Hobgoblin warlord
+- voice: gravelly, down to earth, uneducated. 
 - has a prosthetic leg / walker chair made by wizard friend Eidola
 - ex adventurer, disabled in final battle against a worshipper of the Golden Lord (Giltstern)
 	- was in same party as Edith (orc ranger)
-- Friends with Zora
-- Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
+- Heavily attached to his establishment, represents stability after a life of unrest. A little complacent
+- Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. 
+	- Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
+	- Hopes the political unrest won't get that bad, fear of losing coffee trade
+- Kind of friends with Zora but has recently been frustrated with her - convinced him to let the secret guerilla fighters meet in the shop after hours??
 
 # Loose Clues
 
@@ -163,8 +168,6 @@ _Populate locations with. Check off when revealed._
 Big stuff
 - [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
 - [ ] omens from the Birds that Owl is a false cleric (cowbirds)
-- [ ] Owl has a bunch of books about Felichianism - an old treatise on aspects of Felichias. The aspect of the guardian presents in a beastly form, guards ppl's fates from being pulled astray
-- [ ] Personal shrine to a six winged, golden bird - legendary thunderbird, actually the golden one. 
 - [ ] Owl is holding the other side of the spies blood diary
 
 Murder
@@ -173,7 +176,6 @@ Murder
 - [ ] Imprint of the ring of mind shielding - in the mud at hidden cove, a paper from Owl, ?
 - [ ] New set of prayer beads commissioned for Owl
 - [ ] eyewitness of the assassin (a tall, unrecognized man, elf height) scaling the side of a pillar
-- [ ] Fish scale (sahuagin) embedded in the wood fragments of the reservoir waterwheel
 
 Automata plot
 - [ ] Cargo crates labelled for Kingswill Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
@@ -195,19 +197,12 @@ Paths to Owl
 	- mettlewise > myla > kingswill > Morgana
 - Kingswill > owl mentions "Ruler's Desire"
 - missing ring > imprint of ring on something owl has touched?
+- gyrfalcon > bullet wound > sniper > corinsson missing > ??? > Owl
 # Monsters
 - Avizallo Cleric
 - Sahuagin, Sahuagin fray wraith
-	- drowned zombie stat blocks - bluerot
 - Can convert other dead things to fray wraiths also
-- Owl has made allies with some sahuagin? lets make them non-sentient
-	- has some artifact to charm them/ stole something of theirs to force them to work for her
-- Owl summons some monsters to take out the cisterns
-	- elementals? 
-	- undead? would fit with her teachings to leanna. undead sahuaguin? could be very cool..
-	- clues abt felichian nature - should be divine???
 - Avizallo soldiers
-	- reflavored misty step to give them a short flying ability
 - 
 # Resources
 
