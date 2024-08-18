@@ -1,3 +1,7 @@
+---
+title: Kite Dueling Rules
+---
+
 This is NOT playtested so I reserve the right to adjust rules at any time. Suck my toes
 
 Your Kite Collection: https://docs.google.com/document/d/1TsOo_7Sw4Fbg9EbDXxTb4GPhYQvg4LFMn7rZpAKjpGI/edit?usp=sharing
