@@ -99,7 +99,7 @@ Clues
 - Bargewright's: a floating tavern moored amongst the roots
 	- Cheap alcohol, sailor's bunkhouses (1g/day)
 	- They're out of water, only beer
-	- People: Reed, Shane, Raven/Zora
+	- People: Titus, Shane, Raven/Zora
 #### Moored Ships
 - Docks for foreign ships, where visiting foreigners often reside
 - Conviviant (giltstern flagship). White hulled, crimson sail. Emblazoned with the crests of Kevara (gate over sea) and Giltstern (coin pierced by arrow)

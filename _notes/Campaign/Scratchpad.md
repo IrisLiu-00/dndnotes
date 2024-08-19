@@ -4,6 +4,8 @@ ANNOUNCEMENTS
 	- check understanding + open questions for PCs
 
 Todos - immediate
+- Update map - gandras house, featherweight, kareems
+- Myla - upgrades offered for kites
 - Voices, stat block review
 - maps: sahuagin, fray wraiths
 - stat blocks: corinsson, mettlewise, fray wraith, kingfisher (necromancy), Owl

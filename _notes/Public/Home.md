@@ -16,7 +16,7 @@ INITIATIVE: [https://shieldmaiden.app/user/aJ8tJ2qmJQeVZKv0W96fg540OKD3](https:/
 
 [[Ass Play Work Orders]]
 
-[[Kite Dueling - Rules]]
+[[Kite Dueling Rules]]
 
 
 

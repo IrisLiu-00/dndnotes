@@ -91,9 +91,11 @@ La Varza, the saltwood groves
 	- Kareem's, Bargewrights. show the kite fights.
 	- people: owl, macaw, raven/zora (spying), giltstern
 	- have them figure out where they're staying for the night
-- meet up w owl - she was the one who told V about the wraith attacks, can give general advice if needed
-sabra starts with death saves
-how to demonstrate automata remote control
+- Saved Sabra's life, they are now staying at the Dol mansion
+- Everyone bought a kite, Sabra and Toby are going to practice
+- Went to Bargewrights. 2 Giltstern sailors, starting to talk to Titus. 
+how to demonstrate automata remote control. show them coming back to roost as they leave?
+meet up with owl
 
 #### Riot and Murder
 - At evening, Giltstern issued remote order to recall automata - he needs extras to unload a shipment in time

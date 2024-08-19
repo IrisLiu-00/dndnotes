@@ -1,5 +1,7 @@
 ---
 title: Kite Dueling Rules
+permalink: /kite-dueling-rules
+layout: Post
 ---
 
 This is NOT playtested so I reserve the right to adjust rules at any time. Suck my toes
