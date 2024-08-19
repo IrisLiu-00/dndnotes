@@ -7,14 +7,14 @@ Todos - immediate
 - Update map - gandras house, featherweight, kareems
 - Myla - upgrades offered for kites
 - Voices, stat block review
-- maps: sahuagin, fray wraiths
+- maps: 
 - stat blocks: corinsson, mettlewise, fray wraith, kingfisher (necromancy), Owl
 - prep battle in harmlesskey, owlbear, 5etools
-	- sahuagin, fray wraiths
 - figure out
 
 What they know
-- 
+- there was an air genasi working in the guard some years ago 
+- la sul reservoir is broken
 
 
 # Notes

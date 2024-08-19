@@ -95,6 +95,8 @@ A 100+ yr old kite, engineered by Tensorat. The undisputed champion. [0.1]
 Multi-action: Valespinner takes 2 actions on each of its turns.
 ...more stuff
 
+## Modifications
+
 
 ## Ideas
 

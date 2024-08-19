@@ -6,20 +6,24 @@ layout: Post
 
 This is NOT playtested so I reserve the right to adjust rules at any time. Suck my toes
 
-Your Kite Collection: https://docs.google.com/document/d/1TsOo_7Sw4Fbg9EbDXxTb4GPhYQvg4LFMn7rZpAKjpGI/edit?usp=sharing
+[Your Kite Collection](https://docs.google.com/document/d/1TsOo_7Sw4Fbg9EbDXxTb4GPhYQvg4LFMn7rZpAKjpGI/edit?usp=sharing)
 
 Each battle costs 1 hour of time (this includes both finding an opponent and the battle itself).
 
 # Kite Stats
 
 **DURANCE:** a measure of your kite's current sturdiness. Analogous to its health.
+
 **POWER:** the force at which your kite can move.
+
 **AGILITY:** the maneuverability and speed of your kite.
+
 **POSITION:** a representation of your kite's height. To calculate the actual height of your kite in feet, add 30 to its POSITIONING
 
 # Dueling
 ### Starting a duel
 Both kites roll AGILITY to determine starting POSITION. Your POSITION is 20 + your agility roll. The kite with the greater POSITION starts first.
+
 ### On your turn
 ###### Check your POSITION
 - POSITION >= 0: You are below the height of most buildings and are no longer reachable by other kites; you are considered as having withdrawn from the duel.
@@ -30,6 +34,9 @@ You may take one action. The standard actions below are available to everyone; t
 - **Attack:** Roll POWER. If your position is higher than your target, add the increased height to your roll. You do not add or subtract anything if you are lower than your target. 
 	- You immediately lose height equal to your total attack roll (POWER+height difference)
 	- Your target rolls AGILITY to evade. If the total of your roll is greater than the target's evasion roll, the target loses the amount of difference to their DURANCE. 
+
+Control then passes to the next kite.
+
 ### Ending the duel
 You lose the duel if:
 - You lose all your DURANCE.
