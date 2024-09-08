@@ -94,6 +94,7 @@ La Varza, the saltwood groves
 - Saved Sabra's life, they are now staying at the Dol mansion
 - Everyone bought a kite, Sabra and Toby are going to practice
 - Went to Bargewrights. 2 Giltstern sailors, starting to talk to Titus. 
+	- Titus has a heavy ring on his pinky. Wife Ella comes demanding child support
 how to demonstrate automata remote control. show them coming back to roost as they leave?
 meet up with owl
 
@@ -105,9 +106,11 @@ meet up with owl
 	- Some say the riot started bc strikers threw rocks, or bc a wraith was spotted, or the automata just started firing into the crowd
 	- Number of workers were killed
 - Gyrfalcon gets killed in the chaos
-	- gyrfalcon has electrocution, blunt force, lacerations
+	- Tight mask, headwrap slightly loose. Clothing rumpled.  Boot laces are slightly loose (assassin put them on). 
+	- Pockets: bit of money
+	- Body has electrocution, blunt force, lacerations
 - Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for 500 extra gold. Don't let it go to war. Make the saltwood deal go thru. 
-	- Insight check: a little edge of ruthless desperation
+	- Insight check: a little edge of ruthless desperation. Pissed if they weren't at the docks.
 - Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
 	- Kingfisher refuses to unmask while outsiders (PCs) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
@@ -119,22 +122,36 @@ meet up with owl
 	- Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
 	- Raven stays silent
 - Signing of saltwood deal is halted
+- Titus, some other druids taken for questioning. Ella complains he won't be able to pay child support. Owl breaks them up, steals the ring.
+
 
 ## Upcoming
 
+Break into rookery
+- Get disguises from the guards, an access key
 Kingfisher Sidequest
-- Unmask Macaw. She believes he's corrupt
+- Unmask Macaw. She believes he's corrupt, wants to usurp him to insert her own choice
+- Gandras Dol might take the PCs help to stop vandalism
 - interview him: Macaw's governmental duties, political opinions
 - try to tail him
 	- lead to the saltwood groves
 - spy on his office
 	- Macaw often forgets correspondence at his office - he comes looking for stuff that Owl already stole
-- go investigate land use
-- Gandras Dol might take the PCs help to stop vandalism
+	- minidungeon thing to break into his vaults at home? tall tower. trap, puzzle, monster (deploys if password wrong)
+- Clues
+	- Family is not doing that well financially, parents squandered wealth 
+	- Gandras owes debt to Giltstern - giltstern correspondence
+	- Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
+	- Paper trail on faulty tax breaks
+	- Leasing saltwood groves to Eledeia to make a quick buck - instead of waiting for maturation
+- Leads
+	- Gandras saw Kingfisher at the docks, shortly before the riot. Macaw can't say.
+	- Gandras knows Eledeia has some shady accounting too, hasn't said anything for fear of exposing himself
+	- reward with info (relevant to both short/long term), some money
 - leads: saw kingfisher at the riot, shady accounting from eledeia, it wasn't giltstern's automata at the riot
 	- gandras got control of the giltstern automata at one point
 - reward that ties into mainline: a kite he's framed, another clue?
-- if they majorly damage Gandras his faction can come after them
+- if they majorly damage Gandras his faction/Giltstern can come after them
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 - Vulture would like to weaken Kingfisher - too chummy with the Kevarans
@@ -146,59 +163,57 @@ Unmasking Gyrfalcon
 - magic missile / sniper wound within Orin's mouth
 - electrocution burns on body don't entirely match automata attacks (was a spell instead)
 - leads: reservoirs (from house), 
-Ramping tension at the docks / something related to V's directive?
-- Monsters attack - growers refuse to defend
-- Fray tides
-- Saltwood growers get even more incited, start vandalizing Dol/Giltstern property
-- Kevarans try to harvest saltwood by force? what's stopping them
-- Gandras' corruption - he has overpromised saltwood stock and failed to deliver
-- Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 Raven starts tailing the PCs out of suspicion
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
 - Zora plants a tracker on one of the PCs
-- Zora investigating a mystery for Reed: he purchased a nice ring off of Kareem a few years back and it's missing
-	- Reed wears it on a chain around his neck, puts it in a dish when he goes to bed
-	- Reed thinks his wife Ella is cheating on him with, wife stole it to give to 
-	- His wife works late nights at Kareem's Beans
-	- Reed has previously found Ella
+- Zora investigating a mystery for Titus: he purchased a nice ring off of Kareem a few years back and it's missing
+	- Titus noticed it missing when they checked him out of questioning at the Rookery
+	- Titus thinks his ex wife Ella took it off him to pawn for child support
 	- Zora thinks the new adventurers in town might have stolen it, since adventurers are treasure hungry
+	- Zora knows the ring is magic from Kareem, a little worried
 - leads: kites
 	- either Raven trusts them and tells them Merriwink is up to something weird, or Zora says she's investigating sth for Myla?
 Danger in the Reservoirs
 - gyrfalcon was investigating this - had questions around reduced security at cistern entrances, their soldiers were called back without their order
 - tensorat helped engineer a lot of the reservoirs to ...?
 The Artificer's workshop
-- Owl/Gilead believes that Tensorat's treasure (Nexida) is hidden here - but really he teleported it all away 90 years ago (using Coriolis wish)
 - Tensorat was known to be active in Avizallo until 90 yrs ago - is believed that he disappeared into the caverns 
 - do a dungeon crawl thru the caverns to reach the vacated lab
 	- proper traps/environmental challenge where we roll initiative 
-- what is this location? show that it is long gone
-	- An empty cavern, the calling sign of the Queen of Thieves (stating that she has found the answer and is betraying them?)
 - plant clues
 	- the code - "None will find it except in the shadow of the wind"
 	- presence of air djinni/teleportation
 - more clues leading to Owl
+- [lab dungeon](https://www.reddit.com/r/DnDBehindTheScreen/comments/aqm7xo/dungeon_tinkerfitz_labs/)
 The Kite Fighters
 - there will be a tournament in a few days time, where Valespinner will by flying
+- wining valespinner also gives an advantage to tensorat's labs? passphrases?
 Get access to Giltstern's data - infiltrate or fight
 
 
 each quest should give clear leads on what to do next, don't just let things happen to the pcs
 
 Ratcheting the tension
+- PCs are staying w Gandras, so these will be against them: saltwood workers, Gyrfalcon, Kingfisher, Myla
+	- Kingfisher might still use them if she determines they don't actually care abt Gandras
 - more fray attacks, possibly an actual fray tide
 - more reservoirs getting taken out, whenever there's the chance
 - more conflict at the docks, with the saltwood growers
 - assassin starts hunting them, once they get to high enough prominence
 - anyone they offend will come after them
 Potential encounters:
-- rope bridge battle where the bridge is in danger of getting cut
-- precipice of a narrow column where ppl could get knocked off
-- inside a halted elevator (NSBU)
-- within the cisterns, water is rising with the tide
+- ambush from raven
+- get gandras' accounting - infiltrate the vaults
 - against the assassin
 - the boss battle
 - combat encounter to get into hidden cove - automata and some monster eledeia controls?
+- urban chase
+- rope bridge battle where the bridge is in danger of getting cut
+	- assassin firing arrows to cut the rope? other enemies coming from both sides?
+- precipice of a narrow column where ppl could get knocked off
+- inside a halted elevator (NSBU)
+- within the cisterns, water is rising with the tide
+
 
 
 

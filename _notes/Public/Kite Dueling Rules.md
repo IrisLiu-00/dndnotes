@@ -18,7 +18,7 @@ Each battle costs 1 hour of time (this includes both finding an opponent and the
 
 **AGILITY:** the maneuverability and speed of your kite.
 
-**POSITION:** a representation of your kite's height. To calculate the actual height of your kite in feet, add 30 to its POSITIONING
+**POSITION:** a representation of your kite's height. To calculate the actual height of your kite in feet, add 30 to its POSITIONING.
 
 # Dueling
 ### Starting a duel
@@ -50,4 +50,4 @@ Myla maintains a registry of named kites and the odds of betting on each. The od
 
 Eg., you bet x gold on a kite with 2.5 odds. If that kite wins, you get back x+2.5x gold (for a profit of 2.5x). If the kite loses, you just lose the x gold you bet. Any decimal values will be rounded down to the nearest ones.
 
-To bet on a specific kite winning against another specific kite, the odds are that kite's odds divided by the other's.
+To bet on a specific kite winning against another specific kite, the odds are that kite's odds divided by the other's. (or we just always do this?)

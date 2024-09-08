@@ -41,7 +41,7 @@ Kevaran Influence
 # The Court of Birds
 ### Members
 **Owl** (religion): she. Haltingly soft spoken. Fastidious, a little uptight, neat freak. 
-- Identity: Morgana Saire, human death cleric/warlock of Gilead
+- Identity: Morgana Saire, aasimar death cleric/warlock of Gilead
 	- ex-Felichian priest, abandoned the church when she discovered Gilead's power
 - Heads all religious functions, manages clerical rituals for aquifers
 - Pretending for peace, wants a war with Kevara that Avizallo will lose
@@ -56,6 +56,7 @@ Kevaran Influence
 - stats
 	- form of dread - boss battle stages
 	- shatter spell - this is kinda not in flavor tho
+	- brainwash clerics as minions? summon wraiths
 
 **Gyrfalcon** (defense/guard/navy): they. Clarion, righteous.
 - Identity: Orin Skymark, half elf. Inherited a small seagrass farmstead
@@ -63,12 +64,13 @@ Kevaran Influence
 - Anti-Kevaran, would like to see Avizallo gain more self sufficiency, war hawk
 
 **Raven** (intelligence/spymaster): she. Reclusive, unknown, ruthless.
-- stats: Lawkeeper 5 (essential npcs)
+- stats: Lawkeeper 5 (essential npcs). Darklight lighter that can unleash shadows, once a day
 - Identity: Zora Courier, mixed species. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
 - Newest councilor after Kingfisher - joined only 1.5yrs ago
 - Anti Kevara but highly suspicious of current war mongering
 - Trying to take down the Kevaran trade firms, supporting the strikers, guerilla tactics destroying company property
-- Mistrusts Kingfisher for her perceived closeness to the Kevaran elites
+- Mistrusts Kingfisher for her perceived closeness to the Kevaran elites, uneasy alliance w Gyrfalcon
+- Knows a little about most civilians - Eledeia studying necromancy
 - Fairly religious
 
 **Vulture** (criminal/judiciary): he. Taciturn, old, spiteful. 
@@ -82,14 +84,12 @@ Kevaran Influence
 
 **Macaw** (agriculture/land use): he. Gregarious, comedic.
 - Identity: Gandras Dol. Prominent saltwood cultivator. 
-	- Has been making precariously narrow margins
-	- Owes debt to Giltstern - father squandered much of family funds, took out a loan to buy back saltwood groves
 - One of the more popular of the councilors, often makes public appearances.
 - Softer/more optimistic on Kevara, sometimes called a sellout
 - Corrupt. In charge of tax collection on agriculture, has been cutting taxes on his own groves
 	- Faking tax breaks for funds used to "revitalize saltwood groves" - in reality has not been expanding groves much. Has been trying to buy out Orin Skymark's lands as part of supposed revitalization
 	- Financials has been bad (parents squandered their wealth), has turned to corruption to keep up
-	- Owes money to Giltstern
+	- Owes debt to Giltstern - took out a loan to buy back saltwood groves
 
 **Kingfisher** (treasury/commerce): she. Distant, refined, calculating. Mildly french
 - Identity: Kristryn Eledeia. Married an Avizallo noble (Evran Eledeia) who she found out was the previous Kingfisher in order to assume the role from him. 
@@ -137,3 +137,6 @@ Other stuff
 
 
 
+# Culture
+## Food
+- Marinated raw fish in a sweet sour sauce

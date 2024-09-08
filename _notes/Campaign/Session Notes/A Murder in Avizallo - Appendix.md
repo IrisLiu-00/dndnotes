@@ -25,7 +25,7 @@ Controlling Automata
 	- also use to transport sahuagin in cargo
 Reservoir Attacks
 - Owl gets more latitude to move after Gyrfalcon taken out
-- Planning to systematically take out reservoirs in each column to search for Cory's true name, weaken Avizallo (need to import water or import Felichian priests)
+- Planning to systematically take out reservoirs in each column to search for Cory's true name / info on Nexida, weaken Avizallo (need to import water or import Felichian priests)
 	- Cisterns are connected to Tensorat's old workshop
 - Use sahuagin to attack bc automata can't go in water
 - Reservoir system of La Sul was destroyed a few weeks ago
@@ -91,7 +91,7 @@ Kingswill Trading Co.
 ## Other Guys
 
 **Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte. Prophet, child prodigy paladin. type A, tattletale. 
-- Appearance: Teeny little goblin in pauldrons, breastplate, glasses
+- Appearance: Teeny little goblin in pauldrons, breastplate, glasses. Wide sash filled with embroidered badges
 - Leads the Feather Scouts - sell cookies, annual boating trip, charity for schools/temples/less fortunate
 - Uses fighter kites to disperse religious fliers - was talking to Owl about a way to promote the temple services more, Owl suggested using the kites
 - how did she win Valespinner? idt by flying talent
@@ -100,12 +100,13 @@ Kingswill Trading Co.
 - May come after players for petty crimes
 - relation with Myla?
 **Lieutenant Corinsson**: undead elven air genasi ranger bound into Morgana's service. assassin
-- play them as a [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
-- gloomstalker + assassin rogue
+- stats: gloomstalker assassin, [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
+	- Attack from hiding, surprise round, +6 init. 
+	- Levitate to pin down a creature so they can't run
 - Appearance: pale, wispy white hair. blank white eyes
 - Corin's son, air genasi, born 50 yrs ago. It was well known that he was related to Corin
 - Owl was sent to kill him 2 yrs ago so Indira would be the only heir, inherit the power
-	- left on a ship chartered by kingswill, never seen again?
+	- left on a ship chartered by kingswill, never seen again. Was going to visit relatives on the mainland.
 **Isaiah Giltstern**: head of Giltstern trading firm
 - stats: Ruler Noble (essetial npcs)
 - Appearance: mane of dirty gold hair, wide build. Gravelly, southern voice. Rakish. 
@@ -127,7 +128,7 @@ Kingswill Trading Co.
 - partnered with Gyrfalcon
 - Leading strike against Gandras, need to have blockaded the grove to prevent scabs
 - Thinks Delaney is a cop, sellout, scab
-- Ring of mind shielding got stolen
+- Ring of mind shielding purchased from Kareem, got stolen
 **Delaney**: human. Leader of saltwood growers at La Norza, under Gandras
 - intense rivalry with Reed, stoked by Gandras
 **Josef**: human. Old, rly french
@@ -159,14 +160,14 @@ Kingswill Trading Co.
 - Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. 
 	- Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
 	- Hopes the political unrest won't get that bad, fear of losing coffee trade
-- Kind of friends with Zora but has recently been frustrated with her - convinced him to let the secret guerilla fighters meet in the shop after hours??
+- Kind of friends with Zora but has recently been frustrated with her - or he's helped orin stash something here?
+- ...another one of Ringley's exes
 
 # Loose Clues
 
 _Populate locations with. Check off when revealed._
 
 Big stuff
-- [ ] Have the disciples mention the Queen of Thieves who was working for them, discover traces of her at the workshop
 - [ ] omens from the Birds that Owl is a false cleric (cowbirds)
 - [ ] Owl is holding the other side of the spies blood diary
 
@@ -175,16 +176,14 @@ Murder
 - [ ] Owl has a letter Gandras received from Orin (how)
 - [ ] Imprint of the ring of mind shielding - in the mud at hidden cove, a paper from Owl, ?
 - [ ] New set of prayer beads commissioned for Owl
-- [ ] eyewitness of the assassin (a tall, unrecognized man, elf height) scaling the side of a pillar
+- [ ] eyewitness of the assassin (a tall, unrecognized man, pale blue coloring) scaling the side of a pillar
 
 Automata plot
 - [ ] Cargo crates labelled for Kingswill Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
 - [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
 - [ ] Valespinner controlling automata
 - [ ] Automata at riot were Kingfisher's, not Giltstern's (how to tell?)
-
-Gyrfalcon's Investigation
- - [ ] recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
+- [ ] owl has an item that produces Shatter spell?
 
 Gandras
 - [ ] Owes money to Giltstern
@@ -200,9 +199,11 @@ Paths to Owl
 - gyrfalcon > bullet wound > sniper > corinsson missing > ??? > Owl
 # Monsters
 - Avizallo Cleric
+- Avizallo soldiers
+- Mettlewise, Feather Scouts
 - Sahuagin, Sahuagin fray wraith
 - Can convert other dead things to fray wraiths also
-- Avizallo soldiers
+- Real fray wraiths? need stats
 - 
 # Resources
 

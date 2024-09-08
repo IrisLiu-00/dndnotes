@@ -2,16 +2,25 @@
 ## La Centra (central pillar)
 #### Rookery
 - Central gov building
+- Hall for public proceedings
+- Locked door recognizes sparrow, hawk, or any of the court masks
+- Magical mynah asks for passphrase (sellorza, incarnum, threeven) in a lift? antechamber?
+	- stats: detention drone? maybe modify to be less offensive, more capturing 
+	- passphrase rotates every few days, disseminated by Vulture to lower public servants
+	- Incorrect password > mynah raises alarm, tons of guards come running
+	- Can bribe it with a special food?
+- Offices for all the court
+- Gyrfalcon's body held in stasis
 Clues
 - [ ] Owl holds all the old exam scrolls, including gyrfalcon's
 - [ ] Macaw left one of Orin's letters at his office, Owl has it
+- [ ] Gyrfalcon's office: recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
 #### The Featherweight
 - Kite and kite supplies store, owned by Myla Stonecutter
 - Description: The top floor of a round tower set on an elevated promontory. Good quality stonework. Balconies, large viewing windows where people spectate and gamble on kite duels.
 	- External lift takes you up to the top floor balcony, or there are stairs inside
 - Sports betting, managed by Myla
-	- Kites need a registered name to be bet on
-	- Decimal odds give how much return for each gold coin wagered. Favored kites have lower odds.
+	- Kites need a registered name to be bet on, and are marked w a red ribbon. Being marked means stronger opponents are more likely to see you out (roll random encounter)
 - People: Myla, Krystin/Kingfisher, Mettlewise 
 - Clues
 	- [ ] Kingfisher passing Myla exams - Orin's copy of exam, among some others
@@ -29,7 +38,8 @@ Clues
 - People: Zora, Myla, Owl (for the baked goods), Mettlewise (requisition the property)
 - Secret magic items shop. Kareem is looking to pawn off some goods from adventuring days
 	- a lot of his treasures are unidentified loot from past adventures
-	- sold a nice ring to Reed a while ago (didn't know it was a ring of mind shielding)
+	- sold a nice ring to Titus a while ago (didn't know it was a ring of mind shielding)
+	- sold foldable hole to Orin
 - Fountain in the backroom gives direct access to reservoir - it's harder for Kareem to get to a fountain
 ###### Shop
 - Tidebreak Sandals: 270gp. Requires attunement.
@@ -47,6 +57,7 @@ Clues
 	- Stick of Good Boys: When a well-behaved dog sees this stick, it can’t help but want to play fetch with it. Unfortunately, the stick compels dogs to play with it until they collapse from exhaustion, and dogs will get grumpy if people stop throwing the stick or if they take it away.
 	- Chocolate Stick: This stick is flavored like chocolate.
 	- Stick of Being Different Colors: Any creature which sees this stick must succeed a DC 10 Wisdom Saving Throw or believe this stick is a random color. The color is different for each creature that fails, and failing creatures are compelled to mildly argue with any other creature that says it is a different color.
+- Miscellaneous loot - jewelry and coins. 5% chance of being magic.
 
 
 
@@ -114,6 +125,7 @@ Clues
 #### Saltwood Groves
 - People: Gandras, Reed
 - Saltwood-carved statue of Vapor (Bluemoon's dad)
+- Shrine - workers tend to gather here, take breaks
 
 #### Seagrass Flats / Shantytown
 - Description
@@ -136,7 +148,6 @@ Clues (maybe offload some to a secondary location, guarded by another encounter?
 	- [ ] Orin has also told all their neighbors they should refuse similar offers
 - [ ] Filler: orange and blue kite with a wing torn. 25 gold stashed under the bed, untouched. Crossbow, shortsword. (add stuff abt working with unions)
 - [ ] Tiny bit of blue powder, broken string (overturned box?) (from Owl's crushed lapis prayer beads, found at atoll)
-- [ ] Noticed Reed wearing a ring of mind shielding and knew what it was. Later Reed told them it got stolen, and Orin got worried (or only Raven knows this?)
 - Investigating fray wraith attacks, possible connection to reservoir attack at same time
 	- [ ] Asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
 	- [ ] Fish scale (from the waterwheel piece) (optional, maybe don't say where from)

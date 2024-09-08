@@ -8,7 +8,7 @@ Todos - immediate
 - Myla - upgrades offered for kites
 - Voices, stat block review
 - maps: 
-- stat blocks: corinsson, mettlewise, fray wraith, kingfisher (necromancy), Owl
+- stat blocks: owl
 - prep battle in harmlesskey, owlbear, 5etools
 - figure out
 

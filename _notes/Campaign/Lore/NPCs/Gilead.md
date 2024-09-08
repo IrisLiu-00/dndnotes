@@ -46,6 +46,7 @@ multiple boss phases could be cool
 - Turn Resistance - adv on saves against turn undead
 - Legendary Actions
 - Lair Actions
+- give a nat 1 on a death saving throw
 - Flaws?
 	- taking unpredictable actions
 
