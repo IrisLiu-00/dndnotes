@@ -16,7 +16,8 @@ Reckless: Roll this attack with advantage, but take disadvantage on all evasion 
 ### Sabra's Kite
 | DURANCE | POWER | AGILITY | POSITION |
 | ------- | ----- | ------- | -------- |
-| 6/6     | d4    | d6      |          |
+| 3/6     | d4    | d6      | 14       |
+reckless
 ### Sparkler
 A kite with a small flintwheel attached at its base, that can generate a shower of caustic sparks. ODDS 2.7
 

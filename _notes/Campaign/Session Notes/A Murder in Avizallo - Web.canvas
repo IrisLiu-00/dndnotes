@@ -1,30 +1,31 @@
 {
 	"nodes":[
 		{"id":"6d648444a653784f","type":"text","text":"Gyrfalcon/Orin","x":-179,"y":-42,"width":180,"height":50,"color":"5"},
-		{"id":"e19956726fff8b4a","type":"text","text":"Eledeia Cove","x":-13,"y":-432,"width":168,"height":60,"color":"1"},
-		{"id":"50e11651b6bbc03b","type":"text","text":"Automata (Qrystin/Giltstern's)","x":486,"y":91,"width":250,"height":60,"color":"1"},
-		{"id":"a30ac3837c63da11","type":"text","text":"Kite fighting","x":192,"y":600,"width":165,"height":60,"color":"1"},
-		{"id":"ae73e1e90e7e57ac","type":"text","text":"Assassin","x":-186,"y":-285,"width":128,"height":60,"color":"5"},
 		{"id":"72a68c5365c6bb92","type":"text","text":"Cory","x":-1318,"y":-199,"width":119,"height":50,"color":"5"},
-		{"id":"b84867c8ba57d9a8","type":"text","text":"Macaw/Gandras","x":-217,"y":186,"width":178,"height":50,"color":"5"},
-		{"id":"87c9079efef0cf88","type":"text","text":"Giltstern","x":192,"y":236,"width":119,"height":55,"color":"5"},
-		{"id":"8c84e28f37ed55dd","type":"text","text":"Kingisher/Qrystin","x":14,"y":-201,"width":178,"height":55,"color":"5"},
 		{"id":"26b2245c9f635d43","type":"text","text":"Myla/Featherweight","x":960,"y":186,"width":198,"height":55,"color":"5"},
 		{"id":"c49e0beebfce293e","type":"text","text":"Mettlewise","x":-483,"y":680,"width":158,"height":55,"color":"5"},
 		{"id":"e5efaa2ae7196a02","type":"text","text":"Raven/Zora","x":-366,"y":840,"width":158,"height":55,"color":"5"},
-		{"id":"d4a738759fd4a31f","type":"text","text":"Reed/Saltwood Druids","x":-326,"y":520,"width":218,"height":50,"color":"5"},
-		{"id":"5f075f1c97f2d1b2","type":"text","text":"Kareem's","x":358,"y":367,"width":128,"height":55,"color":"5"},
 		{"id":"5a7b36047d57a049","type":"text","text":"Vulture/Ezekiel","x":-1044,"y":868,"width":158,"height":60,"color":"5"},
 		{"id":"b43a84e1400e0948","type":"text","text":"Owl/Morgana","x":-732,"y":291,"width":168,"height":60,"color":"5"},
 		{"id":"81beae91b1da06d5","type":"text","text":"Sahuagin Zombies","x":-774,"y":101,"width":126,"height":50,"color":"1"},
 		{"id":"899d2c99b52331be","type":"text","text":"Reservoirs","x":-793,"y":-67,"width":165,"height":50,"color":"1"},
 		{"id":"28a5751f5825ed26","type":"text","text":"Tensorat","x":-965,"y":-252,"width":119,"height":55,"color":"5"},
-		{"id":"2c40aee20c3e41d1","type":"text","text":"Ring of Mind Shielding","x":-1119,"y":460,"width":151,"height":60,"color":"1"}
+		{"id":"2c40aee20c3e41d1","type":"text","text":"Ring of Mind Shielding","x":-1119,"y":460,"width":151,"height":60,"color":"1"},
+		{"id":"a30ac3837c63da11","type":"text","text":"Kite fighting","x":229,"y":780,"width":165,"height":60,"color":"1"},
+		{"id":"5f075f1c97f2d1b2","type":"text","text":"Kareem's","x":358,"y":490,"width":128,"height":55,"color":"5"},
+		{"id":"d4a738759fd4a31f","type":"text","text":"Titus/Saltwood Druids","x":-396,"y":545,"width":218,"height":50,"color":"5"},
+		{"id":"50e11651b6bbc03b","type":"text","text":"Automata (Qrystin/Giltstern's)","x":486,"y":206,"width":250,"height":60,"color":"1"},
+		{"id":"ae73e1e90e7e57ac","type":"text","text":"Corinsson","x":-242,"y":-319,"width":128,"height":60,"color":"5"},
+		{"id":"e19956726fff8b4a","type":"text","text":"Eledeia Cove","x":1,"y":-204,"width":168,"height":60,"color":"1"},
+		{"id":"8a02d35ffcc8a199","type":"text","text":"Kingswill","x":-422,"y":-480,"width":155,"height":50,"color":"5"},
+		{"id":"b84867c8ba57d9a8","type":"text","text":"Macaw/Gandras","x":-297,"y":216,"width":178,"height":50,"color":"5"},
+		{"id":"8c84e28f37ed55dd","type":"text","text":"Kingisher/Qrystin","x":1,"y":74,"width":178,"height":55,"color":"5"},
+		{"id":"87c9079efef0cf88","type":"text","text":"Giltstern","x":160,"y":324,"width":119,"height":55,"color":"5"}
 	],
 	"edges":[
 		{"id":"de4e8e4e66b053dd","fromNode":"ae73e1e90e7e57ac","fromSide":"bottom","toNode":"6d648444a653784f","toSide":"top","label":"bullet wound"},
 		{"id":"82275392616d305d","fromNode":"b43a84e1400e0948","fromSide":"right","toNode":"6d648444a653784f","toSide":"left","label":"exam scroll"},
-		{"id":"344911f4f01f3647","fromNode":"b43a84e1400e0948","fromSide":"top","toNode":"81beae91b1da06d5","toSide":"bottom","label":"necro evidence"},
+		{"id":"344911f4f01f3647","fromNode":"b43a84e1400e0948","fromSide":"top","toNode":"81beae91b1da06d5","toSide":"bottom","label":"raising"},
 		{"id":"0c822170880205b9","fromNode":"81beae91b1da06d5","fromSide":"top","toNode":"899d2c99b52331be","toSide":"bottom"},
 		{"id":"4ece3b4c3925c45f","fromNode":"b84867c8ba57d9a8","fromSide":"top","toNode":"6d648444a653784f","toSide":"bottom","label":"buy land"},
 		{"id":"83ea9c79f966bf6c","fromNode":"d4a738759fd4a31f","fromSide":"top","toNode":"b84867c8ba57d9a8","toSide":"bottom","toEnd":"none","label":"strike"},
@@ -52,6 +53,10 @@
 		{"id":"0736bf1c2a543d17","fromNode":"d4a738759fd4a31f","fromSide":"left","toNode":"2c40aee20c3e41d1","toSide":"bottom","label":"stolen"},
 		{"id":"f4028569c7c7e3fb","fromNode":"2c40aee20c3e41d1","fromSide":"bottom","toNode":"e5efaa2ae7196a02","toSide":"left","label":"investigate"},
 		{"id":"8caac9e9fc35e228","fromNode":"2c40aee20c3e41d1","fromSide":"right","toNode":"5f075f1c97f2d1b2","toSide":"left","label":"purchased"},
-		{"id":"ea6214c43270e527","fromNode":"e19956726fff8b4a","fromSide":"left","toNode":"81beae91b1da06d5","toSide":"right","label":"hiding"}
+		{"id":"ea6214c43270e527","fromNode":"e19956726fff8b4a","fromSide":"left","toNode":"81beae91b1da06d5","toSide":"right","label":"hiding"},
+		{"id":"1548e53e535b759d","fromNode":"8a02d35ffcc8a199","fromSide":"right","toNode":"26b2245c9f635d43","toSide":"top","label":"supply"},
+		{"id":"0df6eacce457bb04","fromNode":"8a02d35ffcc8a199","fromSide":"bottom","toNode":"81beae91b1da06d5","toSide":"top","label":"atoll, diamonds"},
+		{"id":"2c46ec53b1f198b0","fromNode":"8a02d35ffcc8a199","fromSide":"bottom","toNode":"87c9079efef0cf88","toSide":"left"},
+		{"id":"8379a10974c4f3ba","fromNode":"8a02d35ffcc8a199","fromSide":"right","toNode":"50e11651b6bbc03b","toSide":"top","label":"key"}
 	]
 }

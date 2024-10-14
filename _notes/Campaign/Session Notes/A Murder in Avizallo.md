@@ -98,9 +98,11 @@ La Varza, the saltwood groves
 how to demonstrate automata remote control. show them coming back to roost as they leave?
 meet up with owl
 
+## Day 2
 #### Riot and Murder
 - At evening, Giltstern issued remote order to recall automata - he needs extras to unload a shipment in time
 - PCs may or may not be at the saltwood docks - either way Gyrfalcon is on a dock further away
+- Macaw got there first, then reappeared later as Gandras. Told Bluemoon he will bring a footman for safety but didn't (in order to sneak away as Macaw)
 - Riot events (if you ask anyone it's unclear what happened)
 	- Gandras/Giltstern ordered automata to stand watch - against wraiths, or potential damage from strikers
 	- Some say the riot started bc strikers threw rocks, or bc a wraith was spotted, or the automata just started firing into the crowd
@@ -111,19 +113,76 @@ meet up with owl
 	- Body has electrocution, blunt force, lacerations
 - Vasilev gives new goal: figure out circumstances of Gyrfalcon's murder for 500 extra gold. Don't let it go to war. Make the saltwood deal go thru. 
 	- Insight check: a little edge of ruthless desperation. Pissed if they weren't at the docks.
-- Gyrfalcon cannot be unmasked unless all of the court comes to consensus to remove it
-	- Kingfisher refuses to unmask while outsiders (PCs) are involved
+- Titus, some other druids taken for questioning. Released pretty quickly.
+	- (off screen) Ella complains he won't be able to pay child support. Owl breaks them up, steals the ring.
+#### The Council Meeting
+- early morning, 6am. a cloud of starlings, small green parrots squawk. cargo elevators groan to life, dockworkers hauling in the lifeblood of the isles. 
+	- up and down winding paths in the natural, uneven surface of the black glass. across a swaying rope bridge a few hundred feet long to La Centra. 
+- rookery: describe
+	- sparse crowd milling in front of the rookery: hawk masked guards, sparrow masked functionaries coming to work. A growing throng of commoners, murmurs of unrest
+	- Giltstern is here. broad shouldered, mane of gold hair
+- meeting in the hall. bannister divides viewing area from the court, guards lined up. court of birds on a circle of six chairs, one empty. Gyrfalcon's shrouded body
+	- Vulture, dark cloaked; Owl, straightening prayer beads; Kingfisher, poised; Raven, silent; Macaw, rushing in late
+- Q/A session, anyone can shout questions. A guard rings a bell to cast silence on the ppl.
+- Vulture: call into session. Gyrfalcon was killed in an altercation at La Varza docks early this morning. Kevaran automata were involved
+- Kingfisher: western saltwood druids have flat out refused to harvest the trees until justice is done. War hawk factions are calling for blood. Saltwood deal is under threat
+- Owl: need to unmask Gyrfalcon - first step to understanding what happened
+	- mask cannot be removed unless all the others come to consensus
+	- Kingfisher refuses to unmask while outsiders (PCs, Giltstern) are involved
 	- Vulture won't unmask until the Court forms a "plan of succession" - basically they need to agree to approve a candidate Vulture likes
 	- Body is interred in the Rookery, Owl/another cleric has cast Gentle Repose so it won't decay
-- Court of birds
+- Giltstern: willing to fully cooperate. He called his automata back to La Sul last night.
+- Raven/Owl can mention that Gandras barely stayed to help out at the riot scene
+- Vulture: need to start process for another civil service exam
+- Opinions
 	- Kingfisher blames Kevara, demands reparations from Giltstern
 	- Vulture blames Kevara, takes it as more evidence that Avizallo should cut off connections
 	- Owl subtly stokes the flames - the hearts of Avizallans know what is needed
 	- Macaw pleads for peace, more investigation needed, suggests an Avizallan killed them in the confusion
 	- Raven stays silent
-- Signing of saltwood deal is halted
-- Titus, some other druids taken for questioning. Ella complains he won't be able to pay child support. Owl breaks them up, steals the ring.
+- What's next (recs from Owl)
+	- scene of the crime (riot)
+	- talk to ppl who know what's up w the city (Myla, Kareem)
+	- giltstern
+- investigated riot site, now its 12pm
+	- found broken crate w Orin's body
+	- talk to seagull - they know the body was transported there in a crate, and the other automata left via crate
+	- asked a bunch of kevarans abt Kingswill, ersatz told them some things
 
+### Following the Automata
+- Crew found automata track (skid mark) at top of la varza elevator, going towards La Centra
+- Mention kites wheeling overhead
+- a lot of ppl pushing crates work for Eledeia. No one has seen automata delivering crates topside
+- maybe they should have been sent straight to l'esta. just say you got the map wrong
+### Toby's Date
+- Toby rushed back late to his date with Sabra, seems to have patched things up. they're going to Kareem's Beans
+- Titus and goons comes up for a break, sees Toby with Sabra. Might find out the PCs are staying with Gandras.
+	- Titus tries to threaten Sabra - theres not much of a real conflict tho
+- Potential to notice Zora spying
+
+- crossing la centra for searching for the automata crates - we should have a battle/some encounter
+	- Toby and Sabra separately at Kareem's - do a fight and put her in danger? another wraith attack?
+		- consequences for toby leaving the group, make him choose - difficult encounter, need his help if they get captured
+	- just say that its not possible to follow them thru the city - unless they have magic/other justification
+	- or they succeed and end up at eledeia? find the cove, do battle
+		- glyph of warding? take the stairs in some pattern, or the automata activate
+		- need battlemap, enemy stats already exist - front wave of automata, 1-2 in back responsible for pulling a sahuagin out every turn. smash the skull on the ground
+		- only a few overridden automata responsible for hiding the cove, try to keep PCs out
+		- they need to understand politics more, the ban on building ships
+		- they can know it's owned by eledeia, but can't meet her. 
+	- they fail - almost make it to the cove but are captured by automata watch? zora ambush?
+	- Raven or Zora ambushes (either for the ring or the murder)
+		- block off bridge, force to take elevator
+### Gandras' Secrets
+- Sabra still has a morning date with Toby, and she doesn't know what the PCs r here for
+- Mushika is here?
+- Chance to faceoff w Gandras in the end
+- reward if success: treasure, info abt gandras' corruption, 
+	- long term info? kingfisher problem.  reward that ties into mainline
+- if espionage fails
+	- chase scene ([complications](https://5e.tools/tables.html#urban%20chase%20complications_dmg), roll each round for how many guard appear)
+	- pretty limited places to hide from the law, unless they leave the isle
+	- captured - owl helps them if they go after kingfisher/raven? (look for missing exam scrolls), kingfisher makes a deal to expose Macaw (for a greater reward?)
 
 ## Upcoming
 
@@ -131,32 +190,17 @@ Break into rookery
 - Get disguises from the guards, an access key
 Kingfisher Sidequest
 - Unmask Macaw. She believes he's corrupt, wants to usurp him to insert her own choice
+	- Macaw/Gandras links: letters in rookery office, tax breaks, 
 - Gandras Dol might take the PCs help to stop vandalism
 - interview him: Macaw's governmental duties, political opinions
-- try to tail him
-	- lead to the saltwood groves
-- spy on his office
-	- Macaw often forgets correspondence at his office - he comes looking for stuff that Owl already stole
-	- minidungeon thing to break into his vaults at home? tall tower. trap, puzzle, monster (deploys if password wrong)
-- Clues
-	- Family is not doing that well financially, parents squandered wealth 
-	- Gandras owes debt to Giltstern - giltstern correspondence
-	- Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
-	- Paper trail on faulty tax breaks
-	- Leasing saltwood groves to Eledeia to make a quick buck - instead of waiting for maturation
-- Leads
-	- Gandras saw Kingfisher at the docks, shortly before the riot. Macaw can't say.
-	- Gandras knows Eledeia has some shady accounting too, hasn't said anything for fear of exposing himself
-	- reward with info (relevant to both short/long term), some money
-- leads: saw kingfisher at the riot, shady accounting from eledeia, it wasn't giltstern's automata at the riot
-	- gandras got control of the giltstern automata at one point
-- reward that ties into mainline: a kite he's framed, another clue?
+- try to tail him (saltwood groves, rookery), go to home or rookery office
 - if they majorly damage Gandras his faction/Giltstern can come after them
+- if Kingfisher gets the info: she doesn't need a new opening bc one already exists. She wants Macaw in her pocket for choosing Myla. 
+- if it's exposed to the world: Gandras is ousted. Maybe loses his saltwood to Eledeia/Court, workers will definitely want him gone. Kingfisher may vouch for him to preserve appearances. Giltstern will ditch him, pivot to Kingfisher. 
 Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 - Vulture would like to weaken Kingfisher - too chummy with the Kevarans
-- coriolis?
-- treasure hunt leads: ring is missing (someone can lie), gyrfalcon was investigating sth
+- coriolis? leads?
 Unmasking Gyrfalcon
 - Expose identity and home address
 - battle at Orin's house should be pretty major (an ambush? multiple factions collide). give up a big repository of clues
@@ -167,6 +211,7 @@ Raven starts tailing the PCs out of suspicion
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
 - Zora plants a tracker on one of the PCs
 - Zora investigating a mystery for Titus: he purchased a nice ring off of Kareem a few years back and it's missing
+	- Bronze ring of braided metal - 4 stranded braid pattern
 	- Titus noticed it missing when they checked him out of questioning at the Rookery
 	- Titus thinks his ex wife Ella took it off him to pawn for child support
 	- Zora thinks the new adventurers in town might have stolen it, since adventurers are treasure hungry
@@ -201,13 +246,17 @@ Ratcheting the tension
 - more conflict at the docks, with the saltwood growers
 - assassin starts hunting them, once they get to high enough prominence
 - anyone they offend will come after them
+- war - attack on conviviant, giltstern stops imports + calls in navy, kevaran blockade, 
+	- show threat of war - ppl protesting/throwing stuff at the conviviant. subset of the military prepping themselves. Vulture campaigning. Giltstern threatens retaliation if the deal doesn't go thru
 Potential encounters:
-- ambush from raven
+- ambush from raven (in the elevator?)
 - get gandras' accounting - infiltrate the vaults
-- against the assassin
-- the boss battle
-- combat encounter to get into hidden cove - automata and some monster eledeia controls?
-- urban chase
+- against the feather scouts/mettlewise
+- against the assassin - if they find the cove, morgana saire
+- combat encounter to get into hidden cove - automata and fray wraiths
+	- stop the automata from pulling out and activating wraiths
+- the boss battle - happen at the precipice of war
+- urban chase, staircases
 - rope bridge battle where the bridge is in danger of getting cut
 	- assassin firing arrows to cut the rope? other enemies coming from both sides?
 - precipice of a narrow column where ppl could get knocked off

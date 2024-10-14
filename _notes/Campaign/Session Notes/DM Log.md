@@ -149,3 +149,10 @@
 	- Still need to be better at improv. M tried to engage w the source and ask for a divination - you couldn't make up anything useful on the spot. It would have been fine to give away more info. 
 	- Forgot to remind Pablo abt backstory, so a lot of that fell thru
 	- Players still seem slow/clumsy during battle. Have to know their character sheets better. Bring this up with them?
+- 24.10.6 - Murder in Avizallo pt 3
+	- pacing!! this session was boring af, no tension or conflict
+		- every session should have some moment of drama. this time they just went a bunch of different places, did exposition, asked questions, spun in circles
+		- could have inserted a fight / serious roleplay conflict to gate off the scene of crime
+		- og plan was for the Gandras infiltration to be main conflict but they didn't do that
+	- idk the council session was very aggressive exposition
+	- seagull interview was great, some comedy. Mushika also not bad

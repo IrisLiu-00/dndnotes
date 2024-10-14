@@ -1,21 +1,38 @@
 
 ANNOUNCEMENTS
+- scheduling - play on a non-sunday?
+	- 14th or 17th - con
 - recap
-	- check understanding + open questions for PCs
+	- check understanding + open questions for PCs. shared notes doc pls
+	- broken crystal has part of a signature for the owner - they can match it up if they find a complete signature
 
 Todos - immediate
-- Update map - gandras house, featherweight, kareems
+- Update map -
 - Myla - upgrades offered for kites
 - Voices, stat block review
 - maps: 
 - stat blocks: owl
 - prep battle in harmlesskey, owlbear, 5etools
+- emotional and mechanical goals per sesh
 - figure out
 
 What they know
+- https://docs.google.com/document/d/1zmKxHYzHRuuggveMDHJoaBLHIsPC0edeLqac3HGUse4/edit?usp=sharing
 - there was an air genasi working in the guard some years ago 
 - la sul reservoir is broken
-
+- automata were acting on remote orders but are not giltstern owned - broken crystal to match with signature
+- gandras was late to the riot scene (was playing Macaw at first)
+- gyrfalcon's body was brought there in a crate (branded Kingswill)
+- the automata left the riot in a crate
+- Kingswill joined trading council, registered to Morgana Saire
+What others know
+- Owl knows they have figured out the automata were not giltstern. She's already disadvantaged at hoodwinking them, but can maybe turn it around and make them think Eledeia is working for Giltstern
+- Kind of obvious (based on their questions at the council) that they're not from here
+Roleplay thrulines
+- Bluemoon and his dad - works best if B has some failure and is compared to his dad. Anyone who talks shit abt his dad?
+	- Kristyn says Vapor was a fool
+- Toby and Sabra - mission getting between him and Sabra. Sabra finding out the truth. 
+- Bluemoon and Kristyn Eledeia
 
 # Notes
 Reminders

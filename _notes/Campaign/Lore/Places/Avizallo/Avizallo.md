@@ -7,7 +7,7 @@ A series of glass columns in the ocean. Remnants of an ancient explosion. Subtro
 	- Surface entrances guarded at night, but no one is running them inside. Fountains don't run at night.
 	- Waterwheels painted with oil-based glyphs, inset with precious metals act as spell focus for clerics
 - big sport - bird fighter kites
-- settlements at column base are more in danger of Fray tide -  but there is a distinct class difference
+- settlements at column base are more in danger of Fray tide -  there is a distinct class difference
 # Economics
 
 Primary Industries
@@ -45,18 +45,20 @@ Kevaran Influence
 	- ex-Felichian priest, abandoned the church when she discovered Gilead's power
 - Heads all religious functions, manages clerical rituals for aquifers
 - Pretending for peace, wants a war with Kevara that Avizallo will lose
-	- Gilead told her there is a treasure within Avizallo (Nexida) that must be claimed for Felichias/Kevara
+	- Gilead told her there is a treasure within Avizallo (Nexida) that must be claimed
 - Trying to find info on Nexida, or Cory's true name
 - Corresponds w Vasilev, presents as an ally to her
 - Worked with Leanna to find the lance of Kevar
-	- Was willing to let Leanna kill some nobles - felt that Kevaran nobles were becoming too un-pious
 - Grudge against Raven - opposed her selection into the court, is pretty convinced Raven poisoned her competition
 	- Owl has a special blindness for her own hypocrisy
 	- Knows that Raven has been doing illicit stuff for strikers, says it's pushing Avizallo closer to war
-- stats
-	- form of dread - boss battle stages
+- Currently supervising repairs on La Sul reservoir, opportunity to search it
+- stats: cr6 ish
+	- form of dread - boss battle stages. "frightened" is kind of boring tho
 	- shatter spell - this is kinda not in flavor tho
 	- brainwash clerics as minions? summon wraiths
+	- flight
+	- villain actions: (movement, damage, lair)
 
 **Gyrfalcon** (defense/guard/navy): they. Clarion, righteous.
 - Identity: Orin Skymark, half elf. Inherited a small seagrass farmstead
@@ -72,6 +74,7 @@ Kevaran Influence
 - Mistrusts Kingfisher for her perceived closeness to the Kevaran elites, uneasy alliance w Gyrfalcon
 - Knows a little about most civilians - Eledeia studying necromancy
 - Fairly religious
+- solo investigating the murder, missing ring of mind shielding
 
 **Vulture** (criminal/judiciary): he. Taciturn, old, spiteful. 
 - stats: mid tier noble (essential npcs)
@@ -79,8 +82,9 @@ Kevaran Influence
 	- runs some library type thing?
 - Hardline isolationist, politically opposed to Gyrfalcon, Kingfisher, Macaw
 	- Thinks Macaw needs to approve more seagrass flats instead of saltwood, more farming instead of construction
-	- Thinks Gyrfalcon isfurther entangling Avizallo with outside world, has upstart ideas about restructuring ownership of saltwood groves. Opposed to them from the grading of manuscripts
+	- Thinks Gyrfalcon is further entangling Avizallo with outside world, has upstart ideas about restructuring ownership of saltwood groves. Opposed to them from the grading of manuscripts
 	- More interested in a nonexistent, glorious past than the present
+- Willing to move to war after Gyrfalcon killed
 
 **Macaw** (agriculture/land use): he. Gregarious, comedic.
 - Identity: Gandras Dol. Prominent saltwood cultivator. 
@@ -94,10 +98,11 @@ Kevaran Influence
 **Kingfisher** (treasury/commerce): she. Distant, refined, calculating. Mildly french
 - Identity: Kristryn Eledeia. Married an Avizallo noble (Evran Eledeia) who she found out was the previous Kingfisher in order to assume the role from him. 
 	- Knew he was terminally ill - got close to him, proved her worth, convinced him she should be inducted.
-	- Eledeia family was also a saltwood baron
+	- Eledeia family works in resale of imported goods (mostly Kevara), also has some saltwood
 - The most versed in Avizallo's economic situation
 - Social with the upper echelons of both Kevara and Avizallo
-- Anti war, opposed to Gyrfalcon - believes that Avizallo will be immediately crushed by Kevara
+- Generally allied w Gyrfalcon, becomes more distrusting of Kevara and more war-leaning after assassination
+	- But Eledeia is very friendly with Kevaran trade, has gotten rich off of it
 - Secretly building up her own saltwood fleet to usurp Giltstern, gain economic independence for Avizallo
 	- Needs to avoid war/greater Kevaran focus on Avizallo to keep it a secret
 	- Bought automata as alleged personal protection, actually to construct ships

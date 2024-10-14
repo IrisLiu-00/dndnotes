@@ -2,7 +2,9 @@
 ## La Centra (central pillar)
 #### Rookery
 - Central gov building
-- Hall for public proceedings
+- Description: semicircular colonnade, one of the few buildings you've seen built out of stone. Must have been devilishly expensive to ship that in. Large fountain in front
+	- public hall: room with large circular skylight, vines planted on the second floor balcony. finches, a heron. 
+Restricted area
 - Locked door recognizes sparrow, hawk, or any of the court masks
 - Magical mynah asks for passphrase (sellorza, incarnum, threeven) in a lift? antechamber?
 	- stats: detention drone? maybe modify to be less offensive, more capturing 
@@ -13,7 +15,8 @@
 - Gyrfalcon's body held in stasis
 Clues
 - [ ] Owl holds all the old exam scrolls, including gyrfalcon's
-- [ ] Macaw left one of Orin's letters at his office, Owl has it
+- [ ] Macaw's office: Macaw left some of Gandras' letters at office for buying up land
+- [ ] Owl took one of Gandras' letters from Orin from his office
 - [ ] Gyrfalcon's office: recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
 #### The Featherweight
 - Kite and kite supplies store, owned by Myla Stonecutter
@@ -21,11 +24,12 @@ Clues
 	- External lift takes you up to the top floor balcony, or there are stairs inside
 - Sports betting, managed by Myla
 	- Kites need a registered name to be bet on, and are marked w a red ribbon. Being marked means stronger opponents are more likely to see you out (roll random encounter)
-- People: Myla, Krystin/Kingfisher, Mettlewise 
+- People: Myla, Krystin/Kingfisher (dropping off/picking up stuff), Mettlewise 
 - Clues
 	- [ ] Kingfisher passing Myla exams - Orin's copy of exam, among some others
 		- correspondence from K that they need to act fast in the wake of murder. delivered by one of the K automata
-	- [ ] Myla supplying Kingfisher spell components (powdered silver, bird bones) 
+	- [ ] Myla supplying Eledeia spell components (powdered silver, bird bones) 
+	- [ ] Myla helped Kingfisher arrange meeting w Masons
 	- [ ] Samples shipped by Kingswill - gave transponder/leaflet printer to Mettlewise
 #### Kareem's Beans
 - Coffeeshop / tavern / inn run by Kareem
@@ -35,7 +39,7 @@ Clues
 	- Plush rugs, potted plants, cozy. Smell of coffee. But there's also a rusted shield, swords hanging on the wall. Double bladed axe behind the counter. Copper countertop w coffee machine, rickety tables.
 	- Counter set on hydraulic piston legs - can raise or lower if Kareem is in chair or walking
 	- Fresh grinded coffee from the Sutherlands, honest meals, rotating pastries
-- People: Zora, Myla, Owl (for the baked goods), Mettlewise (requisition the property)
+- People: Zora, Myla, Owl (for the baked goods), Mettlewise (requisition the property. dangerous if she finds out about the illegal shop)
 - Secret magic items shop. Kareem is looking to pawn off some goods from adventuring days
 	- a lot of his treasures are unidentified loot from past adventures
 	- sold a nice ring to Titus a while ago (didn't know it was a ring of mind shielding)
@@ -79,13 +83,16 @@ Genie trap:
 	- Air elemental, wind ephemeral, immortal djinni; I entrap you so my will shall be done. I bind your breath; you will enact my wish by my intent. I bind your body; you will never undo my will by your power. I bind your soul; you will never reveal the nature of my wish. I bind you thus, by your true name -- scrawled out
 	- painted in bright red: what's in a name? the QUEEN OF THIEVES claims this bounty.
 - figure out the riddle on how to access nexida
+- clues pointing to owl? or this is the final confrontation?
+	- something they get for defeating the sahuagin
 #### Others
 - Stonemason guild (Myla's fam)
 
 ## L'Esta (eastmost pillar)
 #### Eledeia residence
-- Eledeia's saltwood groves - a lot destroyed, dead. damaged by the wraiths
+- Eledeia's saltwood groves - a lot destroyed, dead. damaged by the wraiths. also a lot logged for shipbuilding
 - Dol's saltwood groves (leased to Eledeia), also damaged
+- A depot of crates, shipped goods that Eledeia is responsible for distributing (mostly Giltstern, some Kingswill)
 Clues
 - [ ] has necromancy books (Codex Abiologica: Applied Necromancy for Non Sentient Lifeforms)
 - [ ] Bunch of the groves are doing poorly/kinda dead, while others have been resurrected with necromancy
@@ -96,6 +103,7 @@ Clues
 - Descend via a long series of wooden platforms and ladders (or sail there?) - could be interesting encounter loc
 	- private property, guard forces to fight around it
 - Automata get ferried here, constructing a trading ship
+- Decomposing sahuagin skulls 
 - Tucked away nook holds the skulls/bodies of Sahuagin fray wraiths, submerged in water
 	- automata dumping a box of them into the water
 
@@ -111,6 +119,8 @@ Clues
 	- Cheap alcohol, sailor's bunkhouses (1g/day)
 	- They're out of water, only beer
 	- People: Titus, Shane, Raven/Zora
+Clues
+- [ ] Decaying sahuagin wraith skull - from attacks, or washed up from hidden nook
 #### Moored Ships
 - Docks for foreign ships, where visiting foreigners often reside
 - Conviviant (giltstern flagship). White hulled, crimson sail. Emblazoned with the crests of Kevara (gate over sea) and Giltstern (coin pierced by arrow)
@@ -118,10 +128,13 @@ Clues
 ## La Varza (westmost pillar)
 
 #### Riot / Murder Scene
+- located right near a freight elevator
 Clues
-- [ ] Gyrfalcon's body, other strikers' bodies - blunt force and electrocution
-- [ ] Discarded cargo container: blood stained, used to transport Orin's body 
-- [ ] Destroyed automata are not part of Giltstern fleet, but the Eledeia fleet
+- [x] Gyrfalcon's body, other strikers' bodies - blunt force and electrocution
+- [x] burn marks in wood boards. druid magic (overgrown roots, crashing waves)
+- [x] Empty cargo containers used to transport automata (automata moving them away)
+- [x] Discarded cargo container: blood stained, used to transport Orin's body 
+- [x] Destroyed automata are not part of Giltstern fleet, but the Eledeia fleet
 #### Saltwood Groves
 - People: Gandras, Reed
 - Saltwood-carved statue of Vapor (Bluemoon's dad)
@@ -137,12 +150,25 @@ Clues
 
 #### Gandras Dol's Residence
 - People: Gandras, Sabra 
+Macaw's Office
+- third floor tower office. Visible from the square and cliffside garden. 
+- foyer > gandras bedroom > office
+- Maids, servants, footmen. Is gandras home?
+- Lock (arcane lock?) on the door has Alarm spell, configured for Macaw+Sabra
+- Treasure: ivory paperweight (150gp), silver letter opener (50gp)
+Clues (some of this might be in Macaw's office)
+- [ ] TODO list: find acquisition letters (Rookery?), meet with Titus, meet with Isaiah (atmta key)
+- [ ] Family is not doing that well financially, parents squandered wealth 
+- [ ] Owes debt to Giltstern, saltwood deal is going to partially make up that debt
+- [ ] Leasing worse-off saltwood groves to Eledeia estate to make a quick buck
+- [ ] Falsified tax breaks, stamped with Macaw's seal of approval
+- [ ] Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
 #### Orin Skymark's Homestead
 - Owl has set some trap here - something to fightttt
-	- mimics? but more difficult
+	- mimics? but more difficult? composite sahuagin wraith? something more related to gilead?
 - gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
 - Leads: reservoirs, kites?
-Clues (maybe offload some to a secondary location, guarded by another encounter?)
+Clues (maybe offload some to a secondary location, guarded by another encounter? or gated by assassin fight?)
 - [ ] newly replaced window (line of sight from flank of La Norza, where assassin shot)
 - [ ] mailbox: correspondence with gandras dol. Gandras has attempted multiple times to buy Orin's land to convert it all to saltwood groves, Orin has refused
 	- [ ] Orin has also told all their neighbors they should refuse similar offers
