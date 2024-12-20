@@ -5,37 +5,45 @@
 - Description: semicircular colonnade, one of the few buildings you've seen built out of stone. Must have been devilishly expensive to ship that in. Large fountain in front
 	- public hall: room with large circular skylight, vines planted on the second floor balcony. finches, a heron. 
 Restricted area
-- Locked door recognizes sparrow, hawk, or any of the court masks
-- Magical mynah asks for passphrase (sellorza, incarnum, threeven) in a lift? antechamber?
+- Guards around antechamber recognize sparrow, hawk, or any of the court masks
+- Magical mynah asks for passphrase (sellwen, incarnum, threelet) in a lift? antechamber?
 	- stats: detention drone? maybe modify to be less offensive, more capturing 
 	- passphrase rotates every few days, disseminated by Vulture to lower public servants
 	- Incorrect password > mynah raises alarm, tons of guards come running
-	- Can bribe it with a special food?
-- Offices for all the court
-- Gyrfalcon's body held in stasis
+	- raven is able to provide passcode
+- Accounting floor - sparrows work on all the bureaucracy. Accosted by a manager about delayed reports. 
+	- difficulties in getting out with all the papers
+- Offices for all the court, locked doors. Alarms trigger guards. Also roll for random chance of sparrow or hawk passing thru
+	- Owl, Raven - arcane lock, alarm
+	- Macaw, Kingfisher - arcane lock 
+	- Gyrfalcon - arcane lock, soldier
+- Jailcells - Eledeia, Gyrfalcon's body held in stasis
 Clues
 - [ ] Owl holds all the old exam scrolls, including gyrfalcon's
-- [ ] Macaw's office: Macaw left some of Gandras' letters at office for buying up land
 - [ ] Owl took one of Gandras' letters from Orin from his office
+- [ ] Macaw's office: Macaw left some of Gandras' letters at office for buying up land
 - [ ] Gyrfalcon's office: recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
 #### The Featherweight
 - Kite and kite supplies store, owned by Myla Stonecutter
-- Description: The top floor of a round tower set on an elevated promontory. Good quality stonework. Balconies, large viewing windows where people spectate and gamble on kite duels.
+- Description: Last building in a row of crowded tenements. The top floor of a round tower set on an elevated promontory. Good quality stonework. Balconies, large viewing windows where people spectate and gamble on kite duels.
 	- External lift takes you up to the top floor balcony, or there are stairs inside
 - Sports betting, managed by Myla
 	- Kites need a registered name to be bet on, and are marked w a red ribbon. Being marked means stronger opponents are more likely to see you out (roll random encounter)
 - People: Myla, Krystin/Kingfisher (dropping off/picking up stuff), Mettlewise 
 - Clues
+	- [ ] Notebook tracking the stone cycling
 	- [ ] Kingfisher passing Myla exams - Orin's copy of exam, among some others
-		- correspondence from K that they need to act fast in the wake of murder. delivered by one of the K automata
-	- [ ] Myla supplying Eledeia spell components (powdered silver, bird bones) 
-	- [ ] Myla helped Kingfisher arrange meeting w Masons
+		- [x] correspondence from Z that they need to act fast, expect dropoff point
+	- [x] Myla supplying Eledeia spell components (powdered silver, bird bones) dated 3 months back
+	- [x] Myla helped K arrange meeting w stonecutters
 	- [ ] Samples shipped by Kingswill - gave transponder/leaflet printer to Mettlewise
 #### Kareem's Beans
 - Coffeeshop / tavern / inn run by Kareem
 	- coffee is pretty rare in Avizallo, and Kareem sells for reasonable prices
 	- Can also let out rooms for 2g/day
+	- serves a pretty upper class clientele, but Kareem donates to neighbors a lot
 - Description
+	- 2 story building, but half a wall on second story is gone (pilfered)
 	- Plush rugs, potted plants, cozy. Smell of coffee. But there's also a rusted shield, swords hanging on the wall. Double bladed axe behind the counter. Copper countertop w coffee machine, rickety tables.
 	- Counter set on hydraulic piston legs - can raise or lower if Kareem is in chair or walking
 	- Fresh grinded coffee from the Sutherlands, honest meals, rotating pastries
@@ -93,6 +101,7 @@ Genie trap:
 - Eledeia's saltwood groves - a lot destroyed, dead. damaged by the wraiths. also a lot logged for shipbuilding
 - Dol's saltwood groves (leased to Eledeia), also damaged
 - A depot of crates, shipped goods that Eledeia is responsible for distributing (mostly Giltstern, some Kingswill)
+	- some human workers inside, avizallo guards around perimeter
 Clues
 - [ ] has necromancy books (Codex Abiologica: Applied Necromancy for Non Sentient Lifeforms)
 - [ ] Bunch of the groves are doing poorly/kinda dead, while others have been resurrected with necromancy
@@ -100,12 +109,12 @@ Clues
 - [ ] the number of automata Kingfisher/Eledeia has purchased via Giltstern doesn't line up with what's at her house
 #### Hidden Cove
 - At base of column, on the side of the Eledeia residence
-- Descend via a long series of wooden platforms and ladders (or sail there?) - could be interesting encounter loc
+- Descend via a long series of wooden platforms and ladders (or sail there?) - accessible from back of depot
 	- private property, guard forces to fight around it
 - Automata get ferried here, constructing a trading ship
-- Decomposing sahuagin skulls 
 - Tucked away nook holds the skulls/bodies of Sahuagin fray wraiths, submerged in water
 	- automata dumping a box of them into the water
+	- can be activated by smashing a skull
 
 ## La Sul (southmost pillar)
 
@@ -142,9 +151,11 @@ Clues
 
 #### Seagrass Flats / Shantytown
 - Description
-	- floating shacks + docks built out of discard saltwood, grayed with age
+	- all the columns have shantytowns at their bases, extending haphazard fingers into the water.
+	- floating shacks + docks built out of discard saltwood, grayed with age. Some of the shacks stacked on top of each other against the pillars
 	- ppl on small flat skiffs among dark green-blue seagrass fields. fishing or tending the crop
 - poorer settlements clustered around the base of multiple columns
+- actually the majority of population lives here
 - several destroyed houses/docks from Fray-wrath attacks
 - Orin's homestead is here
 
@@ -169,15 +180,16 @@ Clues (some of this might be in Macaw's office)
 - gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
 - Leads: reservoirs, kites?
 Clues (maybe offload some to a secondary location, guarded by another encounter? or gated by assassin fight?)
-- [ ] newly replaced window (line of sight from flank of La Norza, where assassin shot)
+- [ ] boarded up, broken window (line of sight from flank of La Norza, where assassin shot)
 - [ ] mailbox: correspondence with gandras dol. Gandras has attempted multiple times to buy Orin's land to convert it all to saltwood groves, Orin has refused
 	- [ ] Orin has also told all their neighbors they should refuse similar offers
-- [ ] Filler: orange and blue kite with a wing torn. 25 gold stashed under the bed, untouched. Crossbow, shortsword. (add stuff abt working with unions)
+- [ ] Filler: orange and blue kite with a wing torn. 25 gold stashed under the bed, untouched. Crossbow, shortsword. Paper jotted with farspeech runes, contacts for Titus + other saltwood workers. 
 - [ ] Tiny bit of blue powder, broken string (overturned box?) (from Owl's crushed lapis prayer beads, found at atoll)
+- [ ] TODO: lead to reservoir
 - Investigating fray wraith attacks, possible connection to reservoir attack at same time
 	- [ ] Asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
 	- [ ] Fish scale (from the waterwheel piece) (optional, maybe don't say where from)
-	- [ ] Maybe suspicions that the wraiths are not real wraiths?
+		- Maybe suspicions that the wraiths are not real wraiths?
 	- [ ] Asked Macaw to audit Fray damages in the various trading firms that do business at the isle. The only one that didn't have damages recently was Kingswill trading
 	- [ ] Found the atoll where kingswill got permission to cull sahuagin, build a ship dock
 		- I found something at the atoll. I don't dare commit it to writing - but if it means what I think it does, then the danger is very, very close at hand. 

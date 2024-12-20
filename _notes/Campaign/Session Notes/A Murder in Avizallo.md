@@ -148,34 +148,145 @@ meet up with owl
 	- found broken crate w Orin's body
 	- talk to seagull - they know the body was transported there in a crate, and the other automata left via crate
 	- asked a bunch of kevarans abt Kingswill, ersatz told them some things
-
 ### Following the Automata
 - Crew found automata track (skid mark) at top of la varza elevator, going towards La Centra
 - Mention kites wheeling overhead
-- a lot of ppl pushing crates work for Eledeia. No one has seen automata delivering crates topside
-- maybe they should have been sent straight to l'esta. just say you got the map wrong
+	- A lot of ppl pushing crates work for Eledeia. No one has seen automata delivering crates topside
+- Justification (magic/cool idea)? tracking urban area is tough
+- Hidden cove, battle
+	- front wave of automata, 1-2 in back smash a sahuagin skull > go to Toby+Sabra at top of round
+	- only a few overridden automata responsible for hiding the cove, try to keep PCs out
+	- rapid water in underwater grotto sends the wraith to opposite side of column, towards core plantations
+- Left one destroyed automata (crystal removed). Other automata will remember the break in, tidal wave in cave
+	- Remaining automata ordered by Owl to hide evidence of sahuagin
+	- the 2 sahuagin zombies escaped, attacking druids. Shouts across the water. Druids are going to do a hardcore perimeter, prevent further entry to the saltwood docks. 
+- Info
+	- They need to understand politics more, the ban on building ships
+	- Let them find black diamonds, silk, balsa wood in the crates when they come back up? 
+	- Crystal - automata are deeded to Eledeia estate. Have two sets of orders. One issued by verbal command to build ship, guard the cove. One issued by remote command to carry skulls into the cave, release them on command.
+- Now mid afternoon. Next steps?
 ### Toby's Date
 - Toby rushed back late to his date with Sabra, seems to have patched things up. they're going to Kareem's Beans
-- Titus and goons comes up for a break, sees Toby with Sabra. Might find out the PCs are staying with Gandras.
-	- Titus tries to threaten Sabra - theres not much of a real conflict tho
 - Potential to notice Zora spying
+- Met Mettlewise, Toby revealed he knows Merriwink
+- Consequences for toby leaving the group, make him choose - difficult encounter, need his help if they get captured
+- Garden grotto at L'Esta - waves make musical sounds against the caves. Wraiths wash out here
+### The Aftermath
+- Sent Sabra back home
+- Told Owl abt Eledeia + hidden cove, Owl ordered capture of Eledeia
+- Questioned in front of Court of Birds
+	- Automata remote got stolen, she doesn't know anything about the skulls or gyrfalcon's murder
+	- Isaiah wants Eledeia killed, made an example of
+- Kallista found the Eledeia remote has been stolen. Bluemoon tracked using crystals to Valespinner. They stole it off of the Feather Scouts
+- Found remote built into the Valespinner device, marked with Featherweight
+	- Modified to act as a satellite, someone is commanding from a distance
+### Zora's Ambush
+- Met in Bargewrights, offered information about Myla, Gyrfalcon's id
+- Motives?
+	- was working for Eledeia as intel, thinks the PCs are Kevarans trying to frame Eledeia. Dislike Eledeia but agreed on her goals. Surprised she turned out to be Kingfisher
+	- identified PCs as Kevarans - Kallista's fashion is 2 seasons ahead, Lumdas is carrying a Felichian symbol
+- Ambush with shadows in elevator. maybe dont go right into initiative
+	- elevator stops. lights blink off. the flick of the lighter
+	- Zora: who's paying you? Giltstern or some duke on his bankroll? Bunch of newcomers in town right before a prominent murder, I'm sure he thought he was being subtle. Can't believe Eledeia's leaving me to clean up her messes. Tell me how you killed Gyrfalcon or I'm sure my friends higher up will have much more creative interrogation methods. 
+	- Zora go invisible immediately, taunt the players. maybe counterspell
+	- Resolve: convince Zora they're not part of the conspiracy/working for Giltstern
+- Zora has info
+	- (Raven) gyrfalcon was looking for info on Corinsson's disappearance
+	- Knows a good bit about most of the council. With Eledeia gone, Vulture is the remaining block on unmasking Gyrfalcon. Blackmail Vulture w info that 
+	- Very likely that gyrfalcon's murderer knew their true identity
+	- Message from Eledeia, passwords to rookery. players will need to get their own guards masks
+### Reservoir Attack
+- Explosion when they return late at night - fountain cracked, wraiths swarm the square
+- Large fountain in front of Dol's mansion is off for the night. Priests run from it, wraiths stream out
+- Guards around the reservoir have been in disarray since Gyrfalcon's death
+- Waterwheel destruction suggests intelligent agent. Couldn't have been Eledeia since she's in prison
+	- Owl: Eledeia could have lied about the skulls, was working with some third party necromancer to orchestrate the attacks. Or Giltstern is trying to threaten Avizallo
 
-- crossing la centra for searching for the automata crates - we should have a battle/some encounter
-	- Toby and Sabra separately at Kareem's - do a fight and put her in danger? another wraith attack?
-		- consequences for toby leaving the group, make him choose - difficult encounter, need his help if they get captured
-	- just say that its not possible to follow them thru the city - unless they have magic/other justification
-	- or they succeed and end up at eledeia? find the cove, do battle
-		- glyph of warding? take the stairs in some pattern, or the automata activate
-		- need battlemap, enemy stats already exist - front wave of automata, 1-2 in back responsible for pulling a sahuagin out every turn. smash the skull on the ground
-		- only a few overridden automata responsible for hiding the cove, try to keep PCs out
-		- they need to understand politics more, the ban on building ships
-		- they can know it's owned by eledeia, but can't meet her. 
-	- they fail - almost make it to the cove but are captured by automata watch? zora ambush?
-	- Raven or Zora ambushes (either for the ring or the murder)
-		- block off bridge, force to take elevator
-### Gandras' Secrets
-- Sabra still has a morning date with Toby, and she doesn't know what the PCs r here for
-- Mushika is here?
+### Eledeia + Bluemoon
+- Party sneaks into the rookery
+	- getting into the restricted area of rookery - passphrases sellwen, incarnum, threelet
+- unsure if bluemoon has sold out to kevaran interests. assumes the party is working for giltstern or sth
+- she built the ships for the good of Avizallo
+- Would like to preserve the ship if possible
+- Doesn't trust the other councilors, one of them could be murderer. Giltstern has too much to lose in a drawn out siege, unless he was guaranteed of a quick victory. Gyrfalcon had more enemies at home (Macaw, Vulture). Was suspicious of Macaw/Gandras connection.
+
+# Day 3
+
+## Morning
+- Water rationing order given by Owl
+	- Gandras' household has to go line up at La Centra
+	- Rumors of the attacks being sponsored by Giltstern, further unrest at the docks
+	- Strengthen avizallo guard presence at the docks
+- Giltstern makes an offer: free shipments of water from the mainland, in return for Eledeia's death and an advantageous saltwood price
+- does owl just free all the wraiths, now that she doesn't have a storage place? just attack things indiscriminately
+- Talked to Sabra, nothing that important. but she's coming with the party now??
+	- Conflicting viewpoint with Myla
+
+## The Featherweight Again
+- Gandras - don't go downcolumn, there's rabble there. Not while there's this much unrest. 
+- People milling about in the streets, unrest. Roll for rumors
+	- Giltstern is behind the reservoir attacks, they want to sell us water in addition to everything else
+	- Why else would Giltstern have murdered the head of the guard if not to make us vulnerable
+	- Council is weak and scared, unwilling to move
+	- Eledeia arrested - split on if she betrayed for Giltstern, it's a Kevara psyop, or if unrelated
+	- Gandras Dol is in Giltstern's pocket, going to call for more robots to break the strike. 
+	- Workers loading crates from elevators, people in line for water at la centra. Soldiers stand around, not always enforcing order
+	- ships aren't coming in port bc of fear of unrest at the docks, no water
+- Show Myla's POV on politics, her angling for stuff
+
+## Unmasking Gyrfalcon
+- Owl/Zora lets them know that Vulture conceded, Gyrfalcon is unmasked. Council is working on identifying the body
+	- Zora already knows Gyrfalcon's identity. Offers in exchange for stealing upcoming test scrolls (Eledeia still wants them for Myla). Not a bad idea to snoop around in the council either
+		- Owl and Vulture write the exams, raven has no access
+		- Players also need to examine the body again, get other clues from Rookery
+		- guard presence has increased around rookery since recent unrest. Besides new passwords, probably need mask disguises. 
+- Told Owl about Zora's offer. Knows a female PI going by Z wants the exam, Owl thinks is probably Raven
+	- Owl providing fake exams, half a day
+- Look at Gyrfalcon's body again. Speak with dead cast, uneffective
+- Guard station: Mettlewise foiled. kite is hidden under bed at home
+	- spy on them? report to Owl that theyve stolen. Owl trusts Mettlewise, will come get the kite. 
+- Late afternoon, they give the fake exam to Zora
+	- Zora identified them as fake, fears Owl might know about her. 
+	- Party successfully deceived her that they just stole the wrong copy
+	- Theyre going to go back, return the old exams, make copy
+- have zora change her mind and want to see the old exams too?
+
+What's next
+- they need to learn
+	- Corinsson was a very good shot
+	- Gyrfalcon's mouth shot
+- Owl try to get the kite from them. if they dont get it break into house?
+- Orin's house - use this to show how the other side lives. difficult to get there thru the protestors
+- Assassin comes up once they figure out how Orin actually died, and tell Owl. prompt them to tell owl. 
+- Feather Scouts come for the kite, backed by militia. Use this to amp up some unrelated encounter
+	- Owl will try to get it back - has to back Mettlewise, get evidence back
+- Owl is going to
+	- try to get the kite from them
+	- somehow move against raven/zora
+	- ==plant false evidence against
+- Eledeia
+	- Giltstern wants her life in exchange for water shipments to city. Owl + Macaw will concede, Raven oppose, Vulture undecided (until what?). Zora may arrange a jailbreak. 
+	- Council is deliberating if she killed Gyrfalcon
+	- Zora will want the transponder if she can get it, salvage the ship
+- Sabra
+	- her dad opposing her being less sheltered (sucks).
+- Next
+	- Investigate gandras, giltstern?
+- rookery theft, feather scouts > orin's house (strikers, monster) > sniper > reservoir > final 
+
+## Upcoming
+
+Unmasking Gyrfalcon
+- Expose identity and home address
+- Strikers have set up a barricade around much of la varza docks. Know that party is staying with Gandras
+	- Persuade them to let pass. Scale the walls. Swim?
+- battle at Orin's house should be pretty major (an ambush? multiple factions collide). give up a big repository of clues
+	- mega wraith, a bunch of bodies fused. 1 movement, 1 reaction, 3 turns
+- magic missile / sniper wound within Orin's mouth
+- electrocution burns on body don't entirely match automata attacks (was a spell instead)
+- leads: reservoirs (from house), 
+- corinsson ambush - bridge or cliffside (let them choose?)
+Gandras' Secrets
 - Chance to faceoff w Gandras in the end
 - reward if success: treasure, info abt gandras' corruption, 
 	- long term info? kingfisher problem.  reward that ties into mainline
@@ -183,9 +294,6 @@ meet up with owl
 	- chase scene ([complications](https://5e.tools/tables.html#urban%20chase%20complications_dmg), roll each round for how many guard appear)
 	- pretty limited places to hide from the law, unless they leave the isle
 	- captured - owl helps them if they go after kingfisher/raven? (look for missing exam scrolls), kingfisher makes a deal to expose Macaw (for a greater reward?)
-
-## Upcoming
-
 Break into rookery
 - Get disguises from the guards, an access key
 Kingfisher Sidequest
@@ -201,12 +309,6 @@ Vulture Sidequest?
 - Raven has dirt on him, if they can get her support
 - Vulture would like to weaken Kingfisher - too chummy with the Kevarans
 - coriolis? leads?
-Unmasking Gyrfalcon
-- Expose identity and home address
-- battle at Orin's house should be pretty major (an ambush? multiple factions collide). give up a big repository of clues
-- magic missile / sniper wound within Orin's mouth
-- electrocution burns on body don't entirely match automata attacks (was a spell instead)
-- leads: reservoirs (from house), 
 Raven starts tailing the PCs out of suspicion
 - encounter against some of Raven's agents. Or Zora somehow tries to fuck them over, put them on the wrong trail? lead to an ambush
 - Zora plants a tracker on one of the PCs
@@ -244,7 +346,7 @@ Ratcheting the tension
 - more fray attacks, possibly an actual fray tide
 - more reservoirs getting taken out, whenever there's the chance
 - more conflict at the docks, with the saltwood growers
-- assassin starts hunting them, once they get to high enough prominence
+- assassin starts hunting them, once they get to high enough prominence (figure out Orin's means of death)
 - anyone they offend will come after them
 - war - attack on conviviant, giltstern stops imports + calls in navy, kevaran blockade, 
 	- show threat of war - ppl protesting/throwing stuff at the conviviant. subset of the military prepping themselves. Vulture campaigning. Giltstern threatens retaliation if the deal doesn't go thru
@@ -260,7 +362,6 @@ Potential encounters:
 - rope bridge battle where the bridge is in danger of getting cut
 	- assassin firing arrows to cut the rope? other enemies coming from both sides?
 - precipice of a narrow column where ppl could get knocked off
-- inside a halted elevator (NSBU)
 - within the cisterns, water is rising with the tide
 
 

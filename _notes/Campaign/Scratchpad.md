@@ -1,16 +1,18 @@
 
+```dataview
+table p-pcpt as "P.Pcpt", p-inv as "P.Inv", p-ins as "P.Ins", ac as "AC", max-hp as "HP", str-save as "STR save", dex-save as "DEX save", con-save as "CON save", int-save as "INT save", wis-save as "WIS save", cha-save as "CHA save" from "Campaign/Players"
+```
+
 ANNOUNCEMENTS
-- scheduling - play on a non-sunday?
-	- 14th or 17th - con
+- scheduling 
 - recap
 	- check understanding + open questions for PCs. shared notes doc pls
-	- broken crystal has part of a signature for the owner - they can match it up if they find a complete signature
 
 Todos - immediate
-- Update map -
-- Myla - upgrades offered for kites
-- Voices, stat block review
-- maps: 
+- Update map - hidden cove
+- Stat block review
+	- raven, shadows
+- maps: orin's house, cliffside ambush
 - stat blocks: owl
 - prep battle in harmlesskey, owlbear, 5etools
 - emotional and mechanical goals per sesh
@@ -23,15 +25,36 @@ What they know
 - automata were acting on remote orders but are not giltstern owned - broken crystal to match with signature
 - gandras was late to the riot scene (was playing Macaw at first)
 - gyrfalcon's body was brought there in a crate (branded Kingswill)
-- the automata left the riot in a crate
+- the automata left the riot in a crate - went to hidden cove with automata, saw skulls
 - Kingswill joined trading council, registered to Morgana Saire
+What they need to know
+- wraiths are being created from skulls/sahuagin
+	- Vapor's death
+- Kingswill - Giltstern connection, black diamond imports, Featherweight, sahuagin culling
+- Gyrfalcon's actual means of death
+- Gyrfalcon's identity, home - implies that killer knew their identity
+- Owl knowing Gyrfalcon's identity via letters, exams
+- Corinsson
+- Reservoirs
 What others know
-- Owl knows they have figured out the automata were not giltstern. She's already disadvantaged at hoodwinking them, but can maybe turn it around and make them think Eledeia is working for Giltstern
+- Owl
+	- they have figured out the automata were not giltstern. She's already disadvantaged at hoodwinking them, but can maybe turn it around and make them think Eledeia is working for Giltstern
+	- they have discovered the cave, skulls, automata carrying them there. Could still be pinned on Eledeia
+	- all the automata are out of commission, Owl can no longer command using the transponder
+	- prompt the PCs to find a motive for Kingfisher killing gyrfalcon 
+		- trying to install Myla as successor
+		- secretly in league w Giltstern? what evidence is there that Kingfisher was actually going to use the ship to benefit Avizallo? she could have cut a deal to directly sell ships to Giltstern
+	- can she turn Gandras/sabra against the players?
+- Eledeia
+	- arrested. sent Zora to cover up loose ends?
+- Remaining councillors: Owl, Vulture are both pro-war. Raven is mildly against
+	- Owl will try to spin the reservoir attacks as being Giltstern, trying to threaten Avizallo over Eledeia
 - Kind of obvious (based on their questions at the council) that they're not from here
 Roleplay thrulines
 - Bluemoon and his dad - works best if B has some failure and is compared to his dad. Anyone who talks shit abt his dad?
 	- Kristyn says Vapor was a fool
 - Toby and Sabra - mission getting between him and Sabra. Sabra finding out the truth. 
+	- Sabra character arc: becoming less sheltered? 
 - Bluemoon and Kristyn Eledeia
 
 # Notes

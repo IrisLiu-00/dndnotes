@@ -35,7 +35,15 @@ Kevaran Influence
 	- Extremely dependent on Kevara continuing to buy saltwood, only so it can buy back the goods it is not able to purchase overseas itself
 - Less of food supply is now home grown (fishing/sea grass) both bc of Kevaran imports + environmental disruption from saltwood harvesting
 - Why doesn't Kevara just take Avizallo by force? they're reluctant bc it would most likely mean a siege, and Fray-tides make a long siege difficult
-	- Kevara would win; they just haven't judged it worth it
+	- Kevara would win; they just haven't judged it worth it. Also fear of Langksara
+- Social impacts
+	- seagrass, fisheries disrupted by kevaran ships
+	- black market for stone, stealing blocks off of buildings to build? Gandras' mansion used stolen blocks
+	- buildings on la sul taken for kevara use?
+	- crowded tenements, peeling paint - most ppl work as part of saltwood industry
+	- saltwood trees pull fertilizer from fisheries
+	- food - only richest can buy imported fruits, veg, meat. Others eat imported grain, home grown seagrass, sometimes fish
+	- bird poaching for pets on the mainland
 
 
 # The Court of Birds
@@ -69,9 +77,9 @@ Kevaran Influence
 - stats: Lawkeeper 5 (essential npcs). Darklight lighter that can unleash shadows, once a day
 - Identity: Zora Courier, mixed species. Private eye failwoman. Still moonlights as a detective in order to gather intel. 
 - Newest councilor after Kingfisher - joined only 1.5yrs ago
-- Anti Kevara but highly suspicious of current war mongering
+- Anti Kevara, suspicious of the murder + war mongering
 - Trying to take down the Kevaran trade firms, supporting the strikers, guerilla tactics destroying company property
-- Mistrusts Kingfisher for her perceived closeness to the Kevaran elites, uneasy alliance w Gyrfalcon
+- Trusted Gyrfalcon but not Kingfisher - knows Kingfisher has secretly worked with Giltstern to cut advantageous deals for shipbuilding
 - Knows a little about most civilians - Eledeia studying necromancy
 - Fairly religious
 - solo investigating the murder, missing ring of mind shielding
@@ -104,9 +112,9 @@ Kevaran Influence
 - Generally allied w Gyrfalcon, becomes more distrusting of Kevara and more war-leaning after assassination
 	- But Eledeia is very friendly with Kevaran trade, has gotten rich off of it
 - Secretly building up her own saltwood fleet to usurp Giltstern, gain economic independence for Avizallo
-	- Needs to avoid war/greater Kevaran focus on Avizallo to keep it a secret
 	- Bought automata as alleged personal protection, actually to construct ships
 	- Purchased saltwood from Gandras by Eledeia (basically purchasing immature saltwood that Eledeia will presumably finish growing then sell) - Gandras needed the money
+	- Secret deals with Giltstern (selling cheaper wood for something?) to steal shipbuilding knowledge
 - Studying necromancy to revive failed saltwood crops
 	- Lots of Eledeia saltwood has failed, partially bc of fray/undead attacks
 - Trying to insert her own choice as gyrfalcon's successor - passing old/upcoming exam questions to Myla

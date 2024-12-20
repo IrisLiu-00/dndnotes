@@ -156,3 +156,22 @@
 		- og plan was for the Gandras infiltration to be main conflict but they didn't do that
 	- idk the council session was very aggressive exposition
 	- seagull interview was great, some comedy. Mushika also not bad
+- 24.10.18 - Murder in Avizallo pt 4
+	- ??
+- 24.11.10 - MiA 5
+	- Big battle at eledeia estate was poorly thought out, too many combatants. Should have just done pure roleplay, no initiative
+- 24.12.8 - MiA 6
+	- directionless, uninteresting. poor pacing
+	- PCs directed between diff NPC conversations, problems:
+		- no real stakes in any of them
+		- failed to characterize Zora that well
+		- NPCs didn't actually important info/quests to give
+	- Bluemoon/Krystin convo - failed to hit emotional stakes
+		- Neither person talked about their /feelings/ all that much
+		- shouldve had Krystin bring up Bluemoon's father, dammit. didn't review your plans enough, have an idea for how the interaction was gonna go
+	- have not done a great job showing the political inequities. They've been trapped on the side of Gandras/rich ppl
+		- shouldve had giltstern company stores all over the island or something
+	- if you do this adventure again, figure out some way to make it clear that the murderer is one of the councillors
+- 24.12.15 - MiA 7 
+	- idk, its definitely going on for too long
+	- dynamic systems. who knew they would trust Owl that much

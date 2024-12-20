@@ -19,8 +19,7 @@ Controlling Automata
 	- Mettlewise thinks the kites have surveillance equipment to catch petty crimes - Owl let her think it was her idea, helped develop the equipment
 	- some kites also disperse fliers for the temple (could be a good plot hook!)
 - Valespinner has a transponder to hijack Eledeia's automata and control them, disguised as part of a device to distribute leaflets
-	- Owl stole one of the automata to synthesize the key. The automata later turned up drowned + damaged.
-		- Owl paid a visit to Eledeia estate once, to discuss donations to the temple
+	- Owl stole the key - Owl paid a visit to Eledeia estate once, to discuss donations to the temple
 	- Merriwink paid Myla (featherweight) to install the device. Myla got the aerial leaflet printer as a sample from Kingswill Trading
 - discreetly transport automata by loading a bunch into cargo container, have one push it around - cargo loading automata are fairly common with the Giltstern crew
 	- also use to transport sahuagin in cargo
@@ -41,7 +40,7 @@ Kingswill Trading Co.
 - Use shell company to requisition cargo crates, use of the freight elevators
 - Kevaran Traders guild was tied on whether to provide the government with more funding for naval presence around Avizallo, until Kingswill trading joined the guild and voted to increase naval presence
 - Launder money gained from Giltstern 
-	- use money to buy black diamonds - used to resurrect fray wraiths (needs like 300gp per sahuagin)
+	- use money to buy violet diamonds - used to resurrect fray wraiths (needs like 300gp per sahuagin)
 	- use to pay someone to reverse engineer a key for krystin's automata
 - Planted leaflet printer as a sample sent to Featherweight
 - Informed Avizallo gov they were culling sahuagin to clear out a dock for ships - one of the small glass atolls around the isle
@@ -57,10 +56,10 @@ Kingswill Trading Co.
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
 		- Macaw accidentally left one of Orin's letters at the Rookery
 - Assassin sniped gyrfalcon while they were off service in their apt
-- Incite the riot by having automata fire into the strikers
+- Incite the riot by having automata fire into the strikers (3a)
 	- actually Kingfisher's automata under her control, not Giltstern's
 - faked lividity by beating up the body - corinsson casted Lightning Arrow to get electrocution burns
-- use the automata, crates to deliver body to the site of riot (during the chaos)
+- use the automata, crates to deliver body to the site of riot (during the chaos, 2:50 am)
 - Owl casts Speak with Dead every 10 days to prevent other usages (excuse - maybe they were undead? many ppl have access to the body and the spell, kingfisher/raven/vulture all have magic)
 # NPCs
 ## The Councillors
@@ -75,7 +74,6 @@ Kingswill Trading Co.
 - Might not wear her prayer beads around now - or wear them in a different color
 - Alibi: praying at the temple. corroborated by other priests, templegoers
 - Zone of Truth: will answer with some performed reservation. ring allows lying
-- They've figured out the automata are not giltstern - pivot and frame eledeia. Go for her directly, Myla, or Giltstern communications
 **Raven**: parallel investigating
 - Alibi: asleep (lie), probably doing some assassins creed shit
 - Zone of Truth: refuse to cooperate if she doesn't trust PCs
@@ -101,9 +99,12 @@ Kingswill Trading Co.
 **Mettlewise**: 12 yr old goblin, Merriwink's "evil" twin. Owl's star acolyte. Prophet, child prodigy paladin. type A, tattletale. 
 - Appearance: Teeny little goblin in pauldrons, breastplate, glasses. Wide sash filled with embroidered badges
 - Leads the Feather Scouts - sell cookies, annual boating trip, charity for schools/temples/less fortunate
+	- all the feather scouts are actually orphans. a bunch are kids whos parents died working the saltwood groves
 - Uses fighter kites to disperse religious fliers - was talking to Owl about a way to promote the temple services more, Owl suggested using the kites
 	- thinks the Valespinner is secretly a surveillance device??
-- how did she win Valespinner? idt by flying talent. how did she reveal gyrfalcon to owl
+- Merriwink stole Valespinner for her, and she needs to cover that up
+	- some other kid won the kite on a fluke, and mettlewise had merriwink steal the kite
+	- later let merriwink get exiled for some other trouble she got into?
 - Angling to become the next Councillor - there's no age requirement. Owl wouldn't' mind having a pawn
 - Trying to requisition Kareem's shop to build a new seminary. Owl suggested bc the inn is over a major reservoir entrance. 
 - May come after players for petty crimes
@@ -154,6 +155,9 @@ Kingswill Trading Co.
 - Appearance: wispy beard, long hair with beads. chill stoner with underlying intensity/acuity. 
 - Kingfisher's protege. Knows Kingfisher's identity. Kingfisher is helping her with the exam.
 - Similar politics as Kingfisher but can be more vocally anti Kevara.
+	- not a lot of customers lately - people have other things to worry abt (economy)
+	- lives in the shop, has been in danger of not making rent
+	- thought she could strike out on her own, but businesses in Avizallo inevitably fail
 - Helping Eledeia by:
 	- supplying materials for the necromancy - she can get things more easily for the kite shop
 	- connections with Masons' Guild helping Kingfisher liaison - reluctantly helped arrange meetings
@@ -166,7 +170,7 @@ Kingswill Trading Co.
 - ex adventurer, disabled in final battle against a worshipper of the Golden Lord (Giltstern)
 	- was in same party as Edith (orc ranger)
 - Heavily attached to his establishment, represents stability after a life of unrest. A little complacent
-- Saved Giltstern's relative back when he was adventuring - wrangled a deal out of Giltstern to get coffee imports at good prices. 
+- Saved Giltstern from a Kraken in his adventuring days - wrangled a deal out of Giltstern to get coffee imports at good prices. 
 	- Doesn't rly want to let anyone know of connection with Giltstern for fear of seeming pro-Kevara. 
 	- Hopes the political unrest won't get that bad, fear of losing coffee trade
 - Kind of friends with Zora but has recently been frustrated with her - or he's helped orin stash something here?
@@ -189,9 +193,9 @@ Murder
 
 Automata plot
 - [ ] Cargo crates labelled for Kingswill Trading transport all around the isles (some to incongruous locations - hiding the automata/monsters)
-- [ ] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
-- [ ] Valespinner controlling automata
-- [ ] Automata at riot were Kingfisher's, not Giltstern's (how to tell?)
+- [x] luca's latest model of automata allows remote control (limited range) via arcane radio signal 
+- [x] Valespinner controlling automata
+- [x] Automata at riot were Kingfisher's, not Giltstern's (how to tell?)
 - [ ] owl has an item that produces Shatter spell?
 
 Gandras
