@@ -6,23 +6,38 @@
 	- public hall: room with large circular skylight, vines planted on the second floor balcony. finches, a heron. 
 Restricted area
 - Guards around antechamber recognize sparrow, hawk, or any of the court masks
-- Magical mynah asks for passphrase (sellwen, incarnum, threelet) in a lift? antechamber?
+- Magical mynah asks for passphrase (sellwen, incarnum, threelet) in antechamber
 	- stats: detention drone? maybe modify to be less offensive, more capturing 
 	- passphrase rotates every few days, disseminated by Vulture to lower public servants
 	- Incorrect password > mynah raises alarm, tons of guards come running
 	- raven is able to provide passcode
-- Accounting floor - sparrows work on all the bureaucracy. Accosted by a manager about delayed reports. 
+- First floor: functionary sparrows work on all the bureaucracy.
+	- Accosted by a manager about delayed reports. A sparrow working late into the night
 	- difficulties in getting out with all the papers
-- Offices for all the court, locked doors. Alarms trigger guards. Also roll for random chance of sparrow or hawk passing thru
+- Second floor: more offices, armory. security and city guard. small high windows, moonlight stream in.
+- Third floor: Offices for all the court, locked doors. Alarms trigger guards. Also roll for random chance of sparrow or hawk passing thru
 	- Owl, Raven - arcane lock, alarm
 	- Macaw, Kingfisher - arcane lock 
 	- Gyrfalcon - arcane lock, soldier
-- Jailcells - Eledeia, Gyrfalcon's body held in stasis
+- Basement: Eledeia, Gyrfalcon's body held in stasis
+	- Permanent guard post
 Clues
-- [ ] Owl holds all the old exam scrolls, including gyrfalcon's
-- [ ] Owl took one of Gandras' letters from Orin from his office
-- [ ] Macaw's office: Macaw left some of Gandras' letters at office for buying up land
-- [ ] Gyrfalcon's office: recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
+- Owl's office
+	- [x] maintenance and priest schedules for the reservoirs
+	- [x] Found Zora Courier. Tailed her meeting with Myla at the featherweight. Eledeia stewardess admitted she visited Eledeia often; she was not to tell anyone about it. 
+	- [x] holds all the old exam scrolls, including gyrfalcon's (recently flipped thru. cramped handwriting)
+	- [x] correspondence to Giltstern: I would appreciate you (and other traders) limiting the number of Felichian missionaries you charter to the Isle. I understand your flagship has a company of 250 sailors that require a stone's worth of libations per day, but work that takes them inland can be as easily handled by those automata you've purchased. I would hope you could order these changes by ruler's desire. 
+	- [x] took one of Gandras' letters from Orin from his office
+- Raven's office
+	- [ ] slipped into mailbox: 
+- Macaw's office
+	- [x] Packet of files regarding saltwood taxation, returned to Macaw from Owl. He forgot it in a meeting room. Some correspondence. In an unmarked envelope:
+		- [x] In a blocky, cramped hand: Mister Dol: thank you for the offer, but I have no interest in selling my property. I wish you luck in expanding your saltwood groves elsewhere. Orin Skymark. 
+- Gyrfalcon's office
+	- [ ] correspondence to Giltstern:  I'll warn you again to keep your hired muscle off of the columns; and for that matter, they shouldn't be on civilian-use docks either. I will be at the picket line starting tomorrow morning. Don't think of trying anything. 
+	- [ ] recent guard schedule was shifted around the reservoirs so that there were gaps - orders given to diff units under the guise of gyrfalcon's words. Gyrfalcon fixed it but wasn't sure how the orders got mixed up
+	- [ ] Asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
+	- [x] Records on Lt Corinsson. Distinguished among the ranks for being a very good shot with a longbow. Son of air elemental known as Corin. Godfather Tensorat, who was friends with Corin before they both disappeared 90 yr ago.
 #### The Featherweight
 - Kite and kite supplies store, owned by Myla Stonecutter
 - Description: Last building in a row of crowded tenements. The top floor of a round tower set on an elevated promontory. Good quality stonework. Balconies, large viewing windows where people spectate and gamble on kite duels.
@@ -148,7 +163,6 @@ Clues
 - People: Gandras, Reed
 - Saltwood-carved statue of Vapor (Bluemoon's dad)
 - Shrine - workers tend to gather here, take breaks
-
 #### Seagrass Flats / Shantytown
 - Description
 	- all the columns have shantytowns at their bases, extending haphazard fingers into the water.
@@ -158,6 +172,28 @@ Clues
 - actually the majority of population lives here
 - several destroyed houses/docks from Fray-wrath attacks
 - Orin's homestead is here
+#### Orin Skymark's Homestead
+- Owl has set sahuagin wraith boss here
+- Leads: reservoirs, kites?
+Clues (maybe offload some to a secondary location, guarded by another encounter? or gated by assassin fight?)
+- [x] broken window (line of sight from flank of La Norza, where assassin shot)
+- [ ] mailbox: correspondence with gandras dol. Gandras has attempted multiple times to buy Orin's land to convert it all to saltwood groves, Orin has refused
+	- [ ] Orin has also told all their neighbors they should refuse similar offers
+- [x] Filler: orange and blue kite with a wing torn. 25 gold stashed under the bed, untouched. Crossbow, shortsword. Paper jotted with farspeech runes, contacts for Titus + other saltwood workers. 
+- [x] Tiny bit of blue powder, broken string (overturned box?) (from Owl's crushed lapis prayer beads, found at reservoir)
+	- identified as a necklace
+- [ ] corinsson inherited tensorat's stuff, on la sul/varza/esta/centra?
+- Investigating fray wraith attacks, possible connection to reservoir attack at same time
+	- [x] Asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
+	- [x] diagram of reservoir - underwater entrances below the docks ==go to la centra?
+		- la sul, la varza, l'esta have been destroyed
+	- [x] Fish scale, crystal found in destroyed la sul reservoir. Saw the wraiths myself but strange, wraiths usually don't grow scales. 
+		- ritual casting using the crystals - figure out who is importing crystals to avizallo
+		- I found something in the reservoir. I don't dare commit it to writing - but if it means what I think it does, then the danger is very, very close at hand. 
+		  No, back up. R always says to get the big picture first. Entered the reservoir at 0600, alone. No real changes since last investigation; runes desecrated as before. But I saw a crack in the glass. Something had fallen in there - been dropped there, left behind. I took it back with me. Don't think I was spotted on exiting; there were some kids around flying kites but they wouldn't care about another soldier walking around.
+		- what interest does she have in the reservoirs? She could enter them at any time.
+	- [x] Asked Macaw to audit Fray damages in the various trading firms that do business at the isle. The only one that didn't have damages recently was Kingswill trading
+	- [x] All of the trading Kingswill has done was actually shipped by Giltstern ships
 
 #### Gandras Dol's Residence
 - People: Gandras, Sabra 
@@ -174,26 +210,6 @@ Clues (some of this might be in Macaw's office)
 - [ ] Leasing worse-off saltwood groves to Eledeia estate to make a quick buck
 - [ ] Falsified tax breaks, stamped with Macaw's seal of approval
 - [ ] Gandras keeps the diff saltwood groves separate, in competition - so no one realizes his bad accounting
-#### Orin Skymark's Homestead
-- Owl has set some trap here - something to fightttt
-	- mimics? but more difficult? composite sahuagin wraith? something more related to gilead?
-- gyrfalcon was a kite fighting fan? like raven? connections, were they working together? or was looking for valespinner?
-- Leads: reservoirs, kites?
-Clues (maybe offload some to a secondary location, guarded by another encounter? or gated by assassin fight?)
-- [ ] boarded up, broken window (line of sight from flank of La Norza, where assassin shot)
-- [ ] mailbox: correspondence with gandras dol. Gandras has attempted multiple times to buy Orin's land to convert it all to saltwood groves, Orin has refused
-	- [ ] Orin has also told all their neighbors they should refuse similar offers
-- [ ] Filler: orange and blue kite with a wing torn. 25 gold stashed under the bed, untouched. Crossbow, shortsword. Paper jotted with farspeech runes, contacts for Titus + other saltwood workers. 
-- [ ] Tiny bit of blue powder, broken string (overturned box?) (from Owl's crushed lapis prayer beads, found at atoll)
-- [ ] TODO: lead to reservoir
-- Investigating fray wraith attacks, possible connection to reservoir attack at same time
-	- [ ] Asked Raven for records on past Fray tides - the only historical fray attack where a tide (fog) did not also roll in was the attack that killed Vapor
-	- [ ] Fish scale (from the waterwheel piece) (optional, maybe don't say where from)
-		- Maybe suspicions that the wraiths are not real wraiths?
-	- [ ] Asked Macaw to audit Fray damages in the various trading firms that do business at the isle. The only one that didn't have damages recently was Kingswill trading
-	- [ ] Found the atoll where kingswill got permission to cull sahuagin, build a ship dock
-		- I found something at the atoll. I don't dare commit it to writing - but if it means what I think it does, then the danger is very, very close at hand. 
-		  No, back up. R always says to get the big picture first. Made my way there today at 0600, borrowed a boat from Josef. Waters were calm, no sign of the Fray or Fray wraiths. The atoll is a little less than a mile east of the Isles, further than most other docking points. It's maybe a hundred feet in diameter, a completely plain glass outcrop that rises five feet out of sea level. It was entirely unbuilt upon. No docks, no mooring poles, not even the sign of plans to start construction. I disembarked and climbed onto the platform. There were a few sahuagin bones, picked clean by scavengers. Looked like things had been washed clean by the rain. But I found a long crack running down the eastern side of the platform. Something had fallen in there - been dropped there, left behind. I took it back with me. Don't know what I'm going to do about it yet. Eagle and heron guide my hand, that my sight be steady and my aim be true. 
 
 Kingswill docking atoll
 - heavily marked private property. seems stingy as hell

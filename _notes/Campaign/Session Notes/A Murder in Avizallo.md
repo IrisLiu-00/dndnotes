@@ -243,45 +243,232 @@ meet up with owl
 - Told Owl about Zora's offer. Knows a female PI going by Z wants the exam, Owl thinks is probably Raven
 	- Owl providing fake exams, half a day
 - Look at Gyrfalcon's body again. Speak with dead cast, uneffective
-- Guard station: Mettlewise foiled. kite is hidden under bed at home
+- Guard station: Mettlewise foiled. kite is taped under drawer at home
 	- spy on them? report to Owl that theyve stolen. Owl trusts Mettlewise, will come get the kite. 
 - Late afternoon, they give the fake exam to Zora
 	- Zora identified them as fake, fears Owl might know about her. 
 	- Party successfully deceived her that they just stole the wrong copy
 	- Theyre going to go back, return the old exams, make copy
-- have zora change her mind and want to see the old exams too?
+## Rookery Theft
+- Late at night
+- Guard presence has increased after reservoir attacks
+- toby goes in, more guards come. they find octavius
+- Toby steals Orin's letter, Owl's prayer idol, gyrfalcon's papers
+	- prayer idol buried outside dol's house. sabra saw. necklace buried over it
+	- Papers burned
+	- Owl is gonna know someone broke into her office, gyrfalcon's. someone might have figured out orin's handwriting match
+- Hallway to locked door: guards posted watching for ppl wearing the masks
+	- they already have the latest passcodes to enter the door
+- Tension score increases with each failure, max 3? 1/3
+	- Tension increases with failed check, each round of combat, unconscious body found, loud noise
+	- Fail state: chase. separate skill encounter to avoid capture. 
+		- 3rd: guards barring the way. 2nd: ?? 1st: desks in the way, more guards
+		- party gets framed as causing a distraction for the sake of the reservoir attack
+	- Making a loud sound, raising suspicion of guard so they go talk to others, leaving evidence behind
+- Owl tell them abt Zora if they don't find her stuff
+	- Owl: zora is trying to insert her own choice as the next councillor. she stole the automata key from eledeia. 
+- La Centra reservoir is destroyed while the party is occupied
+	- alarm, all the guards at Rookery deployed
+	- a number of guards tried to get to the reservoir going up the flank of la centra (were coming from deployments at the docks) - were shot dead on the flank of la centra
+	- next morning, councillors agree to Giltstern's proposal. a public trial will be held for Eledeia. Giltstern starts shipping in casks of water from mainland
+- they don't give the exams to Zora
+
+# Day 4
+
+## To Skymark's House
+- Downcolumn La Varza
+- Press of bodies, striking saltwood workers
+- Lot of lit torches, fear sweat, watchful against wraiths. They've extended the barricade around the shantytown to protect people here
+- Titus and crew have discovered the party is living w Gandras, will not allow them to cross the picket line
+	- spies for giltstern? scabs? tampering with the reservoirs, with gyrfalcon's death?
+	- have maybe also figure out theyre foreign, based on the questions theyve been asking
+- Sahuagin wraith boss ambush inside house. Add another wraith if needed
+	- boss gets surprise round
+	- rest of party at picket line, group check to try to get there in time. DC 19 to get there 0 rounds, 16 1 round, 13 2 rounds, below 13 for 3 rounds.
+## The Assassin
+- Has been watching for anyone going to the Skymark house. Or they tell Owl, and Owl tells assassin
+- Shooting from flank of La Norza. 600ft away northwest. Blinded by setting sun. 
+- Party on cliffside of la varza or a bridge. 90ft to get to cover
+	- coming up from la varza (why not the elevator?) or a path towards the bridge/gandras house
+- Sniper's nest - foliage, crushed down in the middle where a person has been crouching
+	- shattered hawk mask? violet diamond? tracks to the reservoir?
+- After this they should be pointed to la centra reservoir
+	- map of the reservoirs, all the rest crossed out
+	- la norza reservoir was destroyed in the meantime?
+	- sniper shoots them a message to meet in la centra?
+## Return
+- crier: councillors agree to Giltstern's proposal. a public trial will be held for Eledeia. Giltstern starts shipping in casks of water from mainland
+- bait them back home? or they just pass by the house on their way to wherever
+- Try to arrest the party for theft of Owl's stuff. Owl, Mettlewise, Sabra, 20 guards
+	- merriwink comes around asking after the party (looking for kite). sabra says something was buried there. merriwink digs and finds Owl's prayer idol, report to sponsor of feather scouts. Owl will now know that they broke in, has figure out Orin's handwriting. 
+	-  Owl suggest theyve been working for Zora, Zora probably killed Gyrfalcon - raided her apartment and say she found Eledeia study key
+- Zora goes into hiding, no one able to find her
+- the rest got let go, toby taken. 8 hrs to get proof
+- start at the rookery
+	- owl thumbing her new prayer beads
+	- owl ask what proof they have that its orin's name
+	- can't find zora
+	- all of toby's equipment taken
+### Toby in Prison
+- Dirt cell, no windows. Toby's cell has a bowl of gruel, rusting manacles on the wall. Storm drain. Single set of stairs back up. 
+	- Past another locked gate: belongings, gyrfalcon's body
+	- Eledeia can cast spells but she doesn't have her focus (spellbook)
+	- Tensorat's work prevents teleporting past walls/doorways in the rookery
+- Need to find cause of death
+	- Eledeia: has worked w automata, gyrfalcon's injuries don't quite look like automata shocks. maybe poison?
+	- 
+- Automata replace the prison guards - simultaneous attacks from fray wraiths on the two remaining reservoirs. 
+	- Giltstern moves against Macaw, Vulture in the Rookery. Basically takes them hostage with automata; offers to save the reservoirs/defend against wraiths/supply water if they capitulate. Wants the treaty rewritten to secure Kevaran interests even more
+- Storm drain starts flooding (is connected to reservoirs). Automata will do nothing, have no orders to help.
+	- direct them into storm drain, into reservoir
+- Mushika has found cause of death, keys to get out. water rising
+### Everyone else
+- 8 hours to get proof that they were not working for Zora
+- Contacted by Zora?
+	- what will happen if avizallo loses its means for self subsistence? a slow death. parceled away to Kevara or its highest bidder
+- Giltstern charging money for premium access to water
+- more wraith attacks on the reservoirs. Giltstern automata move in by force to protect their assets
+- Get them to figure out that it's Owl, then have them chase her into reservoir?
+	- could go the handwriting path
+	- kingswill to owl? ersatz comes in with more information abt kingswill registration to a felichian priest
+	- owl's prayer totem (mettlewise has it)
+		- its actually felichian - back side carved w a dodecahedron filled w waves, symbol of chance + fate
+		- teleportation compartment, giltstern has the other half. Inside is a sack of 50 gold, a note - Thinking I will have some space in the hold. Anything for Ruler's Desire? Here's the change for that last deal.
+- Get into La Centra reservoir to meet up w toby
+	- owl spotted entering reservoir
+	- derelict service entrance behind Kareem's Beans
+- followed teleportation compartment to giltstern ship, encountered Zora
+	- zora suggest to catch owl / confront her in the reservoir, seems like there's something sus she's doing there
+	- they've been looking for her and she's not there
+	- zora can take them to the entrance now that she's disguised?
+	- figure out resources + rest
+## Into the Reservoirs
+### Entrance
+- Total darkness, figure out light
+- Long shaft, 15ft diameter. Periodic ledges along the side. Walls slick and wet
+- Storm drain is a chute of upwards moving water, with a window opening to one of the platforms. The source of the water continues downwards
+	- Runes painted along the chute are alight, directing the water upwards without spilling from the opening
+- Above: wreckage of a destroyed waterwheel blocks access. Dim sounds of fighting above. Otherwise quiet, dripping water
+	- Waterwheel destroyed in a rapid decompression that pulled all the water down + away
+	- engineered by Tensorat
+- More runes painted along this shaft for directing water up
+- Smaller waterwheel secured within the shaft, cracked. Runes painted on the blades for purification
+	- platforms on either side for priests to stand in, work the spell
+	- Claw marks in the wood where things climbed up
+- complications: slippery algae, cut/stuck on wooden shards or glass, accidentally activate a rune (water or wheel spins), directly fall into the shaft, 
+- 150 down ft to platform branching off: 100 ft drop to a narrow, dark hole, 4ft diameter
+	- scrap of Owl's robe caught on the hole
+	- Pure darkness below. If light source thrown in, a liquid reflection (gel cube)
+### Fight
+- Hole drops directly onto gelatinous cube (drop down takes half movement)
+- Narrow corridor with a slight downward list
+- Cubes: slowly digesting dead fish inside. a couple of magic objects
+	- block bottlenecks and move towards nearest source of heat
+	- gel2: portable hole, brooch of panther
+	- gel3: tiebreak sandals
+	- hold breath for 1+con mod minutes
+- Remaining wraiths to fight
+	- wraiths have taken some acid damage
+	- kill them off if it gets hard
+- continue here: lumdas is engulfed
+	- toby has items from gel2
+- Far side of room is an airtight seal, made of plastered wood. Can be levered open to expose another chute
+	- wax on the seal has already been broken, they can just lift it
+	- do not speak. do not breathe. do not look
+### Lab
+- large wooden shelves, bizarre spell components, springs, gears, mechanical tools
+- ornate rug on the floor, large mirror on the ceiling
+- Letters/journals? Faded, papery scrawl, very old
+	- They are looking for me their eyes are everywhere watching for me I know it. They envy and fear the work I have done what I am so close to making but I will show them all I have hidden and hidden away deeper and deeper
+	- Supplies and sustenance Corin brings me although I know his humor is wearing short. But I need him still I need only a few more days until the bottle is completed. 
+	- He speaks of a son but I do not think he will miss him
+- rolling up the rug reveals a plain glass floor, but in the mirror there is a wooden trapdoor
+- can climb thru mirror to the other room, which looks identical except for the trap door
+	- door has a 4 number combination lock
+	- Written on the lock: when is a door not a door?
+		- A: when it's ajar (a jar)
+- Shelves have 4 jars with the number 7 scrawled onto lid
+	- combo 7777 unlocks the door, another downward sloping corridor
+	- Healing potions: 
+	- remind them of healthy lunch
+### Boss Fight
+- Metal and waxen seal, stamped with arcane runes. Has been broken
+- Tumble down a long slope into a rounded cavern, shape like a flask
+	- Deep within the column - when the tide rose it would have made this place completely airtight
+- Two voices
+	- Owl: what is the meaning of this. I wait all these years, turn the isles upside down - only to find that another has been here before me?
+	- Corinsson: I do not know, master
+	- Owl: No. Nor did I bring you back to give your opinion.
+	- there must be further information on the isles somewhere - once it is completely under her control
+	- Owl is concerned w getting the djinni's name; made a deal with Giltstern for aid
+- Carved into the sloped crystalline ceiling (not carved, but melted out)
+	- Air elemental, wind ephemeral, immortal djinni; I entrap you so my will shall be done. I bind your breath; you will enact my wish by my intent. I bind your body; you will never undo my will by your power. I bind your soul; you will never reveal the nature of my wish. I bind you thus, by your true name -- scrawled out
+	- painted in bright red: what's in a name? the QUEEN OF THIEVES claims this bounty.
+- Corin long range at top of ledges
+- Owl mid range
+- continue: kallista and lumdas both down. does anyone remaining have healing things?
+- minion wraiths: summoned by Owl as bonus action. barely more than a skeleton. close range
+	- shambling, semi-transparent
+	- 1hp, only melee attack
+- ledges: each 5ft high, cost 10ft movement. Factor height into ranged attacks
+	- standing directly in the lee of a ledge gives cover from attacks from higher ledges
+- Runes on the ledges produce Wall of Wind if both are touched in succession
+	- Both walls can't be up at same time
+	- gusts of wind around toby, trying to bind in place - some residue of magic bound the genie and is trying to bind you to
+		- flashback? on tobys next turn?
+		- owl tries to get corin's name from toby once she realizes
+	- when all 4 runes activated/when toby activates a rune - get an impression of a consciousness from far away. a pool of enormous magic - you get the feeling you could ask for something to tip the scales in your favor. 
+		- flashback - childhood on cliffs. toby levitates, annalise is worried, talk about Cory. Parallels with bluemoon?
+		- full heals/long rest for everyone
+- Owl will target bluemoon next, remark on his father - recognized him as the son of Vapor. Was experimenting with the construction of wraiths some years back, it was a pity his father had to die. Lay down and I may spare you as well.
+- owl remark on them being close to death. much easier than expected, would have arranged an unfortunate accident much earlier
+- battle should go no longer than 3/4 rounds
+- Taking out Owl kills all the others
+- finale where the water rushes back up? owl killed, incantation broken
+	- skill challenge? 3 successes/failures. Up the flask, the twisting corridor (gels), the drop, the wrecked waterwheel
+	- come out the hole - the shafts of automata crossbows - raven parts the wave, stands them down
+### Conclusion
+How is avizallo going to resolve
+- Raven/Zora manage to rout the automata, give orders to avizallo guards
+- giltern trying to hostile takeover - justification of the wraith threat. now that's destroyed, giltstern can't stay
+	- raven confronts? giltstern has no legal basis, there is no threat. he will not get kevara naval backing, nor the wraiths from Owl. a bunch of ragtag adventurers stopped it, giltstern was useless. 
+	- in fact, giltstern has pushed the bounds of the treaty and avizallo may exact a price in the saltwood trade
+	- have PCs show proof that owl was behind it and working with giltstern. he gets a slap on the wrist from the traders guild
+- owl selling the isles to kevara
+- the strikers
+Epilogues for everyone
+- ask ppl to think abt what their charas do after
+- Bluemoon - does he cheat and become a councillor?
+- Toby - follow the trail of his father?
+	- merriwink might give info abt the queen of thieves
+- Lumdas - morgana saire and the golden king?
+	- father thrain can talk abt how she got kicked out
+- Kallista
+	- clockwork reappears? vasilev made a deal
 
 What's next
 - they need to learn
-	- Corinsson was a very good shot
-	- Gyrfalcon's mouth shot
-- Owl try to get the kite from them. if they dont get it break into house?
-- Orin's house - use this to show how the other side lives. difficult to get there thru the protestors
-- Assassin comes up once they figure out how Orin actually died, and tell Owl. prompt them to tell owl. 
-- Feather Scouts come for the kite, backed by militia. Use this to amp up some unrelated encounter
-	- Owl will try to get it back - has to back Mettlewise, get evidence back
+	- Gyrfalcon's mouth shot. from raven?
+	- tensorat's history? helped engineer the reservoirs. 
+	- point to reservoir
 - Owl is going to
-	- try to get the kite from them
+	- try to get the kite from them? acting on behalf of mettlewise. break into house?
 	- somehow move against raven/zora
-	- ==plant false evidence against
+	- bait them into the reservoir where she can kill them? implicate zora?
+	- need to establish her motives for killing better
 - Eledeia
 	- Giltstern wants her life in exchange for water shipments to city. Owl + Macaw will concede, Raven oppose, Vulture undecided (until what?). Zora may arrange a jailbreak. 
 	- Council is deliberating if she killed Gyrfalcon
 	- Zora will want the transponder if she can get it, salvage the ship
 - Sabra
 	- her dad opposing her being less sheltered (sucks).
-- Next
-	- Investigate gandras, giltstern?
-- rookery theft, feather scouts > orin's house (strikers, monster) > sniper > reservoir > final 
+	- perhaps help save the party if they do get arrested
+- rookery theft, feather scouts > orin's house (strikers, monster) > sniper > reservoir (la centra?)> final 
 
 ## Upcoming
 
 Unmasking Gyrfalcon
 - Expose identity and home address
-- Strikers have set up a barricade around much of la varza docks. Know that party is staying with Gandras
-	- Persuade them to let pass. Scale the walls. Swim?
-- battle at Orin's house should be pretty major (an ambush? multiple factions collide). give up a big repository of clues
-	- mega wraith, a bunch of bodies fused. 1 movement, 1 reaction, 3 turns
 - magic missile / sniper wound within Orin's mouth
 - electrocution burns on body don't entirely match automata attacks (was a spell instead)
 - leads: reservoirs (from house), 

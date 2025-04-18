@@ -9,14 +9,17 @@ ANNOUNCEMENTS
 	- check understanding + open questions for PCs. shared notes doc pls
 
 Todos - immediate
-- Update map - hidden cove
+- review character sheets
+- Update map 
 - Stat block review
-	- raven, shadows
-- maps: orin's house, cliffside ambush
-- stat blocks: owl
+- maps:
+- stat blocks:
 - prep battle in harmlesskey, owlbear, 5etools
 - emotional and mechanical goals per sesh
 - figure out
+
+
+Hello, I am interested in this rental and was wondering if it is still available. Thanks!
 
 What they know
 - https://docs.google.com/document/d/1zmKxHYzHRuuggveMDHJoaBLHIsPC0edeLqac3HGUse4/edit?usp=sharing
@@ -56,6 +59,9 @@ Roleplay thrulines
 - Toby and Sabra - mission getting between him and Sabra. Sabra finding out the truth. 
 	- Sabra character arc: becoming less sheltered? 
 - Bluemoon and Kristyn Eledeia
+Restructure the endgame?
+- coriolis, tensorat. big bad?
+- remove the stuff abt Gilead. Owl wants Tensorat's secrets for herself (what secrets?). Doesn't care about the war. 
 
 # Notes
 Reminders

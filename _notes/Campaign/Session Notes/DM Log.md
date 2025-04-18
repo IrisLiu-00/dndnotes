@@ -175,3 +175,11 @@
 - 24.12.15 - MiA 7 
 	- idk, its definitely going on for too long
 	- dynamic systems. who knew they would trust Owl that much
+- 24.12.22 - Synchordance 1
+	- actual player roleplay is nice. also taking notes, tracking their own statuses
+	- fumbled a bit when they did things out of order but seemed like it turned out ok in the end
+- 24.12.23 - Synchordance 2
+	- mystery reveal stuff was kinda confusing
+	- should have done an epilogue with quick scenes for everyone
+- 25.1.12 - MiA 8
+	- idkkk losing steam

@@ -55,7 +55,7 @@ Kingswill Trading Co.
 - Found out gyrfalcon's true identity
 	- owl kept all the exam scrolls, including the one for gyrfalcon - was able to match up handwriting with correspondence between Orin + Gandras
 		- Macaw accidentally left one of Orin's letters at the Rookery
-- Assassin sniped gyrfalcon while they were off service in their apt
+- Assassin sniped gyrfalcon while they were off service in their apt (in the mouth, while they yawned?)
 - Incite the riot by having automata fire into the strikers (3a)
 	- actually Kingfisher's automata under her control, not Giltstern's
 - faked lividity by beating up the body - corinsson casted Lightning Arrow to get electrocution burns
@@ -108,7 +108,7 @@ Kingswill Trading Co.
 - Angling to become the next Councillor - there's no age requirement. Owl wouldn't' mind having a pawn
 - Trying to requisition Kareem's shop to build a new seminary. Owl suggested bc the inn is over a major reservoir entrance. 
 - May come after players for petty crimes
-**Lieutenant Corinsson**: undead elven air genasi ranger bound into Morgana's service. assassin
+**Lieutenant Corinsson**: undead air genasi ranger bound into Morgana's service. assassin
 - stats: gloomstalker assassin, [sharpshooter ranger](https://www.reddit.com/r/DMAcademy/comments/1bm3srp/comment/kw9p4mr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)? magic missile crossbow (missilebolt crossbow)?
 	- Attack from hiding, surprise round, +6 init. 
 	- Levitate to pin down a creature so they can't run
