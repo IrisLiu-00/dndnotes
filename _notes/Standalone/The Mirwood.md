@@ -2,7 +2,7 @@ Goals
 - Length: 20 sessions
 - 3-5 adventures / locations (~5 sessions per location)
 	- try to keep it episodic, new challenge each session
-- Pillars: wilderness exploration, survival. Otherwise average combat + social
+- Gameplay: wilderness exploration, survival. Otherwise average combat + social
 - Aesthetic: dark fantasy, folkoric?
 - Tensions/theme: 
 
