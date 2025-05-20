@@ -5,6 +5,8 @@ Goals
 - Gameplay: wilderness exploration, survival. Otherwise average combat + social
 - Aesthetic: dark fantasy, folkoric?
 - Tensions/theme: 
+- What's exciting: 
+	-  dark forest art
 
 Insps
 - Earthcast (koryos)
