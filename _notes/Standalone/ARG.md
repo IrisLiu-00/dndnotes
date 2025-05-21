@@ -27,3 +27,6 @@ Puzzles
 - Disguise a QR code in art?
 - hide clues in the dev tools console printout
 - reuse the language decoding puzzle from kevara
+
+Misc Ideas
+- smug cat NPC
