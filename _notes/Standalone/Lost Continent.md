@@ -17,19 +17,22 @@ Insps
 	- Antarctica McMurdo, wandereatwrite, https://brr.fyi/
 	- From Australian antarctic program - “what is your motivation for working with the australian antarctic program? If you’re looking to escape a difficult relationship or situation, Antarctica is not the answer.”
 	- [The Biology of Human survival: life and death in extreme environments](https://www.researchgate.net/publication/266570285_The_Biology_of_Human_Survival_Life_and_Death_in_Extreme_Environments)
-- Annihilation (ven der meer)
+- Annihilation (van der meer)
 
 Campaign
 - What is the nature of the anomaly
 	- what makes it hard to access / why are they locked in
+	- big storm, cloud cover
 	- periodic volcano
 	- natural geothermal or nuclear reactors in the ground
+	- it only appears in the real world, once per year? pocket dimension
 	- i like the eternal winter darkness of antarctica
+	- a destroyed kingdom. strange ruins, ghosts? arches hanging in the air. monsters that were once human
 - Central conflict: 
 	- bbeg has to be someone working at the station
 	- give them a mission to do? research goals?
 	- Discovery of some natural resource for energy (hydrogen? Sth more exotic) > company invasion?
-	- some sleeping evil within the ruins
+	- some sleeping evil within the ruins. theres a monster eating ppl
 - WWI era tech, stops working close to the anomaly. Ppl use swords and horses and magic
 - Ppl at the station divided into research, security/military, services (food, comms). PCs pick a role
 - A failed, covered up expedition decades ago. government conspiracies
@@ -38,4 +41,4 @@ Campaign
 Adventures
 - monster fighting (boring)
 - amogus / imposter
-- restoring a failed comms tower
+- restoring failed comms tower
