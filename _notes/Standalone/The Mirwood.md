@@ -39,3 +39,7 @@ Randoms
 - who corrupted onkeioros - the elves who dug up the artifact? dwarves originally mining there?
 - Theming: growth (god), decay, predation
 - Fey like elves
+- Pixies are small animals (bird, frog, butterfly) with human faces
+	- live for a year and a day before they mate. lose the ability to speak towards the end; can only sing
+	- npc who PCs can adopt, has some goal that needs help
+	- onkeioros tempts the players - dont you want your friend to grow and live forever
