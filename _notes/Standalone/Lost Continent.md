@@ -29,6 +29,7 @@ Campaign
 	- i like the eternal winter darkness of antarctica
 	- a destroyed kingdom. strange ruins, ghosts? arches hanging in the air. monsters that were once human
 - Central conflict: 
+	- man vs nature, survival
 	- bbeg has to be someone working at the station
 	- give them a mission to do? research goals?
 	- Discovery of some natural resource for energy (hydrogen? Sth more exotic) > company invasion?
@@ -40,5 +41,7 @@ Campaign
 
 Adventures
 - monster fighting (boring)
+	- human like monsters - the corrupted citizens of the old kingdom. harpies, manticores
+	- lost explorers become monsters too? is this too similar to annihilation
 - amogus / imposter
 - restoring failed comms tower
