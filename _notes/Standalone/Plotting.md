@@ -8,5 +8,6 @@ Sigratha
 
 Enoch Bonnaire(?)
 - nobleman, joined army as a knight, disastrous foray that killed almost all their troops, reassigned to logistics/quartermaster officer
+	- theyre working in the wizard cops??
 - wants to regain status, be a real hero
 
