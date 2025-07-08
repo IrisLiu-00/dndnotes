@@ -1,6 +1,8 @@
 Ptown
 - https://www.nytimes.com/interactive/2024/08/15/travel/things-to-do-provincetown.html?searchResultPosition=1
 - sand dunes, free ranger walks
+	- https://www.nps.gov/planyourvisit/event-details.htm?id=947CEC9C-E55E-517C-CFF0218105143E9C
+	- https://www.alltrails.com/trail/us/massachusetts/sand-dune-trail
 - Commercial St - shopping
 	- Yesterday's Treasures
 - drag
