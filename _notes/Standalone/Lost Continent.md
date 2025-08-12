@@ -37,6 +37,9 @@ Campaign
 - WWI era tech, stops working close to the anomaly. Ppl use swords and horses and magic
 - Ppl at the station divided into research, security/military, services (food, comms). PCs pick a role
 - A failed, covered up expedition decades ago. government conspiracies
+- ruins of an old kingdom. a spirit of the island? source of magic, protects it?
+- monsters are humans corrupted from the old kingdom?
+
 - or a small mining space station?
 
 Adventures
