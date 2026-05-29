@@ -66,6 +66,7 @@ voidborne mining station for voidjump minerals
 use necromancy, revenant thralls
 or starborne - theyre mined from stars?
 
+certain places have quantum entangled instant comms devices?
 
 voids and supervoids - places to hide
 gravastar - a shell filled with superenergetic vacuum

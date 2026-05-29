@@ -26,7 +26,7 @@ Campaign
 	- periodic volcano
 	- natural geothermal or nuclear reactors in the ground
 	- it only appears in the real world, once per year? pocket dimension
-	- i like the eternal winter darkness of antarctica
+	- i like the eternal winter darkness of antarctica. eternal twilight?
 	- a destroyed kingdom. strange ruins, ghosts? arches hanging in the air. monsters that were once human
 - Central conflict: 
 	- man vs nature, survival
@@ -41,27 +41,42 @@ Campaign
 	- turned part beast?
 	- wants: vengeance on the research org for abandoning him here?
 - ruins of an old kingdom. a spirit of the island? source of magic, protects it?
+	- old kingdom was a cruel autocracy
+	- monsters are humans corrupted from the old kingdom? punished for their evils, or some cataclysm happened
 - factions
 	- science vs military vs enterprise
 	- country/republic vs kingdom
 	- guest scientists from the other country? cold war type stuff
 - not rly any interesting npcs ppl can meet out on adventures? everyones at the base :/
+	- people with orthogonal goals to the pcs
+	- ppl trying to: cover up the big evil/conspiracy/failed expedition, spy on the foreign members, 
 - plot threads
 	- A failed, covered up expedition decades ago. government conspiracies
+		- destroyed by the evil thing and covered up
 	- ruins of an old kingdom. a spirit of the island? source of magic, protects it?
 	- some sleeping evil wakes up and starts attacking
-- monsters are humans corrupted from the old kingdom?
+	- cold war. tie this thematically into the old kingdom?
 
 - or a small mining space station?
 
 Adventures
-- monster fighting (boring)
+- monster fighting
 	- human like monsters - the corrupted citizens of the old kingdom. harpies, manticores, humanoid stuff
 	- lost explorers become monsters too? is this too similar to annihilation
+- gather a resource (fetchquest)
 - amogus / imposter
 - restoring failed comms tower
 - classic fantasy dungeon crawls - ruins of kingdom
+Agents
+- representative of science division
+- representative of military division
+- representative of the other country
+- the old king
+- remnant of the old kingdom who still lives?
+- spirit of the island?
+- weird cute monster friend
 Need:
 - cool aesthetic
 - adventure ideas
-- 
+- tone is kind of too dark/serious
+- hooks for character drama, arcs
