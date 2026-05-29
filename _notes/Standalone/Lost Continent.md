@@ -46,6 +46,11 @@ Campaign
 	- country/republic vs kingdom
 	- guest scientists from the other country? cold war type stuff
 - not rly any interesting npcs ppl can meet out on adventures? everyones at the base :/
+- plot threads
+	- A failed, covered up expedition decades ago. government conspiracies
+	- ruins of an old kingdom. a spirit of the island? source of magic, protects it?
+	- some sleeping evil wakes up and starts attacking
+- monsters are humans corrupted from the old kingdom?
 
 - or a small mining space station?
 
@@ -56,3 +61,7 @@ Adventures
 - amogus / imposter
 - restoring failed comms tower
 - classic fantasy dungeon crawls - ruins of kingdom
+Need:
+- cool aesthetic
+- adventure ideas
+- 
