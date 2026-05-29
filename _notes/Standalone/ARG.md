@@ -17,7 +17,6 @@ Campaign
 	- big library
 - hacking, computer theme to tie with the website. breaking the reality of the game and infringing into the real world. eldritch monstrosities? 
 	- the characters don't know they're in a game? undertale esque
-- repurpose nexida? a dormant AI being unearthed
 - Need: central conflict/story, what gameplay looks like
 
 Puzzles
@@ -30,3 +29,6 @@ Puzzles
 
 Misc Ideas
 - smug cat NPC
+- the dungeon is a pocket dimension? travelers come upon a strange house and are trapped there
+- repurpose nexida? a dormant AI being unearthed
+- 

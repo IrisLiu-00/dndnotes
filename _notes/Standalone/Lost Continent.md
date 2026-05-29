@@ -22,7 +22,7 @@ Insps
 Campaign
 - What is the nature of the anomaly
 	- what makes it hard to access / why are they locked in
-	- big storm, cloud cover
+	- big storm, cloud cover. hardcore electrical storms. static electricity, high winds. journey to eye of the storm
 	- periodic volcano
 	- natural geothermal or nuclear reactors in the ground
 	- it only appears in the real world, once per year? pocket dimension
@@ -37,14 +37,22 @@ Campaign
 - WWI era tech, stops working close to the anomaly. Ppl use swords and horses and magic
 - Ppl at the station divided into research, security/military, services (food, comms). PCs pick a role
 - A failed, covered up expedition decades ago. government conspiracies
+	- BBEG is someone abandoned from the expedition. has been corrupted
+	- turned part beast?
+	- wants: vengeance on the research org for abandoning him here?
 - ruins of an old kingdom. a spirit of the island? source of magic, protects it?
-- monsters are humans corrupted from the old kingdom?
+- factions
+	- science vs military vs enterprise
+	- country/republic vs kingdom
+	- guest scientists from the other country? cold war type stuff
+- not rly any interesting npcs ppl can meet out on adventures? everyones at the base :/
 
 - or a small mining space station?
 
 Adventures
 - monster fighting (boring)
-	- human like monsters - the corrupted citizens of the old kingdom. harpies, manticores
+	- human like monsters - the corrupted citizens of the old kingdom. harpies, manticores, humanoid stuff
 	- lost explorers become monsters too? is this too similar to annihilation
 - amogus / imposter
 - restoring failed comms tower
+- classic fantasy dungeon crawls - ruins of kingdom
