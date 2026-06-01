@@ -30,6 +30,9 @@ Agents
 	- victims, devour potential
 	- maintain their immortality / hide their death
 	- the forest to be unknowable
+	- controlling a monster thats eating ppl?
+- Cult of the green man
+	- loosely organized
 - Human settlers
 - Dwarves?
 - Figure out big locations and do a hexcrawl. Tie plot advancement to each location and have them point to each other

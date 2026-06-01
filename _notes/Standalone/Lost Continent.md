@@ -80,3 +80,4 @@ Need:
 - adventure ideas
 - tone is kind of too dark/serious
 - hooks for character drama, arcs
+	- this is a workplace drama, right?
