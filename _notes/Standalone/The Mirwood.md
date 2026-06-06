@@ -24,37 +24,48 @@ Agents
 		- Spread its cancer, kill settlers, turn them into flesh-trees
 		- steps to achieve?
 - The elves (moonflowers) are working for the cult of the green man
-	- wants dominion over the forest for
+	- wants dominion over the forest for ? 
 	- want immortality
+	- defeat the witches?
+	- expanding forest is just a side effect of their main goal?
 - Witches
 	- victims, devour potential
 	- maintain their immortality / hide their death
 	- the forest to be unknowable
 	- controlling a monster thats eating ppl?
+	- alligator bayou hag (predation theme)
+	- fungus, decomposition
 - Cult of the green man
 	- loosely organized
-- Human settlers
+- Human villagers
+	- two rival villages suspect each other
 - Dwarves?
-- Figure out big locations and do a hexcrawl. Tie plot advancement to each location and have them point to each other
 
 Locations
 - Elvish court
 - Wetlands, witch hut
 - Ruins/dungeon
+- heart of the forest
+- Figure out big locations and do a hexcrawl. Tie plot advancement to each location and have them point to each other
 
 Adventures / Encounters
+- lord sends pcs to investigate a village that got swallowed by the forest, someone important to the lord disappeared
+	- find the fairy who helps them solve this first adventure
+	- maybe rival villages involved
+	- witches monster involved
+	- exit with leads towards witches, pixie
 - Travel: wilderness, fighting corrupted fauna
 - Contagious cancer that turns you into a tree - epidemic plotline running thru the whole thing
 	- no kids? its harder for it to infect kids. it's not actually "destroy a whole village" infectious
+- some dungeon crawl to gather lore
+	- interact w the cult
 - Deals with witches - 
-	- alligator bayou hag (predation theme)
-	- fungus, decomposition
-	- 
+	- what can they offer
+	- fight their big monster
 - Elvish court
 	- Pursued in the elves wild hunt (fae court esque)
 	- Formal party at the elvish court. Food and aesthetics, roasted jewel hummingbirds
 - farming village / logging
-- dwarves
 
 Randoms
 - who corrupted onkeioros - the elves who dug up the artifact? dwarves originally mining there?
