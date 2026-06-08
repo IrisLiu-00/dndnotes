@@ -20,12 +20,14 @@ Agents
 	- the god lives on thru immortal cancer cells
 	- one of the first beings formed after the Cataclysm from a mass of conglomerated cancerous tissue. seeded life into the world
 	- it cannot die as long as its cells survive somewhere. leave it up to players to find a resolution. probably kill it and raise another baby idk
-	- Wants to expand the forest (why? fears of another cataclysm?)
+	- Wants to expand the forest (why?)
+		- preserve life. humans are so short lived, the forest is forever. it remembers the cataclysm
 		- Spread its cancer, kill settlers, turn them into flesh-trees
 		- steps to achieve?
-- The elves (moonflowers) are working for the cult of the green man
+- The elves (moonflowers) have corrupted the green man
 	- wants dominion over the forest for ? 
 	- want immortality
+		- trying to develop a cancer to preserve the soul, which can be transferred to new bodies one after the next. using the green man to do that
 	- defeat the witches?
 	- expanding forest is just a side effect of their main goal?
 - Witches
@@ -54,6 +56,7 @@ Adventures / Encounters
 	- maybe rival villages involved
 	- witches monster involved
 	- exit with leads towards witches, pixie
+	- village was attacked by a witch monster that got infected
 - Travel: wilderness, fighting corrupted fauna
 - Contagious cancer that turns you into a tree - epidemic plotline running thru the whole thing
 	- no kids? its harder for it to infect kids. it's not actually "destroy a whole village" infectious
